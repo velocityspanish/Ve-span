@@ -1,0 +1,137 @@
+name: Velocity Spanish - Daily 4x Upload
+
+on:
+  # Schedule 4 posts per day (American EST/EDT time)
+  # GitHub Actions uses UTC, so we convert:
+  # 9:00 AM EST  = 14:00 UTC (EST is UTC-5)
+  # 12:00 PM EST = 17:00 UTC
+  # 3:00 PM EST  = 20:00 UTC
+  # 7:00 PM EST  = 00:00 UTC (next day)
+  
+  schedule:
+    # Post 1: 9:00 AM EST - Morning motivation
+    - cron: '0 14 * * *'
+    
+    # Post 2: 12:00 PM EST - Lunch break
+    - cron: '0 17 * * *'
+    
+    # Post 3: 3:00 PM EST - Afternoon pick-me-up
+    - cron: '0 20 * * *'
+    
+    # Post 4: 7:00 PM EST - Evening inspiration
+    - cron: '0 0 * * *'
+  
+  # Allow manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  generate-and-upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: 📦 Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+      
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: 🔐 Create .env file from secrets
+        run: |
+          echo "POLLINATIONS_API_KEY=${{ secrets.POLLINATIONS_API_KEY }}" >> .env
+          echo "AI_MODEL=gemini-fast" >> .env
+          echo "" >> .env
+          echo "# YouTube" >> .env
+          echo "YT_CLIENT_ID=${{ secrets.YT_CLIENT_ID }}" >> .env
+          echo "YT_CLIENT_SECRET=${{ secrets.YT_CLIENT_SECRET }}" >> .env
+          echo "YT_REFRESH_TOKEN=${{ secrets.YT_REFRESH_TOKEN }}" >> .env
+          echo "" >> .env
+          echo "# Instagram" >> .env
+          echo "INSTAGRAM_ACCESS_TOKEN=${{ secrets.INSTAGRAM_ACCESS_TOKEN }}" >> .env
+          echo "INSTAGRAM_ACCOUNT_ID=${{ secrets.INSTAGRAM_ACCOUNT_ID }}" >> .env
+          echo "IG_USER_ID=${{ secrets.IG_USER_ID }}" >> .env
+          echo "" >> .env
+          echo "# Facebook" >> .env
+          echo "FACEBOOK_ACCESS_TOKEN=${{ secrets.FACEBOOK_ACCESS_TOKEN }}" >> .env
+          echo "FACEBOOK_PAGE_ID=${{ secrets.FACEBOOK_PAGE_ID }}" >> .env
+          echo "" >> .env
+          echo "# Twitter/X" >> .env
+          echo "TWITTER_API_KEY=${{ secrets.TWITTER_API_KEY }}" >> .env
+          echo "TWITTER_API_SECRET=${{ secrets.TWITTER_API_SECRET }}" >> .env
+          echo "TWITTER_ACCESS_TOKEN=${{ secrets.TWITTER_ACCESS_TOKEN }}" >> .env
+          echo "TWITTER_ACCESS_SECRET=${{ secrets.TWITTER_ACCESS_SECRET }}" >> .env
+          echo "" >> .env
+          echo "# VK (VKontakte)" >> .env
+          echo "VK_ACCESS_TOKEN=${{ secrets.VK_ACCESS_TOKEN }}" >> .env
+          echo "VK_GROUP_ID=${{ secrets.VK_GROUP_ID }}" >> .env
+          echo "" >> .env
+          echo "# Telegram" >> .env
+          echo "TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}" >> .env
+          echo "TELEGRAM_CHANNEL_ID=${{ secrets.TELEGRAM_CHANNEL_ID }}" >> .env
+          echo "" >> .env
+          echo "# Threads" >> .env
+          echo "THREADS_ACCESS_TOKEN=${{ secrets.THREADS_ACCESS_TOKEN }}" >> .env
+          echo "THREADS_USER_ID=${{ secrets.THREADS_USER_ID }}" >> .env
+          echo "" >> .env
+          echo "# TikTok" >> .env
+          echo "TIKTOK_ACCESS_TOKEN=${{ secrets.TIKTOK_ACCESS_TOKEN }}" >> .env
+          echo "" >> .env
+          echo "# Timezone" >> .env
+          echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
+          cat .env
+          echo ""
+          echo "✅ .env file created with all secrets"
+      
+      - name: 🎬 Generate Spanish Learning Reel
+        run: |
+          echo "🚀 Starting Velocity Spanish content generation..."
+          python facebook_reels_automation.py
+          echo "✅ Content generation complete!"
+      
+      - name: 📤 Upload to All Social Media Platforms
+        run: |
+          echo "🚀 Starting multi-platform upload..."
+          cd upload
+          python ../upload_all_platforms.py
+          echo "✅ Upload complete!"
+      
+      - name: 📊 Upload video artifact (for debugging)
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: velocity-spanish-reel-${{ github.run_number }}
+          path: |
+            output/video/*/final_reel.mp4
+            output/video/*/metadata.json
+          retention-days: 7
+      
+      - name: 📝 Upload logs (for debugging)
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: logs-${{ github.run_number }}
+          path: |
+            output/history/*.json
+            output/daily_summary_*.json
+            output/upload_results_*.json
+          retention-days: 7
+      
+      - name: 💬 Post status to Telegram (optional)
+        if: always()
+        run: |
+          if [ -n "${{ secrets.TELEGRAM_BOT_TOKEN }}" ]; then
+            curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+              -d chat_id="${{ secrets.TELEGRAM_CHANNEL_ID }}" \
+              -d text="🇪🇸 Velocity Spanish Bot Status%0A%0A✅ Job completed%0A📊 Run: ${{ github.run_number }}%0A🕐 Time: $(date -u)"
+          fi
