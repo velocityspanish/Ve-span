@@ -506,15 +506,13 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Create impressive background
     img = create_impressive_background(category_english)
     draw = ImageDraw.Draw(img)
-    
-    # Load fonts
-    try:
-        font_category = ImageFont.truetype("C:/Windows/Fonts/arialbd.ttf", 56)
-        font_large = ImageFont.truetype("C:/Windows/Fonts/arialbd.ttf", 72)
-        font_pronunciation = ImageFont.truetype("C:/Windows/Fonts/ariali.ttf", 32)
-        font_branding = ImageFont.truetype("C:/Windows/Fonts/arialbd.ttf", 42)
-    except:
-        font_category = font_large = font_pronunciation = font_branding = ImageFont.load_default()
+
+    # Load fonts - Use Linux-native fonts (available on GitHub Actions by default)
+    # DejaVu fonts are pre-installed on Ubuntu/GitHub Actions
+    font_category = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 72)
+    font_large = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 96)
+    font_pronunciation = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 48)
+    font_branding = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 56)
     
     english = phrase_data.get("english", "")
     spanish = phrase_data.get("spanish", "")
