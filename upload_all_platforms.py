@@ -12,18 +12,23 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# Add upload directory to Python path
+upload_dir = Path(__file__).parent / "upload"
+if upload_dir.exists() and str(upload_dir) not in sys.path:
+    sys.path.insert(0, str(upload_dir))
+
 # Import individual uploaders
 try:
     from upload_facebook import upload_to_facebook
-except ImportError:
+except ImportError as e:
     upload_to_facebook = None
-    print("[!] Facebook upload module not available")
+    print(f"[!] Facebook upload module not available: {e}")
 
 try:
     from upload_instagram import upload_to_instagram
-except ImportError:
+except ImportError as e:
     upload_instagram = None
-    print("[!] Instagram upload module not available")
+    print(f"[!] Instagram upload module not available: {e}")
 
 
 def get_latest_reel():
