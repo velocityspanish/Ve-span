@@ -46,6 +46,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          if [ -f "upload/requirements.txt" ]; then
+            pip install -r upload/requirements.txt
+          fi
+          echo "✅ All dependencies installed"
+          pip list | grep -E "requests|Pillow|edge-tts|pydub|python-dotenv"
       
       - name: 🔐 Create .env file from secrets
         run: |
@@ -89,7 +94,14 @@ jobs:
           echo "" >> .env
           echo "# Timezone" >> .env
           echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
-          cat .env
+          echo ""
+          echo "=== .env file created ==="
+          # Show which secrets are set (masked)
+          echo "POLLINATIONS_API_KEY: $([ -n '${{ secrets.POLLINATIONS_API_KEY }}' ] && echo '✅ SET' || echo '❌ NOT SET')"
+          echo "FACEBOOK_ACCESS_TOKEN: $([ -n '${{ secrets.FACEBOOK_ACCESS_TOKEN }}' ] && echo '✅ SET' || echo '❌ NOT SET')"
+          echo "FACEBOOK_PAGE_ID: $([ -n '${{ secrets.FACEBOOK_PAGE_ID }}' ] && echo '✅ SET' || echo '❌ NOT SET')"
+          echo "INSTAGRAM_ACCESS_TOKEN: $([ -n '${{ secrets.INSTAGRAM_ACCESS_TOKEN }}' ] && echo '✅ SET' || echo '❌ NOT SET')"
+          echo "INSTAGRAM_ACCOUNT_ID: $([ -n '${{ secrets.INSTAGRAM_ACCOUNT_ID }}' ] && echo '✅ SET' || echo '❌ NOT SET')"
           echo ""
           echo "✅ .env file created with all secrets"
       
@@ -98,12 +110,15 @@ jobs:
           echo "🚀 Starting Velocity Spanish content generation..."
           python facebook_reels_automation.py
           echo "✅ Content generation complete!"
-      
+          echo ""
+          echo "📁 Generated files:"
+          ls -la output/video/ || echo "No video directory yet"
+
       - name: 📤 Upload to All Social Media Platforms
         run: |
           echo "🚀 Starting multi-platform upload..."
-          cd upload
-          python ../upload_all_platforms.py
+          export PYTHONPATH="${{ github.workspace }}:${{ github.workspace }}/upload:$PYTHONPATH"
+          python upload_all_platforms.py
           echo "✅ Upload complete!"
       
       - name: 📊 Upload video artifact (for debugging)
