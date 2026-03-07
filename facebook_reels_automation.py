@@ -507,12 +507,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     img = create_impressive_background(category_english)
     draw = ImageDraw.Draw(img)
 
-    # Load fonts - Use Linux-native fonts (available on GitHub Actions by default)
-    # DejaVu fonts are pre-installed on Ubuntu/GitHub Actions
-    font_category = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 72)
-    font_large = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 96)
-    font_pronunciation = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 48)
-    font_branding = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 56)
+    # Load fonts - Optimized for mobile viewing (reduced sizes)
+    # Using Linux-native fonts (pre-installed on GitHub Actions)
+    font_category = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 48)  # Reduced from 72
+    font_large = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 64)     # Reduced from 96
+    font_pronunciation = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 32)   # Reduced from 48
+    font_branding = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 40)   # Reduced from 56
     
     english = phrase_data.get("english", "")
     spanish = phrase_data.get("spanish", "")
@@ -561,75 +561,75 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     )
     
     # English text with DARK BLUE background
-    english_y = 500
+    english_y = 480  # Reduced from 500 for better centering
     english_lines = wrap_text(english, font_large, VIDEO_WIDTH - 140)
-    total_height = len(english_lines) * 95
-    
+    total_height = len(english_lines) * 75  # Reduced from 95 to match new font size
+
     # Dark blue background for English (darker, more visible)
     draw.rectangle(
-        [(60, english_y - 60), (VIDEO_WIDTH - 60, english_y + total_height + 10)],
+        [(60, english_y - 50), (VIDEO_WIDTH - 60, english_y + total_height + 10)],
         fill=(20, 30, 80, 220)  # Dark navy blue
     )
-    
+
     for i, line in enumerate(english_lines):
-        y_pos = english_y + (i * 95)
+        y_pos = english_y + (i * 75)  # Reduced spacing
         draw.text(
             (VIDEO_WIDTH // 2, y_pos),
             line,
             fill=(255, 255, 255),  # White text
             font=font_large,
             anchor="mm",
-            stroke_width=3,
+            stroke_width=2,  # Reduced from 3
             stroke_fill=(0, 0, 0)
         )
-    
+
     # Spanish text with DARK BROWN/MAROON background
-    spanish_y = english_y + total_height + 120
+    spanish_y = english_y + total_height + 100  # Reduced from 120
     spanish_lines = wrap_text(spanish, font_large, VIDEO_WIDTH - 140)
-    total_height = len(spanish_lines) * 95
-    
+    total_height = len(spanish_lines) * 75  # Reduced from 95
+
     # Dark brown/maroon background for Spanish (different from English)
     draw.rectangle(
-        [(60, spanish_y - 60), (VIDEO_WIDTH - 60, spanish_y + total_height + 10)],
+        [(60, spanish_y - 50), (VIDEO_WIDTH - 60, spanish_y + total_height + 10)],
         fill=(80, 30, 30, 220)  # Dark maroon/brown
     )
-    
+
     for i, line in enumerate(spanish_lines):
-        y_pos = spanish_y + (i * 95)
+        y_pos = spanish_y + (i * 75)  # Reduced spacing
         draw.text(
             (VIDEO_WIDTH // 2, y_pos),
             line,
             fill=(255, 255, 0),  # Bright yellow text
             font=font_large,
             anchor="mm",
-            stroke_width=3,
+            stroke_width=2,  # Reduced from 3
             stroke_fill=(0, 0, 0)
         )
-    
-    # Pronunciation with DARK GRAY background (NEW!)
-    pronunciation_y = spanish_y + total_height + 100
+
+    # Pronunciation with DARK GRAY background - FILLED BOX
+    pronunciation_y = spanish_y + total_height + 80  # Reduced from 100
     pronunciation_text = f"[{pronunciation}]"
-    pron_lines = wrap_text(pronunciation_text, font_pronunciation, VIDEO_WIDTH - 200)
-    
-    # Calculate background box for pronunciation
+    pron_lines = wrap_text(pronunciation_text, font_pronunciation, VIDEO_WIDTH - 160)
+
+    # Calculate background box for pronunciation - PROPERLY FILLED
     if pron_lines:
-        pron_total_height = len(pron_lines) * 40
-        # Dark gray background for pronunciation
+        pron_total_height = len(pron_lines) * 35  # Reduced from 40
+        # Dark gray background for pronunciation (FULLY FILLED)
         draw.rectangle(
-            [(80, pronunciation_y - 15), (VIDEO_WIDTH - 80, pronunciation_y + pron_total_height + 5)],
-            fill=(50, 50, 50, 200)  # Dark gray
+            [(70, pronunciation_y - 18), (VIDEO_WIDTH - 70, pronunciation_y + pron_total_height + 8)],
+            fill=(40, 40, 40, 230)  # Darker gray, more opaque
         )
-        
+
         for i, pron_line in enumerate(pron_lines):
-            y_pos = pronunciation_y + (i * 40)
+            y_pos = pronunciation_y + (i * 35)  # Reduced spacing
             draw.text(
                 (VIDEO_WIDTH // 2, y_pos),
                 pron_line,
-                fill=(230, 230, 230),  # Light gray text (almost white)
+                fill=(240, 240, 240),  # Brighter text
                 font=font_pronunciation,
                 anchor="mm",
                 stroke_width=1,
-                stroke_fill=(0, 0, 0)
+                stroke_fill=(20, 20, 20, 200)  # Darker stroke for better contrast
             )
     
     # VELOCITY SPANISH BRANDING at bottom
@@ -791,7 +791,8 @@ def generate_reel(category_english: str = None):
     for i, phrase in enumerate(phrases):
         output_path = reel_dir / f"phrase_{i:02d}.jpg"
         generate_complete_image(phrase, category_english, str(output_path))
-    
+        print(f"  ✓ Image {i+1}: {phrase['english'][:40]}...")
+
     # Step 3: Generate audio with proper timing
     print("\n[3/4] Generating audio (English + Spanish with 500ms pause)...")
     audio_files = generate_all_audio(phrases, str(reel_dir))
@@ -802,8 +803,12 @@ def generate_reel(category_english: str = None):
     # Step 4: Create video
     print("\n[4/4] Creating video...")
     output_video = reel_dir / "final_reel.mp4"
+    
+    # CRITICAL FIX: Sort images to ensure correct order (phrase_00, phrase_01, phrase_02...)
+    image_files = sorted([str(p) for p in reel_dir.glob("phrase_*.jpg")])
+    
     create_video_from_images_audio(
-        [str(p) for p in reel_dir.glob("phrase_*.jpg")],
+        image_files,  # Sorted list ensures correct order
         audio_files,
         str(final_audio),
         str(output_video)

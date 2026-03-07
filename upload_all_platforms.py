@@ -115,18 +115,18 @@ def generate_caption(phrases, category, platform="facebook"):
 
     # Get first phrase for hook
     first_phrase = phrases[0] if phrases else {"english": "Learn Spanish", "spanish": "Aprende Español"}
-    
+
     if platform == "facebook":
-        # Longer, more engaging Facebook caption
+        # Longer, more engaging Facebook caption (NO ASTERISKS)
         caption_lines = [
-            f"🇪🇸 **Learn Spanish with Velocity Spanish!** 🇪🇸",
+            f"🇪🇸 Learn Spanish with Velocity Spanish! 🇪🇸",
             f"",
             f"📚 Category: {category}",
             f"",
             f"🎯 Master Spanish one phrase at a time! Today's {category} lesson:",
             f""
         ]
-        
+
         # Add all phrases with emojis
         emojis = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"]
         for i, phrase in enumerate(phrases[:5], 0):
@@ -135,42 +135,42 @@ def generate_caption(phrases, category, platform="facebook"):
             caption_lines.append(f"   📍 {phrase['spanish']}")
             caption_lines.append(f"   🔊 [{phrase.get('pronunciation', '')}]")
             caption_lines.append("")
-        
-        # Call to action
+
+        # Call to action (NO ASTERISKS)
         caption_lines.extend([
-            f"💡 **Tip:** Repeat each phrase out loud 3 times!",
+            f"💡 Tip: Repeat each phrase out loud 3 times!",
             f"👍 Like this video if you learned something new!",
             f"💬 Comment your favorite phrase below!",
             f"🔔 Follow for daily Spanish lessons!",
             f"",
-            f"📖 **Pronunciation Guide:**",
+            f"📖 Pronunciation Guide:",
             f"   The phonetic spelling in brackets helps you say it correctly!",
             f"",
         ])
-        
-        # Hashtags for Facebook
+
+        # Hashtags for Facebook (ALL LOWERCASE)
         hashtags = [
-            "#LearnSpanish",
-            "#SpanishLessons",
-            "#SpanishForBeginners",
-            "#LanguageLearning",
-            "#SpanishVocabulary",
-            "#VelocitySpanish",
-            "#DailySpanish",
-            "#SpanishGrammar",
-            "#LearnLanguages",
-            "#SpanishTeacher",
-            "#SpeakSpanish",
-            "#SpanishPractice",
-            "#Bilingual",
-            "#SpanishWords",
-            "#LanguageTips"
+            "#learnspanish",
+            "#spanishlessons",
+            "#spanishforbeginners",
+            "#languagelearning",
+            "#spanishvocabulary",
+            "#velocityspanish",
+            "#dailyspanish",
+            "#spanishgrammar",
+            "#learnlanguages",
+            "#spanishteacher",
+            "#speakspanish",
+            "#spanishpractice",
+            "#bilingual",
+            "#spanishwords",
+            "#languagetips"
         ]
-        
+
         caption_lines.extend(hashtags)
-        
+
     else:
-        # Standard caption for other platforms
+        # Standard caption for other platforms (NO ASTERISKS, LOWERCASE HASHTAGS)
         caption_lines = [
             f"🇪🇸 Learn Spanish with Velocity Spanish! 🇪🇸",
             f"",
@@ -179,23 +179,23 @@ def generate_caption(phrases, category, platform="facebook"):
             f"Today's phrases:",
             f""
         ]
-        
+
         for i, phrase in enumerate(phrases[:3], 1):
             caption_lines.append(f"{i}. {phrase['english']}")
             caption_lines.append(f"   → {phrase['spanish']}")
             caption_lines.append("")
-        
+
         hashtags = [
-            "#LearnSpanish",
-            "#SpanishLessons",
-            "#SpanishForBeginners",
-            "#LanguageLearning",
-            "#SpanishVocabulary",
-            "#VelocitySpanish",
-            "#DailySpanish",
-            "#SpanishGrammar",
-            "#LearnLanguages",
-            "#SpanishTeacher"
+            "#learnspanish",
+            "#spanishlessons",
+            "#spanishforbeginners",
+            "#languagelearning",
+            "#spanishvocabulary",
+            "#velocityspanish",
+            "#dailyspanish",
+            "#spanishgrammar",
+            "#learnlanguages",
+            "#spanishteacher"
         ]
         
         caption_lines.extend(hashtags)
