@@ -466,12 +466,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     img = create_impressive_background(category_english)
     draw = ImageDraw.Draw(img)
 
-    # Load fonts - Optimized for mobile viewing (reduced sizes)
+    # Load fonts - Optimized for mobile viewing (INCREASED sizes)
     # Using Linux-native fonts (pre-installed on GitHub Actions)
-    font_category = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 48)
-    font_large = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 64)
-    font_pronunciation = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 32)
-    font_branding = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 40)
+    font_category = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 60)  # Increased from 48
+    font_large = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 85)     # Increased from 64
+    font_pronunciation = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 42)   # Increased from 32
+    font_branding = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 52)   # Increased from 40
     
     english = phrase_data.get("english", "")
     spanish = phrase_data.get("spanish", "")
@@ -515,17 +515,17 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     )
 
     # English text
-    english_y = 480
+    english_y = 470  # Adjusted for larger fonts
     english_lines = wrap_text(english, font_large, VIDEO_WIDTH - 140)
-    total_height = len(english_lines) * 75
+    total_height = len(english_lines) * 95  # Increased from 75 for larger fonts
 
     draw.rectangle(
-        [(60, english_y - 50), (VIDEO_WIDTH - 60, english_y + total_height + 10)],
+        [(60, english_y - 55), (VIDEO_WIDTH - 60, english_y + total_height + 15)],
         fill=(20, 30, 80, 220)
     )
 
     for i, line in enumerate(english_lines):
-        y_pos = english_y + (i * 75)
+        y_pos = english_y + (i * 95)  # Increased spacing
         draw.text(
             (VIDEO_WIDTH // 2, y_pos),
             line,
@@ -537,17 +537,17 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         )
 
     # Spanish text
-    spanish_y = english_y + total_height + 100
+    spanish_y = english_y + total_height + 110  # Increased from 100
     spanish_lines = wrap_text(spanish, font_large, VIDEO_WIDTH - 140)
-    total_height = len(spanish_lines) * 75
+    total_height = len(spanish_lines) * 95  # Increased from 75
 
     draw.rectangle(
-        [(60, spanish_y - 50), (VIDEO_WIDTH - 60, spanish_y + total_height + 10)],
+        [(60, spanish_y - 55), (VIDEO_WIDTH - 60, spanish_y + total_height + 15)],
         fill=(80, 30, 30, 220)
     )
 
     for i, line in enumerate(spanish_lines):
-        y_pos = spanish_y + (i * 75)
+        y_pos = spanish_y + (i * 95)  # Increased spacing
         draw.text(
             (VIDEO_WIDTH // 2, y_pos),
             line,
@@ -559,19 +559,19 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         )
 
     # Pronunciation with FILLED BOX
-    pronunciation_y = spanish_y + total_height + 80
+    pronunciation_y = spanish_y + total_height + 90  # Increased from 80
     pronunciation_text = f"[{pronunciation}]"
     pron_lines = wrap_text(pronunciation_text, font_pronunciation, VIDEO_WIDTH - 160)
 
     if pron_lines:
-        pron_total_height = len(pron_lines) * 35
+        pron_total_height = len(pron_lines) * 42  # Increased from 35 for larger font
         draw.rectangle(
-            [(70, pronunciation_y - 18), (VIDEO_WIDTH - 70, pronunciation_y + pron_total_height + 8)],
+            [(70, pronunciation_y - 20), (VIDEO_WIDTH - 70, pronunciation_y + pron_total_height + 10)],
             fill=(40, 40, 40, 230)
         )
 
         for i, pron_line in enumerate(pron_lines):
-            y_pos = pronunciation_y + (i * 35)
+            y_pos = pronunciation_y + (i * 42)  # Increased spacing
             draw.text(
                 (VIDEO_WIDTH // 2, y_pos),
                 pron_line,
