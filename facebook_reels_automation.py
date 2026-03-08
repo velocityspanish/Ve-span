@@ -373,22 +373,44 @@ def create_final_narration(audio_files: list, output_file: str):
 # ============== IMAGE GENERATION ==============
 
 def create_impressive_background(category_english: str):
-    """Create stunning gradient background"""
+    """Create stunning gradient background with geometric patterns and glow"""
     from PIL import Image, ImageDraw
 
     img = Image.new('RGB', (VIDEO_WIDTH, VIDEO_HEIGHT))
     draw = ImageDraw.Draw(img)
 
+    # HIGH CONTRAST gradients for ALL 25 categories (very different colors like Motivation)
     category_colors = {
-        "Motivation": [(138, 43, 226), (75, 0, 130), (255, 20, 147), (147, 112, 219)],
-        "Love": [(255, 20, 147), (199, 21, 133), (255, 105, 180), (219, 112, 147)],
-        "Success": [(255, 215, 0), (255, 140, 0), (255, 69, 0), (220, 120, 20)],
-        "Wisdom": [(25, 25, 112), (70, 130, 180), (100, 149, 237), (65, 105, 225)],
-        "Happiness": [(255, 255, 0), (255, 165, 0), (255, 140, 0), (255, 200, 0)],
+        "Motivation": [(138, 43, 226), (75, 0, 130), (255, 20, 147), (147, 112, 219)],  # Purple → Dark Purple → Pink → Light Purple
+        "Love": [(255, 0, 100), (139, 0, 0), (255, 105, 180), (255, 192, 203)],  # Red → Dark Red → Hot Pink → Pink
+        "Success": [(255, 215, 0), (0, 100, 0), (255, 140, 0), (34, 139, 34)],  # Gold → Dark Green → Orange → Forest Green
+        "Wisdom": [(0, 0, 139), (255, 215, 0), (70, 130, 180), (255, 255, 0)],  # Dark Blue → Gold → Steel Blue → Yellow
+        "Happiness": [(255, 255, 0), (255, 0, 255), (255, 165, 0), (147, 112, 219)],  # Yellow → Magenta → Orange → Purple
+        "Self Improvement": [(0, 128, 0), (255, 215, 0), (0, 255, 0), (255, 140, 0)],  # Green → Gold → Lime → Orange
+        "Gratitude": [(255, 127, 80), (75, 0, 130), (255, 160, 122), (138, 43, 226)],  # Coral → Dark Purple → Light Salmon → Blue Violet
+        "Friendship": [(255, 192, 203), (0, 100, 80), (255, 105, 180), (0, 200, 160)],  # Pink → Dark Teal → Hot Pink → Medium Teal
+        "Hope": [(0, 0, 100), (255, 255, 0), (70, 130, 180), (255, 215, 0)],  # Dark Blue → Yellow → Steel Blue → Gold
+        "Creativity": [(255, 0, 127), (0, 0, 139), (255, 20, 147), (75, 0, 130)],  # Deep Pink → Dark Blue → Deep Pink → Dark Purple
+        "Inner Peace": [(135, 206, 235), (0, 0, 100), (176, 224, 230), (75, 0, 130)],  # Sky Blue → Dark Blue → Powder Blue → Dark Purple
+        "Confidence": [(255, 69, 0), (0, 0, 139), (255, 140, 0), (70, 130, 180)],  # Red Orange → Dark Blue → Orange → Steel Blue
+        "Perseverance": [(139, 69, 19), (255, 215, 0), (160, 82, 45), (255, 140, 0)],  # Saddle Brown → Gold → Sienna → Orange
+        "Inspiration": [(255, 0, 255), (75, 0, 130), (255, 20, 147), (0, 0, 139)],  # Magenta → Dark Purple → Deep Pink → Dark Blue
+        "Positive Life": [(50, 205, 50), (255, 0, 127), (144, 238, 144), (255, 20, 147)],  # Lime Green → Deep Pink → Light Green → Deep Pink
+        "Courage": [(178, 34, 34), (255, 215, 0), (220, 20, 60), (255, 140, 0)],  # Firebrick → Gold → Crimson → Orange
+        "Kindness": [(255, 182, 193), (138, 43, 226), (255, 160, 122), (75, 0, 130)],  # Light Salmon → Dark Purple → Light Salmon → Dark Purple
+        "Patience": [(34, 139, 34), (255, 255, 0), (60, 179, 113), (255, 215, 0)],  # Forest Green → Yellow → Medium Sea Green → Gold
+        "Forgiveness": [(230, 230, 250), (75, 0, 130), (216, 191, 216), (138, 43, 226)],  # Lavender → Dark Purple → Thistle → Blue Violet
+        "Strength": [(100, 100, 100), (255, 69, 0), (150, 150, 150), (255, 140, 0)],  # Gray → Red Orange → Light Gray → Orange
+        "Joy": [(255, 255, 0), (255, 0, 127), (255, 215, 0), (147, 112, 219)],  # Yellow → Deep Pink → Gold → Purple
+        "Balance": [(60, 179, 113), (138, 43, 226), (152, 251, 152), (75, 0, 130)],  # Medium Sea Green → Dark Purple → Pale Green → Dark Purple
+        "Growth": [(0, 100, 0), (255, 215, 0), (34, 139, 34), (255, 140, 0)],  # Dark Green → Gold → Forest Green → Orange
+        "Purpose": [(75, 0, 130), (255, 215, 0), (138, 43, 226), (255, 140, 0)],  # Dark Purple → Gold → Blue Violet → Orange
+        "Mindfulness": [(210, 180, 140), (75, 0, 130), (245, 245, 220), (138, 43, 226)],  # Tan → Dark Purple → Beige → Blue Violet
     }
 
-    colors = category_colors.get(category_english, [(15, 10, 40), (48, 43, 99), (36, 36, 62), (72, 61, 139)])
+    colors = category_colors.get(category_english, [(138, 43, 226), (75, 0, 130), (255, 20, 147), (147, 112, 219)])
 
+    # Create smooth multi-stop gradient
     for y in range(VIDEO_HEIGHT):
         ratio = y / VIDEO_HEIGHT
         if ratio < 0.33:
@@ -404,6 +426,31 @@ def create_impressive_background(category_english: str):
             g = int(colors[2][1] + (colors[3][1] - colors[2][1]) * ((ratio - 0.66) * 3))
             b = int(colors[2][2] + (colors[3][2] - colors[2][2]) * ((ratio - 0.66) * 3))
         draw.rectangle([(0, y), (VIDEO_WIDTH, y + 1)], fill=(r, g, b))
+
+    # Add subtle geometric pattern for depth (circles)
+    for i in range(0, VIDEO_WIDTH, 120):
+        for j in range(0, VIDEO_HEIGHT, 120):
+            draw.ellipse(
+                [(i + 30, j + 30), (i + 90, j + 90)],
+                outline=(255, 255, 255, 20),
+                width=1
+            )
+
+    # Add radial glow effect from center
+    glow = Image.new('RGBA', (VIDEO_WIDTH, VIDEO_HEIGHT), (0, 0, 0, 0))
+    glow_draw = ImageDraw.Draw(glow)
+
+    for radius in range(800, 0, -50):
+        alpha = int(30 * (1 - radius / 800))
+        glow_draw.ellipse(
+            [(VIDEO_WIDTH//2 - radius, VIDEO_HEIGHT//3 - radius),
+             (VIDEO_WIDTH//2 + radius, VIDEO_HEIGHT//3 + radius)],
+            fill=(255, 255, 255, alpha)
+        )
+
+    # Composite glow over background
+    img = img.convert('RGBA')
+    img = Image.alpha_composite(img, glow)
 
     return img
 
