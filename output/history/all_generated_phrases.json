@@ -59,7 +59,37 @@
       "spanish": "Levántate de nuevo, más fuerte",
       "category": "Strength",
       "generated_at": "2026-03-08T01:24:04.813535"
+    },
+    {
+      "english": "I forgive you, I let go",
+      "spanish": "Te perdono, lo dejo ir",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-08T01:34:07.498823"
+    },
+    {
+      "english": "I'm sorry, please forgive me",
+      "spanish": "Lo siento, por favor, perdóname",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-08T01:34:07.498832"
+    },
+    {
+      "english": "Let's move forward, without blame",
+      "spanish": "Sigamos adelante, sin culpas",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-08T01:34:07.498834"
+    },
+    {
+      "english": "I understand, I forgive you",
+      "spanish": "Entiendo, te perdono",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-08T01:34:07.498835"
+    },
+    {
+      "english": "Healing takes time, I choose peace",
+      "spanish": "La sanación toma tiempo, elijo paz",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-08T01:34:07.498836"
     }
   ],
-  "last_updated": "2026-03-08T01:24:04.813537"
+  "last_updated": "2026-03-08T01:34:07.498837"
 }
