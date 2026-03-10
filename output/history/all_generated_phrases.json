@@ -299,7 +299,37 @@
       "spanish": "Respira despacio, da un paso a la vez",
       "category": "Confidence",
       "generated_at": "2026-03-09T19:29:40.160806"
+    },
+    {
+      "english": "Hold onto hope, light will come",
+      "spanish": "Aférrate a la esperanza, la luz vendrá",
+      "category": "Hope",
+      "generated_at": "2026-03-10T17:10:13.228981"
+    },
+    {
+      "english": "Small steps, big hope ahead",
+      "spanish": "Pasos pequeños, gran esperanza por delante",
+      "category": "Hope",
+      "generated_at": "2026-03-10T17:10:13.228990"
+    },
+    {
+      "english": "Hold on a little, hope grows",
+      "spanish": "Aguanta un poco, la esperanza crece",
+      "category": "Hope",
+      "generated_at": "2026-03-10T17:10:13.228991"
+    },
+    {
+      "english": "After the storm, hope remains",
+      "spanish": "Después de la tormenta, queda esperanza",
+      "category": "Hope",
+      "generated_at": "2026-03-10T17:10:13.228992"
+    },
+    {
+      "english": "Hope whispers, even in the dark",
+      "spanish": "La esperanza susurra, incluso en la oscuridad",
+      "category": "Hope",
+      "generated_at": "2026-03-10T17:10:13.228994"
     }
   ],
-  "last_updated": "2026-03-09T19:29:40.160808"
+  "last_updated": "2026-03-10T17:10:13.228995"
 }
