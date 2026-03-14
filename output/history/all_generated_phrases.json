@@ -599,7 +599,37 @@
       "spanish": "Párate erguido, di tu verdad",
       "category": "Courage",
       "generated_at": "2026-03-13T21:07:00.785873"
+    },
+    {
+      "english": "Breathe slowly, trust the process",
+      "spanish": "Respira despacio, confía en el proceso",
+      "category": "Patience",
+      "generated_at": "2026-03-14T17:55:43.393477"
+    },
+    {
+      "english": "Take small steps, keep steady progress",
+      "spanish": "Da pasos pequeños, mantén un progreso constante",
+      "category": "Patience",
+      "generated_at": "2026-03-14T17:55:43.393486"
+    },
+    {
+      "english": "Wait a little, the answer comes",
+      "spanish": "Espera un poco, la respuesta llegará",
+      "category": "Patience",
+      "generated_at": "2026-03-14T17:55:43.393487"
+    },
+    {
+      "english": "One day at a time, be patient",
+      "spanish": "Un día a la vez, sé paciente",
+      "category": "Patience",
+      "generated_at": "2026-03-14T17:55:43.393489"
+    },
+    {
+      "english": "Slow down, your pace is enough",
+      "spanish": "Reduce la velocidad, tu ritmo es suficiente",
+      "category": "Patience",
+      "generated_at": "2026-03-14T17:55:43.393490"
     }
   ],
-  "last_updated": "2026-03-13T21:07:00.785875"
+  "last_updated": "2026-03-14T17:55:43.393492"
 }
