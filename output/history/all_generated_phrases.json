@@ -629,7 +629,37 @@
       "spanish": "Reduce la velocidad, tu ritmo es suficiente",
       "category": "Patience",
       "generated_at": "2026-03-14T17:55:43.393490"
+    },
+    {
+      "english": "Courage grows, with every try",
+      "spanish": "El coraje crece, con cada intento",
+      "category": "Courage",
+      "generated_at": "2026-03-15T15:00:46.193388"
+    },
+    {
+      "english": "Let go of doubt, act",
+      "spanish": "Suelta la duda, hazlo",
+      "category": "Courage",
+      "generated_at": "2026-03-15T15:00:46.193398"
+    },
+    {
+      "english": "One brave choice, changes everything",
+      "spanish": "Una decisión valiente, cambia todo",
+      "category": "Courage",
+      "generated_at": "2026-03-15T15:00:46.193399"
+    },
+    {
+      "english": "Keep going, even when it shakes",
+      "spanish": "Sigue adelante, aunque tiemble",
+      "category": "Courage",
+      "generated_at": "2026-03-15T15:00:46.193400"
+    },
+    {
+      "english": "You are stronger, than you think",
+      "spanish": "Eres más fuerte, de lo que crees",
+      "category": "Courage",
+      "generated_at": "2026-03-15T15:00:46.193401"
     }
   ],
-  "last_updated": "2026-03-14T17:55:43.393492"
+  "last_updated": "2026-03-15T15:00:46.193403"
 }
