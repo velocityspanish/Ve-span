@@ -779,9 +779,39 @@
       "spanish": "Tu regreso será legendario.",
       "category": "Inspiration",
       "generated_at": "2026-03-16T13:08:37.263179"
+    },
+    {
+      "english": "Stop memorizing useless words",
+      "spanish": "Deja de memorizar palabras inútiles",
+      "category": "Growth",
+      "generated_at": "2026-03-16T18:13:17.150804"
+    },
+    {
+      "english": "Stop sounding like a robot",
+      "spanish": "Deja de sonar como un robot",
+      "category": "Growth",
+      "generated_at": "2026-03-16T18:13:17.150815"
+    },
+    {
+      "english": "Never skip real conversations",
+      "spanish": "Nunca te saltes conversaciones reales",
+      "category": "Growth",
+      "generated_at": "2026-03-16T18:13:17.150818"
+    },
+    {
+      "english": "Never fear embarrassing mistakes",
+      "spanish": "Nunca temas errores embarazosos",
+      "category": "Growth",
+      "generated_at": "2026-03-16T18:13:17.150821"
+    },
+    {
+      "english": "This is why natives smile",
+      "spanish": "Por eso, los nativos sonríen",
+      "category": "Growth",
+      "generated_at": "2026-03-16T18:13:17.150823"
     }
   ],
-  "last_updated": "2026-03-16T13:08:37.263181",
+  "last_updated": "2026-03-16T18:13:17.150825",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -912,6 +942,11 @@
     "stop doubting. you were chosen.",
     "the world needs your unique gift.",
     "what i learned from lowest point.",
-    "your comeback will be legendary."
+    "your comeback will be legendary.",
+    "stop memorizing useless words",
+    "stop sounding like a robot",
+    "never skip real conversations",
+    "never fear embarrassing mistakes",
+    "this is why natives smile"
   ]
 }
