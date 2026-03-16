@@ -869,9 +869,39 @@
       "spanish": "Lo que nadie te dice, tu acento enamora",
       "category": "Inspiration",
       "generated_at": "2026-03-16T21:04:23.375701"
+    },
+    {
+      "english": "Stop, whisper Spanish to yourself",
+      "spanish": "Deja, susurra español a ti mismo",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T22:07:35.015043"
+    },
+    {
+      "english": "Never, schedule practice, sin excuses",
+      "spanish": "Nunca, programa práctica, sin excusas",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T22:07:35.015054"
+    },
+    {
+      "english": "This is why, mimic their rhythm, not words",
+      "spanish": "Por eso, imita su ritmo, no palabras",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T22:07:35.015057"
+    },
+    {
+      "english": "The secret, copy one native phrase",
+      "spanish": "El secreto, copia una frase nativa",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T22:07:35.015059"
+    },
+    {
+      "english": "What nobody tells you, accents can charm",
+      "spanish": "Lo que nadie te dice, tu acento enamora",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T22:07:35.015062"
     }
   ],
-  "last_updated": "2026-03-16T21:04:23.375704",
+  "last_updated": "2026-03-16T22:07:35.015064",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1017,6 +1047,11 @@
     "never, mute your spanish voice",
     "this is why, one sentence matters",
     "the secret, is tiny daily risks",
-    "what nobody tells you, your accent charms"
+    "what nobody tells you, your accent charms",
+    "stop, whisper spanish to yourself",
+    "never, schedule practice, sin excuses",
+    "this is why, mimic their rhythm, not words",
+    "the secret, copy one native phrase",
+    "what nobody tells you, accents can charm"
   ]
 }
