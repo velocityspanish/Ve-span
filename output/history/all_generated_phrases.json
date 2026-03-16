@@ -839,9 +839,39 @@
       "spanish": "Lo que nadie dice, el aburrimiento crea fluidez",
       "category": "Motivation",
       "generated_at": "2026-03-16T19:56:50.599360"
+    },
+    {
+      "english": "Stop, learn words that stick",
+      "spanish": "Para, aprende palabras que perduran",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T21:04:23.375671"
+    },
+    {
+      "english": "Never, mute your Spanish voice",
+      "spanish": "Nunca, no calles tu voz en español",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T21:04:23.375684"
+    },
+    {
+      "english": "This is why, one sentence matters",
+      "spanish": "Por eso, una frase importa",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T21:04:23.375690"
+    },
+    {
+      "english": "The secret, is tiny daily risks",
+      "spanish": "El secreto, son pequeños riesgos diarios",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T21:04:23.375696"
+    },
+    {
+      "english": "What nobody tells you, your accent charms",
+      "spanish": "Lo que nadie te dice, tu acento enamora",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T21:04:23.375701"
     }
   ],
-  "last_updated": "2026-03-16T19:56:50.599362",
+  "last_updated": "2026-03-16T21:04:23.375704",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -982,6 +1012,11 @@
     "never wait, say one word now",
     "this is why, messy practice beats perfection",
     "the secret, record your voice tonight",
-    "what nobody tells you, boredom births fluency"
+    "what nobody tells you, boredom births fluency",
+    "stop, learn words that stick",
+    "never, mute your spanish voice",
+    "this is why, one sentence matters",
+    "the secret, is tiny daily risks",
+    "what nobody tells you, your accent charms"
   ]
 }
