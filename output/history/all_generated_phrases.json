@@ -809,9 +809,39 @@
       "spanish": "Por eso, los nativos sonríen",
       "category": "Growth",
       "generated_at": "2026-03-16T18:13:17.150823"
+    },
+    {
+      "english": "Stop pretending, two words change everything",
+      "spanish": "Deja de fingir, dos palabras lo cambian todo",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T19:56:50.599342"
+    },
+    {
+      "english": "Never wait, say one word now",
+      "spanish": "Nunca esperes, di una palabra ahora",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T19:56:50.599352"
+    },
+    {
+      "english": "This is why, messy practice beats perfection",
+      "spanish": "Por eso, la práctica desordenada vence la perfección",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T19:56:50.599355"
+    },
+    {
+      "english": "The secret, record your voice tonight",
+      "spanish": "El secreto, graba tu voz esta noche",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T19:56:50.599358"
+    },
+    {
+      "english": "What nobody tells you, boredom births fluency",
+      "spanish": "Lo que nadie dice, el aburrimiento crea fluidez",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T19:56:50.599360"
     }
   ],
-  "last_updated": "2026-03-16T18:13:17.150825",
+  "last_updated": "2026-03-16T19:56:50.599362",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -947,6 +977,11 @@
     "stop sounding like a robot",
     "never skip real conversations",
     "never fear embarrassing mistakes",
-    "this is why natives smile"
+    "this is why natives smile",
+    "stop pretending, two words change everything",
+    "never wait, say one word now",
+    "this is why, messy practice beats perfection",
+    "the secret, record your voice tonight",
+    "what nobody tells you, boredom births fluency"
   ]
 }
