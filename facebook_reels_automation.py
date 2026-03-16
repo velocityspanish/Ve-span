@@ -91,6 +91,9 @@ def load_phrase_history():
             with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
             
+            print(f"[history] ✅ Loaded history from: {PHRASE_HISTORY_FILE}")
+            print(f"[history] 📊 File contains {len(data.get('phrases', []))} phrases, {len(data.get('used_english', []))} unique entries")
+            
             # Migrate old format: populate used_english from phrases if missing
             if "used_english" not in data and "phrases" in data:
                 data["used_english"] = [p.get("english", "").lower().strip() for p in data["phrases"] if p.get("english")]
@@ -102,6 +105,9 @@ def load_phrase_history():
         except Exception as e:
             print(f"[history] ⚠️ Error loading history: {e}")
             return {"phrases": [], "used_english": [], "last_updated": None}
+    
+    print(f"[history] ⚠️ No history file found at: {PHRASE_HISTORY_FILE}")
+    print(f"[history] 📝 Creating new empty history")
     return {"phrases": [], "used_english": [], "last_updated": None}
 
 
@@ -161,26 +167,36 @@ def is_phrase_used(english_phrase, similarity_threshold=0.55):
 
 
 def add_phrases_to_history(phrases, category):
-    """Add new phrases to history with duplicate prevention"""
+    """Add new phrases to history with duplicate prevention - ROBUST"""
     history = load_phrase_history()
     
+    phrases_added = 0
     for phrase in phrases:
         english_clean = phrase["english"].lower().strip()
         
-        # Add to phrases list
-        history["phrases"].append({
-            "english": phrase["english"],
-            "spanish": phrase["spanish"],
-            "category": category,
-            "generated_at": datetime.now().isoformat()
-        })
-        
-        # Add to used_english list for faster lookup
+        # Only add if not already in history (double-check)
         if english_clean not in history["used_english"]:
+            # Add to phrases list
+            history["phrases"].append({
+                "english": phrase["english"],
+                "spanish": phrase["spanish"],
+                "category": category,
+                "generated_at": datetime.now().isoformat()
+            })
+            
+            # Add to used_english list for faster lookup
             history["used_english"].append(english_clean)
+            phrases_added += 1
     
+    # Save immediately
     save_phrase_history(history)
-    print(f"[history] Added {len(phrases)} phrases to history (total unique: {len(history['used_english'])})")
+    
+    # Verify save was successful
+    verify_history = load_phrase_history()
+    if len(verify_history["used_english"]) >= len(history["used_english"]):
+        print(f"[history] ✅ VERIFIED: Added {phrases_added} phrases (total unique: {len(verify_history['used_english'])})")
+    else:
+        print(f"[history] ⚠️ WARNING: Save verification failed!")
 
 
 # ============== CONTENT GENERATION ==============
@@ -190,25 +206,34 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
 
     category_spanish = CATEGORIES_SPANISH[category_english]
     history = load_phrase_history()
-    used_phrases = history.get("used_english", [])[-50:]  # Last 50 used phrases
+    used_phrases = history.get("used_english", [])  # Get ALL used phrases, not just last 50
+    
+    print(f"[content] 📊 Checking against {len(used_phrases)} previously used phrases")
+    print(f"[content] 🚫 Last 15 used phrases: {used_phrases[-15:]}")
 
     # Try AI first with viral hook instruction and used phrases context
     max_attempts = 3
     for attempt in range(max_attempts):
         try:
             import requests
+            import random
             url = "https://gen.pollinations.ai/v1/chat/completions"
             headers = {
                 "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
                 "Content-Type": "application/json"
             }
 
-            # Build exclusion list for AI
+            # Build exclusion list for AI - show ALL used phrases prominently
             exclusion_note = ""
             if used_phrases:
-                exclusion_note = f"\n\n🚫 DO NOT USE these phrases (ALREADY GENERATED): {used_phrases}"
+                # Show last 100 used phrases to AI
+                recent_used = used_phrases[-100:] if len(used_phrases) > 100 else used_phrases
+                exclusion_note = f"\n\n🚫 CRITICAL: DO NOT USE or create phrases similar to these {len(recent_used)} phrases (ALREADY GENERATED):\n{json.dumps(recent_used, indent=2)}"
 
-            prompt = f"""Create {num_phrases * 3} VIRAL {category_english} phrases for English speakers learning Spanish.
+            # Add random seed for variety
+            random_seed = random.randint(1, 1000000)
+
+            prompt = f"""Create {num_phrases * 3} VIRAL {category_english} phrases for English speakers learning Spanish. Random seed: {random_seed}
 
 🎯 VIRAL HOOK REQUIREMENTS:
 1. Start with attention-grabbing words: "Stop...", "Never...", "This is why...", "The secret...", "What nobody tells you..."
@@ -237,19 +262,21 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
 - NO complex grammar
 - NO long explanations
 - Every word must count
+- MUST be different from all {len(used_phrases)} phrases above
 
 Return as JSON array:
 [{{"english": "...", "spanish": "...", "pronunciation": "..."}}]
 
-⚠️ CRITICAL: Every phrase must be COMPLETELY NEW, CATCHY, and VIRAL-WORTHY. Check against excluded list above."""
+⚠️ CRITICAL: Every phrase must be COMPLETELY NEW, CATCHY, and VIRAL-WORTHY. Check against excluded list above. Random seed: {random_seed}"""
 
             payload = {
                 "model": "openai",
                 "messages": [
-                    {"role": "system", "content": "You are a viral Spanish teacher and social media expert. Create scroll-stopping, shareable phrases with hooks that make people watch, save, and share. NEVER repeat phrases."},
+                    {"role": "system", "content": "You are a viral Spanish teacher and social media expert. Create scroll-stopping, shareable phrases with hooks that make people watch, save, and share. NEVER repeat phrases. Each request should generate UNIQUE content."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 1.1  # Maximum creativity for unique viral content
+                "temperature": 1.2,  # Even higher for more variety
+                "seed": random_seed  # Add seed for randomness
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
