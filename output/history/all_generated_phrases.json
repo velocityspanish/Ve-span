@@ -749,9 +749,39 @@
       "spanish": "Deja de traducir cada palabra, escucha",
       "category": "Motivation",
       "generated_at": "2026-03-16T10:40:09.297884"
+    },
+    {
+      "english": "This message found you for reason.",
+      "spanish": "Este mensaje te encontró por razón.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T13:08:37.263160"
+    },
+    {
+      "english": "Stop doubting. You were chosen.",
+      "spanish": "Deja de dudar. Fuiste elegido.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T13:08:37.263171"
+    },
+    {
+      "english": "The world needs your unique gift.",
+      "spanish": "El mundo necesita tu regalo único.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T13:08:37.263174"
+    },
+    {
+      "english": "What I learned from lowest point.",
+      "spanish": "Lo que aprendí desde punto más bajo.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T13:08:37.263176"
+    },
+    {
+      "english": "Your comeback will be legendary.",
+      "spanish": "Tu regreso será legendario.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-16T13:08:37.263179"
     }
   ],
-  "last_updated": "2026-03-16T10:40:09.297887",
+  "last_updated": "2026-03-16T13:08:37.263181",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -877,6 +907,11 @@
     "stop, hiding behind translation apps",
     "stop, avoiding conversations, join one",
     "stop, telling yourself 'i'm bad'",
-    "stop, translating every word, listen"
+    "stop, translating every word, listen",
+    "this message found you for reason.",
+    "stop doubting. you were chosen.",
+    "the world needs your unique gift.",
+    "what i learned from lowest point.",
+    "your comeback will be legendary."
   ]
 }
