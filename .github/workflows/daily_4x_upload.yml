@@ -1,12 +1,15 @@
-name: Velocity Spanish - Daily 4x Upload
+name: Velocity Spanish - Daily 7x Upload
 
 on:
-  # Schedule 4 posts per day (American EST/EDT time)
+  # Schedule 7 posts per day (American EST/EDT time)
   schedule:
-    - cron: '0 14 * * *'  # 9:00 AM EST
+    - cron: '0 13 * * *'  # 8:00 AM EST
+    - cron: '0 15 * * *'  # 10:00 AM EST
     - cron: '0 17 * * *'  # 12:00 PM EST
-    - cron: '0 20 * * *'  # 3:00 PM EST
-    - cron: '0 0 * * *'   # 7:00 PM EST
+    - cron: '0 19 * * *'  # 2:00 PM EST
+    - cron: '0 21 * * *'  # 4:00 PM EST
+    - cron: '0 23 * * *'  # 6:00 PM EST
+    - cron: '0 1 * * *'   # 8:00 PM EST
 
   # Allow manual trigger for testing
   workflow_dispatch:
@@ -32,15 +35,18 @@ jobs:
       - name: 📝 Initialize history if not found
         run: |
           mkdir -p output/history
-          if [ ! -f "output/history/all_generated_phrases.json" ]; then
-            echo '{"phrases": [], "last_updated": null}' > output/history/all_generated_phrases.json
-            echo "📝 Created new phrase history file"
-          else
-            echo "✅ Loaded existing phrase history"
-            phrase_count=$(python -c "import json; print(len(json.load(open('output/history/all_generated_phrases.json'))['phrases']))")
-            echo "📊 History contains $phrase_count phrases"
-          fi
           
+          # Check if downloaded history exists
+          if [ -f "output/history/all_generated_phrases.json" ]; then
+            echo "✅ Loaded existing phrase history"
+            phrase_count=$(python -c "import json; data=json.load(open('output/history/all_generated_phrases.json')); print(len(data.get('used_english', data.get('phrases', []))))")
+            echo "📊 History contains $phrase_count unique phrases"
+          else
+            # Create new history with proper structure
+            echo '{"phrases": [], "used_english": [], "last_updated": null}' > output/history/all_generated_phrases.json
+            echo "📝 Created new phrase history file"
+          fi
+
           if [ ! -f "output/history/recent_categories.json" ]; then
             echo '{"date": null, "last_3_days": []}' > output/history/recent_categories.json
             echo "📝 Created recent categories file"
