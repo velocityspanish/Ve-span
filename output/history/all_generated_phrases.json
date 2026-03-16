@@ -899,9 +899,39 @@
       "spanish": "Lo que nadie te dice, tu acento enamora",
       "category": "Creativity",
       "generated_at": "2026-03-16T22:07:35.015062"
+    },
+    {
+      "english": "Stop, borrow native melodies daily",
+      "spanish": "Para, toma melodías nativas a diario",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T23:58:08.042103"
+    },
+    {
+      "english": "Never, translate feelings, mimic them",
+      "spanish": "Nunca, traduzcas sentimientos, imítalos",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T23:58:08.042114"
+    },
+    {
+      "english": "This is why, creativity beats grammar",
+      "spanish": "Por eso, la creatividad vence a la gramática",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T23:58:08.042117"
+    },
+    {
+      "english": "The secret, invent silly mini conversations",
+      "spanish": "El secreto, inventa mini conversaciones divertidas",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T23:58:08.042120"
+    },
+    {
+      "english": "What nobody tells you, improvise words",
+      "spanish": "Lo que nadie te dice, improvisa palabras",
+      "category": "Creativity",
+      "generated_at": "2026-03-16T23:58:08.042122"
     }
   ],
-  "last_updated": "2026-03-16T22:07:35.015064",
+  "last_updated": "2026-03-16T23:58:08.042124",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1052,6 +1082,11 @@
     "never, schedule practice, sin excuses",
     "this is why, mimic their rhythm, not words",
     "the secret, copy one native phrase",
-    "what nobody tells you, accents can charm"
+    "what nobody tells you, accents can charm",
+    "stop, borrow native melodies daily",
+    "never, translate feelings, mimic them",
+    "this is why, creativity beats grammar",
+    "the secret, invent silly mini conversations",
+    "what nobody tells you, improvise words"
   ]
 }
