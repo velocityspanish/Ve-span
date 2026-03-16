@@ -719,9 +719,39 @@
       "spanish": "Lo que nadie te dice, empieza desordenado",
       "category": "Motivation",
       "generated_at": "2026-03-16T09:30:24.885806"
+    },
+    {
+      "english": "Stop, saying 'I'll start tomorrow'",
+      "spanish": "Deja de decir 'empiezo mañana'",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T10:40:09.297865"
+    },
+    {
+      "english": "Stop, hiding behind translation apps",
+      "spanish": "Deja las apps, empieza a hablar",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T10:40:09.297876"
+    },
+    {
+      "english": "Stop, avoiding conversations, join one",
+      "spanish": "Deja de evitar conversaciones, únete",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T10:40:09.297879"
+    },
+    {
+      "english": "Stop, telling yourself 'I'm bad'",
+      "spanish": "Deja de decirte 'soy malo'",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T10:40:09.297882"
+    },
+    {
+      "english": "Stop, translating every word, listen",
+      "spanish": "Deja de traducir cada palabra, escucha",
+      "category": "Motivation",
+      "generated_at": "2026-03-16T10:40:09.297884"
     }
   ],
-  "last_updated": "2026-03-16T09:30:24.885808",
+  "last_updated": "2026-03-16T10:40:09.297887",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -842,6 +872,11 @@
     "never, fear your accent",
     "this is why, practice daily matters",
     "the secret, is two tiny habits",
-    "what nobody tells you, starts messy"
+    "what nobody tells you, starts messy",
+    "stop, saying 'i'll start tomorrow'",
+    "stop, hiding behind translation apps",
+    "stop, avoiding conversations, join one",
+    "stop, telling yourself 'i'm bad'",
+    "stop, translating every word, listen"
   ]
 }
