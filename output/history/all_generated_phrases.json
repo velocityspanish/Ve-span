@@ -1079,9 +1079,39 @@
       "spanish": "Deja de acumular palabras, úsalas",
       "category": "Inspiration",
       "generated_at": "2026-03-17T21:03:57.984957"
+    },
+    {
+      "english": "Stop, waiting, your voice matters",
+      "spanish": "Deja de esperar, tu voz importa",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T22:06:57.941947"
+    },
+    {
+      "english": "Never, fear wrong words, speak",
+      "spanish": "Nunca temas las palabras equivocadas, habla",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T22:06:57.941959"
+    },
+    {
+      "english": "This is why, brave speakers get noticed",
+      "spanish": "Por eso, los valientes se notan",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T22:06:57.941963"
+    },
+    {
+      "english": "The secret, drop perfection, find fluency",
+      "spanish": "El secreto, suelta la perfección, logra fluidez",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T22:06:57.941966"
+    },
+    {
+      "english": "Stop, comparing yourself, speak anyway",
+      "spanish": "Deja de compararte, habla igual",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T22:06:57.941969"
     }
   ],
-  "last_updated": "2026-03-17T21:03:57.984959",
+  "last_updated": "2026-03-17T22:06:57.941971",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1262,6 +1292,11 @@
     "stop waiting, spanish opens doors",
     "stop scrolling, learn one sentence now",
     "stop saying you don't belong",
-    "stop collecting words, speak them"
+    "stop collecting words, speak them",
+    "stop, waiting, your voice matters",
+    "never, fear wrong words, speak",
+    "this is why, brave speakers get noticed",
+    "the secret, drop perfection, find fluency",
+    "stop, comparing yourself, speak anyway"
   ]
 }
