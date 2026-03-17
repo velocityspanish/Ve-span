@@ -1019,9 +1019,39 @@
       "spanish": "Lo que nadie te dice, la alegría crece",
       "category": "Happiness",
       "generated_at": "2026-03-17T18:10:50.427744"
+    },
+    {
+      "english": "Stop, make one silly mistake",
+      "spanish": "Para, comete un error tonto",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-17T19:58:25.111285"
+    },
+    {
+      "english": "Stop, use feelings as flashcards",
+      "spanish": "Para, usa sentimientos como fichas",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-17T19:58:25.111298"
+    },
+    {
+      "english": "Never, speak from translation mode",
+      "spanish": "Nunca, habla en modo traducción",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-17T19:58:25.111302"
+    },
+    {
+      "english": "Never, let rules steal joy",
+      "spanish": "Nunca, dejes que las reglas roben alegría",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-17T19:58:25.111306"
+    },
+    {
+      "english": "This is why, start with hello",
+      "spanish": "Por eso, empieza con 'hola'",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-17T19:58:25.111314"
     }
   ],
-  "last_updated": "2026-03-17T18:10:50.427749",
+  "last_updated": "2026-03-17T19:58:25.111317",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1192,6 +1222,11 @@
     "never learn alone, invite smiles",
     "this is why, mistakes make joy",
     "the secret, laugh while learning",
-    "what nobody tells you, joy multiplies"
+    "what nobody tells you, joy multiplies",
+    "stop, make one silly mistake",
+    "stop, use feelings as flashcards",
+    "never, speak from translation mode",
+    "never, let rules steal joy",
+    "this is why, start with hello"
   ]
 }
