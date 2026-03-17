@@ -929,9 +929,39 @@
       "spanish": "Lo que nadie te dice, improvisa palabras",
       "category": "Creativity",
       "generated_at": "2026-03-16T23:58:08.042122"
+    },
+    {
+      "english": "Stop chasing speed, savor progress",
+      "spanish": "Deja la prisa, saborea el progreso",
+      "category": "Patience",
+      "generated_at": "2026-03-17T05:40:48.912362"
+    },
+    {
+      "english": "Never rush practice, tiny wins matter",
+      "spanish": "Nunca apresures la práctica, importan pequeños logros",
+      "category": "Patience",
+      "generated_at": "2026-03-17T05:40:48.912373"
+    },
+    {
+      "english": "This is why slow beats fast",
+      "spanish": "Por eso, lo lento vence a lo rápido",
+      "category": "Patience",
+      "generated_at": "2026-03-17T05:40:48.912376"
+    },
+    {
+      "english": "The secret, patience grows confidence",
+      "spanish": "El secreto, la paciencia crea confianza",
+      "category": "Patience",
+      "generated_at": "2026-03-17T05:40:48.912379"
+    },
+    {
+      "english": "What nobody tells you, small steps",
+      "spanish": "Lo que nadie te dice, pasos pequeños",
+      "category": "Patience",
+      "generated_at": "2026-03-17T05:40:48.912382"
     }
   ],
-  "last_updated": "2026-03-16T23:58:08.042124",
+  "last_updated": "2026-03-17T05:40:48.912383",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1087,6 +1117,11 @@
     "never, translate feelings, mimic them",
     "this is why, creativity beats grammar",
     "the secret, invent silly mini conversations",
-    "what nobody tells you, improvise words"
+    "what nobody tells you, improvise words",
+    "stop chasing speed, savor progress",
+    "never rush practice, tiny wins matter",
+    "this is why slow beats fast",
+    "the secret, patience grows confidence",
+    "what nobody tells you, small steps"
   ]
 }
