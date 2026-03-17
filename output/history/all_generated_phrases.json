@@ -959,9 +959,39 @@
       "spanish": "Lo que nadie te dice, pasos pequeños",
       "category": "Patience",
       "generated_at": "2026-03-17T05:40:48.912382"
+    },
+    {
+      "english": "Stop, say one imperfect sentence",
+      "spanish": "Para, di una frase imperfecta",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-17T16:46:16.778132"
+    },
+    {
+      "english": "Stop, choose words you love",
+      "spanish": "Para, elige palabras que ames",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-17T16:46:16.778144"
+    },
+    {
+      "english": "Never, trade mistakes for silence",
+      "spanish": "Nunca, cambies errores por silencio",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-17T16:46:16.778147"
+    },
+    {
+      "english": "Never, delay one brave word",
+      "spanish": "Nunca, retrases una palabra valiente",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-17T16:46:16.778150"
+    },
+    {
+      "english": "This is why, tiny talks win",
+      "spanish": "Por eso, las mini charlas ganan",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-17T16:46:16.778153"
     }
   ],
-  "last_updated": "2026-03-17T05:40:48.912383",
+  "last_updated": "2026-03-17T16:46:16.778155",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1122,6 +1152,11 @@
     "never rush practice, tiny wins matter",
     "this is why slow beats fast",
     "the secret, patience grows confidence",
-    "what nobody tells you, small steps"
+    "what nobody tells you, small steps",
+    "stop, say one imperfect sentence",
+    "stop, choose words you love",
+    "never, trade mistakes for silence",
+    "never, delay one brave word",
+    "this is why, tiny talks win"
   ]
 }
