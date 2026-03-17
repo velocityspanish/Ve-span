@@ -989,9 +989,39 @@
       "spanish": "Por eso, las mini charlas ganan",
       "category": "Mindfulness",
       "generated_at": "2026-03-17T16:46:16.778153"
+    },
+    {
+      "english": "Stop chasing perfection, savor joy",
+      "spanish": "Deja la perfección, saborea la alegría",
+      "category": "Happiness",
+      "generated_at": "2026-03-17T18:10:50.427723"
+    },
+    {
+      "english": "Never learn alone, invite smiles",
+      "spanish": "Nunca estudies solo, invita sonrisas",
+      "category": "Happiness",
+      "generated_at": "2026-03-17T18:10:50.427734"
+    },
+    {
+      "english": "This is why, mistakes make joy",
+      "spanish": "Por eso, los errores traen alegría",
+      "category": "Happiness",
+      "generated_at": "2026-03-17T18:10:50.427738"
+    },
+    {
+      "english": "The secret, laugh while learning",
+      "spanish": "El secreto, ríe mientras aprendes",
+      "category": "Happiness",
+      "generated_at": "2026-03-17T18:10:50.427741"
+    },
+    {
+      "english": "What nobody tells you, joy multiplies",
+      "spanish": "Lo que nadie te dice, la alegría crece",
+      "category": "Happiness",
+      "generated_at": "2026-03-17T18:10:50.427744"
     }
   ],
-  "last_updated": "2026-03-17T16:46:16.778155",
+  "last_updated": "2026-03-17T18:10:50.427749",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1157,6 +1187,11 @@
     "stop, choose words you love",
     "never, trade mistakes for silence",
     "never, delay one brave word",
-    "this is why, tiny talks win"
+    "this is why, tiny talks win",
+    "stop chasing perfection, savor joy",
+    "never learn alone, invite smiles",
+    "this is why, mistakes make joy",
+    "the secret, laugh while learning",
+    "what nobody tells you, joy multiplies"
   ]
 }
