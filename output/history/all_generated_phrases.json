@@ -1049,9 +1049,39 @@
       "spanish": "Por eso, empieza con 'hola'",
       "category": "Self Improvement",
       "generated_at": "2026-03-17T19:58:25.111314"
+    },
+    {
+      "english": "Stop, say one new word today",
+      "spanish": "Para, di hoy una palabra nueva",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T21:03:57.984937"
+    },
+    {
+      "english": "Stop waiting, Spanish opens doors",
+      "spanish": "Deja de esperar, el español abre puertas",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T21:03:57.984948"
+    },
+    {
+      "english": "Stop scrolling, learn one sentence now",
+      "spanish": "Deja de mirar, aprende una frase ahora",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T21:03:57.984951"
+    },
+    {
+      "english": "Stop saying you don't belong",
+      "spanish": "Deja de decir que no encajas",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T21:03:57.984954"
+    },
+    {
+      "english": "Stop collecting words, speak them",
+      "spanish": "Deja de acumular palabras, úsalas",
+      "category": "Inspiration",
+      "generated_at": "2026-03-17T21:03:57.984957"
     }
   ],
-  "last_updated": "2026-03-17T19:58:25.111317",
+  "last_updated": "2026-03-17T21:03:57.984959",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1227,6 +1257,11 @@
     "stop, use feelings as flashcards",
     "never, speak from translation mode",
     "never, let rules steal joy",
-    "this is why, start with hello"
+    "this is why, start with hello",
+    "stop, say one new word today",
+    "stop waiting, spanish opens doors",
+    "stop scrolling, learn one sentence now",
+    "stop saying you don't belong",
+    "stop collecting words, speak them"
   ]
 }
