@@ -1259,9 +1259,39 @@
       "spanish": "Deja de, esperar permiso de otros",
       "category": "Positive Life",
       "generated_at": "2026-03-18T19:53:31.990082"
+    },
+    {
+      "english": "Stop labeling your accent, own it",
+      "spanish": "Deja tu acento, hazlo tuyo",
+      "category": "Balance",
+      "generated_at": "2026-03-18T21:01:26.144695"
+    },
+    {
+      "english": "Never, let doubts steal your words",
+      "spanish": "Nunca dejes que roben tus palabras",
+      "category": "Balance",
+      "generated_at": "2026-03-18T21:01:26.144708"
+    },
+    {
+      "english": "The secret, imperfect words spark progress",
+      "spanish": "El secreto, palabras imperfectas generan progreso",
+      "category": "Balance",
+      "generated_at": "2026-03-18T21:01:26.144711"
+    },
+    {
+      "english": "What nobody tells you... natives love mistakes",
+      "spanish": "Lo que nadie dice, nativos aman errores",
+      "category": "Balance",
+      "generated_at": "2026-03-18T21:01:26.144714"
+    },
+    {
+      "english": "Stop, hiding behind 'I don't know'",
+      "spanish": "Deja de esconderte tras 'no sé'",
+      "category": "Balance",
+      "generated_at": "2026-03-18T21:01:26.144718"
     }
   ],
-  "last_updated": "2026-03-18T19:53:31.990083",
+  "last_updated": "2026-03-18T21:01:26.144720",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1472,6 +1502,11 @@
     "never, let fear keep you tiny",
     "this is why, one word changes everything",
     "the secret, speak like a friend",
-    "stop, waiting for others' permission"
+    "stop, waiting for others' permission",
+    "stop labeling your accent, own it",
+    "never, let doubts steal your words",
+    "the secret, imperfect words spark progress",
+    "what nobody tells you... natives love mistakes",
+    "stop, hiding behind 'i don't know'"
   ]
 }
