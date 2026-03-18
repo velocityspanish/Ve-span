@@ -1139,9 +1139,39 @@
       "spanish": "Lo que nadie dice, la gratitud abre puertas",
       "category": "Gratitude",
       "generated_at": "2026-03-18T00:02:43.891691"
+    },
+    {
+      "english": "Stop saying only 'gracias', use this",
+      "spanish": "Deja de decir solo 'gracias', usa esto",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T05:47:16.034021"
+    },
+    {
+      "english": "Never let 'gracias' sound empty",
+      "spanish": "Nunca dejes que 'gracias' suene vacío",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T05:47:16.034032"
+    },
+    {
+      "english": "This is why, add feeling after 'gracias'",
+      "spanish": "Por eso, añade sentimiento tras 'gracias'",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T05:47:16.034035"
+    },
+    {
+      "english": "The secret, two tiny gratitude phrases",
+      "spanish": "El secreto, dos frases pequeñas de gratitud",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T05:47:16.034038"
+    },
+    {
+      "english": "What nobody tells you, grateful phrasing wins",
+      "spanish": "Lo que nadie dice, palabras agradecidas ganan",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T05:47:16.034041"
     }
   ],
-  "last_updated": "2026-03-18T00:02:43.891693",
+  "last_updated": "2026-03-18T05:47:16.034043",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1332,6 +1362,11 @@
     "never, say 'gracias' too fast",
     "this is why, gracias feels magical",
     "the secret, add feeling to gracias",
-    "what nobody tells you, gratitude opens doors"
+    "what nobody tells you, gratitude opens doors",
+    "stop saying only 'gracias', use this",
+    "never let 'gracias' sound empty",
+    "this is why, add feeling after 'gracias'",
+    "the secret, two tiny gratitude phrases",
+    "what nobody tells you, grateful phrasing wins"
   ]
 }
