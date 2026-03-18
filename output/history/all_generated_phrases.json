@@ -1199,9 +1199,39 @@
       "spanish": "Nunca, te escondas detrás de subtítulos otra vez",
       "category": "Hope",
       "generated_at": "2026-03-18T16:43:09.823069"
+    },
+    {
+      "english": "Stop, forgive yourself, say 'perdón'.",
+      "spanish": "Detente, perdónate, di 'perdón'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T18:13:04.545328"
+    },
+    {
+      "english": "Never hold grudges, try 'lo siento'.",
+      "spanish": "Nunca guardes rencor, di 'lo siento'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T18:13:04.545339"
+    },
+    {
+      "english": "This is why, 'perdón' frees you.",
+      "spanish": "Por eso, 'perdón' te libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T18:13:04.545343"
+    },
+    {
+      "english": "The secret, forgive fast, say 'perdón'.",
+      "spanish": "El secreto, perdona rápido, di 'perdón'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T18:13:04.545346"
+    },
+    {
+      "english": "What nobody tells you, forgiving helps fluency.",
+      "spanish": "Lo que nadie dice, perdonar ayuda la fluidez.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T18:13:04.545349"
     }
   ],
-  "last_updated": "2026-03-18T16:43:09.823071",
+  "last_updated": "2026-03-18T18:13:04.545351",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1402,6 +1432,11 @@
     "stop, message a native tonight",
     "stop, record one awkward sentence",
     "stop, repeat their melody daily",
-    "never, hide behind subtitles again"
+    "never, hide behind subtitles again",
+    "stop, forgive yourself, say 'perdón'.",
+    "never hold grudges, try 'lo siento'.",
+    "this is why, 'perdón' frees you.",
+    "the secret, forgive fast, say 'perdón'.",
+    "what nobody tells you, forgiving helps fluency."
   ]
 }
