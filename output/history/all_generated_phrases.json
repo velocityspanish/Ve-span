@@ -1289,9 +1289,39 @@
       "spanish": "Deja de esconderte tras 'no sé'",
       "category": "Balance",
       "generated_at": "2026-03-18T21:01:26.144718"
+    },
+    {
+      "english": "Stop, carrying yesterday's weight, drop it",
+      "spanish": "Basta, con el peso de ayer, suéltalo",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T22:04:42.862074"
+    },
+    {
+      "english": "Never, let guilt live inside",
+      "spanish": "Nunca, dejes que la culpa viva adentro",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T22:04:42.862088"
+    },
+    {
+      "english": "This is why, sorry isn't enough",
+      "spanish": "Por eso, 'lo siento' no basta",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T22:04:42.862092"
+    },
+    {
+      "english": "The secret, heal first, then apologize",
+      "spanish": "El secreto, sana primero, pide disculpas",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T22:04:42.862096"
+    },
+    {
+      "english": "What nobody tells you, mercy frees you",
+      "spanish": "Lo que nadie dice, la misericordia te libera",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-18T22:04:42.862099"
     }
   ],
-  "last_updated": "2026-03-18T21:01:26.144720",
+  "last_updated": "2026-03-18T22:04:42.862107",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1507,6 +1537,11 @@
     "never, let doubts steal your words",
     "the secret, imperfect words spark progress",
     "what nobody tells you... natives love mistakes",
-    "stop, hiding behind 'i don't know'"
+    "stop, hiding behind 'i don't know'",
+    "stop, carrying yesterday's weight, drop it",
+    "never, let guilt live inside",
+    "this is why, sorry isn't enough",
+    "the secret, heal first, then apologize",
+    "what nobody tells you, mercy frees you"
   ]
 }
