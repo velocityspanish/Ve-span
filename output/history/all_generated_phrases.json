@@ -1229,9 +1229,39 @@
       "spanish": "Lo que nadie dice, perdonar ayuda la fluidez.",
       "category": "Forgiveness",
       "generated_at": "2026-03-18T18:13:04.545349"
+    },
+    {
+      "english": "Stop hiding, your lovely mistakes",
+      "spanish": "Deja de esconder, tus hermosos errores",
+      "category": "Positive Life",
+      "generated_at": "2026-03-18T19:53:31.990056"
+    },
+    {
+      "english": "Never, let fear keep you tiny",
+      "spanish": "Nunca, dejes que el miedo te achique",
+      "category": "Positive Life",
+      "generated_at": "2026-03-18T19:53:31.990068"
+    },
+    {
+      "english": "This is why, one word changes everything",
+      "spanish": "Por eso, una palabra lo cambia todo",
+      "category": "Positive Life",
+      "generated_at": "2026-03-18T19:53:31.990071"
+    },
+    {
+      "english": "The secret, speak like a friend",
+      "spanish": "El secreto, habla como un amigo",
+      "category": "Positive Life",
+      "generated_at": "2026-03-18T19:53:31.990078"
+    },
+    {
+      "english": "Stop, waiting for others' permission",
+      "spanish": "Deja de, esperar permiso de otros",
+      "category": "Positive Life",
+      "generated_at": "2026-03-18T19:53:31.990082"
     }
   ],
-  "last_updated": "2026-03-18T18:13:04.545351",
+  "last_updated": "2026-03-18T19:53:31.990083",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1437,6 +1467,11 @@
     "never hold grudges, try 'lo siento'.",
     "this is why, 'perdón' frees you.",
     "the secret, forgive fast, say 'perdón'.",
-    "what nobody tells you, forgiving helps fluency."
+    "what nobody tells you, forgiving helps fluency.",
+    "stop hiding, your lovely mistakes",
+    "never, let fear keep you tiny",
+    "this is why, one word changes everything",
+    "the secret, speak like a friend",
+    "stop, waiting for others' permission"
   ]
 }
