@@ -1169,9 +1169,39 @@
       "spanish": "Lo que nadie dice, palabras agradecidas ganan",
       "category": "Gratitude",
       "generated_at": "2026-03-18T05:47:16.034041"
+    },
+    {
+      "english": "Stop, trade grammar for stories",
+      "spanish": "Para, cambia gramática por historias",
+      "category": "Hope",
+      "generated_at": "2026-03-18T16:43:09.823049"
+    },
+    {
+      "english": "Stop, message a native tonight",
+      "spanish": "Para, manda un mensaje a un nativo",
+      "category": "Hope",
+      "generated_at": "2026-03-18T16:43:09.823060"
+    },
+    {
+      "english": "Stop, record one awkward sentence",
+      "spanish": "Para, graba una frase incómoda",
+      "category": "Hope",
+      "generated_at": "2026-03-18T16:43:09.823063"
+    },
+    {
+      "english": "Stop, repeat their melody daily",
+      "spanish": "Para, repite su melodía cada día",
+      "category": "Hope",
+      "generated_at": "2026-03-18T16:43:09.823066"
+    },
+    {
+      "english": "Never, hide behind subtitles again",
+      "spanish": "Nunca, te escondas detrás de subtítulos otra vez",
+      "category": "Hope",
+      "generated_at": "2026-03-18T16:43:09.823069"
     }
   ],
-  "last_updated": "2026-03-18T05:47:16.034043",
+  "last_updated": "2026-03-18T16:43:09.823071",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1367,6 +1397,11 @@
     "never let 'gracias' sound empty",
     "this is why, add feeling after 'gracias'",
     "the secret, two tiny gratitude phrases",
-    "what nobody tells you, grateful phrasing wins"
+    "what nobody tells you, grateful phrasing wins",
+    "stop, trade grammar for stories",
+    "stop, message a native tonight",
+    "stop, record one awkward sentence",
+    "stop, repeat their melody daily",
+    "never, hide behind subtitles again"
   ]
 }
