@@ -1109,9 +1109,39 @@
       "spanish": "Deja de compararte, habla igual",
       "category": "Inspiration",
       "generated_at": "2026-03-17T22:06:57.941969"
+    },
+    {
+      "english": "Stop, thank like a native",
+      "spanish": "Para, agradece como un nativo",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T00:02:43.891671"
+    },
+    {
+      "english": "Never, say 'gracias' too fast",
+      "spanish": "Nunca digas 'gracias' tan rápido",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T00:02:43.891682"
+    },
+    {
+      "english": "This is why, gracias feels magical",
+      "spanish": "Por eso, 'gracias' suena mágico",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T00:02:43.891685"
+    },
+    {
+      "english": "The secret, add feeling to gracias",
+      "spanish": "El secreto, añade emoción a 'gracias'",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T00:02:43.891688"
+    },
+    {
+      "english": "What nobody tells you, gratitude opens doors",
+      "spanish": "Lo que nadie dice, la gratitud abre puertas",
+      "category": "Gratitude",
+      "generated_at": "2026-03-18T00:02:43.891691"
     }
   ],
-  "last_updated": "2026-03-17T22:06:57.941971",
+  "last_updated": "2026-03-18T00:02:43.891693",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1297,6 +1327,11 @@
     "never, fear wrong words, speak",
     "this is why, brave speakers get noticed",
     "the secret, drop perfection, find fluency",
-    "stop, comparing yourself, speak anyway"
+    "stop, comparing yourself, speak anyway",
+    "stop, thank like a native",
+    "never, say 'gracias' too fast",
+    "this is why, gracias feels magical",
+    "the secret, add feeling to gracias",
+    "what nobody tells you, gratitude opens doors"
   ]
 }
