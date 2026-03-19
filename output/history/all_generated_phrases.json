@@ -1499,9 +1499,39 @@
       "spanish": "No demores esta pequeña alegría.",
       "category": "Hope",
       "generated_at": "2026-03-19T18:01:51.835502"
+    },
+    {
+      "english": "Inner peace starts today.",
+      "spanish": "La paz interior empieza hoy.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T19:39:14.923621"
+    },
+    {
+      "english": "Breathe, your spanish is growing.",
+      "spanish": "Respira, tu español crece.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T19:39:14.923633"
+    },
+    {
+      "english": "Quiet your mind, speak.",
+      "spanish": "Silencia tu mente, habla.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T19:39:14.923637"
+    },
+    {
+      "english": "What if mistakes are gifts?",
+      "spanish": "¿Y si los errores son regalos?",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T19:39:14.923641"
+    },
+    {
+      "english": "This calm unlocks your voice.",
+      "spanish": "Esta calma desbloquea tu voz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T19:39:14.923644"
     }
   ],
-  "last_updated": "2026-03-19T18:01:51.835504",
+  "last_updated": "2026-03-19T19:39:14.923646",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1752,6 +1782,11 @@
     "why natives smile: this trick.",
     "you've got this, keep speaking.",
     "one phrase, massive confidence boost.",
-    "don't delay this small joy."
+    "don't delay this small joy.",
+    "inner peace starts today.",
+    "breathe, your spanish is growing.",
+    "quiet your mind, speak.",
+    "what if mistakes are gifts?",
+    "this calm unlocks your voice."
   ]
 }
