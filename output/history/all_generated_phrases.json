@@ -1349,9 +1349,39 @@
       "spanish": "Nunca dejes que el acento te calle",
       "category": "Self Improvement",
       "generated_at": "2026-03-18T23:57:39.478642"
+    },
+    {
+      "english": "When you want to quit, read.",
+      "spanish": "Cuando quieras rendirte, lee.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-19T05:44:06.327546"
+    },
+    {
+      "english": "The pain you feel is growth.",
+      "spanish": "El dolor que sientes es crecimiento.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-19T05:44:06.327558"
+    },
+    {
+      "english": "Why most people give up soon.",
+      "spanish": "Por qué la mayoría se rinde pronto.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-19T05:44:06.327561"
+    },
+    {
+      "english": "This separates winners from losers.",
+      "spanish": "Esto separa ganadores de perdedores.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-19T05:44:06.327565"
+    },
+    {
+      "english": "Keep going. Your moment is coming.",
+      "spanish": "Sigue yendo. Tu momento está llegando.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-19T05:44:06.327568"
     }
   ],
-  "last_updated": "2026-03-18T23:57:39.478644",
+  "last_updated": "2026-03-19T05:44:06.327570",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1577,6 +1607,11 @@
     "the secret, speak before you're ready",
     "what nobody tells you, start ugly",
     "stop, rehearsing perfection, speak now",
-    "never, let your accent silence you"
+    "never, let your accent silence you",
+    "when you want to quit, read.",
+    "the pain you feel is growth.",
+    "why most people give up soon.",
+    "this separates winners from losers.",
+    "keep going. your moment is coming."
   ]
 }
