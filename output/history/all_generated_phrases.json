@@ -1439,9 +1439,39 @@
       "spanish": "Este ritmo calma la mente.",
       "category": "Inner Peace",
       "generated_at": "2026-03-19T11:29:42.099885"
+    },
+    {
+      "english": "Your Spanish voice is blooming.",
+      "spanish": "Tu voz en español florece.",
+      "category": "Patience",
+      "generated_at": "2026-03-19T16:12:16.532930"
+    },
+    {
+      "english": "Why are you hiding your words?",
+      "spanish": "¿Por qué escondes tus palabras?",
+      "category": "Patience",
+      "generated_at": "2026-03-19T16:12:16.532942"
+    },
+    {
+      "english": "The magic is saying it imperfectly.",
+      "spanish": "La magia es decirlo imperfecto.",
+      "category": "Patience",
+      "generated_at": "2026-03-19T16:12:16.532961"
+    },
+    {
+      "english": "Tiny wins, huge confidence.",
+      "spanish": "Pequeñas victorias, gran confianza.",
+      "category": "Patience",
+      "generated_at": "2026-03-19T16:12:16.532965"
+    },
+    {
+      "english": "Speak it, don't just know it.",
+      "spanish": "Dilo, no solo lo sepas.",
+      "category": "Patience",
+      "generated_at": "2026-03-19T16:12:16.532969"
     }
   ],
-  "last_updated": "2026-03-19T11:29:42.099887",
+  "last_updated": "2026-03-19T16:12:16.532970",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1682,6 +1712,11 @@
     "unlock fluency: repeat this phrase.",
     "one word unlocks many doors.",
     "feel it, say it, know it.",
-    "this rhythm calms the mind."
+    "this rhythm calms the mind.",
+    "your spanish voice is blooming.",
+    "why are you hiding your words?",
+    "the magic is saying it imperfectly.",
+    "tiny wins, huge confidence.",
+    "speak it, don't just know it."
   ]
 }
