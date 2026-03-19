@@ -1559,9 +1559,39 @@
       "spanish": "Deja de adivinar, habla.",
       "category": "Positive Life",
       "generated_at": "2026-03-19T21:02:10.602993"
+    },
+    {
+      "english": "This simple phrase, opens doors.",
+      "spanish": "Esta frase simple, abre puertas.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-19T21:59:36.542284"
+    },
+    {
+      "english": "Your voice, more powerful than you think.",
+      "spanish": "Tu voz, más poderosa de lo que crees.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-19T21:59:36.542296"
+    },
+    {
+      "english": "One real word, defeats perfect silence.",
+      "spanish": "Una palabra real, vence silencio perfecto.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-19T21:59:36.542299"
+    },
+    {
+      "english": "Stop translating, just feel the rhythm.",
+      "spanish": "Deja de traducir, solo siente el ritmo.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-19T21:59:36.542303"
+    },
+    {
+      "english": "What if mistakes are your best teachers?",
+      "spanish": "¿Y si los errores son tus mejores maestros?",
+      "category": "Wisdom",
+      "generated_at": "2026-03-19T21:59:36.542307"
     }
   ],
-  "last_updated": "2026-03-19T21:02:10.602995",
+  "last_updated": "2026-03-19T21:59:36.542308",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1822,6 +1852,11 @@
     "this simple phrase builds bridges.",
     "why do natives say this?",
     "joy hides in your mistakes.",
-    "stop guessing, just speak."
+    "stop guessing, just speak.",
+    "this simple phrase, opens doors.",
+    "your voice, more powerful than you think.",
+    "one real word, defeats perfect silence.",
+    "stop translating, just feel the rhythm.",
+    "what if mistakes are your best teachers?"
   ]
 }
