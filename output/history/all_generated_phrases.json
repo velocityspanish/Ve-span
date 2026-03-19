@@ -1409,9 +1409,39 @@
       "spanish": "Nadie te dice: el perdón libera.",
       "category": "Forgiveness",
       "generated_at": "2026-03-19T11:19:15.357989"
+    },
+    {
+      "english": "Your brain remembers, practice today.",
+      "spanish": "Tu cerebro recuerda, practica hoy.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T11:29:42.099862"
+    },
+    {
+      "english": "Unlock fluency: repeat this phrase.",
+      "spanish": "Desbloquea fluidez: repite frase.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T11:29:42.099874"
+    },
+    {
+      "english": "One word unlocks many doors.",
+      "spanish": "Una palabra abre puertas.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T11:29:42.099878"
+    },
+    {
+      "english": "Feel it, say it, know it.",
+      "spanish": "Siente, di, conoce.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T11:29:42.099882"
+    },
+    {
+      "english": "This rhythm calms the mind.",
+      "spanish": "Este ritmo calma la mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-19T11:29:42.099885"
     }
   ],
-  "last_updated": "2026-03-19T11:19:15.357991",
+  "last_updated": "2026-03-19T11:29:42.099887",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1647,6 +1677,11 @@
     "never, blame yourself too long.",
     "this is why, forgiveness sparks progress.",
     "the secret? absolve them instantly.",
-    "what nobody tells you, pardon frees."
+    "what nobody tells you, pardon frees.",
+    "your brain remembers, practice today.",
+    "unlock fluency: repeat this phrase.",
+    "one word unlocks many doors.",
+    "feel it, say it, know it.",
+    "this rhythm calms the mind."
   ]
 }
