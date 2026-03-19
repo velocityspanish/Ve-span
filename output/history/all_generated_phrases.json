@@ -1379,9 +1379,39 @@
       "spanish": "Sigue yendo. Tu momento está llegando.",
       "category": "Perseverance",
       "generated_at": "2026-03-19T05:44:06.327568"
+    },
+    {
+      "english": "Stop holding grudges, say 'lo siento'.",
+      "spanish": "Deja el rencor, di 'lo siento'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-19T11:19:15.357965"
+    },
+    {
+      "english": "Never, blame yourself too long.",
+      "spanish": "Nunca, te culpes demasiado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-19T11:19:15.357978"
+    },
+    {
+      "english": "This is why, forgiveness sparks progress.",
+      "spanish": "Perdonar impulsa el progreso.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-19T11:19:15.357982"
+    },
+    {
+      "english": "The secret? Absolve them instantly.",
+      "spanish": "La clave: absolver al instante.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-19T11:19:15.357986"
+    },
+    {
+      "english": "What nobody tells you, pardon frees.",
+      "spanish": "Nadie te dice: el perdón libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-19T11:19:15.357989"
     }
   ],
-  "last_updated": "2026-03-19T05:44:06.327570",
+  "last_updated": "2026-03-19T11:19:15.357991",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1612,6 +1642,11 @@
     "the pain you feel is growth.",
     "why most people give up soon.",
     "this separates winners from losers.",
-    "keep going. your moment is coming."
+    "keep going. your moment is coming.",
+    "stop holding grudges, say 'lo siento'.",
+    "never, blame yourself too long.",
+    "this is why, forgiveness sparks progress.",
+    "the secret? absolve them instantly.",
+    "what nobody tells you, pardon frees."
   ]
 }
