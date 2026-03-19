@@ -19,6 +19,13 @@ if sys.platform == "win32":
 load_dotenv()
 
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
+AI_MODEL = os.getenv("AI_MODEL")
+
+if not AI_MODEL:
+    raise ValueError(
+        "AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file. "
+        "For GitHub Actions: Add AI_MODEL to repository secrets."
+    )
 
 # Directories
 BASE_DIR = Path(__file__).parent
@@ -270,7 +277,7 @@ Return as JSON array:
 ⚠️ CRITICAL: Every phrase must be COMPLETELY NEW, CATCHY, and VIRAL-WORTHY. Check against excluded list above. Random seed: {random_seed}"""
 
             payload = {
-                "model": "openai",
+                "model": AI_MODEL,
                 "messages": [
                     {"role": "system", "content": "You are a viral Spanish teacher and social media expert. Create scroll-stopping, shareable phrases with hooks that make people watch, save, and share. NEVER repeat phrases. Each request should generate UNIQUE content."},
                     {"role": "user", "content": prompt}
