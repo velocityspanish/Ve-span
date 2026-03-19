@@ -1529,9 +1529,39 @@
       "spanish": "Esta calma desbloquea tu voz.",
       "category": "Inner Peace",
       "generated_at": "2026-03-19T19:39:14.923644"
+    },
+    {
+      "english": "Your voice unlocks worlds.",
+      "spanish": "Tu voz abre mundos.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-19T21:02:10.602970"
+    },
+    {
+      "english": "This simple phrase builds bridges.",
+      "spanish": "Esta frase une gente.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-19T21:02:10.602982"
+    },
+    {
+      "english": "Why do natives say this?",
+      "spanish": "¿Por qué lo dicen ellos?",
+      "category": "Positive Life",
+      "generated_at": "2026-03-19T21:02:10.602986"
+    },
+    {
+      "english": "Joy hides in your mistakes.",
+      "spanish": "La alegría en tus fallos.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-19T21:02:10.602990"
+    },
+    {
+      "english": "Stop guessing, just speak.",
+      "spanish": "Deja de adivinar, habla.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-19T21:02:10.602993"
     }
   ],
-  "last_updated": "2026-03-19T19:39:14.923646",
+  "last_updated": "2026-03-19T21:02:10.602995",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1787,6 +1817,11 @@
     "breathe, your spanish is growing.",
     "quiet your mind, speak.",
     "what if mistakes are gifts?",
-    "this calm unlocks your voice."
+    "this calm unlocks your voice.",
+    "your voice unlocks worlds.",
+    "this simple phrase builds bridges.",
+    "why do natives say this?",
+    "joy hides in your mistakes.",
+    "stop guessing, just speak."
   ]
 }
