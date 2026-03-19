@@ -1469,9 +1469,39 @@
       "spanish": "Dilo, no solo lo sepas.",
       "category": "Patience",
       "generated_at": "2026-03-19T16:12:16.532969"
+    },
+    {
+      "english": "This feeling? Your fluency unlocked.",
+      "spanish": "Este sentimiento? Tu fluidez desbloqueada.",
+      "category": "Hope",
+      "generated_at": "2026-03-19T18:01:51.835480"
+    },
+    {
+      "english": "Why natives smile: this trick.",
+      "spanish": "¿Por qué sonríen los nativos? Este truco.",
+      "category": "Hope",
+      "generated_at": "2026-03-19T18:01:51.835491"
+    },
+    {
+      "english": "You've got this, keep speaking.",
+      "spanish": "Puedes con esto, sigue hablando.",
+      "category": "Hope",
+      "generated_at": "2026-03-19T18:01:51.835495"
+    },
+    {
+      "english": "One phrase, massive confidence boost.",
+      "spanish": "Una frase, subidón de confianza.",
+      "category": "Hope",
+      "generated_at": "2026-03-19T18:01:51.835499"
+    },
+    {
+      "english": "Don't delay this small joy.",
+      "spanish": "No demores esta pequeña alegría.",
+      "category": "Hope",
+      "generated_at": "2026-03-19T18:01:51.835502"
     }
   ],
-  "last_updated": "2026-03-19T16:12:16.532970",
+  "last_updated": "2026-03-19T18:01:51.835504",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1717,6 +1747,11 @@
     "why are you hiding your words?",
     "the magic is saying it imperfectly.",
     "tiny wins, huge confidence.",
-    "speak it, don't just know it."
+    "speak it, don't just know it.",
+    "this feeling? your fluency unlocked.",
+    "why natives smile: this trick.",
+    "you've got this, keep speaking.",
+    "one phrase, massive confidence boost.",
+    "don't delay this small joy."
   ]
 }
