@@ -1679,9 +1679,39 @@
       "spanish": "Puedes, incluso ahora.",
       "category": "Hope",
       "generated_at": "2026-03-20T19:27:28.681005"
+    },
+    {
+      "english": "Your effort shines bright today.",
+      "spanish": "Tu esfuerzo brilla hoy.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-20T20:01:30.668324"
+    },
+    {
+      "english": "Unlock joy with one phrase.",
+      "spanish": "Desbloquea alegría con frase.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-20T20:01:30.668336"
+    },
+    {
+      "english": "Feel the rhythm, speak freely.",
+      "spanish": "Siente el ritmo, habla libre.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-20T20:01:30.668341"
+    },
+    {
+      "english": "Your voice, a beautiful gift.",
+      "spanish": "Tu voz, hermoso regalo.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-20T20:01:30.668344"
+    },
+    {
+      "english": "One real word matters most.",
+      "spanish": "Una palabra real importa.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-20T20:01:30.668348"
     }
   ],
-  "last_updated": "2026-03-20T19:27:28.681007",
+  "last_updated": "2026-03-20T20:01:30.668350",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1962,6 +1992,11 @@
     "your accent is your signature.",
     "mistakes are just practice runs.",
     "why fear silence? speak.",
-    "you can, even now."
+    "you can, even now.",
+    "your effort shines bright today.",
+    "unlock joy with one phrase.",
+    "feel the rhythm, speak freely.",
+    "your voice, a beautiful gift.",
+    "one real word matters most."
   ]
 }
