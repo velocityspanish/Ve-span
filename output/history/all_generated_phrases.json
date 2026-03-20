@@ -1589,9 +1589,39 @@
       "spanish": "¿Y si los errores son tus mejores maestros?",
       "category": "Wisdom",
       "generated_at": "2026-03-19T21:59:36.542307"
+    },
+    {
+      "english": "Your future self is watching.",
+      "spanish": "Tu yo futuro te observa.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-20T15:31:11.745552"
+    },
+    {
+      "english": "The secret? Embrace imperfection.",
+      "spanish": "¿El secreto? Abraza la imperfección.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-20T15:31:11.745579"
+    },
+    {
+      "english": "Small sounds, big meaning.",
+      "spanish": "Sonidos pequeños, gran significado.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-20T15:31:11.745583"
+    },
+    {
+      "english": "One genuine word, pure gold.",
+      "spanish": "Una palabra genuina, oro puro.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-20T15:31:11.745587"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "spanish": "Tu voz importa, dila.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-20T15:31:11.745592"
     }
   ],
-  "last_updated": "2026-03-19T21:59:36.542308",
+  "last_updated": "2026-03-20T15:31:11.745594",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1857,6 +1887,11 @@
     "your voice, more powerful than you think.",
     "one real word, defeats perfect silence.",
     "stop translating, just feel the rhythm.",
-    "what if mistakes are your best teachers?"
+    "what if mistakes are your best teachers?",
+    "your future self is watching.",
+    "the secret? embrace imperfection.",
+    "small sounds, big meaning.",
+    "one genuine word, pure gold.",
+    "your voice matters, speak it."
   ]
 }
