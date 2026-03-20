@@ -1619,9 +1619,39 @@
       "spanish": "Tu voz importa, dila.",
       "category": "Wisdom",
       "generated_at": "2026-03-20T15:31:11.745592"
+    },
+    {
+      "english": "This makes Spanish click.",
+      "spanish": "Esto hace que el español encaje.",
+      "category": "Strength",
+      "generated_at": "2026-03-20T17:24:41.787638"
+    },
+    {
+      "english": "Feel the rhythm, speak.",
+      "spanish": "Siente el ritmo, habla.",
+      "category": "Strength",
+      "generated_at": "2026-03-20T17:24:41.787650"
+    },
+    {
+      "english": "One real word matters.",
+      "spanish": "Una palabra real importa.",
+      "category": "Strength",
+      "generated_at": "2026-03-20T17:24:41.787653"
+    },
+    {
+      "english": "Your voice has power.",
+      "spanish": "Tu voz tiene poder.",
+      "category": "Strength",
+      "generated_at": "2026-03-20T17:24:41.787657"
+    },
+    {
+      "english": "Stop translating, just feel.",
+      "spanish": "Deja de traducir, solo siente.",
+      "category": "Strength",
+      "generated_at": "2026-03-20T17:24:41.787660"
     }
   ],
-  "last_updated": "2026-03-20T15:31:11.745594",
+  "last_updated": "2026-03-20T17:24:41.787662",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1892,6 +1922,11 @@
     "the secret? embrace imperfection.",
     "small sounds, big meaning.",
     "one genuine word, pure gold.",
-    "your voice matters, speak it."
+    "your voice matters, speak it.",
+    "this makes spanish click.",
+    "feel the rhythm, speak.",
+    "one real word matters.",
+    "your voice has power.",
+    "stop translating, just feel."
   ]
 }
