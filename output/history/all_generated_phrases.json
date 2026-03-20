@@ -1649,9 +1649,39 @@
       "spanish": "Deja de traducir, solo siente.",
       "category": "Strength",
       "generated_at": "2026-03-20T17:24:41.787660"
+    },
+    {
+      "english": "That one word changes everything.",
+      "spanish": "Esa palabra lo cambia todo.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T19:27:28.680981"
+    },
+    {
+      "english": "Your accent is your signature.",
+      "spanish": "Tu acento es tu firma.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T19:27:28.680994"
+    },
+    {
+      "english": "Mistakes are just practice runs.",
+      "spanish": "Los errores son solo prácticas.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T19:27:28.680998"
+    },
+    {
+      "english": "Why fear silence? Speak.",
+      "spanish": "¿Por qué temer el silencio? Habla.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T19:27:28.681002"
+    },
+    {
+      "english": "You can, even now.",
+      "spanish": "Puedes, incluso ahora.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T19:27:28.681005"
     }
   ],
-  "last_updated": "2026-03-20T17:24:41.787662",
+  "last_updated": "2026-03-20T19:27:28.681007",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1927,6 +1957,11 @@
     "feel the rhythm, speak.",
     "one real word matters.",
     "your voice has power.",
-    "stop translating, just feel."
+    "stop translating, just feel.",
+    "that one word changes everything.",
+    "your accent is your signature.",
+    "mistakes are just practice runs.",
+    "why fear silence? speak.",
+    "you can, even now."
   ]
 }
