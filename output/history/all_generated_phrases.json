@@ -1709,9 +1709,39 @@
       "spanish": "Una palabra real importa.",
       "category": "Positive Life",
       "generated_at": "2026-03-20T20:01:30.668348"
+    },
+    {
+      "english": "Breathe, your peace is coming.",
+      "spanish": "Respira, tu paz viene.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-20T21:56:58.806453"
+    },
+    {
+      "english": "What if silence is fluent?",
+      "spanish": "¿Y si el silencio es fluido?",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-20T21:56:58.806466"
+    },
+    {
+      "english": "Find calm in one word.",
+      "spanish": "Encuentra calma en una palabra.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-20T21:56:58.806469"
+    },
+    {
+      "english": "This moment holds true peace.",
+      "spanish": "Este momento tiene paz real.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-20T21:56:58.806473"
+    },
+    {
+      "english": "Never doubt your inner voice.",
+      "spanish": "Nunca dudes tu voz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-20T21:56:58.806477"
     }
   ],
-  "last_updated": "2026-03-20T20:01:30.668350",
+  "last_updated": "2026-03-20T21:56:58.806479",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -1997,6 +2027,11 @@
     "unlock joy with one phrase.",
     "feel the rhythm, speak freely.",
     "your voice, a beautiful gift.",
-    "one real word matters most."
+    "one real word matters most.",
+    "breathe, your peace is coming.",
+    "what if silence is fluent?",
+    "find calm in one word.",
+    "this moment holds true peace.",
+    "never doubt your inner voice."
   ]
 }
