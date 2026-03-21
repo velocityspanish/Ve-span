@@ -1769,9 +1769,39 @@
       "spanish": "Momentos callados, verdad fuerte.",
       "category": "Inner Peace",
       "generated_at": "2026-03-21T14:03:12.972621"
+    },
+    {
+      "english": "Curiosity: What's the secret?",
+      "spanish": "¿Curiosidad? ¿Cuál es el secreto?",
+      "category": "Balance",
+      "generated_at": "2026-03-21T15:52:25.159864"
+    },
+    {
+      "english": "Wisdom: Joy hides in learning.",
+      "spanish": "Sabiduría: La alegría está en aprender.",
+      "category": "Balance",
+      "generated_at": "2026-03-21T15:52:25.159875"
+    },
+    {
+      "english": "Encouragement: You are stronger now.",
+      "spanish": "Ánimo: Eres más fuerte ahora.",
+      "category": "Balance",
+      "generated_at": "2026-03-21T15:52:25.159880"
+    },
+    {
+      "english": "Surprise: Your accent is charming!",
+      "spanish": "¡Sorpresa: Tu acento es encantador!",
+      "category": "Balance",
+      "generated_at": "2026-03-21T15:52:25.159884"
+    },
+    {
+      "english": "Urgency: Speak your truth, now.",
+      "spanish": "Urgencia: Di tu verdad, ahora.",
+      "category": "Balance",
+      "generated_at": "2026-03-21T15:52:25.159888"
     }
   ],
-  "last_updated": "2026-03-21T14:03:12.972623",
+  "last_updated": "2026-03-21T15:52:25.159890",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2067,6 +2097,11 @@
     "your inner voice, listen.",
     "joy blossoms, speak softly.",
     "let stillness speak volumes.",
-    "quiet moments, loud truth."
+    "quiet moments, loud truth.",
+    "curiosity: what's the secret?",
+    "wisdom: joy hides in learning.",
+    "encouragement: you are stronger now.",
+    "surprise: your accent is charming!",
+    "urgency: speak your truth, now."
   ]
 }
