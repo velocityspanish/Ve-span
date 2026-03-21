@@ -1829,9 +1829,39 @@
       "spanish": "Una palabra valiente crea conexión.",
       "category": "Confidence",
       "generated_at": "2026-03-21T17:54:40.189411"
+    },
+    {
+      "english": "Your next word matters.",
+      "spanish": "Tu próxima palabra importa.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T19:47:13.851129"
+    },
+    {
+      "english": "Embrace the stumble, progress.",
+      "spanish": "Acepta el tropiezo, avanza.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T19:47:13.851142"
+    },
+    {
+      "english": "This feeling? Fluency is near.",
+      "spanish": "¿Este sentimiento? La fluidez cerca.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T19:47:13.851146"
+    },
+    {
+      "english": "Why your small wins count.",
+      "spanish": "Por qué tus pequeñas victorias cuentan.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T19:47:13.851150"
+    },
+    {
+      "english": "Just speak, don't overthink.",
+      "spanish": "Solo habla, no pienses.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T19:47:13.851154"
     }
   ],
-  "last_updated": "2026-03-21T17:54:40.189413",
+  "last_updated": "2026-03-21T19:47:13.851156",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2137,6 +2167,11 @@
     "that first 'hola' unlocks worlds.",
     "your accent is your unique song.",
     "feel the rhythm, don't just translate.",
-    "one brave word creates connection."
+    "one brave word creates connection.",
+    "your next word matters.",
+    "embrace the stumble, progress.",
+    "this feeling? fluency is near.",
+    "why your small wins count.",
+    "just speak, don't overthink."
   ]
 }
