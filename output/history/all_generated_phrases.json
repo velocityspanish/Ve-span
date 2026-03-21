@@ -1799,9 +1799,39 @@
       "spanish": "Urgencia: Di tu verdad, ahora.",
       "category": "Balance",
       "generated_at": "2026-03-21T15:52:25.159888"
+    },
+    {
+      "english": "Mistakes are your shortcuts, embrace them.",
+      "spanish": "Los errores son tus atajos, abrázalos.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T17:54:40.189385"
+    },
+    {
+      "english": "That first 'hola' unlocks worlds.",
+      "spanish": "Ese primer 'hola' abre mundos.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T17:54:40.189399"
+    },
+    {
+      "english": "Your accent is your unique song.",
+      "spanish": "Tu acento es tu canción única.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T17:54:40.189403"
+    },
+    {
+      "english": "Feel the rhythm, don't just translate.",
+      "spanish": "Siente el ritmo, no solo traduzcas.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T17:54:40.189407"
+    },
+    {
+      "english": "One brave word creates connection.",
+      "spanish": "Una palabra valiente crea conexión.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T17:54:40.189411"
     }
   ],
-  "last_updated": "2026-03-21T15:52:25.159890",
+  "last_updated": "2026-03-21T17:54:40.189413",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2102,6 +2132,11 @@
     "wisdom: joy hides in learning.",
     "encouragement: you are stronger now.",
     "surprise: your accent is charming!",
-    "urgency: speak your truth, now."
+    "urgency: speak your truth, now.",
+    "mistakes are your shortcuts, embrace them.",
+    "that first 'hola' unlocks worlds.",
+    "your accent is your unique song.",
+    "feel the rhythm, don't just translate.",
+    "one brave word creates connection."
   ]
 }
