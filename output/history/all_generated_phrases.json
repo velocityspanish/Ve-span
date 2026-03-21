@@ -1859,9 +1859,39 @@
       "spanish": "Solo habla, no pienses.",
       "category": "Perseverance",
       "generated_at": "2026-03-21T19:47:13.851154"
+    },
+    {
+      "english": "Fear whispers, courage roars.",
+      "spanish": "El miedo susurra, coraje ruge.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T21:49:51.527548"
+    },
+    {
+      "english": "What if fluency is closer?",
+      "spanish": "¿Y si la fluidez está más cerca?",
+      "category": "Courage",
+      "generated_at": "2026-03-21T21:49:51.527559"
+    },
+    {
+      "english": "Embrace mistakes, unlock power.",
+      "spanish": "Abraza errores, libera poder.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T21:49:51.527564"
+    },
+    {
+      "english": "Breathe deeply, speak boldly.",
+      "spanish": "Respira hondo, habla audaz.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T21:49:51.527568"
+    },
+    {
+      "english": "Your progress is undeniable.",
+      "spanish": "Tu progreso es innegable.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T21:49:51.527572"
     }
   ],
-  "last_updated": "2026-03-21T19:47:13.851156",
+  "last_updated": "2026-03-21T21:49:51.527573",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2172,6 +2202,11 @@
     "embrace the stumble, progress.",
     "this feeling? fluency is near.",
     "why your small wins count.",
-    "just speak, don't overthink."
+    "just speak, don't overthink.",
+    "fear whispers, courage roars.",
+    "what if fluency is closer?",
+    "embrace mistakes, unlock power.",
+    "breathe deeply, speak boldly.",
+    "your progress is undeniable."
   ]
 }
