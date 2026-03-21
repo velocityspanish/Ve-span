@@ -1739,9 +1739,39 @@
       "spanish": "Nunca dudes tu voz interior.",
       "category": "Inner Peace",
       "generated_at": "2026-03-20T21:56:58.806477"
+    },
+    {
+      "english": "Peace found in one breath.",
+      "spanish": "Paz hallada en un respiro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:12.972597"
+    },
+    {
+      "english": "Your inner voice, listen.",
+      "spanish": "Tu voz interior, escucha.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:12.972609"
+    },
+    {
+      "english": "Joy blossoms, speak softly.",
+      "spanish": "Alegría florece, habla suave.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:12.972613"
+    },
+    {
+      "english": "Let stillness speak volumes.",
+      "spanish": "Deja que la calma hable.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:12.972617"
+    },
+    {
+      "english": "Quiet moments, loud truth.",
+      "spanish": "Momentos callados, verdad fuerte.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:12.972621"
     }
   ],
-  "last_updated": "2026-03-20T21:56:58.806479",
+  "last_updated": "2026-03-21T14:03:12.972623",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2032,6 +2062,11 @@
     "what if silence is fluent?",
     "find calm in one word.",
     "this moment holds true peace.",
-    "never doubt your inner voice."
+    "never doubt your inner voice.",
+    "peace found in one breath.",
+    "your inner voice, listen.",
+    "joy blossoms, speak softly.",
+    "let stillness speak volumes.",
+    "quiet moments, loud truth."
   ]
 }
