@@ -1979,9 +1979,39 @@
       "spanish": "Siente el fluir, no fuerces.",
       "category": "Confidence",
       "generated_at": "2026-03-22T19:48:29.711087"
+    },
+    {
+      "english": "Your brain craves new words.",
+      "spanish": "Tu cerebro anhela palabras nuevas.",
+      "category": "Motivation",
+      "generated_at": "2026-03-22T21:52:42.334718"
+    },
+    {
+      "english": "Curiosity unlocks your spanish.",
+      "spanish": "La curiosidad desbloquea tu español.",
+      "category": "Motivation",
+      "generated_at": "2026-03-22T21:52:42.334732"
+    },
+    {
+      "english": "Wisdom: connection, not perfection.",
+      "spanish": "Sabiduría: conexión, no perfección.",
+      "category": "Motivation",
+      "generated_at": "2026-03-22T21:52:42.334736"
+    },
+    {
+      "english": "One word, many possibilities await.",
+      "spanish": "Una palabra, muchas posibilidades esperan.",
+      "category": "Motivation",
+      "generated_at": "2026-03-22T21:52:42.334741"
+    },
+    {
+      "english": "Tiny wins build huge confidence.",
+      "spanish": "Pequeñas victorias crean gran confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-03-22T21:52:42.334745"
     }
   ],
-  "last_updated": "2026-03-22T19:48:29.711089",
+  "last_updated": "2026-03-22T21:52:42.334747",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2312,6 +2342,11 @@
     "why do you hesitate?",
     "your spanish is unique, embrace it.",
     "one word, then another.",
-    "feel the flow, don't force."
+    "feel the flow, don't force.",
+    "your brain craves new words.",
+    "curiosity unlocks your spanish.",
+    "wisdom: connection, not perfection.",
+    "one word, many possibilities await.",
+    "tiny wins build huge confidence."
   ]
 }
