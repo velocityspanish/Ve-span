@@ -1889,9 +1889,39 @@
       "spanish": "Tu progreso es innegable.",
       "category": "Courage",
       "generated_at": "2026-03-21T21:49:51.527572"
+    },
+    {
+      "english": "Your accent? It's your superpower.",
+      "spanish": "Tu acento? Es tu superpoder.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-22T14:05:00.318847"
+    },
+    {
+      "english": "Speak before you're perfect.",
+      "spanish": "Habla antes de ser perfecto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-22T14:05:00.318861"
+    },
+    {
+      "english": "One word unlocks new worlds.",
+      "spanish": "Una palabra abre mundos nuevos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-22T14:05:00.318865"
+    },
+    {
+      "english": "Your progress is beautiful, truly.",
+      "spanish": "Tu progreso es hermoso, de verdad.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-22T14:05:00.318870"
+    },
+    {
+      "english": "Feel the rhythm, not the fear.",
+      "spanish": "Siente el ritmo, no el miedo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-22T14:05:00.318874"
     }
   ],
-  "last_updated": "2026-03-21T21:49:51.527573",
+  "last_updated": "2026-03-22T14:05:00.318876",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2207,6 +2237,11 @@
     "what if fluency is closer?",
     "embrace mistakes, unlock power.",
     "breathe deeply, speak boldly.",
-    "your progress is undeniable."
+    "your progress is undeniable.",
+    "your accent? it's your superpower.",
+    "speak before you're perfect.",
+    "one word unlocks new worlds.",
+    "your progress is beautiful, truly.",
+    "feel the rhythm, not the fear."
   ]
 }
