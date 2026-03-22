@@ -1949,9 +1949,39 @@
       "spanish": "¡Sorpresa! Entiendes más.",
       "category": "Positive Life",
       "generated_at": "2026-03-22T15:53:10.293840"
+    },
+    {
+      "english": "Unlock your voice, speak now.",
+      "spanish": "Desbloquea tu voz, habla ya.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T19:48:29.711063"
+    },
+    {
+      "english": "Why do you hesitate?",
+      "spanish": "¿Por qué dudas?",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T19:48:29.711075"
+    },
+    {
+      "english": "Your spanish is unique, embrace it.",
+      "spanish": "Tu español es único, abrázalo.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T19:48:29.711079"
+    },
+    {
+      "english": "One word, then another.",
+      "spanish": "Una palabra, luego otra.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T19:48:29.711083"
+    },
+    {
+      "english": "Feel the flow, don't force.",
+      "spanish": "Siente el fluir, no fuerces.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T19:48:29.711087"
     }
   ],
-  "last_updated": "2026-03-22T15:53:10.293842",
+  "last_updated": "2026-03-22T19:48:29.711089",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2277,6 +2307,11 @@
     "your accent is a superpower.",
     "tiny spanish wins, big smile.",
     "this feeling? learning is fun!",
-    "surprise! you understand more."
+    "surprise! you understand more.",
+    "unlock your voice, speak now.",
+    "why do you hesitate?",
+    "your spanish is unique, embrace it.",
+    "one word, then another.",
+    "feel the flow, don't force."
   ]
 }
