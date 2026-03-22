@@ -1919,9 +1919,39 @@
       "spanish": "Siente el ritmo, no el miedo.",
       "category": "Self Improvement",
       "generated_at": "2026-03-22T14:05:00.318874"
+    },
+    {
+      "english": "Want fluency? Listen closely.",
+      "spanish": "¿Quieres fluidez? Escucha atento.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-22T15:53:10.293815"
+    },
+    {
+      "english": "Your accent is a superpower.",
+      "spanish": "Tu acento es un superpoder.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-22T15:53:10.293827"
+    },
+    {
+      "english": "Tiny Spanish wins, big smile.",
+      "spanish": "Pequeñas victorias españolas, gran sonrisa.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-22T15:53:10.293832"
+    },
+    {
+      "english": "This feeling? Learning is fun!",
+      "spanish": "¿Esta sensación? ¡Aprender es divertido!",
+      "category": "Positive Life",
+      "generated_at": "2026-03-22T15:53:10.293836"
+    },
+    {
+      "english": "Surprise! You understand more.",
+      "spanish": "¡Sorpresa! Entiendes más.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-22T15:53:10.293840"
     }
   ],
-  "last_updated": "2026-03-22T14:05:00.318876",
+  "last_updated": "2026-03-22T15:53:10.293842",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2242,6 +2272,11 @@
     "speak before you're perfect.",
     "one word unlocks new worlds.",
     "your progress is beautiful, truly.",
-    "feel the rhythm, not the fear."
+    "feel the rhythm, not the fear.",
+    "want fluency? listen closely.",
+    "your accent is a superpower.",
+    "tiny spanish wins, big smile.",
+    "this feeling? learning is fun!",
+    "surprise! you understand more."
   ]
 }
