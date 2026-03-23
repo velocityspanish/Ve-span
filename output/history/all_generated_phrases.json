@@ -2129,9 +2129,39 @@
       "spanish": "Este sonido, entiende más.",
       "category": "Perseverance",
       "generated_at": "2026-03-23T20:58:31.569735"
+    },
+    {
+      "english": "Mistakes are your growth fuel.",
+      "spanish": "Los errores son combustible de tu crecimiento.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T22:01:20.290809"
+    },
+    {
+      "english": "This one word opens doors.",
+      "spanish": "Esta palabra abre puertas.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T22:01:20.290821"
+    },
+    {
+      "english": "Your effort, today's win.",
+      "spanish": "Tu esfuerzo, victoria de hoy.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T22:01:20.290826"
+    },
+    {
+      "english": "Feel the Spanish rhythm, now.",
+      "spanish": "Siente el ritmo español, ahora.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T22:01:20.290830"
+    },
+    {
+      "english": "This sound makes them smile.",
+      "spanish": "Este sonido les sonríe.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T22:01:20.290835"
     }
   ],
-  "last_updated": "2026-03-23T20:58:31.569737",
+  "last_updated": "2026-03-23T22:01:20.290837",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2487,6 +2517,11 @@
     "your accent is beautiful, embrace it.",
     "one word, immense connection.",
     "keep going, progress is coming.",
-    "this sound unlocks understanding."
+    "this sound unlocks understanding.",
+    "mistakes are your growth fuel.",
+    "this one word opens doors.",
+    "your effort, today's win.",
+    "feel the spanish rhythm, now.",
+    "this sound makes them smile."
   ]
 }
