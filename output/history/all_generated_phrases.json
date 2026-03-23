@@ -2009,9 +2009,39 @@
       "spanish": "Pequeñas victorias crean gran confianza.",
       "category": "Motivation",
       "generated_at": "2026-03-22T21:52:42.334745"
+    },
+    {
+      "english": "Your first Spanish words, count them.",
+      "spanish": "Tus primeras palabras en español, cuéntalas.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T16:14:55.861759"
+    },
+    {
+      "english": "What if progress is simple?",
+      "spanish": "¿Y si el progreso es simple?",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T16:14:55.861771"
+    },
+    {
+      "english": "This small voice, a new you.",
+      "spanish": "Esta pequeña voz, un nuevo tú.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T16:14:55.861776"
+    },
+    {
+      "english": "Never fear the awkward pause.",
+      "spanish": "Nunca temas la pausa incómoda.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T16:14:55.861780"
+    },
+    {
+      "english": "Your daily Spanish habit wins.",
+      "spanish": "Tu hábito diario de español gana.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T16:14:55.861784"
     }
   ],
-  "last_updated": "2026-03-22T21:52:42.334747",
+  "last_updated": "2026-03-23T16:14:55.861786",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2347,6 +2377,11 @@
     "curiosity unlocks your spanish.",
     "wisdom: connection, not perfection.",
     "one word, many possibilities await.",
-    "tiny wins build huge confidence."
+    "tiny wins build huge confidence.",
+    "your first spanish words, count them.",
+    "what if progress is simple?",
+    "this small voice, a new you.",
+    "never fear the awkward pause.",
+    "your daily spanish habit wins."
   ]
 }
