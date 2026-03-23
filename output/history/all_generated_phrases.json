@@ -2069,9 +2069,39 @@
       "spanish": "¿Este ritmo? Tu español florece.",
       "category": "Balance",
       "generated_at": "2026-03-23T18:04:46.251965"
+    },
+    {
+      "english": "Your heart speaks Spanish?",
+      "spanish": "¿Tu corazón habla español?",
+      "category": "Love",
+      "generated_at": "2026-03-23T19:38:49.077580"
+    },
+    {
+      "english": "True love knows this phrase.",
+      "spanish": "Amor verdadero sabe esto.",
+      "category": "Love",
+      "generated_at": "2026-03-23T19:38:49.077591"
+    },
+    {
+      "english": "Whisper this, win their heart.",
+      "spanish": "Susurra esto, gana su corazón.",
+      "category": "Love",
+      "generated_at": "2026-03-23T19:38:49.077596"
+    },
+    {
+      "english": "Why they blush: one word.",
+      "spanish": "¿Por qué se sonrojan: una palabra?",
+      "category": "Love",
+      "generated_at": "2026-03-23T19:38:49.077600"
+    },
+    {
+      "english": "Unlock romance, try this.",
+      "spanish": "Desbloquea romance, intenta esto.",
+      "category": "Love",
+      "generated_at": "2026-03-23T19:38:49.077604"
     }
   ],
-  "last_updated": "2026-03-23T18:04:46.251966",
+  "last_updated": "2026-03-23T19:38:49.077606",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2417,6 +2447,11 @@
     "why hesitate? just listen.",
     "your inner voice, louder now.",
     "brave word, huge connection.",
-    "this rhythm? your spanish blooms."
+    "this rhythm? your spanish blooms.",
+    "your heart speaks spanish?",
+    "true love knows this phrase.",
+    "whisper this, win their heart.",
+    "why they blush: one word.",
+    "unlock romance, try this."
   ]
 }
