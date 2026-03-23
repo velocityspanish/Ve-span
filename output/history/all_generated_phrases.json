@@ -2039,9 +2039,39 @@
       "spanish": "Tu hábito diario de español gana.",
       "category": "Perseverance",
       "generated_at": "2026-03-23T16:14:55.861784"
+    },
+    {
+      "english": "Feel this calm, speak.",
+      "spanish": "Siente esta calma, habla.",
+      "category": "Balance",
+      "generated_at": "2026-03-23T18:04:46.251939"
+    },
+    {
+      "english": "Why hesitate? Just listen.",
+      "spanish": "¿Por qué dudar? Solo escucha.",
+      "category": "Balance",
+      "generated_at": "2026-03-23T18:04:46.251951"
+    },
+    {
+      "english": "Your inner voice, louder now.",
+      "spanish": "Tu voz interior, más alta ahora.",
+      "category": "Balance",
+      "generated_at": "2026-03-23T18:04:46.251956"
+    },
+    {
+      "english": "Brave word, huge connection.",
+      "spanish": "Palabra valiente, gran conexión.",
+      "category": "Balance",
+      "generated_at": "2026-03-23T18:04:46.251960"
+    },
+    {
+      "english": "This rhythm? Your spanish blooms.",
+      "spanish": "¿Este ritmo? Tu español florece.",
+      "category": "Balance",
+      "generated_at": "2026-03-23T18:04:46.251965"
     }
   ],
-  "last_updated": "2026-03-23T16:14:55.861786",
+  "last_updated": "2026-03-23T18:04:46.251966",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2382,6 +2412,11 @@
     "what if progress is simple?",
     "this small voice, a new you.",
     "never fear the awkward pause.",
-    "your daily spanish habit wins."
+    "your daily spanish habit wins.",
+    "feel this calm, speak.",
+    "why hesitate? just listen.",
+    "your inner voice, louder now.",
+    "brave word, huge connection.",
+    "this rhythm? your spanish blooms."
   ]
 }
