@@ -2099,9 +2099,39 @@
       "spanish": "Desbloquea romance, intenta esto.",
       "category": "Love",
       "generated_at": "2026-03-23T19:38:49.077604"
+    },
+    {
+      "english": "Mistakes are your new superpower.",
+      "spanish": "Los errores, tu superpoder.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T20:58:31.569709"
+    },
+    {
+      "english": "Your accent is beautiful, embrace it.",
+      "spanish": "Tu acento es bello, abrázalo.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T20:58:31.569721"
+    },
+    {
+      "english": "One word, immense connection.",
+      "spanish": "Una palabra, conexión inmensa.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T20:58:31.569726"
+    },
+    {
+      "english": "Keep going, progress is coming.",
+      "spanish": "Sigue, el progreso llega.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T20:58:31.569731"
+    },
+    {
+      "english": "This sound unlocks understanding.",
+      "spanish": "Este sonido, entiende más.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-23T20:58:31.569735"
     }
   ],
-  "last_updated": "2026-03-23T19:38:49.077606",
+  "last_updated": "2026-03-23T20:58:31.569737",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2452,6 +2482,11 @@
     "true love knows this phrase.",
     "whisper this, win their heart.",
     "why they blush: one word.",
-    "unlock romance, try this."
+    "unlock romance, try this.",
+    "mistakes are your new superpower.",
+    "your accent is beautiful, embrace it.",
+    "one word, immense connection.",
+    "keep going, progress is coming.",
+    "this sound unlocks understanding."
   ]
 }
