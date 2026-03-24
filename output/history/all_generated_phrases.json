@@ -2249,9 +2249,39 @@
       "spanish": "¿Por qué temer errores? Enseñan.",
       "category": "Creativity",
       "generated_at": "2026-03-24T19:56:47.616181"
+    },
+    {
+      "english": "This one word unlocks joy.",
+      "spanish": "Esta palabra desbloquea alegría.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:57.099426"
+    },
+    {
+      "english": "Your voice? It matters.",
+      "spanish": "¿Tu voz? Importa.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:57.099438"
+    },
+    {
+      "english": "Never miss this opportunity.",
+      "spanish": "Nunca pierdas esta oportunidad.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:57.099443"
+    },
+    {
+      "english": "Curiosity reveals true spanish.",
+      "spanish": "La curiosidad revela español real.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:57.099448"
+    },
+    {
+      "english": "Wisdom: listen, then speak.",
+      "spanish": "Sabiduría: escucha, luego habla.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:57.099453"
     }
   ],
-  "last_updated": "2026-03-24T19:56:47.616183",
+  "last_updated": "2026-03-24T21:01:57.099455",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2627,6 +2657,11 @@
     "this feeling? spanish clicks.",
     "breathe. then speak. simple.",
     "this small step, a giant leap.",
-    "why fear mistakes? they teach."
+    "why fear mistakes? they teach.",
+    "this one word unlocks joy.",
+    "your voice? it matters.",
+    "never miss this opportunity.",
+    "curiosity reveals true spanish.",
+    "wisdom: listen, then speak."
   ]
 }
