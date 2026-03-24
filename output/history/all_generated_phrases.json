@@ -2219,9 +2219,39 @@
       "spanish": "Una palabra real, amigo nuevo.",
       "category": "Growth",
       "generated_at": "2026-03-24T18:10:13.843798"
+    },
+    {
+      "english": "Unlock worlds, one word.",
+      "spanish": "Desbloquea mundos, una palabra.",
+      "category": "Creativity",
+      "generated_at": "2026-03-24T19:56:47.616132"
+    },
+    {
+      "english": "This feeling? Spanish clicks.",
+      "spanish": "¿Esta sensación? Español encaja.",
+      "category": "Creativity",
+      "generated_at": "2026-03-24T19:56:47.616153"
+    },
+    {
+      "english": "Breathe. Then speak. Simple.",
+      "spanish": "Respira. Luego habla. Simple.",
+      "category": "Creativity",
+      "generated_at": "2026-03-24T19:56:47.616163"
+    },
+    {
+      "english": "This small step, a giant leap.",
+      "spanish": "Este pequeño paso, un gran salto.",
+      "category": "Creativity",
+      "generated_at": "2026-03-24T19:56:47.616172"
+    },
+    {
+      "english": "Why fear mistakes? They teach.",
+      "spanish": "¿Por qué temer errores? Enseñan.",
+      "category": "Creativity",
+      "generated_at": "2026-03-24T19:56:47.616181"
     }
   ],
-  "last_updated": "2026-03-24T18:10:13.843800",
+  "last_updated": "2026-03-24T19:56:47.616183",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2592,6 +2622,11 @@
     "this phrase unlocks connection.",
     "why does this word matter?",
     "tiny sounds, huge power.",
-    "one real word, new friend."
+    "one real word, new friend.",
+    "unlock worlds, one word.",
+    "this feeling? spanish clicks.",
+    "breathe. then speak. simple.",
+    "this small step, a giant leap.",
+    "why fear mistakes? they teach."
   ]
 }
