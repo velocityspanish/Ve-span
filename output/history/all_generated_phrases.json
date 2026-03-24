@@ -2279,9 +2279,39 @@
       "spanish": "Sabiduría: escucha, luego habla.",
       "category": "Confidence",
       "generated_at": "2026-03-24T21:01:57.099453"
+    },
+    {
+      "english": "This sound breaks language barriers.",
+      "spanish": "Este sonido rompe barreras.",
+      "category": "Courage",
+      "generated_at": "2026-03-24T22:05:36.466695"
+    },
+    {
+      "english": "Your next word creates friends.",
+      "spanish": "Tu próxima palabra crea amigos.",
+      "category": "Courage",
+      "generated_at": "2026-03-24T22:05:36.466708"
+    },
+    {
+      "english": "What if speaking is easy?",
+      "spanish": "¿Y si hablar es fácil?",
+      "category": "Courage",
+      "generated_at": "2026-03-24T22:05:36.466713"
+    },
+    {
+      "english": "Embrace the learning curve, grow.",
+      "spanish": "Abraza la curva de aprendizaje.",
+      "category": "Courage",
+      "generated_at": "2026-03-24T22:05:36.466718"
+    },
+    {
+      "english": "Hear this. Then speak.",
+      "spanish": "Escucha esto. Luego habla.",
+      "category": "Courage",
+      "generated_at": "2026-03-24T22:05:36.466722"
     }
   ],
-  "last_updated": "2026-03-24T21:01:57.099455",
+  "last_updated": "2026-03-24T22:05:36.466724",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2662,6 +2692,11 @@
     "your voice? it matters.",
     "never miss this opportunity.",
     "curiosity reveals true spanish.",
-    "wisdom: listen, then speak."
+    "wisdom: listen, then speak.",
+    "this sound breaks language barriers.",
+    "your next word creates friends.",
+    "what if speaking is easy?",
+    "embrace the learning curve, grow.",
+    "hear this. then speak."
   ]
 }
