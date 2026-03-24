@@ -2159,9 +2159,39 @@
       "spanish": "Este sonido les sonríe.",
       "category": "Perseverance",
       "generated_at": "2026-03-23T22:01:20.290835"
+    },
+    {
+      "english": "This one word, warms hearts.",
+      "spanish": "Esta palabra, calienta corazones.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:56.766653"
+    },
+    {
+      "english": "Your voice? Truly amazing.",
+      "spanish": "Tu voz? Realmente asombrosa.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:56.766667"
+    },
+    {
+      "english": "Why learn? Connection happens.",
+      "spanish": "¿Por qué aprender? La conexión sucede.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:56.766672"
+    },
+    {
+      "english": "Feel the vibe, speak Spanish.",
+      "spanish": "Siente la vibra, habla español.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:56.766677"
+    },
+    {
+      "english": "Mistakes? They're your friends.",
+      "spanish": "¿Errores? Son tus amigos.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:56.766681"
     }
   ],
-  "last_updated": "2026-03-23T22:01:20.290837",
+  "last_updated": "2026-03-24T16:41:56.766683",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2522,6 +2552,11 @@
     "this one word opens doors.",
     "your effort, today's win.",
     "feel the spanish rhythm, now.",
-    "this sound makes them smile."
+    "this sound makes them smile.",
+    "this one word, warms hearts.",
+    "your voice? truly amazing.",
+    "why learn? connection happens.",
+    "feel the vibe, speak spanish.",
+    "mistakes? they're your friends."
   ]
 }
