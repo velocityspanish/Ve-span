@@ -2189,9 +2189,39 @@
       "spanish": "¿Errores? Son tus amigos.",
       "category": "Gratitude",
       "generated_at": "2026-03-24T16:41:56.766681"
+    },
+    {
+      "english": "Your spanish awakening is here.",
+      "spanish": "Tu despertar español está aquí.",
+      "category": "Growth",
+      "generated_at": "2026-03-24T18:10:13.843771"
+    },
+    {
+      "english": "This phrase unlocks connection.",
+      "spanish": "Esta frase desbloquea conexión.",
+      "category": "Growth",
+      "generated_at": "2026-03-24T18:10:13.843784"
+    },
+    {
+      "english": "Why does this word matter?",
+      "spanish": "¿Por qué importa esta palabra?",
+      "category": "Growth",
+      "generated_at": "2026-03-24T18:10:13.843789"
+    },
+    {
+      "english": "Tiny sounds, huge power.",
+      "spanish": "Sonidos pequeños, gran poder.",
+      "category": "Growth",
+      "generated_at": "2026-03-24T18:10:13.843793"
+    },
+    {
+      "english": "One real word, new friend.",
+      "spanish": "Una palabra real, amigo nuevo.",
+      "category": "Growth",
+      "generated_at": "2026-03-24T18:10:13.843798"
     }
   ],
-  "last_updated": "2026-03-24T16:41:56.766683",
+  "last_updated": "2026-03-24T18:10:13.843800",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2557,6 +2587,11 @@
     "your voice? truly amazing.",
     "why learn? connection happens.",
     "feel the vibe, speak spanish.",
-    "mistakes? they're your friends."
+    "mistakes? they're your friends.",
+    "your spanish awakening is here.",
+    "this phrase unlocks connection.",
+    "why does this word matter?",
+    "tiny sounds, huge power.",
+    "one real word, new friend."
   ]
 }
