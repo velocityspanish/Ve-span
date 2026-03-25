@@ -2339,9 +2339,39 @@
       "spanish": "Pequeñas chispas, encienden charlas.",
       "category": "Growth",
       "generated_at": "2026-03-25T16:47:36.542898"
+    },
+    {
+      "english": "Your inner calm, unlock it.",
+      "spanish": "Tu calma interior, desbloquéala.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-25T18:11:38.702437"
+    },
+    {
+      "english": "Listen more, speak better.",
+      "spanish": "Escucha más, habla mejor.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-25T18:11:38.702450"
+    },
+    {
+      "english": "This feeling? Understanding dawns.",
+      "spanish": "¿Este sentimiento? Entendimiento nace.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-25T18:11:38.702455"
+    },
+    {
+      "english": "You're closer than you think.",
+      "spanish": "Estás más cerca de lo que crees.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-25T18:11:38.702460"
+    },
+    {
+      "english": "Embrace the beautiful mess.",
+      "spanish": "Abraza el hermoso desorden.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-25T18:11:38.702465"
     }
   ],
-  "last_updated": "2026-03-25T16:47:36.542900",
+  "last_updated": "2026-03-25T18:11:38.702467",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2732,6 +2762,11 @@
     "your small wins, celebrate them.",
     "why hesitate? listen more.",
     "this sound, pure understanding.",
-    "tiny sparks, ignite conversations."
+    "tiny sparks, ignite conversations.",
+    "your inner calm, unlock it.",
+    "listen more, speak better.",
+    "this feeling? understanding dawns.",
+    "you're closer than you think.",
+    "embrace the beautiful mess."
   ]
 }
