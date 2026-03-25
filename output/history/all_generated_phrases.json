@@ -2399,9 +2399,39 @@
       "spanish": "¿Por qué la bella duda?",
       "category": "Kindness",
       "generated_at": "2026-03-25T19:37:18.746256"
+    },
+    {
+      "english": "Want their heart? Say this.",
+      "spanish": "¿Quieres su corazón? Di esto.",
+      "category": "Love",
+      "generated_at": "2026-03-25T20:58:11.402993"
+    },
+    {
+      "english": "This one word melts hearts.",
+      "spanish": "Esta palabra derrite corazones.",
+      "category": "Love",
+      "generated_at": "2026-03-25T20:58:11.403006"
+    },
+    {
+      "english": "Why they fall in love:",
+      "spanish": "¿Por qué se enamoran?:",
+      "category": "Love",
+      "generated_at": "2026-03-25T20:58:11.403011"
+    },
+    {
+      "english": "Unlock intimacy with this.",
+      "spanish": "Desbloquea intimidad con esto.",
+      "category": "Love",
+      "generated_at": "2026-03-25T20:58:11.403016"
+    },
+    {
+      "english": "Their smile starts here.",
+      "spanish": "Su sonrisa empieza aquí.",
+      "category": "Love",
+      "generated_at": "2026-03-25T20:58:11.403021"
     }
   ],
-  "last_updated": "2026-03-25T19:37:18.746257",
+  "last_updated": "2026-03-25T20:58:11.403023",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2802,6 +2832,11 @@
     "wisdom: connection over perfection.",
     "encouragement: you're getting there.",
     "fact: small words build bridges.",
-    "question: why the beautiful hesitance?"
+    "question: why the beautiful hesitance?",
+    "want their heart? say this.",
+    "this one word melts hearts.",
+    "why they fall in love:",
+    "unlock intimacy with this.",
+    "their smile starts here."
   ]
 }
