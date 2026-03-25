@@ -2369,9 +2369,39 @@
       "spanish": "Abraza el hermoso desorden.",
       "category": "Inner Peace",
       "generated_at": "2026-03-25T18:11:38.702465"
+    },
+    {
+      "english": "Surprise: your accent shines!",
+      "spanish": "¡Sorpresa: tu acento brilla!",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T19:37:18.746228"
+    },
+    {
+      "english": "Wisdom: Connection over perfection.",
+      "spanish": "Sabiduría: Conexión sin perfección.",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T19:37:18.746241"
+    },
+    {
+      "english": "Encouragement: You're getting there.",
+      "spanish": "Ánimo: Vas llegando.",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T19:37:18.746246"
+    },
+    {
+      "english": "Fact: Small words build bridges.",
+      "spanish": "Dato: Palabras pequeñas crean puentes.",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T19:37:18.746251"
+    },
+    {
+      "english": "Question: Why the beautiful hesitance?",
+      "spanish": "¿Por qué la bella duda?",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T19:37:18.746256"
     }
   ],
-  "last_updated": "2026-03-25T18:11:38.702467",
+  "last_updated": "2026-03-25T19:37:18.746257",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2767,6 +2797,11 @@
     "listen more, speak better.",
     "this feeling? understanding dawns.",
     "you're closer than you think.",
-    "embrace the beautiful mess."
+    "embrace the beautiful mess.",
+    "surprise: your accent shines!",
+    "wisdom: connection over perfection.",
+    "encouragement: you're getting there.",
+    "fact: small words build bridges.",
+    "question: why the beautiful hesitance?"
   ]
 }
