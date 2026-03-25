@@ -2429,9 +2429,39 @@
       "spanish": "Su sonrisa empieza aquí.",
       "category": "Love",
       "generated_at": "2026-03-25T20:58:11.403021"
+    },
+    {
+      "english": "Your patience rewards you.",
+      "spanish": "Tu paciencia te recompensa.",
+      "category": "Motivation",
+      "generated_at": "2026-03-25T23:00:16.857848"
+    },
+    {
+      "english": "This sound opens doors.",
+      "spanish": "Este sonido abre puertas.",
+      "category": "Motivation",
+      "generated_at": "2026-03-25T23:00:16.857861"
+    },
+    {
+      "english": "What if it's easier?",
+      "spanish": "¿Y si es más fácil?",
+      "category": "Motivation",
+      "generated_at": "2026-03-25T23:00:16.857866"
+    },
+    {
+      "english": "Tiny sounds, big world.",
+      "spanish": "Sonidos pequeños, gran mundo.",
+      "category": "Motivation",
+      "generated_at": "2026-03-25T23:00:16.857871"
+    },
+    {
+      "english": "Your effort builds fluency.",
+      "spanish": "Tu esfuerzo construye fluidez.",
+      "category": "Motivation",
+      "generated_at": "2026-03-25T23:00:16.857876"
     }
   ],
-  "last_updated": "2026-03-25T20:58:11.403023",
+  "last_updated": "2026-03-25T23:00:16.857877",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2837,6 +2867,11 @@
     "this one word melts hearts.",
     "why they fall in love:",
     "unlock intimacy with this.",
-    "their smile starts here."
+    "their smile starts here.",
+    "your patience rewards you.",
+    "this sound opens doors.",
+    "what if it's easier?",
+    "tiny sounds, big world.",
+    "your effort builds fluency."
   ]
 }
