@@ -2519,9 +2519,39 @@
       "spanish": "Escucha. Luego habla. Sin esfuerzo.",
       "category": "Joy",
       "generated_at": "2026-03-26T18:13:23.382424"
+    },
+    {
+      "english": "The pause is your friend.",
+      "spanish": "La pausa es tu amiga.",
+      "category": "Patience",
+      "generated_at": "2026-03-26T19:58:26.530025"
+    },
+    {
+      "english": "This sound? Your breakthrough.",
+      "spanish": "Este sonido? Tu avance.",
+      "category": "Patience",
+      "generated_at": "2026-03-26T19:58:26.530040"
+    },
+    {
+      "english": "Trust the quiet moments.",
+      "spanish": "Confía en los momentos tranquilos.",
+      "category": "Patience",
+      "generated_at": "2026-03-26T19:58:26.530046"
+    },
+    {
+      "english": "Your effort compounds daily.",
+      "spanish": "Tu esfuerzo se acumula diario.",
+      "category": "Patience",
+      "generated_at": "2026-03-26T19:58:26.530051"
+    },
+    {
+      "english": "Small practice, giant leaps.",
+      "spanish": "Pequeña práctica, saltos gigantes.",
+      "category": "Patience",
+      "generated_at": "2026-03-26T19:58:26.530056"
     }
   ],
-  "last_updated": "2026-03-26T18:13:23.382426",
+  "last_updated": "2026-03-26T19:58:26.530058",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2942,6 +2972,11 @@
     "unlock smiles, say 'hola'.",
     "feel this joy? keep going.",
     "one phrase, instant connection.",
-    "listen. then speak. effortless."
+    "listen. then speak. effortless.",
+    "the pause is your friend.",
+    "this sound? your breakthrough.",
+    "trust the quiet moments.",
+    "your effort compounds daily.",
+    "small practice, giant leaps."
   ]
 }
