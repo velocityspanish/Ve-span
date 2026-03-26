@@ -2549,9 +2549,39 @@
       "spanish": "Pequeña práctica, saltos gigantes.",
       "category": "Patience",
       "generated_at": "2026-03-26T19:58:26.530056"
+    },
+    {
+      "english": "One word, a whole new world.",
+      "spanish": "Una palabra, un mundo nuevo.",
+      "category": "Success",
+      "generated_at": "2026-03-26T20:06:32.664770"
+    },
+    {
+      "english": "Your voice matters, speak.",
+      "spanish": "Tu voz importa, habla.",
+      "category": "Success",
+      "generated_at": "2026-03-26T20:06:32.664784"
+    },
+    {
+      "english": "Feel the rhythm, your spanish.",
+      "spanish": "Siente el ritmo, tu español.",
+      "category": "Success",
+      "generated_at": "2026-03-26T20:06:32.664790"
+    },
+    {
+      "english": "Small phrases, big impact.",
+      "spanish": "Frases cortas, gran impacto.",
+      "category": "Success",
+      "generated_at": "2026-03-26T20:06:32.664795"
+    },
+    {
+      "english": "Wisdom: listen more, speak.",
+      "spanish": "Sabiduría: escucha más, habla.",
+      "category": "Success",
+      "generated_at": "2026-03-26T20:06:32.664800"
     }
   ],
-  "last_updated": "2026-03-26T19:58:26.530058",
+  "last_updated": "2026-03-26T20:06:32.664802",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2977,6 +3007,11 @@
     "this sound? your breakthrough.",
     "trust the quiet moments.",
     "your effort compounds daily.",
-    "small practice, giant leaps."
+    "small practice, giant leaps.",
+    "one word, a whole new world.",
+    "your voice matters, speak.",
+    "feel the rhythm, your spanish.",
+    "small phrases, big impact.",
+    "wisdom: listen more, speak."
   ]
 }
