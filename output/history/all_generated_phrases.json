@@ -2459,9 +2459,39 @@
       "spanish": "Tu esfuerzo construye fluidez.",
       "category": "Motivation",
       "generated_at": "2026-03-25T23:00:16.857876"
+    },
+    {
+      "english": "Your next step, matters",
+      "spanish": "Tu próximo paso, importa",
+      "category": "Positive Life",
+      "generated_at": "2026-03-26T16:46:31.197046"
+    },
+    {
+      "english": "What if you knew this?",
+      "spanish": "¿Y si supieras esto?",
+      "category": "Positive Life",
+      "generated_at": "2026-03-26T16:46:31.197059"
+    },
+    {
+      "english": "Never doubt your progress",
+      "spanish": "Nunca dudes de tu progreso",
+      "category": "Positive Life",
+      "generated_at": "2026-03-26T16:46:31.197064"
+    },
+    {
+      "english": "Wisdom: Listen more, speak less",
+      "spanish": "Sabiduría: Escucha más, habla menos",
+      "category": "Positive Life",
+      "generated_at": "2026-03-26T16:46:31.197069"
+    },
+    {
+      "english": "Feel the joy of learning",
+      "spanish": "Siente la alegría de aprender",
+      "category": "Positive Life",
+      "generated_at": "2026-03-26T16:46:31.197074"
     }
   ],
-  "last_updated": "2026-03-25T23:00:16.857877",
+  "last_updated": "2026-03-26T16:46:31.197076",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2872,6 +2902,11 @@
     "this sound opens doors.",
     "what if it's easier?",
     "tiny sounds, big world.",
-    "your effort builds fluency."
+    "your effort builds fluency.",
+    "your next step, matters",
+    "what if you knew this?",
+    "never doubt your progress",
+    "wisdom: listen more, speak less",
+    "feel the joy of learning"
   ]
 }
