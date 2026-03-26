@@ -2579,9 +2579,39 @@
       "spanish": "Sabiduría: escucha más, habla.",
       "category": "Success",
       "generated_at": "2026-03-26T20:06:32.664800"
+    },
+    {
+      "english": "Your voice matters, start speaking.",
+      "spanish": "Tu voz importa, empieza a hablar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T21:56:35.507345"
+    },
+    {
+      "english": "This one sound surprises them.",
+      "spanish": "Este sonido las/los sorprende.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T21:56:35.507361"
+    },
+    {
+      "english": "Wisdom: Speak with feeling, always.",
+      "spanish": "Sabiduría: Habla con sentimiento, siempre.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T21:56:35.507367"
+    },
+    {
+      "english": "What if speaking feels natural?",
+      "spanish": "¿Y si hablar se siente natural?",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T21:56:35.507373"
+    },
+    {
+      "english": "Tiny moments build fluent speakers.",
+      "spanish": "Pequeños momentos crean hablantes fluidos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T21:56:35.507378"
     }
   ],
-  "last_updated": "2026-03-26T20:06:32.664802",
+  "last_updated": "2026-03-26T21:56:35.507380",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3012,6 +3042,11 @@
     "your voice matters, speak.",
     "feel the rhythm, your spanish.",
     "small phrases, big impact.",
-    "wisdom: listen more, speak."
+    "wisdom: listen more, speak.",
+    "your voice matters, start speaking.",
+    "this one sound surprises them.",
+    "wisdom: speak with feeling, always.",
+    "what if speaking feels natural?",
+    "tiny moments build fluent speakers."
   ]
 }
