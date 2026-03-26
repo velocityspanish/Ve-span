@@ -2489,9 +2489,39 @@
       "spanish": "Siente la alegría de aprender",
       "category": "Positive Life",
       "generated_at": "2026-03-26T16:46:31.197074"
+    },
+    {
+      "english": "This word? Pure magic.",
+      "spanish": "Esta palabra? Magia pura.",
+      "category": "Joy",
+      "generated_at": "2026-03-26T18:13:23.382395"
+    },
+    {
+      "english": "Unlock smiles, say 'Hola'.",
+      "spanish": "Desbloquea sonrisas, di 'Hola'.",
+      "category": "Joy",
+      "generated_at": "2026-03-26T18:13:23.382408"
+    },
+    {
+      "english": "Feel this joy? Keep going.",
+      "spanish": "Sientes esta alegría? Sigue.",
+      "category": "Joy",
+      "generated_at": "2026-03-26T18:13:23.382414"
+    },
+    {
+      "english": "One phrase, instant connection.",
+      "spanish": "Una frase, conexión instantánea.",
+      "category": "Joy",
+      "generated_at": "2026-03-26T18:13:23.382419"
+    },
+    {
+      "english": "Listen. Then speak. Effortless.",
+      "spanish": "Escucha. Luego habla. Sin esfuerzo.",
+      "category": "Joy",
+      "generated_at": "2026-03-26T18:13:23.382424"
     }
   ],
-  "last_updated": "2026-03-26T16:46:31.197076",
+  "last_updated": "2026-03-26T18:13:23.382426",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -2907,6 +2937,11 @@
     "what if you knew this?",
     "never doubt your progress",
     "wisdom: listen more, speak less",
-    "feel the joy of learning"
+    "feel the joy of learning",
+    "this word? pure magic.",
+    "unlock smiles, say 'hola'.",
+    "feel this joy? keep going.",
+    "one phrase, instant connection.",
+    "listen. then speak. effortless."
   ]
 }
