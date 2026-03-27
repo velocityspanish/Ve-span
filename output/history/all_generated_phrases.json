@@ -2699,9 +2699,39 @@
       "spanish": "Este ritmo, tu propia voz.",
       "category": "Perseverance",
       "generated_at": "2026-03-27T19:33:21.675678"
+    },
+    {
+      "english": "Quietly, your spanish grows.",
+      "spanish": "Silenciosamente, tu español crece.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T20:05:29.323616"
+    },
+    {
+      "english": "This rhythm unlocks fluency.",
+      "spanish": "Este ritmo desbloquea fluidez.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T20:05:29.323635"
+    },
+    {
+      "english": "Your next word builds trust.",
+      "spanish": "Tu próxima palabra construye confianza.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T20:05:29.323645"
+    },
+    {
+      "english": "Wisdom: listen before you leap.",
+      "spanish": "Sabiduría: escucha antes de saltar.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T20:05:29.323654"
+    },
+    {
+      "english": "This pause, your power.",
+      "spanish": "Esta pausa, tu poder.",
+      "category": "Patience",
+      "generated_at": "2026-03-27T20:05:29.323663"
     }
   ],
-  "last_updated": "2026-03-27T19:33:21.675679",
+  "last_updated": "2026-03-27T20:05:29.323667",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3152,6 +3182,11 @@
     "your brain learns faster now.",
     "feel the words, connect deeply.",
     "don't fear the silence.",
-    "this rhythm, your own voice."
+    "this rhythm, your own voice.",
+    "quietly, your spanish grows.",
+    "this rhythm unlocks fluency.",
+    "your next word builds trust.",
+    "wisdom: listen before you leap.",
+    "this pause, your power."
   ]
 }
