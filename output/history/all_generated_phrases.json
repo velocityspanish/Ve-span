@@ -2729,9 +2729,39 @@
       "spanish": "Esta pausa, tu poder.",
       "category": "Patience",
       "generated_at": "2026-03-27T20:05:29.323663"
+    },
+    {
+      "english": "Your fear? Just a whisper.",
+      "spanish": "Tu miedo, solo un susurro.",
+      "category": "Courage",
+      "generated_at": "2026-03-27T22:01:03.802340"
+    },
+    {
+      "english": "Why wait? Speak today.",
+      "spanish": "¿Por qué esperar? Habla hoy.",
+      "category": "Courage",
+      "generated_at": "2026-03-27T22:01:03.802355"
+    },
+    {
+      "english": "Your voice is powerful, use it.",
+      "spanish": "Tu voz es potente, úsala.",
+      "category": "Courage",
+      "generated_at": "2026-03-27T22:01:03.802363"
+    },
+    {
+      "english": "Breathe in, speak out.",
+      "spanish": "Inhala, exhala hablando.",
+      "category": "Courage",
+      "generated_at": "2026-03-27T22:01:03.802368"
+    },
+    {
+      "english": "Small talk, big adventures.",
+      "spanish": "Charla, grandes aventuras.",
+      "category": "Courage",
+      "generated_at": "2026-03-27T22:01:03.802374"
     }
   ],
-  "last_updated": "2026-03-27T20:05:29.323667",
+  "last_updated": "2026-03-27T22:01:03.802376",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3187,6 +3217,11 @@
     "this rhythm unlocks fluency.",
     "your next word builds trust.",
     "wisdom: listen before you leap.",
-    "this pause, your power."
+    "this pause, your power.",
+    "your fear? just a whisper.",
+    "why wait? speak today.",
+    "your voice is powerful, use it.",
+    "breathe in, speak out.",
+    "small talk, big adventures."
   ]
 }
