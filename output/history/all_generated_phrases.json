@@ -2609,9 +2609,39 @@
       "spanish": "Pequeños momentos crean hablantes fluidos.",
       "category": "Self Improvement",
       "generated_at": "2026-03-26T21:56:35.507378"
+    },
+    {
+      "english": "Your pronunciation? Surprisingly good!",
+      "spanish": "¿Tu pronunciación? ¡Sorprendentemente buena!",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T15:39:06.613810"
+    },
+    {
+      "english": "One tiny phrase, big impact.",
+      "spanish": "Una frase pequeña, gran impacto.",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T15:39:06.613826"
+    },
+    {
+      "english": "This sound connects everyone.",
+      "spanish": "Este sonido conecta a todos.",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T15:39:06.613832"
+    },
+    {
+      "english": "Surprise: Your Spanish is growing!",
+      "spanish": "Sorpresa: ¡Tu español está creciendo!",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T15:39:06.613837"
+    },
+    {
+      "english": "Embrace the stumble, keep talking.",
+      "spanish": "Abraza el tropiezo, sigue hablando.",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T15:39:06.613843"
     }
   ],
-  "last_updated": "2026-03-26T21:56:35.507380",
+  "last_updated": "2026-03-27T15:39:06.613845",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3047,6 +3077,11 @@
     "this one sound surprises them.",
     "wisdom: speak with feeling, always.",
     "what if speaking feels natural?",
-    "tiny moments build fluent speakers."
+    "tiny moments build fluent speakers.",
+    "your pronunciation? surprisingly good!",
+    "one tiny phrase, big impact.",
+    "this sound connects everyone.",
+    "surprise: your spanish is growing!",
+    "embrace the stumble, keep talking."
   ]
 }
