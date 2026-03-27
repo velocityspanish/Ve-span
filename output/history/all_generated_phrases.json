@@ -2669,9 +2669,39 @@
       "spanish": "Pequeños esfuerzos construyen fluidez.",
       "category": "Confidence",
       "generated_at": "2026-03-27T18:04:33.525286"
+    },
+    {
+      "english": "This one sound, pure magic.",
+      "spanish": "Este sonido, pura magia.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-27T19:33:21.675647"
+    },
+    {
+      "english": "Your brain learns faster now.",
+      "spanish": "Tu cerebro aprende más rápido.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-27T19:33:21.675660"
+    },
+    {
+      "english": "Feel the words, connect deeply.",
+      "spanish": "Siente las palabras, conecta profundo.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-27T19:33:21.675667"
+    },
+    {
+      "english": "Don't fear the silence.",
+      "spanish": "No temas el silencio.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-27T19:33:21.675672"
+    },
+    {
+      "english": "This rhythm, your own voice.",
+      "spanish": "Este ritmo, tu propia voz.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-27T19:33:21.675678"
     }
   ],
-  "last_updated": "2026-03-27T18:04:33.525288",
+  "last_updated": "2026-03-27T19:33:21.675679",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3117,6 +3147,11 @@
     "curiosity opens doors, try.",
     "this rhythm? your spanish.",
     "surprise! your accent shines.",
-    "small efforts build fluency."
+    "small efforts build fluency.",
+    "this one sound, pure magic.",
+    "your brain learns faster now.",
+    "feel the words, connect deeply.",
+    "don't fear the silence.",
+    "this rhythm, your own voice."
   ]
 }
