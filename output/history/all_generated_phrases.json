@@ -2639,9 +2639,39 @@
       "spanish": "Abraza el tropiezo, sigue hablando.",
       "category": "Confidence",
       "generated_at": "2026-03-27T15:39:06.613843"
+    },
+    {
+      "english": "Feel this? Spanish clicks.",
+      "spanish": "¿Sientes esto? El español encaja.",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T18:04:33.525257"
+    },
+    {
+      "english": "Curiosity opens doors, try.",
+      "spanish": "La curiosidad abre puertas, intenta.",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T18:04:33.525270"
+    },
+    {
+      "english": "This rhythm? Your Spanish.",
+      "spanish": "¿Este ritmo? Tu español.",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T18:04:33.525276"
+    },
+    {
+      "english": "Surprise! Your accent shines.",
+      "spanish": "¡Sorpresa! Tu acento brilla.",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T18:04:33.525281"
+    },
+    {
+      "english": "Small efforts build fluency.",
+      "spanish": "Pequeños esfuerzos construyen fluidez.",
+      "category": "Confidence",
+      "generated_at": "2026-03-27T18:04:33.525286"
     }
   ],
-  "last_updated": "2026-03-27T15:39:06.613845",
+  "last_updated": "2026-03-27T18:04:33.525288",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3082,6 +3112,11 @@
     "one tiny phrase, big impact.",
     "this sound connects everyone.",
     "surprise: your spanish is growing!",
-    "embrace the stumble, keep talking."
+    "embrace the stumble, keep talking.",
+    "feel this? spanish clicks.",
+    "curiosity opens doors, try.",
+    "this rhythm? your spanish.",
+    "surprise! your accent shines.",
+    "small efforts build fluency."
   ]
 }
