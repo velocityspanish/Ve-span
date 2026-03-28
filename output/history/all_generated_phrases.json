@@ -2879,9 +2879,39 @@
       "spanish": "Oye este sonido, desbloquea sentido.",
       "category": "Wisdom",
       "generated_at": "2026-03-28T19:55:24.740170"
+    },
+    {
+      "english": "This one sound? pure understanding.",
+      "spanish": "Este sonido único, pura comprensión.",
+      "category": "Joy",
+      "generated_at": "2026-03-28T21:56:24.545683"
+    },
+    {
+      "english": "Your effort compounds daily, amazing!",
+      "spanish": "Tu esfuerzo se acumula diario, ¡increíble!",
+      "category": "Joy",
+      "generated_at": "2026-03-28T21:56:24.545698"
+    },
+    {
+      "english": "Want connection? say this word.",
+      "spanish": "¿Quieres conexión? di esta palabra.",
+      "category": "Joy",
+      "generated_at": "2026-03-28T21:56:24.545704"
+    },
+    {
+      "english": "Tiny sparks ignite conversations, wow!",
+      "spanish": "Pequeñas chispas encienden charlas, ¡wow!",
+      "category": "Joy",
+      "generated_at": "2026-03-28T21:56:24.545709"
+    },
+    {
+      "english": "Hear this, then speak easily.",
+      "spanish": "Escucha esto, luego habla fácil.",
+      "category": "Joy",
+      "generated_at": "2026-03-28T21:56:24.545715"
     }
   ],
-  "last_updated": "2026-03-28T19:55:24.740172",
+  "last_updated": "2026-03-28T21:56:24.545717",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3362,6 +3392,11 @@
     "your accent? a charming superpower.",
     "the secret? daily practice.",
     "encouragement: you're not alone.",
-    "hear this sound, unlock meaning."
+    "hear this sound, unlock meaning.",
+    "this one sound? pure understanding.",
+    "your effort compounds daily, amazing!",
+    "want connection? say this word.",
+    "tiny sparks ignite conversations, wow!",
+    "hear this, then speak easily."
   ]
 }
