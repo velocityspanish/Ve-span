@@ -2759,9 +2759,39 @@
       "spanish": "Charla, grandes aventuras.",
       "category": "Courage",
       "generated_at": "2026-03-27T22:01:03.802374"
+    },
+    {
+      "english": "One sound, opens everything.",
+      "spanish": "Un sonido, lo abre todo.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-28T14:54:59.783638"
+    },
+    {
+      "english": "Your accent? Totally charming.",
+      "spanish": "¿Tu acento? Totalmente encantador.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-28T14:54:59.783650"
+    },
+    {
+      "english": "Why silence? Speak your truth.",
+      "spanish": "¿Por qué el silencio? Di tu verdad.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-28T14:54:59.783656"
+    },
+    {
+      "english": "Tiny phrase, big connections.",
+      "spanish": "Frase corta, grandes conexiones.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-28T14:54:59.783662"
+    },
+    {
+      "english": "Surprise: fluency is gradual.",
+      "spanish": "Sorpresa: la fluidez es gradual.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-28T14:54:59.783667"
     }
   ],
-  "last_updated": "2026-03-27T22:01:03.802376",
+  "last_updated": "2026-03-28T14:54:59.783669",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3222,6 +3252,11 @@
     "why wait? speak today.",
     "your voice is powerful, use it.",
     "breathe in, speak out.",
-    "small talk, big adventures."
+    "small talk, big adventures.",
+    "one sound, opens everything.",
+    "your accent? totally charming.",
+    "why silence? speak your truth.",
+    "tiny phrase, big connections.",
+    "surprise: fluency is gradual."
   ]
 }
