@@ -2819,9 +2819,39 @@
       "spanish": "Tu paciencia florece fluidez.",
       "category": "Inspiration",
       "generated_at": "2026-03-28T16:00:18.463268"
+    },
+    {
+      "english": "Their heart hears this.",
+      "spanish": "Su corazón escucha esto.",
+      "category": "Love",
+      "generated_at": "2026-03-28T17:59:47.298047"
+    },
+    {
+      "english": "Whisper this, watch them blush.",
+      "spanish": "Susurra esto, vélos sonrojarse.",
+      "category": "Love",
+      "generated_at": "2026-03-28T17:59:47.298060"
+    },
+    {
+      "english": "One phrase, pure romance.",
+      "spanish": "Una frase, romance puro.",
+      "category": "Love",
+      "generated_at": "2026-03-28T17:59:47.298066"
+    },
+    {
+      "english": "Why they fall? Simple.",
+      "spanish": "¿Por qué se enamoran? Simple.",
+      "category": "Love",
+      "generated_at": "2026-03-28T17:59:47.298071"
+    },
+    {
+      "english": "Unlock smiles, just say 'te amo'.",
+      "spanish": "Desbloquea sonrisas, solo di 'te amo'.",
+      "category": "Love",
+      "generated_at": "2026-03-28T17:59:47.298077"
     }
   ],
-  "last_updated": "2026-03-28T16:00:18.463270",
+  "last_updated": "2026-03-28T17:59:47.298081",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3292,6 +3322,11 @@
     "this small sound opens worlds.",
     "why are you holding back?",
     "wisdom: embrace awkwardness, learn.",
-    "your patience blooms fluency."
+    "your patience blooms fluency.",
+    "their heart hears this.",
+    "whisper this, watch them blush.",
+    "one phrase, pure romance.",
+    "why they fall? simple.",
+    "unlock smiles, just say 'te amo'."
   ]
 }
