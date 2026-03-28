@@ -2849,9 +2849,39 @@
       "spanish": "Desbloquea sonrisas, solo di 'te amo'.",
       "category": "Love",
       "generated_at": "2026-03-28T17:59:47.298077"
+    },
+    {
+      "english": "Curiosity reveals the rhythm.",
+      "spanish": "La curiosidad revela el ritmo.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-28T19:55:24.740139"
+    },
+    {
+      "english": "Your accent? A charming superpower.",
+      "spanish": "¿Tu acento? Un superpoder encantador.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-28T19:55:24.740153"
+    },
+    {
+      "english": "The secret? Daily practice.",
+      "spanish": "El secreto? Práctica diaria.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-28T19:55:24.740159"
+    },
+    {
+      "english": "Encouragement: You're not alone.",
+      "spanish": "Ánimo: No estás solo/a.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-28T19:55:24.740165"
+    },
+    {
+      "english": "Hear this sound, unlock meaning.",
+      "spanish": "Oye este sonido, desbloquea sentido.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-28T19:55:24.740170"
     }
   ],
-  "last_updated": "2026-03-28T17:59:47.298081",
+  "last_updated": "2026-03-28T19:55:24.740172",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3327,6 +3357,11 @@
     "whisper this, watch them blush.",
     "one phrase, pure romance.",
     "why they fall? simple.",
-    "unlock smiles, just say 'te amo'."
+    "unlock smiles, just say 'te amo'.",
+    "curiosity reveals the rhythm.",
+    "your accent? a charming superpower.",
+    "the secret? daily practice.",
+    "encouragement: you're not alone.",
+    "hear this sound, unlock meaning."
   ]
 }
