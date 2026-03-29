@@ -2939,9 +2939,39 @@
       "spanish": "Pequeños esfuerzos, grandes saltos.",
       "category": "Balance",
       "generated_at": "2026-03-29T14:56:39.849028"
+    },
+    {
+      "english": "Surprise: they understand you!",
+      "spanish": "¡Sorpresa: te entienden!",
+      "category": "Growth",
+      "generated_at": "2026-03-29T16:00:54.743508"
+    },
+    {
+      "english": "Curiosity: how to sound natural?",
+      "spanish": "Curiosidad: ¿suena natural?",
+      "category": "Growth",
+      "generated_at": "2026-03-29T16:00:54.743522"
+    },
+    {
+      "english": "This rhythm wins hearts.",
+      "spanish": "Este ritmo gana corazones.",
+      "category": "Growth",
+      "generated_at": "2026-03-29T16:00:54.743528"
+    },
+    {
+      "english": "Want their attention? Listen.",
+      "spanish": "¿Quieres su atención? Escucha.",
+      "category": "Growth",
+      "generated_at": "2026-03-29T16:00:54.743534"
+    },
+    {
+      "english": "Wisdom: mistakes are lessons.",
+      "spanish": "Sabiduría: errores son lecciones.",
+      "category": "Growth",
+      "generated_at": "2026-03-29T16:00:54.743540"
     }
   ],
-  "last_updated": "2026-03-29T14:56:39.849030",
+  "last_updated": "2026-03-29T16:00:54.743542",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3432,6 +3462,11 @@
     "this one word breaks ice.",
     "feel the connection growing.",
     "what if it’s easy?",
-    "tiny efforts, big leaps."
+    "tiny efforts, big leaps.",
+    "surprise: they understand you!",
+    "curiosity: how to sound natural?",
+    "this rhythm wins hearts.",
+    "want their attention? listen.",
+    "wisdom: mistakes are lessons."
   ]
 }
