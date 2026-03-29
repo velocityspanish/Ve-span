@@ -2969,9 +2969,39 @@
       "spanish": "Sabiduría: errores son lecciones.",
       "category": "Growth",
       "generated_at": "2026-03-29T16:00:54.743540"
+    },
+    {
+      "english": "Feeling stuck? Try this.",
+      "spanish": "¿Te sientes atascado? Prueba esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T18:02:09.968481"
+    },
+    {
+      "english": "Your brain is wiring.",
+      "spanish": "Tu cerebro se está cableando.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T18:02:09.968496"
+    },
+    {
+      "english": "This unlocks listening power.",
+      "spanish": "Esto desbloquea el poder de escuchar.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T18:02:09.968502"
+    },
+    {
+      "english": "Why does this work?",
+      "spanish": "¿Por qué funciona esto?",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T18:02:09.968508"
+    },
+    {
+      "english": "Embrace the pause, speak.",
+      "spanish": "Abraza la pausa, habla.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T18:02:09.968513"
     }
   ],
-  "last_updated": "2026-03-29T16:00:54.743542",
+  "last_updated": "2026-03-29T18:02:09.968515",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3467,6 +3497,11 @@
     "curiosity: how to sound natural?",
     "this rhythm wins hearts.",
     "want their attention? listen.",
-    "wisdom: mistakes are lessons."
+    "wisdom: mistakes are lessons.",
+    "feeling stuck? try this.",
+    "your brain is wiring.",
+    "this unlocks listening power.",
+    "why does this work?",
+    "embrace the pause, speak."
   ]
 }
