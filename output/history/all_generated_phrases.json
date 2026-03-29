@@ -2909,9 +2909,39 @@
       "spanish": "Escucha esto, luego habla fácil.",
       "category": "Joy",
       "generated_at": "2026-03-28T21:56:24.545715"
+    },
+    {
+      "english": "Your inner voice matters.",
+      "spanish": "Tu voz interior importa.",
+      "category": "Balance",
+      "generated_at": "2026-03-29T14:56:39.848995"
+    },
+    {
+      "english": "This one word breaks ice.",
+      "spanish": "Esta palabra rompe el hielo.",
+      "category": "Balance",
+      "generated_at": "2026-03-29T14:56:39.849010"
+    },
+    {
+      "english": "Feel the connection growing.",
+      "spanish": "Siente la conexión creciendo.",
+      "category": "Balance",
+      "generated_at": "2026-03-29T14:56:39.849017"
+    },
+    {
+      "english": "What if it’s easy?",
+      "spanish": "¿Y si fuera fácil?",
+      "category": "Balance",
+      "generated_at": "2026-03-29T14:56:39.849023"
+    },
+    {
+      "english": "Tiny efforts, big leaps.",
+      "spanish": "Pequeños esfuerzos, grandes saltos.",
+      "category": "Balance",
+      "generated_at": "2026-03-29T14:56:39.849028"
     }
   ],
-  "last_updated": "2026-03-28T21:56:24.545717",
+  "last_updated": "2026-03-29T14:56:39.849030",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3397,6 +3427,11 @@
     "your effort compounds daily, amazing!",
     "want connection? say this word.",
     "tiny sparks ignite conversations, wow!",
-    "hear this, then speak easily."
+    "hear this, then speak easily.",
+    "your inner voice matters.",
+    "this one word breaks ice.",
+    "feel the connection growing.",
+    "what if it’s easy?",
+    "tiny efforts, big leaps."
   ]
 }
