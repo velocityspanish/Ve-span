@@ -3029,9 +3029,39 @@
       "spanish": "Aquí el secreto de alegría.",
       "category": "Joy",
       "generated_at": "2026-03-29T19:58:31.097950"
+    },
+    {
+      "english": "This feeling? Pure progress.",
+      "spanish": "Este sentimiento? Progreso puro.",
+      "category": "Kindness",
+      "generated_at": "2026-03-29T21:59:43.246944"
+    },
+    {
+      "english": "Curiosity opens every door.",
+      "spanish": "La curiosidad abre puertas.",
+      "category": "Kindness",
+      "generated_at": "2026-03-29T21:59:43.246957"
+    },
+    {
+      "english": "Your voice is welcome here.",
+      "spanish": "Tu voz es bienvenida aquí.",
+      "category": "Kindness",
+      "generated_at": "2026-03-29T21:59:43.246963"
+    },
+    {
+      "english": "This sound? Pure connection.",
+      "spanish": "¿Este sonido? Conexión pura.",
+      "category": "Kindness",
+      "generated_at": "2026-03-29T21:59:43.246969"
+    },
+    {
+      "english": "Wisdom: Speak with heart.",
+      "spanish": "Sabiduría: Habla con corazón.",
+      "category": "Kindness",
+      "generated_at": "2026-03-29T21:59:43.246974"
     }
   ],
-  "last_updated": "2026-03-29T19:58:31.097952",
+  "last_updated": "2026-03-29T21:59:43.246976",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3537,6 +3567,11 @@
     "want a real smile? try this.",
     "your voice finds its rhythm.",
     "one sound opens your ears.",
-    "here's the secret to joy."
+    "here's the secret to joy.",
+    "this feeling? pure progress.",
+    "curiosity opens every door.",
+    "your voice is welcome here.",
+    "this sound? pure connection.",
+    "wisdom: speak with heart."
   ]
 }
