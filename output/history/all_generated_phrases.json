@@ -2999,9 +2999,39 @@
       "spanish": "Abraza la pausa, habla.",
       "category": "Gratitude",
       "generated_at": "2026-03-29T18:02:09.968513"
+    },
+    {
+      "english": "Surprise! You're learning faster.",
+      "spanish": "¡Sorpresa! Aprendes más rápido.",
+      "category": "Joy",
+      "generated_at": "2026-03-29T19:58:31.097915"
+    },
+    {
+      "english": "Want a real smile? Try this.",
+      "spanish": "¿Quieres sonrisa real? Prueba esto.",
+      "category": "Joy",
+      "generated_at": "2026-03-29T19:58:31.097930"
+    },
+    {
+      "english": "Your voice finds its rhythm.",
+      "spanish": "Tu voz encuentra su ritmo.",
+      "category": "Joy",
+      "generated_at": "2026-03-29T19:58:31.097937"
+    },
+    {
+      "english": "One sound opens your ears.",
+      "spanish": "Un sonido abre tus oídos.",
+      "category": "Joy",
+      "generated_at": "2026-03-29T19:58:31.097944"
+    },
+    {
+      "english": "Here's the secret to joy.",
+      "spanish": "Aquí el secreto de alegría.",
+      "category": "Joy",
+      "generated_at": "2026-03-29T19:58:31.097950"
     }
   ],
-  "last_updated": "2026-03-29T18:02:09.968515",
+  "last_updated": "2026-03-29T19:58:31.097952",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3502,6 +3532,11 @@
     "your brain is wiring.",
     "this unlocks listening power.",
     "why does this work?",
-    "embrace the pause, speak."
+    "embrace the pause, speak.",
+    "surprise! you're learning faster.",
+    "want a real smile? try this.",
+    "your voice finds its rhythm.",
+    "one sound opens your ears.",
+    "here's the secret to joy."
   ]
 }
