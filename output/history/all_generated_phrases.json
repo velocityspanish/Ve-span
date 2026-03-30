@@ -3119,9 +3119,39 @@
       "spanish": "Tu voz es tu superpoder.",
       "category": "Courage",
       "generated_at": "2026-03-30T18:07:59.019395"
+    },
+    {
+      "english": "Your first word, matters.",
+      "spanish": "Tu primera palabra, importa.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T20:00:34.774794"
+    },
+    {
+      "english": "This small fear? conquer it.",
+      "spanish": "Este pequeño miedo? conquístalo.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T20:00:34.774809"
+    },
+    {
+      "english": "What if you're ready now?",
+      "spanish": "¿Y si estás listo/a ahora?",
+      "category": "Courage",
+      "generated_at": "2026-03-30T20:00:34.774816"
+    },
+    {
+      "english": "Brave steps create your path.",
+      "spanish": "Pasos valientes crean tu senda.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T20:00:34.774822"
+    },
+    {
+      "english": "One 'hola' changes everything.",
+      "spanish": "Un 'hola' cambia todo.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T20:00:34.774828"
     }
   ],
-  "last_updated": "2026-03-30T18:07:59.019397",
+  "last_updated": "2026-03-30T20:00:34.774829",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3642,6 +3672,11 @@
     "your bravery starts now.",
     "dare to speak, you can.",
     "feel that spark? ignite.",
-    "your voice is your superpower."
+    "your voice is your superpower.",
+    "your first word, matters.",
+    "this small fear? conquer it.",
+    "what if you're ready now?",
+    "brave steps create your path.",
+    "one 'hola' changes everything."
   ]
 }
