@@ -3059,9 +3059,39 @@
       "spanish": "Sabiduría: Habla con corazón.",
       "category": "Kindness",
       "generated_at": "2026-03-29T21:59:43.246974"
+    },
+    {
+      "english": "Your bravery speaks volumes.",
+      "spanish": "Tu valentía dice mucho.",
+      "category": "Strength",
+      "generated_at": "2026-03-30T16:17:08.752683"
+    },
+    {
+      "english": "Why are you so brave?",
+      "spanish": "¿Por qué eres tan valiente?",
+      "category": "Strength",
+      "generated_at": "2026-03-30T16:17:08.752697"
+    },
+    {
+      "english": "Listen. Then your words flow.",
+      "spanish": "Escucha. Luego tus palabras fluyen.",
+      "category": "Strength",
+      "generated_at": "2026-03-30T16:17:08.752703"
+    },
+    {
+      "english": "This single word connects.",
+      "spanish": "Esta sola palabra conecta.",
+      "category": "Strength",
+      "generated_at": "2026-03-30T16:17:08.752709"
+    },
+    {
+      "english": "Your effort, truly admirable.",
+      "spanish": "Tu esfuerzo, realmente admirable.",
+      "category": "Strength",
+      "generated_at": "2026-03-30T16:17:08.752715"
     }
   ],
-  "last_updated": "2026-03-29T21:59:43.246976",
+  "last_updated": "2026-03-30T16:17:08.752717",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3572,6 +3602,11 @@
     "curiosity opens every door.",
     "your voice is welcome here.",
     "this sound? pure connection.",
-    "wisdom: speak with heart."
+    "wisdom: speak with heart.",
+    "your bravery speaks volumes.",
+    "why are you so brave?",
+    "listen. then your words flow.",
+    "this single word connects.",
+    "your effort, truly admirable."
   ]
 }
