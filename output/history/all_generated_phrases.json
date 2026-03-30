@@ -3179,9 +3179,39 @@
       "spanish": "Este pequeño cambio te transforma.",
       "category": "Self Improvement",
       "generated_at": "2026-03-30T21:27:58.022654"
+    },
+    {
+      "english": "Their ears are ready, listen.",
+      "spanish": "Sus oídos están listos, escucha.",
+      "category": "Success",
+      "generated_at": "2026-03-30T23:00:47.310587"
+    },
+    {
+      "english": "Surprise! Your brain learns faster.",
+      "spanish": "¡Sorpresa! Tu cerebro aprende más rápido.",
+      "category": "Success",
+      "generated_at": "2026-03-30T23:00:47.310600"
+    },
+    {
+      "english": "Wisdom: Embrace the unknown, speak.",
+      "spanish": "Sabiduría: Abraza lo desconocido, habla.",
+      "category": "Success",
+      "generated_at": "2026-03-30T23:00:47.310607"
+    },
+    {
+      "english": "Feel the rhythm, connect instantly.",
+      "spanish": "Siente el ritmo, conecta al instante.",
+      "category": "Success",
+      "generated_at": "2026-03-30T23:00:47.310612"
+    },
+    {
+      "english": "Your courage shines, speak bravely.",
+      "spanish": "Tu coraje brilla, habla valientemente.",
+      "category": "Success",
+      "generated_at": "2026-03-30T23:00:47.310618"
     }
   ],
-  "last_updated": "2026-03-30T21:27:58.022656",
+  "last_updated": "2026-03-30T23:00:47.310620",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3712,6 +3742,11 @@
     "what if talking felt easy?",
     "your courage unlocks new worlds.",
     "listen. then speak from heart.",
-    "this small change transforms you."
+    "this small change transforms you.",
+    "their ears are ready, listen.",
+    "surprise! your brain learns faster.",
+    "wisdom: embrace the unknown, speak.",
+    "feel the rhythm, connect instantly.",
+    "your courage shines, speak bravely."
   ]
 }
