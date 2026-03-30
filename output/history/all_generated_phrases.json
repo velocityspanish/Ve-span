@@ -3149,9 +3149,39 @@
       "spanish": "Un 'hola' cambia todo.",
       "category": "Courage",
       "generated_at": "2026-03-30T20:00:34.774828"
+    },
+    {
+      "english": "One word, endless smiles.",
+      "spanish": "Una palabra, sonrisas infinitas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-30T21:27:58.022618"
+    },
+    {
+      "english": "What if talking felt easy?",
+      "spanish": "¿Y si hablar se sintiera fácil?",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-30T21:27:58.022635"
+    },
+    {
+      "english": "Your courage unlocks new worlds.",
+      "spanish": "Tu coraje desbloquea mundos nuevos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-30T21:27:58.022642"
+    },
+    {
+      "english": "Listen. Then speak from heart.",
+      "spanish": "Escucha. Luego habla de corazón.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-30T21:27:58.022648"
+    },
+    {
+      "english": "This small change transforms you.",
+      "spanish": "Este pequeño cambio te transforma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-30T21:27:58.022654"
     }
   ],
-  "last_updated": "2026-03-30T20:00:34.774829",
+  "last_updated": "2026-03-30T21:27:58.022656",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3677,6 +3707,11 @@
     "this small fear? conquer it.",
     "what if you're ready now?",
     "brave steps create your path.",
-    "one 'hola' changes everything."
+    "one 'hola' changes everything.",
+    "one word, endless smiles.",
+    "what if talking felt easy?",
+    "your courage unlocks new worlds.",
+    "listen. then speak from heart.",
+    "this small change transforms you."
   ]
 }
