@@ -3089,9 +3089,39 @@
       "spanish": "Tu esfuerzo, realmente admirable.",
       "category": "Strength",
       "generated_at": "2026-03-30T16:17:08.752715"
+    },
+    {
+      "english": "This one word, pure courage.",
+      "spanish": "Esta palabra, puro valor.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T18:07:59.019364"
+    },
+    {
+      "english": "Your bravery starts now.",
+      "spanish": "Tu valentía empieza ahora.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T18:07:59.019378"
+    },
+    {
+      "english": "Dare to speak, you can.",
+      "spanish": "Atrévete a hablar, puedes.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T18:07:59.019384"
+    },
+    {
+      "english": "Feel that spark? Ignite.",
+      "spanish": "Siente esa chispa? Enciende.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T18:07:59.019389"
+    },
+    {
+      "english": "Your voice is your superpower.",
+      "spanish": "Tu voz es tu superpoder.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T18:07:59.019395"
     }
   ],
-  "last_updated": "2026-03-30T16:17:08.752717",
+  "last_updated": "2026-03-30T18:07:59.019397",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3607,6 +3637,11 @@
     "why are you so brave?",
     "listen. then your words flow.",
     "this single word connects.",
-    "your effort, truly admirable."
+    "your effort, truly admirable.",
+    "this one word, pure courage.",
+    "your bravery starts now.",
+    "dare to speak, you can.",
+    "feel that spark? ignite.",
+    "your voice is your superpower."
   ]
 }
