@@ -3329,9 +3329,39 @@
       "spanish": "Este ritmo les hace escuchar.",
       "category": "Hope",
       "generated_at": "2026-03-31T21:00:45.030921"
+    },
+    {
+      "english": "Forgive. Free yourself now.",
+      "spanish": "Perdona. Libérate ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-31T22:54:29.026331"
+    },
+    {
+      "english": "This changes your perspective.",
+      "spanish": "Esto cambia tu perspectiva.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-31T22:54:29.026349"
+    },
+    {
+      "english": "Wisdom: Let go gently.",
+      "spanish": "Sabiduría: Suelta suavemente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-31T22:54:29.026356"
+    },
+    {
+      "english": "Your peace is worth it.",
+      "spanish": "Tu paz lo vale.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-31T22:54:29.026362"
+    },
+    {
+      "english": "They said sorry, truly.",
+      "spanish": "Dijeron 'lo siento', de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-31T22:54:29.026368"
     }
   ],
-  "last_updated": "2026-03-31T21:00:45.030923",
+  "last_updated": "2026-03-31T22:54:29.026370",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3887,6 +3917,11 @@
     "curiosity unlocks new worlds.",
     "this one sound, big impact.",
     "your small effort, matters.",
-    "this rhythm makes them listen."
+    "this rhythm makes them listen.",
+    "forgive. free yourself now.",
+    "this changes your perspective.",
+    "wisdom: let go gently.",
+    "your peace is worth it.",
+    "they said sorry, truly."
   ]
 }
