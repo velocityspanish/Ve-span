@@ -3299,9 +3299,39 @@
       "spanish": "Aquí está el superpoder silencioso.",
       "category": "Inner Peace",
       "generated_at": "2026-03-31T19:59:38.340691"
+    },
+    {
+      "english": "Your brain's rewiring now.",
+      "spanish": "Tu cerebro se recablea ahora.",
+      "category": "Hope",
+      "generated_at": "2026-03-31T21:00:45.030890"
+    },
+    {
+      "english": "Curiosity unlocks new worlds.",
+      "spanish": "La curiosidad abre mundos nuevos.",
+      "category": "Hope",
+      "generated_at": "2026-03-31T21:00:45.030902"
+    },
+    {
+      "english": "This ONE sound, big impact.",
+      "spanish": "Este sonido UNO, gran impacto.",
+      "category": "Hope",
+      "generated_at": "2026-03-31T21:00:45.030909"
+    },
+    {
+      "english": "Your small effort, matters.",
+      "spanish": "Tu pequeño esfuerzo, importa.",
+      "category": "Hope",
+      "generated_at": "2026-03-31T21:00:45.030915"
+    },
+    {
+      "english": "This rhythm makes them listen.",
+      "spanish": "Este ritmo les hace escuchar.",
+      "category": "Hope",
+      "generated_at": "2026-03-31T21:00:45.030921"
     }
   ],
-  "last_updated": "2026-03-31T19:59:38.340693",
+  "last_updated": "2026-03-31T21:00:45.030923",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3852,6 +3882,11 @@
     "one word, big feelings unlocked.",
     "your patience is beautiful, bloom.",
     "curiosity unlocks the next level.",
-    "here’s the quiet superpower."
+    "here’s the quiet superpower.",
+    "your brain's rewiring now.",
+    "curiosity unlocks new worlds.",
+    "this one sound, big impact.",
+    "your small effort, matters.",
+    "this rhythm makes them listen."
   ]
 }
