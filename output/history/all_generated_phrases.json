@@ -3209,9 +3209,39 @@
       "spanish": "Tu coraje brilla, habla valientemente.",
       "category": "Success",
       "generated_at": "2026-03-30T23:00:47.310618"
+    },
+    {
+      "english": "Surprise! You're fluent already.",
+      "spanish": "¡Sorpresa! Ya eres fluido.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T16:37:05.315158"
+    },
+    {
+      "english": "Why pause? Speak it.",
+      "spanish": "¿Por qué pausar? Dilo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T16:37:05.315173"
+    },
+    {
+      "english": "Hear this, then reply.",
+      "spanish": "Escucha esto, luego responde.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T16:37:05.315179"
+    },
+    {
+      "english": "Tiny wins build fluency.",
+      "spanish": "Pequeñas victorias construyen fluidez.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T16:37:05.315185"
+    },
+    {
+      "english": "Never fear the listener.",
+      "spanish": "Nunca temas al oyente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T16:37:05.315191"
     }
   ],
-  "last_updated": "2026-03-30T23:00:47.310620",
+  "last_updated": "2026-03-31T16:37:05.315193",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3747,6 +3777,11 @@
     "surprise! your brain learns faster.",
     "wisdom: embrace the unknown, speak.",
     "feel the rhythm, connect instantly.",
-    "your courage shines, speak bravely."
+    "your courage shines, speak bravely.",
+    "surprise! you're fluent already.",
+    "why pause? speak it.",
+    "hear this, then reply.",
+    "tiny wins build fluency.",
+    "never fear the listener."
   ]
 }
