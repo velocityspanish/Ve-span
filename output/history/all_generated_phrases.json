@@ -3269,9 +3269,39 @@
       "spanish": "¡Sorpresa! Tu acento es único.",
       "category": "Strength",
       "generated_at": "2026-03-31T18:08:11.269880"
+    },
+    {
+      "english": "Your mind is a sponge, soak it.",
+      "spanish": "Tu mente es esponja, empápala.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-31T19:59:38.340656"
+    },
+    {
+      "english": "One word, big feelings unlocked.",
+      "spanish": "Una palabra, grandes sentimientos liberados.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-31T19:59:38.340671"
+    },
+    {
+      "english": "Your patience is beautiful, bloom.",
+      "spanish": "Tu paciencia es hermosa, florece.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-31T19:59:38.340678"
+    },
+    {
+      "english": "Curiosity unlocks the next level.",
+      "spanish": "La curiosidad desbloquea el siguiente nivel.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-31T19:59:38.340684"
+    },
+    {
+      "english": "Here’s the quiet superpower.",
+      "spanish": "Aquí está el superpoder silencioso.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-31T19:59:38.340691"
     }
   ],
-  "last_updated": "2026-03-31T18:08:11.269882",
+  "last_updated": "2026-03-31T19:59:38.340693",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3817,6 +3847,11 @@
     "your brain is learning now.",
     "one word starts your story.",
     "curiosity: what's next, amigo?",
-    "surprise! your accent is unique."
+    "surprise! your accent is unique.",
+    "your mind is a sponge, soak it.",
+    "one word, big feelings unlocked.",
+    "your patience is beautiful, bloom.",
+    "curiosity unlocks the next level.",
+    "here’s the quiet superpower."
   ]
 }
