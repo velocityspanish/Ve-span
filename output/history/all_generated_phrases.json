@@ -3239,9 +3239,39 @@
       "spanish": "Nunca temas al oyente.",
       "category": "Mindfulness",
       "generated_at": "2026-03-31T16:37:05.315191"
+    },
+    {
+      "english": "Feel it? Fluency is near.",
+      "spanish": "¿Lo sientes? Fluidez está cerca.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T18:08:11.269846"
+    },
+    {
+      "english": "Your brain is learning now.",
+      "spanish": "Tu cerebro está aprendiendo.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T18:08:11.269861"
+    },
+    {
+      "english": "One word starts your story.",
+      "spanish": "Una palabra inicia tu historia.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T18:08:11.269868"
+    },
+    {
+      "english": "Curiosity: what's next, amigo?",
+      "spanish": "¿Curiosidad: qué sigue, amigo?",
+      "category": "Strength",
+      "generated_at": "2026-03-31T18:08:11.269874"
+    },
+    {
+      "english": "Surprise! Your accent is unique.",
+      "spanish": "¡Sorpresa! Tu acento es único.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T18:08:11.269880"
     }
   ],
-  "last_updated": "2026-03-31T16:37:05.315193",
+  "last_updated": "2026-03-31T18:08:11.269882",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3782,6 +3812,11 @@
     "why pause? speak it.",
     "hear this, then reply.",
     "tiny wins build fluency.",
-    "never fear the listener."
+    "never fear the listener.",
+    "feel it? fluency is near.",
+    "your brain is learning now.",
+    "one word starts your story.",
+    "curiosity: what's next, amigo?",
+    "surprise! your accent is unique."
   ]
 }
