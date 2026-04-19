@@ -3389,9 +3389,39 @@
       "spanish": "¡Sorpresa! Puedes soltar.",
       "category": "Forgiveness",
       "generated_at": "2026-04-19T14:01:25.545374"
+    },
+    {
+      "english": "Their eyes will light up.",
+      "spanish": "Sus ojos se iluminarán.",
+      "category": "Purpose",
+      "generated_at": "2026-04-19T15:39:33.956892"
+    },
+    {
+      "english": "One question, pure surprise.",
+      "spanish": "Una pregunta, pura sorpresa.",
+      "category": "Purpose",
+      "generated_at": "2026-04-19T15:39:33.956905"
+    },
+    {
+      "english": "Your comfort zone? Expand it.",
+      "spanish": "Tu zona de confort? Expándela.",
+      "category": "Purpose",
+      "generated_at": "2026-04-19T15:39:33.956912"
+    },
+    {
+      "english": "Speak this, feel the magic.",
+      "spanish": "Di esto, siente la magia.",
+      "category": "Purpose",
+      "generated_at": "2026-04-19T15:39:33.956918"
+    },
+    {
+      "english": "Why hesitate? Just try it.",
+      "spanish": "¿Por qué dudar? Solo inténtalo.",
+      "category": "Purpose",
+      "generated_at": "2026-04-19T15:39:33.956924"
     }
   ],
-  "last_updated": "2026-04-19T14:01:25.545376",
+  "last_updated": "2026-04-19T15:39:33.956926",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3957,6 +3987,11 @@
     "your peace is waiting, truly.",
     "forgive. lighten your heart now.",
     "this simple word brings freedom.",
-    "surprise! you can let go."
+    "surprise! you can let go.",
+    "their eyes will light up.",
+    "one question, pure surprise.",
+    "your comfort zone? expand it.",
+    "speak this, feel the magic.",
+    "why hesitate? just try it."
   ]
 }
