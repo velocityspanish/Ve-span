@@ -3419,9 +3419,39 @@
       "spanish": "¿Por qué dudar? Solo inténtalo.",
       "category": "Purpose",
       "generated_at": "2026-04-19T15:39:33.956924"
+    },
+    {
+      "english": "Listen: one word, pure power.",
+      "spanish": "Escucha: una palabra, poder puro.",
+      "category": "Strength",
+      "generated_at": "2026-04-19T17:29:32.918250"
+    },
+    {
+      "english": "This tiny habit? Fluency.",
+      "spanish": "Este hábito diminuto? Fluidez.",
+      "category": "Strength",
+      "generated_at": "2026-04-19T17:29:32.918267"
+    },
+    {
+      "english": "Your brain's building bridges.",
+      "spanish": "Tu cerebro construye puentes.",
+      "category": "Strength",
+      "generated_at": "2026-04-19T17:29:32.918274"
+    },
+    {
+      "english": "Small practice, massive joy.",
+      "spanish": "Pequeña práctica, alegría masiva.",
+      "category": "Strength",
+      "generated_at": "2026-04-19T17:29:32.918281"
+    },
+    {
+      "english": "Curiosity unlocks conversation.",
+      "spanish": "La curiosidad abre conversación.",
+      "category": "Strength",
+      "generated_at": "2026-04-19T17:29:32.918287"
     }
   ],
-  "last_updated": "2026-04-19T15:39:33.956926",
+  "last_updated": "2026-04-19T17:29:32.918289",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3992,6 +4022,11 @@
     "one question, pure surprise.",
     "your comfort zone? expand it.",
     "speak this, feel the magic.",
-    "why hesitate? just try it."
+    "why hesitate? just try it.",
+    "listen: one word, pure power.",
+    "this tiny habit? fluency.",
+    "your brain's building bridges.",
+    "small practice, massive joy.",
+    "curiosity unlocks conversation."
   ]
 }
