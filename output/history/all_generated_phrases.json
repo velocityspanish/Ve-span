@@ -3449,9 +3449,39 @@
       "spanish": "La curiosidad abre conversación.",
       "category": "Strength",
       "generated_at": "2026-04-19T17:29:32.918287"
+    },
+    {
+      "english": "Whispers turn into vows.",
+      "spanish": "Susurros se vuelven votos.",
+      "category": "Love",
+      "generated_at": "2026-04-19T19:35:53.454122"
+    },
+    {
+      "english": "Your heart knows the rhythm.",
+      "spanish": "Tu corazón sabe el ritmo.",
+      "category": "Love",
+      "generated_at": "2026-04-19T19:35:53.454137"
+    },
+    {
+      "english": "One look, forever.",
+      "spanish": "Una mirada, para siempre.",
+      "category": "Love",
+      "generated_at": "2026-04-19T19:35:53.454143"
+    },
+    {
+      "english": "Feel their soul speak.",
+      "spanish": "Siente su alma hablar.",
+      "category": "Love",
+      "generated_at": "2026-04-19T19:35:53.454149"
+    },
+    {
+      "english": "This song? Their love.",
+      "spanish": "¿Esta canción? Su amor.",
+      "category": "Love",
+      "generated_at": "2026-04-19T19:35:53.454155"
     }
   ],
-  "last_updated": "2026-04-19T17:29:32.918289",
+  "last_updated": "2026-04-19T19:35:53.454157",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4027,6 +4057,11 @@
     "this tiny habit? fluency.",
     "your brain's building bridges.",
     "small practice, massive joy.",
-    "curiosity unlocks conversation."
+    "curiosity unlocks conversation.",
+    "whispers turn into vows.",
+    "your heart knows the rhythm.",
+    "one look, forever.",
+    "feel their soul speak.",
+    "this song? their love."
   ]
 }
