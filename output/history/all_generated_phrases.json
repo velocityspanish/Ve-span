@@ -3359,9 +3359,39 @@
       "spanish": "Dijeron 'lo siento', de verdad.",
       "category": "Forgiveness",
       "generated_at": "2026-03-31T22:54:29.026368"
+    },
+    {
+      "english": "What if they deserved forgiveness?",
+      "spanish": "¿Y si merecieran perdón?",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-19T14:01:25.545337"
+    },
+    {
+      "english": "Your peace is waiting, truly.",
+      "spanish": "Tu paz te espera, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-19T14:01:25.545355"
+    },
+    {
+      "english": "Forgive. Lighten your heart now.",
+      "spanish": "Perdona. Alivia tu corazón ya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-19T14:01:25.545362"
+    },
+    {
+      "english": "This simple word brings freedom.",
+      "spanish": "Esta palabra simple trae libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-19T14:01:25.545368"
+    },
+    {
+      "english": "Surprise! You can let go.",
+      "spanish": "¡Sorpresa! Puedes soltar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-19T14:01:25.545374"
     }
   ],
-  "last_updated": "2026-03-31T22:54:29.026370",
+  "last_updated": "2026-04-19T14:01:25.545376",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -3922,6 +3952,11 @@
     "this changes your perspective.",
     "wisdom: let go gently.",
     "your peace is worth it.",
-    "they said sorry, truly."
+    "they said sorry, truly.",
+    "what if they deserved forgiveness?",
+    "your peace is waiting, truly.",
+    "forgive. lighten your heart now.",
+    "this simple word brings freedom.",
+    "surprise! you can let go."
   ]
 }
