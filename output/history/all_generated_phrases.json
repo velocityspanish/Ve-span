@@ -3479,9 +3479,39 @@
       "spanish": "¿Esta canción? Su amor.",
       "category": "Love",
       "generated_at": "2026-04-19T19:35:53.454155"
+    },
+    {
+      "english": "One sound, big confidence.",
+      "spanish": "Un sonido, gran confianza.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-19T21:44:20.967559"
+    },
+    {
+      "english": "Tiny habits, massive fluency.",
+      "spanish": "Pequeños hábitos, gran fluidez.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-19T21:44:20.967573"
+    },
+    {
+      "english": "Hear this, speak better.",
+      "spanish": "Escucha esto, habla mejor.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-19T21:44:20.967579"
+    },
+    {
+      "english": "Your brain's glowing brighter.",
+      "spanish": "Tu cerebro brilla más.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-19T21:44:20.967586"
+    },
+    {
+      "english": "One word opens dialogue.",
+      "spanish": "Una palabra abre diálogo.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-19T21:44:20.967592"
     }
   ],
-  "last_updated": "2026-04-19T19:35:53.454157",
+  "last_updated": "2026-04-19T21:44:20.967593",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4062,6 +4092,11 @@
     "your heart knows the rhythm.",
     "one look, forever.",
     "feel their soul speak.",
-    "this song? their love."
+    "this song? their love.",
+    "one sound, big confidence.",
+    "tiny habits, massive fluency.",
+    "hear this, speak better.",
+    "your brain's glowing brighter.",
+    "one word opens dialogue."
   ]
 }
