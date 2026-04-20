@@ -3629,9 +3629,39 @@
       "spanish": "¿Y si pudieras ahora?",
       "category": "Kindness",
       "generated_at": "2026-04-20T19:56:00.466973"
+    },
+    {
+      "english": "This calm? pure Spanish.",
+      "spanish": "Esta calma? puro español.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-20T21:55:00.115737"
+    },
+    {
+      "english": "Your voice will resonate.",
+      "spanish": "Tu voz resonará.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-20T21:55:00.115751"
+    },
+    {
+      "english": "Listen: a softer tone.",
+      "spanish": "Escucha: un tono suave.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-20T21:55:00.115758"
+    },
+    {
+      "english": "What if peace sounds Spanish?",
+      "spanish": "¿Qué si paz suena español?",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-20T21:55:00.115765"
+    },
+    {
+      "english": "Your mind will relax.",
+      "spanish": "Tu mente se relajará.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-20T21:55:00.115775"
     }
   ],
-  "last_updated": "2026-04-20T19:56:00.466975",
+  "last_updated": "2026-04-20T21:55:00.115777",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4237,6 +4267,11 @@
     "feel this? your fluency blooms.",
     "curiosity leads, speak.",
     "small word, huge impact.",
-    "what if you could now?"
+    "what if you could now?",
+    "this calm? pure spanish.",
+    "your voice will resonate.",
+    "listen: a softer tone.",
+    "what if peace sounds spanish?",
+    "your mind will relax."
   ]
 }
