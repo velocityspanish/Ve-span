@@ -3569,9 +3569,39 @@
       "spanish": "¿Y si esto ayuda a todos?",
       "category": "Gratitude",
       "generated_at": "2026-04-20T16:12:35.029922"
+    },
+    {
+      "english": "Why this word connects you.",
+      "spanish": "¿Por qué esta palabra te conecta?",
+      "category": "Strength",
+      "generated_at": "2026-04-20T17:52:06.711733"
+    },
+    {
+      "english": "Your bravery, they're hearing.",
+      "spanish": "Tu valentía, la están oyendo.",
+      "category": "Strength",
+      "generated_at": "2026-04-20T17:52:06.711747"
+    },
+    {
+      "english": "Feel your progress bloom.",
+      "spanish": "Siente tu progreso florecer.",
+      "category": "Strength",
+      "generated_at": "2026-04-20T17:52:06.711754"
+    },
+    {
+      "english": "Curiosity fuels every word.",
+      "spanish": "La curiosidad alimenta cada palabra.",
+      "category": "Strength",
+      "generated_at": "2026-04-20T17:52:06.711761"
+    },
+    {
+      "english": "One phrase, new friendship starts.",
+      "spanish": "Una frase, nueva amistad comienza.",
+      "category": "Strength",
+      "generated_at": "2026-04-20T17:52:06.711767"
     }
   ],
-  "last_updated": "2026-04-20T16:12:35.029923",
+  "last_updated": "2026-04-20T17:52:06.711769",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4167,6 +4197,11 @@
     "wisdom: kindness costs nothing.",
     "want real connection? listen.",
     "encouragement: your smile, powerful.",
-    "what if this helps everyone?"
+    "what if this helps everyone?",
+    "why this word connects you.",
+    "your bravery, they're hearing.",
+    "feel your progress bloom.",
+    "curiosity fuels every word.",
+    "one phrase, new friendship starts."
   ]
 }
