@@ -3509,9 +3509,39 @@
       "spanish": "Una palabra abre diálogo.",
       "category": "Positive Life",
       "generated_at": "2026-04-19T21:44:20.967592"
+    },
+    {
+      "english": "Surprise! They understood you.",
+      "spanish": "¡Sorpresa! Te entendieron.",
+      "category": "Joy",
+      "generated_at": "2026-04-20T14:54:27.512965"
+    },
+    {
+      "english": "Your brain is creating magic.",
+      "spanish": "Tu cerebro crea magia.",
+      "category": "Joy",
+      "generated_at": "2026-04-20T14:54:27.512982"
+    },
+    {
+      "english": "Why is this so easy?",
+      "spanish": "¿Por qué es tan fácil?",
+      "category": "Joy",
+      "generated_at": "2026-04-20T14:54:27.512989"
+    },
+    {
+      "english": "Feel the connection grow, friends.",
+      "spanish": "Siente la conexión crecer.",
+      "category": "Joy",
+      "generated_at": "2026-04-20T14:54:27.512995"
+    },
+    {
+      "english": "Want attention? Listen first.",
+      "spanish": "¿Quieres atención? Escucha.",
+      "category": "Joy",
+      "generated_at": "2026-04-20T14:54:27.513002"
     }
   ],
-  "last_updated": "2026-04-19T21:44:20.967593",
+  "last_updated": "2026-04-20T14:54:27.513004",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4097,6 +4127,11 @@
     "tiny habits, massive fluency.",
     "hear this, speak better.",
     "your brain's glowing brighter.",
-    "one word opens dialogue."
+    "one word opens dialogue.",
+    "surprise! they understood you.",
+    "your brain is creating magic.",
+    "why is this so easy?",
+    "feel the connection grow, friends.",
+    "want attention? listen first."
   ]
 }
