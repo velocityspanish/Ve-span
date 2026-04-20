@@ -3599,9 +3599,39 @@
       "spanish": "Una frase, nueva amistad comienza.",
       "category": "Strength",
       "generated_at": "2026-04-20T17:52:06.711767"
+    },
+    {
+      "english": "One 'hello' sparks connection.",
+      "spanish": "Un 'hola' crea conexión.",
+      "category": "Kindness",
+      "generated_at": "2026-04-20T19:56:00.466940"
+    },
+    {
+      "english": "Feel this? Your fluency blooms.",
+      "spanish": "¿Sientes esto? Tu fluidez florece.",
+      "category": "Kindness",
+      "generated_at": "2026-04-20T19:56:00.466954"
+    },
+    {
+      "english": "Curiosity leads, speak.",
+      "spanish": "La curiosidad guía, habla.",
+      "category": "Kindness",
+      "generated_at": "2026-04-20T19:56:00.466961"
+    },
+    {
+      "english": "Small word, huge impact.",
+      "spanish": "Palabra pequeña, gran impacto.",
+      "category": "Kindness",
+      "generated_at": "2026-04-20T19:56:00.466967"
+    },
+    {
+      "english": "What if you could now?",
+      "spanish": "¿Y si pudieras ahora?",
+      "category": "Kindness",
+      "generated_at": "2026-04-20T19:56:00.466973"
     }
   ],
-  "last_updated": "2026-04-20T17:52:06.711769",
+  "last_updated": "2026-04-20T19:56:00.466975",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4202,6 +4232,11 @@
     "your bravery, they're hearing.",
     "feel your progress bloom.",
     "curiosity fuels every word.",
-    "one phrase, new friendship starts."
+    "one phrase, new friendship starts.",
+    "one 'hello' sparks connection.",
+    "feel this? your fluency blooms.",
+    "curiosity leads, speak.",
+    "small word, huge impact.",
+    "what if you could now?"
   ]
 }
