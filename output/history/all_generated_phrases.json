@@ -3539,9 +3539,39 @@
       "spanish": "¿Quieres atención? Escucha.",
       "category": "Joy",
       "generated_at": "2026-04-20T14:54:27.513002"
+    },
+    {
+      "english": "Surprise! They'll love this.",
+      "spanish": "¡Sorpresa! Les encantará esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-20T16:12:35.029883"
+    },
+    {
+      "english": "Wisdom: Kindness costs nothing.",
+      "spanish": "Sabiduría: La amabilidad no cuesta.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-20T16:12:35.029900"
+    },
+    {
+      "english": "Want real connection? Listen.",
+      "spanish": "¿Quieres conexión real? Escucha.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-20T16:12:35.029907"
+    },
+    {
+      "english": "Encouragement: Your smile, powerful.",
+      "spanish": "Ánimo: Tu sonrisa, poderosa.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-20T16:12:35.029915"
+    },
+    {
+      "english": "What if this helps everyone?",
+      "spanish": "¿Y si esto ayuda a todos?",
+      "category": "Gratitude",
+      "generated_at": "2026-04-20T16:12:35.029922"
     }
   ],
-  "last_updated": "2026-04-20T14:54:27.513004",
+  "last_updated": "2026-04-20T16:12:35.029923",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4132,6 +4162,11 @@
     "your brain is creating magic.",
     "why is this so easy?",
     "feel the connection grow, friends.",
-    "want attention? listen first."
+    "want attention? listen first.",
+    "surprise! they'll love this.",
+    "wisdom: kindness costs nothing.",
+    "want real connection? listen.",
+    "encouragement: your smile, powerful.",
+    "what if this helps everyone?"
   ]
 }
