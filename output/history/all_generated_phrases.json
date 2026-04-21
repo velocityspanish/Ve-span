@@ -3689,9 +3689,39 @@
       "spanish": "No pares en 'hola'.",
       "category": "Perseverance",
       "generated_at": "2026-04-21T14:48:52.160123"
+    },
+    {
+      "english": "Your brain is ready, yes?",
+      "spanish": "Tu cerebro está listo, ¿verdad?",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-21T16:12:38.658056"
+    },
+    {
+      "english": "One sentence, pure magic.",
+      "spanish": "Una frase, pura magia.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-21T16:12:38.658071"
+    },
+    {
+      "english": "Listen first, then speak.",
+      "spanish": "Escucha primero, luego habla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-21T16:12:38.658078"
+    },
+    {
+      "english": "Feel the words, connect.",
+      "spanish": "Siente las palabras, conecta.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-21T16:12:38.658085"
+    },
+    {
+      "english": "Your voice, a new power.",
+      "spanish": "Tu voz, un nuevo poder.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-21T16:12:38.658091"
     }
   ],
-  "last_updated": "2026-04-21T14:48:52.160125",
+  "last_updated": "2026-04-21T16:12:38.658093",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4307,6 +4337,11 @@
     "this one trick, unlocks understanding.",
     "your brain remembers, trust it.",
     "small progress, huge rewards.",
-    "don't stop at 'hello'."
+    "don't stop at 'hello'.",
+    "your brain is ready, yes?",
+    "one sentence, pure magic.",
+    "listen first, then speak.",
+    "feel the words, connect.",
+    "your voice, a new power."
   ]
 }
