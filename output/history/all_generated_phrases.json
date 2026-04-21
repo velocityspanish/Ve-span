@@ -3719,9 +3719,39 @@
       "spanish": "Tu voz, un nuevo poder.",
       "category": "Self Improvement",
       "generated_at": "2026-04-21T16:12:38.658091"
+    },
+    {
+      "english": "Her smile? Pure magic.",
+      "spanish": "Su sonrisa, pura magia.",
+      "category": "Love",
+      "generated_at": "2026-04-21T17:54:09.037948"
+    },
+    {
+      "english": "One 'te amo' changes.",
+      "spanish": "Un 'te amo' lo cambia.",
+      "category": "Love",
+      "generated_at": "2026-04-21T17:54:09.037963"
+    },
+    {
+      "english": "Eyes meet? Instant connection.",
+      "spanish": "Miradas cruzan, conexión al instante.",
+      "category": "Love",
+      "generated_at": "2026-04-21T17:54:09.037971"
+    },
+    {
+      "english": "Why is love so powerful?",
+      "spanish": "¿Por qué es tan fuerte el amor?",
+      "category": "Love",
+      "generated_at": "2026-04-21T17:54:09.037978"
+    },
+    {
+      "english": "This song, our story.",
+      "spanish": "Esta canción, nuestra historia.",
+      "category": "Love",
+      "generated_at": "2026-04-21T17:54:09.037984"
     }
   ],
-  "last_updated": "2026-04-21T16:12:38.658093",
+  "last_updated": "2026-04-21T17:54:09.037986",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4342,6 +4372,11 @@
     "one sentence, pure magic.",
     "listen first, then speak.",
     "feel the words, connect.",
-    "your voice, a new power."
+    "your voice, a new power.",
+    "her smile? pure magic.",
+    "one 'te amo' changes.",
+    "eyes meet? instant connection.",
+    "why is love so powerful?",
+    "this song, our story."
   ]
 }
