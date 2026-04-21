@@ -3659,9 +3659,39 @@
       "spanish": "Tu mente se relajará.",
       "category": "Inner Peace",
       "generated_at": "2026-04-20T21:55:00.115775"
+    },
+    {
+      "english": "Why quit now? Keep going.",
+      "spanish": "¿Por qué renunciar? Sigue.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-21T14:48:52.160086"
+    },
+    {
+      "english": "This one trick, unlocks understanding.",
+      "spanish": "Este truco, desbloquea entender.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-21T14:48:52.160102"
+    },
+    {
+      "english": "Your brain remembers, trust it.",
+      "spanish": "Tu cerebro recuerda, confía.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-21T14:48:52.160110"
+    },
+    {
+      "english": "Small progress, huge rewards.",
+      "spanish": "Pequeño progreso, grandes recompensas.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-21T14:48:52.160116"
+    },
+    {
+      "english": "Don't stop at 'hello'.",
+      "spanish": "No pares en 'hola'.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-21T14:48:52.160123"
     }
   ],
-  "last_updated": "2026-04-20T21:55:00.115777",
+  "last_updated": "2026-04-21T14:48:52.160125",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4272,6 +4302,11 @@
     "your voice will resonate.",
     "listen: a softer tone.",
     "what if peace sounds spanish?",
-    "your mind will relax."
+    "your mind will relax.",
+    "why quit now? keep going.",
+    "this one trick, unlocks understanding.",
+    "your brain remembers, trust it.",
+    "small progress, huge rewards.",
+    "don't stop at 'hello'."
   ]
 }
