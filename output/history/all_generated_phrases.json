@@ -3749,9 +3749,39 @@
       "spanish": "Esta canción, nuestra historia.",
       "category": "Love",
       "generated_at": "2026-04-21T17:54:09.037984"
+    },
+    {
+      "english": "Listen deeply, speak freely.",
+      "spanish": "Escucha profundo, habla libre.",
+      "category": "Joy",
+      "generated_at": "2026-04-21T19:59:54.039842"
+    },
+    {
+      "english": "What if this unlocked you?",
+      "spanish": "¿Y si esto te desbloquea?",
+      "category": "Joy",
+      "generated_at": "2026-04-21T19:59:54.039856"
+    },
+    {
+      "english": "Joy is a muscle, train it.",
+      "spanish": "La alegría es músculo, entrénalo.",
+      "category": "Joy",
+      "generated_at": "2026-04-21T19:59:54.039863"
+    },
+    {
+      "english": "Their smiles, your motivation.",
+      "spanish": "Sus sonrisas, tu motivación.",
+      "category": "Joy",
+      "generated_at": "2026-04-21T19:59:54.039870"
+    },
+    {
+      "english": "Feel it? You're speaking it.",
+      "spanish": "¿Lo sientes? Lo estás diciendo.",
+      "category": "Joy",
+      "generated_at": "2026-04-21T19:59:54.039877"
     }
   ],
-  "last_updated": "2026-04-21T17:54:09.037986",
+  "last_updated": "2026-04-21T19:59:54.039879",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4377,6 +4407,11 @@
     "one 'te amo' changes.",
     "eyes meet? instant connection.",
     "why is love so powerful?",
-    "this song, our story."
+    "this song, our story.",
+    "listen deeply, speak freely.",
+    "what if this unlocked you?",
+    "joy is a muscle, train it.",
+    "their smiles, your motivation.",
+    "feel it? you're speaking it."
   ]
 }
