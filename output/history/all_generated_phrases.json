@@ -3779,9 +3779,39 @@
       "spanish": "¿Lo sientes? Lo estás diciendo.",
       "category": "Joy",
       "generated_at": "2026-04-21T19:59:54.039877"
+    },
+    {
+      "english": "Your courage, amplified.",
+      "spanish": "Tu coraje, amplificado.",
+      "category": "Balance",
+      "generated_at": "2026-04-21T21:52:52.274506"
+    },
+    {
+      "english": "This sound changes everything.",
+      "spanish": "Este sonido cambia todo.",
+      "category": "Balance",
+      "generated_at": "2026-04-21T21:52:52.274522"
+    },
+    {
+      "english": "Curiosity: what's the next word?",
+      "spanish": "Curiosidad: ¿qué sigue?",
+      "category": "Balance",
+      "generated_at": "2026-04-21T21:52:52.274529"
+    },
+    {
+      "english": "Believe it, you can speak.",
+      "spanish": "Créelo, puedes hablar.",
+      "category": "Balance",
+      "generated_at": "2026-04-21T21:52:52.274536"
+    },
+    {
+      "english": "Tiny habit, huge fluency.",
+      "spanish": "Hábito pequeño, gran fluidez.",
+      "category": "Balance",
+      "generated_at": "2026-04-21T21:52:52.274542"
     }
   ],
-  "last_updated": "2026-04-21T19:59:54.039879",
+  "last_updated": "2026-04-21T21:52:52.274544",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4412,6 +4442,11 @@
     "what if this unlocked you?",
     "joy is a muscle, train it.",
     "their smiles, your motivation.",
-    "feel it? you're speaking it."
+    "feel it? you're speaking it.",
+    "your courage, amplified.",
+    "this sound changes everything.",
+    "curiosity: what's the next word?",
+    "believe it, you can speak.",
+    "tiny habit, huge fluency."
   ]
 }
