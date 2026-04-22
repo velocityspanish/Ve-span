@@ -3869,9 +3869,39 @@
       "spanish": "¿La magia de la amistad? Momentos compartidos.",
       "category": "Friendship",
       "generated_at": "2026-04-22T17:53:49.683953"
+    },
+    {
+      "english": "Your happiness, now unlocked.",
+      "spanish": "Tu felicidad, ahora desbloqueada.",
+      "category": "Joy",
+      "generated_at": "2026-04-22T20:01:18.883931"
+    },
+    {
+      "english": "This sound makes smiles bloom.",
+      "spanish": "Este sonido hace sonrisas florecer.",
+      "category": "Joy",
+      "generated_at": "2026-04-22T20:01:18.883948"
+    },
+    {
+      "english": "Why wait? Start learning today.",
+      "spanish": "¿Por qué esperar? Empieza hoy.",
+      "category": "Joy",
+      "generated_at": "2026-04-22T20:01:18.883956"
+    },
+    {
+      "english": "Small words, big world opened.",
+      "spanish": "Palabras pequeñas, mundo grande abierto.",
+      "category": "Joy",
+      "generated_at": "2026-04-22T20:01:18.883963"
+    },
+    {
+      "english": "Your breakthrough is near.",
+      "spanish": "Tu avance está cerca.",
+      "category": "Joy",
+      "generated_at": "2026-04-22T20:01:18.883970"
     }
   ],
-  "last_updated": "2026-04-22T17:53:49.683955",
+  "last_updated": "2026-04-22T20:01:18.883972",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4517,6 +4547,11 @@
     "this word means 'my people'.",
     "want them to listen? try this.",
     "a toast to new friendships!",
-    "friendship's magic? shared moments."
+    "friendship's magic? shared moments.",
+    "your happiness, now unlocked.",
+    "this sound makes smiles bloom.",
+    "why wait? start learning today.",
+    "small words, big world opened.",
+    "your breakthrough is near."
   ]
 }
