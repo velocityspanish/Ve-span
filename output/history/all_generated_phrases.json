@@ -3899,9 +3899,39 @@
       "spanish": "Tu avance está cerca.",
       "category": "Joy",
       "generated_at": "2026-04-22T20:01:18.883970"
+    },
+    {
+      "english": "Unlock smiles with 'por favor'.",
+      "spanish": "Desbloquea sonrisas con 'por favor'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-22T21:56:56.955932"
+    },
+    {
+      "english": "Your vibe attracts them.",
+      "spanish": "Tu vibra los atrae.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-22T21:56:56.955949"
+    },
+    {
+      "english": "Want to connect? Listen first.",
+      "spanish": "¿Quieres conectar? Escucha primero.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-22T21:56:56.955957"
+    },
+    {
+      "english": "Embrace the awkward moments.",
+      "spanish": "Abraza los momentos incómodos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-22T21:56:56.955965"
+    },
+    {
+      "english": "This sound calms your nerves.",
+      "spanish": "Este sonido calma tus nervios.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-22T21:56:56.955972"
     }
   ],
-  "last_updated": "2026-04-22T20:01:18.883972",
+  "last_updated": "2026-04-22T21:56:56.955974",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4552,6 +4582,11 @@
     "this sound makes smiles bloom.",
     "why wait? start learning today.",
     "small words, big world opened.",
-    "your breakthrough is near."
+    "your breakthrough is near.",
+    "unlock smiles with 'por favor'.",
+    "your vibe attracts them.",
+    "want to connect? listen first.",
+    "embrace the awkward moments.",
+    "this sound calms your nerves."
   ]
 }
