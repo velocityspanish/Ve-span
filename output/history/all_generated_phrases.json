@@ -3839,9 +3839,39 @@
       "spanish": "Paciencia: tu mejor herramienta.",
       "category": "Patience",
       "generated_at": "2026-04-22T15:28:18.599446"
+    },
+    {
+      "english": "Your true friends will understand.",
+      "spanish": "Tus verdaderos amigos entenderán.",
+      "category": "Friendship",
+      "generated_at": "2026-04-22T17:53:49.683916"
+    },
+    {
+      "english": "This word means 'my people'.",
+      "spanish": "Esta palabra significa 'mi gente'.",
+      "category": "Friendship",
+      "generated_at": "2026-04-22T17:53:49.683931"
+    },
+    {
+      "english": "Want them to listen? Try this.",
+      "spanish": "¿Quieres que escuchen? Prueba esto.",
+      "category": "Friendship",
+      "generated_at": "2026-04-22T17:53:49.683939"
+    },
+    {
+      "english": "A toast to new friendships!",
+      "spanish": "¡Un brindis por las nuevas amistades!",
+      "category": "Friendship",
+      "generated_at": "2026-04-22T17:53:49.683946"
+    },
+    {
+      "english": "Friendship's magic? Shared moments.",
+      "spanish": "¿La magia de la amistad? Momentos compartidos.",
+      "category": "Friendship",
+      "generated_at": "2026-04-22T17:53:49.683953"
     }
   ],
-  "last_updated": "2026-04-22T15:28:18.599448",
+  "last_updated": "2026-04-22T17:53:49.683955",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4482,6 +4512,11 @@
     "this makes speaking easier.",
     "your slow progress? normal.",
     "surprise! your ear is sharp.",
-    "patience: your best tool."
+    "patience: your best tool.",
+    "your true friends will understand.",
+    "this word means 'my people'.",
+    "want them to listen? try this.",
+    "a toast to new friendships!",
+    "friendship's magic? shared moments."
   ]
 }
