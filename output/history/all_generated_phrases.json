@@ -3809,9 +3809,39 @@
       "spanish": "Hábito pequeño, gran fluidez.",
       "category": "Balance",
       "generated_at": "2026-04-21T21:52:52.274542"
+    },
+    {
+      "english": "Want fluent Spanish? Breathe.",
+      "spanish": "¿Quieres español fluido? Respira.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T15:28:18.599409"
+    },
+    {
+      "english": "This makes speaking easier.",
+      "spanish": "Esto hace hablar más fácil.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T15:28:18.599424"
+    },
+    {
+      "english": "Your slow progress? Normal.",
+      "spanish": "¿Tu progreso lento? Normal.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T15:28:18.599432"
+    },
+    {
+      "english": "Surprise! Your ear is sharp.",
+      "spanish": "¡Sorpresa! Tu oído es agudo.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T15:28:18.599439"
+    },
+    {
+      "english": "Patience: your best tool.",
+      "spanish": "Paciencia: tu mejor herramienta.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T15:28:18.599446"
     }
   ],
-  "last_updated": "2026-04-21T21:52:52.274544",
+  "last_updated": "2026-04-22T15:28:18.599448",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4447,6 +4477,11 @@
     "this sound changes everything.",
     "curiosity: what's the next word?",
     "believe it, you can speak.",
-    "tiny habit, huge fluency."
+    "tiny habit, huge fluency.",
+    "want fluent spanish? breathe.",
+    "this makes speaking easier.",
+    "your slow progress? normal.",
+    "surprise! your ear is sharp.",
+    "patience: your best tool."
   ]
 }
