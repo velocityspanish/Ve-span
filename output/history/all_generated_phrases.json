@@ -4019,9 +4019,39 @@
       "spanish": "¡Sorpresa! Estás más ligero.",
       "category": "Forgiveness",
       "generated_at": "2026-04-23T18:03:20.838471"
+    },
+    {
+      "english": "Your intuition knows Spanish.",
+      "spanish": "Tu intuición sabe español.",
+      "category": "Balance",
+      "generated_at": "2026-04-23T20:03:01.912351"
+    },
+    {
+      "english": "Never doubt your progress, friend.",
+      "spanish": "Nunca dudes tu progreso, amigo.",
+      "category": "Balance",
+      "generated_at": "2026-04-23T20:03:01.912373"
+    },
+    {
+      "english": "This rhythm feels like home.",
+      "spanish": "Este ritmo se siente hogar.",
+      "category": "Balance",
+      "generated_at": "2026-04-23T20:03:01.912388"
+    },
+    {
+      "english": "Your courage speaks volumes, listen.",
+      "spanish": "Tu coraje habla mucho, escucha.",
+      "category": "Balance",
+      "generated_at": "2026-04-23T20:03:01.912401"
+    },
+    {
+      "english": "One sound creates new worlds.",
+      "spanish": "Un sonido crea mundos nuevos.",
+      "category": "Balance",
+      "generated_at": "2026-04-23T20:03:01.912415"
     }
   ],
-  "last_updated": "2026-04-23T18:03:20.838472",
+  "last_updated": "2026-04-23T20:03:01.912418",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4692,6 +4722,11 @@
     "let go, breathe again.",
     "wisdom: forgiveness sets free.",
     "your freedom starts here.",
-    "surprise! you are lighter."
+    "surprise! you are lighter.",
+    "your intuition knows spanish.",
+    "never doubt your progress, friend.",
+    "this rhythm feels like home.",
+    "your courage speaks volumes, listen.",
+    "one sound creates new worlds."
   ]
 }
