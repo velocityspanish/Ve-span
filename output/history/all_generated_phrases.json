@@ -4049,9 +4049,39 @@
       "spanish": "Un sonido crea mundos nuevos.",
       "category": "Balance",
       "generated_at": "2026-04-23T20:03:01.912415"
+    },
+    {
+      "english": "Your mind craves new sounds.",
+      "spanish": "Tu mente ansía sonidos nuevos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-23T21:54:46.478681"
+    },
+    {
+      "english": "What if spanish felt natural?",
+      "spanish": "¿Y si el español se sintiera natural?",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-23T21:54:46.478697"
+    },
+    {
+      "english": "Feel that spanish spark ignite?",
+      "spanish": "¿Sientes esa chispa española encenderse?",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-23T21:54:46.478705"
+    },
+    {
+      "english": "Speak easy, they'll understand.",
+      "spanish": "Habla fácil, te entenderán.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-23T21:54:46.478713"
+    },
+    {
+      "english": "Your brain remembers it all.",
+      "spanish": "Tu cerebro lo recuerda todo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-23T21:54:46.478720"
     }
   ],
-  "last_updated": "2026-04-23T20:03:01.912418",
+  "last_updated": "2026-04-23T21:54:46.478722",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4727,6 +4757,11 @@
     "never doubt your progress, friend.",
     "this rhythm feels like home.",
     "your courage speaks volumes, listen.",
-    "one sound creates new worlds."
+    "one sound creates new worlds.",
+    "your mind craves new sounds.",
+    "what if spanish felt natural?",
+    "feel that spanish spark ignite?",
+    "speak easy, they'll understand.",
+    "your brain remembers it all."
   ]
 }
