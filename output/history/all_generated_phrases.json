@@ -3929,9 +3929,39 @@
       "spanish": "Este sonido calma tus nervios.",
       "category": "Self Improvement",
       "generated_at": "2026-04-22T21:56:56.955972"
+    },
+    {
+      "english": "Hear this, feel the joy.",
+      "spanish": "Escucha esto, siente la alegría.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-23T15:15:06.402062"
+    },
+    {
+      "english": "Why this makes you confident?",
+      "spanish": "¿Por qué esto te da confianza?",
+      "category": "Positive Life",
+      "generated_at": "2026-04-23T15:15:06.402077"
+    },
+    {
+      "english": "One sentence, more connections.",
+      "spanish": "Una frase, más conexiones.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-23T15:15:06.402085"
+    },
+    {
+      "english": "Never fear new words.",
+      "spanish": "Nunca temas palabras nuevas.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-23T15:15:06.402091"
+    },
+    {
+      "english": "Unlock smiles easily.",
+      "spanish": "Desbloquea sonrisas fácil.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-23T15:15:06.402098"
     }
   ],
-  "last_updated": "2026-04-22T21:56:56.955974",
+  "last_updated": "2026-04-23T15:15:06.402100",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4587,6 +4617,11 @@
     "your vibe attracts them.",
     "want to connect? listen first.",
     "embrace the awkward moments.",
-    "this sound calms your nerves."
+    "this sound calms your nerves.",
+    "hear this, feel the joy.",
+    "why this makes you confident?",
+    "one sentence, more connections.",
+    "never fear new words.",
+    "unlock smiles easily."
   ]
 }
