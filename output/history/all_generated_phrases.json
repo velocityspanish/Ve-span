@@ -3959,9 +3959,39 @@
       "spanish": "Desbloquea sonrisas fácil.",
       "category": "Positive Life",
       "generated_at": "2026-04-23T15:15:06.402098"
+    },
+    {
+      "english": "Your progress is coming, trust.",
+      "spanish": "Tu progreso llega, confía.",
+      "category": "Patience",
+      "generated_at": "2026-04-23T16:45:13.992473"
+    },
+    {
+      "english": "Why stop now? Almost there!",
+      "spanish": "¿Por qué parar? ¡Ya casi!",
+      "category": "Patience",
+      "generated_at": "2026-04-23T16:45:13.992489"
+    },
+    {
+      "english": "This quiet power, it's yours.",
+      "spanish": "Este poder callado, es tuyo.",
+      "category": "Patience",
+      "generated_at": "2026-04-23T16:45:13.992496"
+    },
+    {
+      "english": "One more attempt, feel it.",
+      "spanish": "Un intento más, siéntelo.",
+      "category": "Patience",
+      "generated_at": "2026-04-23T16:45:13.992503"
+    },
+    {
+      "english": "Little by little, you'll bloom.",
+      "spanish": "Poco a poco, florecerás.",
+      "category": "Patience",
+      "generated_at": "2026-04-23T16:45:13.992510"
     }
   ],
-  "last_updated": "2026-04-23T15:15:06.402100",
+  "last_updated": "2026-04-23T16:45:13.992512",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4622,6 +4652,11 @@
     "why this makes you confident?",
     "one sentence, more connections.",
     "never fear new words.",
-    "unlock smiles easily."
+    "unlock smiles easily.",
+    "your progress is coming, trust.",
+    "why stop now? almost there!",
+    "this quiet power, it's yours.",
+    "one more attempt, feel it.",
+    "little by little, you'll bloom."
   ]
 }
