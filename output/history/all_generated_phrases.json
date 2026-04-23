@@ -3989,9 +3989,39 @@
       "spanish": "Poco a poco, florecerás.",
       "category": "Patience",
       "generated_at": "2026-04-23T16:45:13.992510"
+    },
+    {
+      "english": "Forgive yourself, first.",
+      "spanish": "Perdónate, primero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-23T18:03:20.838428"
+    },
+    {
+      "english": "Let go, breathe again.",
+      "spanish": "Suelta, respira de nuevo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-23T18:03:20.838447"
+    },
+    {
+      "english": "Wisdom: Forgiveness sets free.",
+      "spanish": "Sabiduría: El perdón libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-23T18:03:20.838456"
+    },
+    {
+      "english": "Your freedom starts here.",
+      "spanish": "Tu libertad empieza aquí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-23T18:03:20.838463"
+    },
+    {
+      "english": "Surprise! You are lighter.",
+      "spanish": "¡Sorpresa! Estás más ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-23T18:03:20.838471"
     }
   ],
-  "last_updated": "2026-04-23T16:45:13.992512",
+  "last_updated": "2026-04-23T18:03:20.838472",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4657,6 +4687,11 @@
     "why stop now? almost there!",
     "this quiet power, it's yours.",
     "one more attempt, feel it.",
-    "little by little, you'll bloom."
+    "little by little, you'll bloom.",
+    "forgive yourself, first.",
+    "let go, breathe again.",
+    "wisdom: forgiveness sets free.",
+    "your freedom starts here.",
+    "surprise! you are lighter."
   ]
 }
