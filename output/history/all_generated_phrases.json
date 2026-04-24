@@ -4199,9 +4199,39 @@
       "spanish": "Este truco de pronunciación funciona.",
       "category": "Confidence",
       "generated_at": "2026-04-24T19:44:46.669096"
+    },
+    {
+      "english": "This slow progress? Totally normal.",
+      "spanish": "Este progreso lento? Totalmente normal.",
+      "category": "Patience",
+      "generated_at": "2026-04-24T21:54:41.756495"
+    },
+    {
+      "english": "One more try. You got this.",
+      "spanish": "Un intento más. Tú puedes.",
+      "category": "Patience",
+      "generated_at": "2026-04-24T21:54:41.756511"
+    },
+    {
+      "english": "Wisdom: Forgive your mistakes.",
+      "spanish": "Sabiduría: Perdona tus errores.",
+      "category": "Patience",
+      "generated_at": "2026-04-24T21:54:41.756519"
+    },
+    {
+      "english": "This sound brings pure joy.",
+      "spanish": "Este sonido trae pura alegría.",
+      "category": "Patience",
+      "generated_at": "2026-04-24T21:54:41.756526"
+    },
+    {
+      "english": "Why fear speaking? Just try.",
+      "spanish": "¿Por qué temer hablar? Solo intenta.",
+      "category": "Patience",
+      "generated_at": "2026-04-24T21:54:41.756534"
     }
   ],
-  "last_updated": "2026-04-24T19:44:46.669098",
+  "last_updated": "2026-04-24T21:54:41.756536",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4902,6 +4932,11 @@
     "wisdom: embrace the silence first.",
     "tiny victories build your confidence.",
     "your future self thanks you.",
-    "this pronunciation trick works."
+    "this pronunciation trick works.",
+    "this slow progress? totally normal.",
+    "one more try. you got this.",
+    "wisdom: forgive your mistakes.",
+    "this sound brings pure joy.",
+    "why fear speaking? just try."
   ]
 }
