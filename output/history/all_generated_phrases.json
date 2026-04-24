@@ -4139,9 +4139,39 @@
       "spanish": "Tu corazón entiende estas palabras.",
       "category": "Joy",
       "generated_at": "2026-04-24T16:06:35.064521"
+    },
+    {
+      "english": "Your bravery echoes, listen.",
+      "spanish": "Tu valentía resuena, escucha.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T17:44:19.309577"
+    },
+    {
+      "english": "Why feel lost? Try this.",
+      "spanish": "¿Por qué sentirse perdido? Prueba esto.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T17:44:19.309593"
+    },
+    {
+      "english": "Embrace mistakes, they teach.",
+      "spanish": "Abraza errores, enseñan.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T17:44:19.309601"
+    },
+    {
+      "english": "Curiosity opens spanish doors.",
+      "spanish": "La curiosidad abre puertas españolas.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T17:44:19.309609"
+    },
+    {
+      "english": "Your courage takes flight now.",
+      "spanish": "Tu coraje despega ahora.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T17:44:19.309616"
     }
   ],
-  "last_updated": "2026-04-24T16:06:35.064523",
+  "last_updated": "2026-04-24T17:44:19.309618",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4832,6 +4862,11 @@
     "your bravery? they hear it.",
     "one small phrase, big connection.",
     "feel the confidence bloom now.",
-    "your heart understands these words."
+    "your heart understands these words.",
+    "your bravery echoes, listen.",
+    "why feel lost? try this.",
+    "embrace mistakes, they teach.",
+    "curiosity opens spanish doors.",
+    "your courage takes flight now."
   ]
 }
