@@ -4079,9 +4079,39 @@
       "spanish": "Tu cerebro lo recuerda todo.",
       "category": "Self Improvement",
       "generated_at": "2026-04-23T21:54:46.478720"
+    },
+    {
+      "english": "Forgive yourself, you're human.",
+      "spanish": "Perdónate, eres humano.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-24T14:46:39.988405"
+    },
+    {
+      "english": "Wisdom: forgiveness is freedom.",
+      "spanish": "Sabiduría: perdonar es libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-24T14:46:39.988423"
+    },
+    {
+      "english": "New beginnings, clear heart.",
+      "spanish": "Nuevos comienzos, corazón limpio.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-24T14:46:39.988432"
+    },
+    {
+      "english": "Your burden, lifted now.",
+      "spanish": "Tu carga, levantada ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-24T14:46:39.988440"
+    },
+    {
+      "english": "Embrace the letting go.",
+      "spanish": "Abraza el dejar ir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-24T14:46:39.988447"
     }
   ],
-  "last_updated": "2026-04-23T21:54:46.478722",
+  "last_updated": "2026-04-24T14:46:39.988449",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4762,6 +4792,11 @@
     "what if spanish felt natural?",
     "feel that spanish spark ignite?",
     "speak easy, they'll understand.",
-    "your brain remembers it all."
+    "your brain remembers it all.",
+    "forgive yourself, you're human.",
+    "wisdom: forgiveness is freedom.",
+    "new beginnings, clear heart.",
+    "your burden, lifted now.",
+    "embrace the letting go."
   ]
 }
