@@ -4169,9 +4169,39 @@
       "spanish": "Tu coraje despega ahora.",
       "category": "Courage",
       "generated_at": "2026-04-24T17:44:19.309616"
+    },
+    {
+      "english": "Your brain loves these sounds.",
+      "spanish": "Tu cerebro ama estos sonidos.",
+      "category": "Confidence",
+      "generated_at": "2026-04-24T19:44:46.669053"
+    },
+    {
+      "english": "Wisdom: Embrace the silence first.",
+      "spanish": "Sabiduría: Abraza el silencio primero.",
+      "category": "Confidence",
+      "generated_at": "2026-04-24T19:44:46.669071"
+    },
+    {
+      "english": "Tiny victories build your confidence.",
+      "spanish": "Pequeñas victorias construyen tu confianza.",
+      "category": "Confidence",
+      "generated_at": "2026-04-24T19:44:46.669079"
+    },
+    {
+      "english": "Your future self thanks you.",
+      "spanish": "Tu yo futuro te agradece.",
+      "category": "Confidence",
+      "generated_at": "2026-04-24T19:44:46.669089"
+    },
+    {
+      "english": "This pronunciation trick works.",
+      "spanish": "Este truco de pronunciación funciona.",
+      "category": "Confidence",
+      "generated_at": "2026-04-24T19:44:46.669096"
     }
   ],
-  "last_updated": "2026-04-24T17:44:19.309618",
+  "last_updated": "2026-04-24T19:44:46.669098",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4867,6 +4897,11 @@
     "why feel lost? try this.",
     "embrace mistakes, they teach.",
     "curiosity opens spanish doors.",
-    "your courage takes flight now."
+    "your courage takes flight now.",
+    "your brain loves these sounds.",
+    "wisdom: embrace the silence first.",
+    "tiny victories build your confidence.",
+    "your future self thanks you.",
+    "this pronunciation trick works."
   ]
 }
