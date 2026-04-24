@@ -4109,9 +4109,39 @@
       "spanish": "Abraza el dejar ir.",
       "category": "Forgiveness",
       "generated_at": "2026-04-24T14:46:39.988447"
+    },
+    {
+      "english": "This sound unlocks genuine smiles.",
+      "spanish": "Este sonido desbloquea sonrisas genuinas.",
+      "category": "Joy",
+      "generated_at": "2026-04-24T16:06:35.064483"
+    },
+    {
+      "english": "Your bravery? They hear it.",
+      "spanish": "¿Tu valentía? La escuchan.",
+      "category": "Joy",
+      "generated_at": "2026-04-24T16:06:35.064499"
+    },
+    {
+      "english": "One small phrase, big connection.",
+      "spanish": "Una frase pequeña, gran conexión.",
+      "category": "Joy",
+      "generated_at": "2026-04-24T16:06:35.064506"
+    },
+    {
+      "english": "Feel the confidence bloom now.",
+      "spanish": "Siente florecer la confianza ahora.",
+      "category": "Joy",
+      "generated_at": "2026-04-24T16:06:35.064514"
+    },
+    {
+      "english": "Your heart understands these words.",
+      "spanish": "Tu corazón entiende estas palabras.",
+      "category": "Joy",
+      "generated_at": "2026-04-24T16:06:35.064521"
     }
   ],
-  "last_updated": "2026-04-24T14:46:39.988449",
+  "last_updated": "2026-04-24T16:06:35.064523",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4797,6 +4827,11 @@
     "wisdom: forgiveness is freedom.",
     "new beginnings, clear heart.",
     "your burden, lifted now.",
-    "embrace the letting go."
+    "embrace the letting go.",
+    "this sound unlocks genuine smiles.",
+    "your bravery? they hear it.",
+    "one small phrase, big connection.",
+    "feel the confidence bloom now.",
+    "your heart understands these words."
   ]
 }
