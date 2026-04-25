@@ -4229,9 +4229,39 @@
       "spanish": "¿Por qué temer hablar? Solo intenta.",
       "category": "Patience",
       "generated_at": "2026-04-24T21:54:41.756534"
+    },
+    {
+      "english": "Surprise! Your Spanish is amazing.",
+      "spanish": "¡Sorpresa! Tu español es increíble.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T14:04:39.485983"
+    },
+    {
+      "english": "Small progress, big heart.",
+      "spanish": "Pequeño progreso, gran corazón.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T14:04:39.485998"
+    },
+    {
+      "english": "Your effort matters, believe it.",
+      "spanish": "Tu esfuerzo importa, créelo.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T14:04:39.486006"
+    },
+    {
+      "english": "Hear this: you're doing great.",
+      "spanish": "Escucha esto: lo estás haciendo genial.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T14:04:39.486014"
+    },
+    {
+      "english": "Gratitude opens doors, truly.",
+      "spanish": "La gratitud abre puertas, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T14:04:39.486022"
     }
   ],
-  "last_updated": "2026-04-24T21:54:41.756536",
+  "last_updated": "2026-04-25T14:04:39.486024",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4937,6 +4967,11 @@
     "one more try. you got this.",
     "wisdom: forgive your mistakes.",
     "this sound brings pure joy.",
-    "why fear speaking? just try."
+    "why fear speaking? just try.",
+    "surprise! your spanish is amazing.",
+    "small progress, big heart.",
+    "your effort matters, believe it.",
+    "hear this: you're doing great.",
+    "gratitude opens doors, truly."
   ]
 }
