@@ -4289,9 +4289,39 @@
       "spanish": "¡Sorpresa! Puedes hacer esto.",
       "category": "Creativity",
       "generated_at": "2026-04-25T15:41:14.952800"
+    },
+    {
+      "english": "Speak, and they'll hear you.",
+      "spanish": "Habla, y te oirán.",
+      "category": "Strength",
+      "generated_at": "2026-04-25T17:32:09.299858"
+    },
+    {
+      "english": "This sound brings calm.",
+      "spanish": "Este sonido trae calma.",
+      "category": "Strength",
+      "generated_at": "2026-04-25T17:32:09.299875"
+    },
+    {
+      "english": "Your understanding is growing.",
+      "spanish": "Tu comprensión está creciendo.",
+      "category": "Strength",
+      "generated_at": "2026-04-25T17:32:09.299883"
+    },
+    {
+      "english": "Tiny steps lead somewhere.",
+      "spanish": "Pequeños pasos llevan a algún lugar.",
+      "category": "Strength",
+      "generated_at": "2026-04-25T17:32:09.299891"
+    },
+    {
+      "english": "Believe your ears right now.",
+      "spanish": "Cree a tus oídos ahora.",
+      "category": "Strength",
+      "generated_at": "2026-04-25T17:32:09.299899"
     }
   ],
-  "last_updated": "2026-04-25T15:41:14.952802",
+  "last_updated": "2026-04-25T17:32:09.299901",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5007,6 +5037,11 @@
     "embrace the beginner's mindset.",
     "one simple word, big impact.",
     "your confidence grows, listen.",
-    "surprise! you can do this."
+    "surprise! you can do this.",
+    "speak, and they'll hear you.",
+    "this sound brings calm.",
+    "your understanding is growing.",
+    "tiny steps lead somewhere.",
+    "believe your ears right now."
   ]
 }
