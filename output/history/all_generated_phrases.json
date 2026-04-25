@@ -4259,9 +4259,39 @@
       "spanish": "La gratitud abre puertas, de verdad.",
       "category": "Gratitude",
       "generated_at": "2026-04-25T14:04:39.486022"
+    },
+    {
+      "english": "Your brain wants more Spanish.",
+      "spanish": "Tu cerebro quiere más español.",
+      "category": "Creativity",
+      "generated_at": "2026-04-25T15:41:14.952758"
+    },
+    {
+      "english": "Embrace the beginner's mindset.",
+      "spanish": "Abraza la mentalidad de principiante.",
+      "category": "Creativity",
+      "generated_at": "2026-04-25T15:41:14.952776"
+    },
+    {
+      "english": "One simple word, big impact.",
+      "spanish": "Una palabra simple, gran impacto.",
+      "category": "Creativity",
+      "generated_at": "2026-04-25T15:41:14.952785"
+    },
+    {
+      "english": "Your confidence grows, listen.",
+      "spanish": "Tu confianza crece, escucha.",
+      "category": "Creativity",
+      "generated_at": "2026-04-25T15:41:14.952793"
+    },
+    {
+      "english": "Surprise! You can do this.",
+      "spanish": "¡Sorpresa! Puedes hacer esto.",
+      "category": "Creativity",
+      "generated_at": "2026-04-25T15:41:14.952800"
     }
   ],
-  "last_updated": "2026-04-25T14:04:39.486024",
+  "last_updated": "2026-04-25T15:41:14.952802",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -4972,6 +5002,11 @@
     "small progress, big heart.",
     "your effort matters, believe it.",
     "hear this: you're doing great.",
-    "gratitude opens doors, truly."
+    "gratitude opens doors, truly.",
+    "your brain wants more spanish.",
+    "embrace the beginner's mindset.",
+    "one simple word, big impact.",
+    "your confidence grows, listen.",
+    "surprise! you can do this."
   ]
 }
