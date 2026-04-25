@@ -4319,9 +4319,39 @@
       "spanish": "Cree a tus oídos ahora.",
       "category": "Strength",
       "generated_at": "2026-04-25T17:32:09.299899"
+    },
+    {
+      "english": "Hear this, find your voice.",
+      "spanish": "Escucha esto, encuentra tu voz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-25T19:38:43.681858"
+    },
+    {
+      "english": "Slow down, speak clearer.",
+      "spanish": "Más lento, habla más claro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-25T19:38:43.681876"
+    },
+    {
+      "english": "Tiny progress, immense joy.",
+      "spanish": "Progreso pequeño, alegría inmensa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-25T19:38:43.681884"
+    },
+    {
+      "english": "Breathe, then speak.",
+      "spanish": "Respira, luego habla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-25T19:38:43.681891"
+    },
+    {
+      "english": "Embrace the stumbles, keep going.",
+      "spanish": "Acepta tropiezos, sigue adelante.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-25T19:38:43.681899"
     }
   ],
-  "last_updated": "2026-04-25T17:32:09.299901",
+  "last_updated": "2026-04-25T19:38:43.681901",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5042,6 +5072,11 @@
     "this sound brings calm.",
     "your understanding is growing.",
     "tiny steps lead somewhere.",
-    "believe your ears right now."
+    "believe your ears right now.",
+    "hear this, find your voice.",
+    "slow down, speak clearer.",
+    "tiny progress, immense joy.",
+    "breathe, then speak.",
+    "embrace the stumbles, keep going."
   ]
 }
