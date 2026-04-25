@@ -4349,9 +4349,39 @@
       "spanish": "Acepta tropiezos, sigue adelante.",
       "category": "Mindfulness",
       "generated_at": "2026-04-25T19:38:43.681899"
+    },
+    {
+      "english": "One word opens a new world.",
+      "spanish": "Una palabra abre un mundo.",
+      "category": "Love",
+      "generated_at": "2026-04-25T21:45:00.476352"
+    },
+    {
+      "english": "Feel that love in spanish?",
+      "spanish": "¿Sientes ese amor en español?",
+      "category": "Love",
+      "generated_at": "2026-04-25T21:45:00.476370"
+    },
+    {
+      "english": "Your courage speaks louder.",
+      "spanish": "Tu valentía habla más.",
+      "category": "Love",
+      "generated_at": "2026-04-25T21:45:00.476378"
+    },
+    {
+      "english": "Speak love, they listen.",
+      "spanish": "Habla amor, te escuchan.",
+      "category": "Love",
+      "generated_at": "2026-04-25T21:45:00.476386"
+    },
+    {
+      "english": "What if spanish feels easy?",
+      "spanish": "¿Y si el español se siente fácil?",
+      "category": "Love",
+      "generated_at": "2026-04-25T21:45:00.476394"
     }
   ],
-  "last_updated": "2026-04-25T19:38:43.681901",
+  "last_updated": "2026-04-25T21:45:00.476396",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5077,6 +5107,11 @@
     "slow down, speak clearer.",
     "tiny progress, immense joy.",
     "breathe, then speak.",
-    "embrace the stumbles, keep going."
+    "embrace the stumbles, keep going.",
+    "one word opens a new world.",
+    "feel that love in spanish?",
+    "your courage speaks louder.",
+    "speak love, they listen.",
+    "what if spanish feels easy?"
   ]
 }
