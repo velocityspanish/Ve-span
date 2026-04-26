@@ -4409,9 +4409,39 @@
       "spanish": "¿Curiosidad: Cuál es el secreto de esta palabra?",
       "category": "Strength",
       "generated_at": "2026-04-26T14:05:51.751010"
+    },
+    {
+      "english": "Surprise! Your brain loves Spanish.",
+      "spanish": "¡Sorpresa! Tu cerebro ama español.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-26T15:43:55.681065"
+    },
+    {
+      "english": "Your journey starts with 'Hola'.",
+      "spanish": "Tu viaje empieza con 'Hola'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-26T15:43:55.681082"
+    },
+    {
+      "english": "Feel that spanish magic?",
+      "spanish": "¿Sientes esa magia española?",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-26T15:43:55.681090"
+    },
+    {
+      "english": "Breathe. Then speak with ease.",
+      "spanish": "Respira. Luego habla con facilidad.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-26T15:43:55.681098"
+    },
+    {
+      "english": "One word changes your day.",
+      "spanish": "Una palabra cambia tu día.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-26T15:43:55.681106"
     }
   ],
-  "last_updated": "2026-04-26T14:05:51.751012",
+  "last_updated": "2026-04-26T15:43:55.681108",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5147,6 +5177,11 @@
     "feel that spanish rhythm, yes?",
     "wisdom: speak from your heart.",
     "encouragement: your voice matters greatly.",
-    "curiosity: what's this word's secret?"
+    "curiosity: what's this word's secret?",
+    "surprise! your brain loves spanish.",
+    "your journey starts with 'hola'.",
+    "feel that spanish magic?",
+    "breathe. then speak with ease.",
+    "one word changes your day."
   ]
 }
