@@ -4499,9 +4499,39 @@
       "spanish": "Tu paciencia construye lazos fuertes.",
       "category": "Friendship",
       "generated_at": "2026-04-26T19:39:56.029234"
+    },
+    {
+      "english": "Your Spanish is growing, listen.",
+      "spanish": "Tu español crece, escucha.",
+      "category": "Hope",
+      "generated_at": "2026-04-26T21:48:41.596475"
+    },
+    {
+      "english": "One word: connect instantly.",
+      "spanish": "Una palabra: conecta al instante.",
+      "category": "Hope",
+      "generated_at": "2026-04-26T21:48:41.596492"
+    },
+    {
+      "english": "Surprise! You're understood.",
+      "spanish": "¡Sorpresa! Eres comprendido.",
+      "category": "Hope",
+      "generated_at": "2026-04-26T21:48:41.596501"
+    },
+    {
+      "english": "Wisdom: patience conquers all.",
+      "spanish": "Sabiduría: paciencia lo conquista todo.",
+      "category": "Hope",
+      "generated_at": "2026-04-26T21:48:41.596509"
+    },
+    {
+      "english": "Embrace the small victories.",
+      "spanish": "Abraza las pequeñas victorias.",
+      "category": "Hope",
+      "generated_at": "2026-04-26T21:48:41.596517"
     }
   ],
-  "last_updated": "2026-04-26T19:39:56.029235",
+  "last_updated": "2026-04-26T21:48:41.596518",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5252,6 +5282,11 @@
     "one phrase, endless friendships.",
     "your heart speaks spanish, truly.",
     "tiny phrase, huge impact, watch.",
-    "your patience builds strong bonds."
+    "your patience builds strong bonds.",
+    "your spanish is growing, listen.",
+    "one word: connect instantly.",
+    "surprise! you're understood.",
+    "wisdom: patience conquers all.",
+    "embrace the small victories."
   ]
 }
