@@ -4469,9 +4469,39 @@
       "spanish": "¿Por qué esperar? Habla tu corazón.",
       "category": "Positive Life",
       "generated_at": "2026-04-26T17:32:29.447684"
+    },
+    {
+      "english": "Surprise! Your Spanish unlocks joy.",
+      "spanish": "¡Sorpresa! Tu español desbloquea alegría.",
+      "category": "Friendship",
+      "generated_at": "2026-04-26T19:39:56.029190"
+    },
+    {
+      "english": "One phrase, endless friendships.",
+      "spanish": "Una frase, amistades infinitas.",
+      "category": "Friendship",
+      "generated_at": "2026-04-26T19:39:56.029209"
+    },
+    {
+      "english": "Your heart speaks Spanish, truly.",
+      "spanish": "Tu corazón habla español, de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-04-26T19:39:56.029218"
+    },
+    {
+      "english": "Tiny phrase, huge impact, watch.",
+      "spanish": "Frase pequeña, gran impacto, mira.",
+      "category": "Friendship",
+      "generated_at": "2026-04-26T19:39:56.029226"
+    },
+    {
+      "english": "Your patience builds strong bonds.",
+      "spanish": "Tu paciencia construye lazos fuertes.",
+      "category": "Friendship",
+      "generated_at": "2026-04-26T19:39:56.029234"
     }
   ],
-  "last_updated": "2026-04-26T17:32:29.447686",
+  "last_updated": "2026-04-26T19:39:56.029235",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5217,6 +5247,11 @@
     "tiny steps, big destinations.",
     "your brain remembers every sound.",
     "wisdom: forgiveness frees your tongue.",
-    "why wait? speak your heart."
+    "why wait? speak your heart.",
+    "surprise! your spanish unlocks joy.",
+    "one phrase, endless friendships.",
+    "your heart speaks spanish, truly.",
+    "tiny phrase, huge impact, watch.",
+    "your patience builds strong bonds."
   ]
 }
