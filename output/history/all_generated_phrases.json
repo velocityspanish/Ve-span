@@ -4439,9 +4439,39 @@
       "spanish": "Una palabra cambia tu día.",
       "category": "Self Improvement",
       "generated_at": "2026-04-26T15:43:55.681106"
+    },
+    {
+      "english": "Unlock smiles with 'gracias'.",
+      "spanish": "Abre sonrisas con 'gracias'.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-26T17:32:29.447644"
+    },
+    {
+      "english": "Tiny steps, big destinations.",
+      "spanish": "Pasos pequeños, grandes destinos.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-26T17:32:29.447660"
+    },
+    {
+      "english": "Your brain remembers every sound.",
+      "spanish": "Tu cerebro recuerda cada sonido.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-26T17:32:29.447668"
+    },
+    {
+      "english": "Wisdom: Forgiveness frees your tongue.",
+      "spanish": "Sabiduría: Perdón libera tu lengua.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-26T17:32:29.447676"
+    },
+    {
+      "english": "Why wait? speak your heart.",
+      "spanish": "¿Por qué esperar? Habla tu corazón.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-26T17:32:29.447684"
     }
   ],
-  "last_updated": "2026-04-26T15:43:55.681108",
+  "last_updated": "2026-04-26T17:32:29.447686",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5182,6 +5212,11 @@
     "your journey starts with 'hola'.",
     "feel that spanish magic?",
     "breathe. then speak with ease.",
-    "one word changes your day."
+    "one word changes your day.",
+    "unlock smiles with 'gracias'.",
+    "tiny steps, big destinations.",
+    "your brain remembers every sound.",
+    "wisdom: forgiveness frees your tongue.",
+    "why wait? speak your heart."
   ]
 }
