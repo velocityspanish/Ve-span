@@ -4649,9 +4649,39 @@
       "spanish": "¡Sorpresa! Eres un hablante natural.",
       "category": "Creativity",
       "generated_at": "2026-04-27T20:04:10.676204"
+    },
+    {
+      "english": "Your tiny progress? Huge.",
+      "spanish": "Tu pequeño progreso? Enorme.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T22:00:35.624273"
+    },
+    {
+      "english": "What if words felt like home?",
+      "spanish": "¿Qué si las palabras se sintieran hogar?",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T22:00:35.624288"
+    },
+    {
+      "english": "Wisdom: Listen first, speak next.",
+      "spanish": "Sabiduría: Escucha primero, habla después.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T22:00:35.624297"
+    },
+    {
+      "english": "One 'gracias' opens hearts.",
+      "spanish": "Un 'gracias' abre corazones.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T22:00:35.624305"
+    },
+    {
+      "english": "Feel that spanish connection grow?",
+      "spanish": "¿Sientes crecer esa conexión española?",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T22:00:35.624313"
     }
   ],
-  "last_updated": "2026-04-27T20:04:10.676206",
+  "last_updated": "2026-04-27T22:00:35.624314",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5427,6 +5457,11 @@
     "what if sounds felt familiar?",
     "unlock your inner spanish voice.",
     "one word, infinite connection, yes?",
-    "surprise! you're a natural speaker."
+    "surprise! you're a natural speaker.",
+    "your tiny progress? huge.",
+    "what if words felt like home?",
+    "wisdom: listen first, speak next.",
+    "one 'gracias' opens hearts.",
+    "feel that spanish connection grow?"
   ]
 }
