@@ -4559,9 +4559,39 @@
       "spanish": "Pequeños esfuerzos crean magia.",
       "category": "Wisdom",
       "generated_at": "2026-04-27T15:09:53.814411"
+    },
+    {
+      "english": "Feel that spanish rhythm now?",
+      "spanish": "¿Sientes ese ritmo español?",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-27T16:28:25.950022"
+    },
+    {
+      "english": "Wisdom: Patience births fluency.",
+      "spanish": "Sabiduría: Paciencia da fluidez.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-27T16:28:25.950039"
+    },
+    {
+      "english": "Encouragement: You're building bridges.",
+      "spanish": "Ánimo: Estás construyendo puentes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-27T16:28:25.950047"
+    },
+    {
+      "english": "Never doubt this journey.",
+      "spanish": "Nunca dudes de este viaje.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-27T16:28:25.950055"
+    },
+    {
+      "english": "Your effort truly matters.",
+      "spanish": "Tu esfuerzo de verdad importa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-27T16:28:25.950063"
     }
   ],
-  "last_updated": "2026-04-27T15:09:53.814413",
+  "last_updated": "2026-04-27T16:28:25.950065",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5322,6 +5352,11 @@
     "embrace imperfect, speak joy.",
     "this small step changes all.",
     "surprise! your brain thrives.",
-    "tiny efforts create magic."
+    "tiny efforts create magic.",
+    "feel that spanish rhythm now?",
+    "wisdom: patience births fluency.",
+    "encouragement: you're building bridges.",
+    "never doubt this journey.",
+    "your effort truly matters."
   ]
 }
