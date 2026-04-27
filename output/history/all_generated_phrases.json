@@ -4619,9 +4619,39 @@
       "spanish": "Este pequeño paso cambia todo.",
       "category": "Self Improvement",
       "generated_at": "2026-04-27T18:01:31.007393"
+    },
+    {
+      "english": "This feeling? Pure spanish joy.",
+      "spanish": "Este sentimiento? Pura alegría española.",
+      "category": "Creativity",
+      "generated_at": "2026-04-27T20:04:10.676159"
+    },
+    {
+      "english": "What if sounds felt familiar?",
+      "spanish": "¿Y si los sonidos se sintieran familiares?",
+      "category": "Creativity",
+      "generated_at": "2026-04-27T20:04:10.676179"
+    },
+    {
+      "english": "Unlock your inner Spanish voice.",
+      "spanish": "Desbloquea tu voz interior en español.",
+      "category": "Creativity",
+      "generated_at": "2026-04-27T20:04:10.676188"
+    },
+    {
+      "english": "One word, infinite connection, yes?",
+      "spanish": "Una palabra, conexión infinita, ¿sí?",
+      "category": "Creativity",
+      "generated_at": "2026-04-27T20:04:10.676196"
+    },
+    {
+      "english": "Surprise! You're a natural speaker.",
+      "spanish": "¡Sorpresa! Eres un hablante natural.",
+      "category": "Creativity",
+      "generated_at": "2026-04-27T20:04:10.676204"
     }
   ],
-  "last_updated": "2026-04-27T18:01:31.007395",
+  "last_updated": "2026-04-27T20:04:10.676206",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5392,6 +5422,11 @@
     "one simple word, profound connection.",
     "feel that spanish rhythm? yes!",
     "don't hide; your spanish is ready.",
-    "this tiny step changes everything."
+    "this tiny step changes everything.",
+    "this feeling? pure spanish joy.",
+    "what if sounds felt familiar?",
+    "unlock your inner spanish voice.",
+    "one word, infinite connection, yes?",
+    "surprise! you're a natural speaker."
   ]
 }
