@@ -4589,9 +4589,39 @@
       "spanish": "Tu esfuerzo de verdad importa.",
       "category": "Mindfulness",
       "generated_at": "2026-04-27T16:28:25.950063"
+    },
+    {
+      "english": "Your voice, amplified in spanish.",
+      "spanish": "Tu voz, amplificada en español.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-27T18:01:31.007354"
+    },
+    {
+      "english": "One simple word, profound connection.",
+      "spanish": "Una palabra simple, conexión profunda.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-27T18:01:31.007369"
+    },
+    {
+      "english": "Feel that spanish rhythm? Yes!",
+      "spanish": "¿Sientes ese ritmo español? ¡Sí!",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-27T18:01:31.007378"
+    },
+    {
+      "english": "Don't hide; your spanish is ready.",
+      "spanish": "No te escondas; tu español está listo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-27T18:01:31.007386"
+    },
+    {
+      "english": "This tiny step changes everything.",
+      "spanish": "Este pequeño paso cambia todo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-27T18:01:31.007393"
     }
   ],
-  "last_updated": "2026-04-27T16:28:25.950065",
+  "last_updated": "2026-04-27T18:01:31.007395",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5357,6 +5387,11 @@
     "wisdom: patience births fluency.",
     "encouragement: you're building bridges.",
     "never doubt this journey.",
-    "your effort truly matters."
+    "your effort truly matters.",
+    "your voice, amplified in spanish.",
+    "one simple word, profound connection.",
+    "feel that spanish rhythm? yes!",
+    "don't hide; your spanish is ready.",
+    "this tiny step changes everything."
   ]
 }
