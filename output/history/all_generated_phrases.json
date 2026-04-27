@@ -4529,9 +4529,39 @@
       "spanish": "Abraza las pequeñas victorias.",
       "category": "Hope",
       "generated_at": "2026-04-26T21:48:41.596517"
+    },
+    {
+      "english": "Your courage is seen now.",
+      "spanish": "Tu coraje es visto ahora.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-27T15:09:53.814368"
+    },
+    {
+      "english": "Embrace imperfect, speak joy.",
+      "spanish": "Abraza imperfecto, habla gozo.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-27T15:09:53.814386"
+    },
+    {
+      "english": "This small step changes all.",
+      "spanish": "Este pequeño paso cambia todo.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-27T15:09:53.814395"
+    },
+    {
+      "english": "Surprise! Your brain thrives.",
+      "spanish": "¡Sorpresa! Tu cerebro prospera.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-27T15:09:53.814403"
+    },
+    {
+      "english": "Tiny efforts create magic.",
+      "spanish": "Pequeños esfuerzos crean magia.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-27T15:09:53.814411"
     }
   ],
-  "last_updated": "2026-04-26T21:48:41.596518",
+  "last_updated": "2026-04-27T15:09:53.814413",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5287,6 +5317,11 @@
     "one word: connect instantly.",
     "surprise! you're understood.",
     "wisdom: patience conquers all.",
-    "embrace the small victories."
+    "embrace the small victories.",
+    "your courage is seen now.",
+    "embrace imperfect, speak joy.",
+    "this small step changes all.",
+    "surprise! your brain thrives.",
+    "tiny efforts create magic."
   ]
 }
