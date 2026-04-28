@@ -4799,9 +4799,39 @@
       "spanish": "¿Sientes esta conexión, sí?",
       "category": "Kindness",
       "generated_at": "2026-04-28T20:10:07.000564"
+    },
+    {
+      "english": "Feel this? Your spanish grows.",
+      "spanish": "¿Sientes esto? Tu español crece.",
+      "category": "Growth",
+      "generated_at": "2026-04-28T22:06:19.545992"
+    },
+    {
+      "english": "Curiosity: What sounds familiar?",
+      "spanish": "¿Curiosidad? ¿Qué suena familiar?",
+      "category": "Growth",
+      "generated_at": "2026-04-28T22:06:19.546009"
+    },
+    {
+      "english": "One simple sound, total understanding.",
+      "spanish": "Un sonido simple, total entendimiento.",
+      "category": "Growth",
+      "generated_at": "2026-04-28T22:06:19.546018"
+    },
+    {
+      "english": "Wisdom: Listen first, connect.",
+      "spanish": "Sabiduría: Escucha primero, conecta.",
+      "category": "Growth",
+      "generated_at": "2026-04-28T22:06:19.546026"
+    },
+    {
+      "english": "Surprise! Your brain remembers this.",
+      "spanish": "¡Sorpresa! Tu cerebro recuerda esto.",
+      "category": "Growth",
+      "generated_at": "2026-04-28T22:06:19.546035"
     }
   ],
-  "last_updated": "2026-04-28T20:10:07.000566",
+  "last_updated": "2026-04-28T22:06:19.546036",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5602,6 +5632,11 @@
     "the real joy of learning.",
     "connect instantly with this.",
     "smile more, speak more.",
-    "feel this connection, yes?"
+    "feel this connection, yes?",
+    "feel this? your spanish grows.",
+    "curiosity: what sounds familiar?",
+    "one simple sound, total understanding.",
+    "wisdom: listen first, connect.",
+    "surprise! your brain remembers this."
   ]
 }
