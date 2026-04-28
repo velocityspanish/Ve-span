@@ -4739,9 +4739,39 @@
       "spanish": "¿Sientes eso? Conexión española.",
       "category": "Positive Life",
       "generated_at": "2026-04-28T16:54:45.611571"
+    },
+    {
+      "english": "This moment. Your spanish power.",
+      "spanish": "Este momento. Tu poder español.",
+      "category": "Courage",
+      "generated_at": "2026-04-28T18:14:22.261776"
+    },
+    {
+      "english": "Feel the connection, just try.",
+      "spanish": "Siente la conexión, solo intenta.",
+      "category": "Courage",
+      "generated_at": "2026-04-28T18:14:22.261793"
+    },
+    {
+      "english": "Wisdom: Speak what you feel.",
+      "spanish": "Sabiduría: Di lo que sientes.",
+      "category": "Courage",
+      "generated_at": "2026-04-28T18:14:22.261803"
+    },
+    {
+      "english": "Your voice truly matters, yes?",
+      "spanish": "Tu voz importa de verdad, ¿verdad?",
+      "category": "Courage",
+      "generated_at": "2026-04-28T18:14:22.261811"
+    },
+    {
+      "english": "Surprise! You understand more now.",
+      "spanish": "¡Sorpresa! Entiendes más ahora.",
+      "category": "Courage",
+      "generated_at": "2026-04-28T18:14:22.261819"
     }
   ],
-  "last_updated": "2026-04-28T16:54:45.611573",
+  "last_updated": "2026-04-28T18:14:22.261821",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5532,6 +5562,11 @@
     "embrace the journey, breathe.",
     "surprise! you're understood now.",
     "this tiny phrase opens doors.",
-    "feel that? spanish connection."
+    "feel that? spanish connection.",
+    "this moment. your spanish power.",
+    "feel the connection, just try.",
+    "wisdom: speak what you feel.",
+    "your voice truly matters, yes?",
+    "surprise! you understand more now."
   ]
 }
