@@ -4709,9 +4709,39 @@
       "spanish": "Abraza los sonidos, siéntete fluido.",
       "category": "Confidence",
       "generated_at": "2026-04-28T15:35:41.515827"
+    },
+    {
+      "english": "Wisdom: Listen deeply first.",
+      "spanish": "Sabiduría: Escucha profundamente primero.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-28T16:54:45.611528"
+    },
+    {
+      "english": "Embrace the journey, breathe.",
+      "spanish": "Abraza el viaje, respira.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-28T16:54:45.611546"
+    },
+    {
+      "english": "Surprise! You're understood now.",
+      "spanish": "¡Sorpresa! Te entienden ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-28T16:54:45.611554"
+    },
+    {
+      "english": "This tiny phrase opens doors.",
+      "spanish": "Esta pequeña frase abre puertas.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-28T16:54:45.611563"
+    },
+    {
+      "english": "Feel that? Spanish connection.",
+      "spanish": "¿Sientes eso? Conexión española.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-28T16:54:45.611571"
     }
   ],
-  "last_updated": "2026-04-28T15:35:41.515828",
+  "last_updated": "2026-04-28T16:54:45.611573",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5497,6 +5527,11 @@
     "surprise! your ears hear better.",
     "tiny sound, huge understanding, see?",
     "why hesitate? try this one.",
-    "embrace the sounds, feel fluent."
+    "embrace the sounds, feel fluent.",
+    "wisdom: listen deeply first.",
+    "embrace the journey, breathe.",
+    "surprise! you're understood now.",
+    "this tiny phrase opens doors.",
+    "feel that? spanish connection."
   ]
 }
