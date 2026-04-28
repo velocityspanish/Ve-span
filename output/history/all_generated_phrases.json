@@ -4679,9 +4679,39 @@
       "spanish": "¿Sientes crecer esa conexión española?",
       "category": "Gratitude",
       "generated_at": "2026-04-27T22:00:35.624313"
+    },
+    {
+      "english": "Your spanish echo, amplify now.",
+      "spanish": "Tu eco español, amplifica ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-04-28T15:35:41.515786"
+    },
+    {
+      "english": "Surprise! your ears hear better.",
+      "spanish": "¡Sorpresa! tus oídos oyen mejor.",
+      "category": "Confidence",
+      "generated_at": "2026-04-28T15:35:41.515802"
+    },
+    {
+      "english": "Tiny sound, huge understanding, see?",
+      "spanish": "Sonido diminuto, gran entendimiento, ¿ves?",
+      "category": "Confidence",
+      "generated_at": "2026-04-28T15:35:41.515810"
+    },
+    {
+      "english": "Why hesitate? try this one.",
+      "spanish": "¿Por qué dudar? intenta esto.",
+      "category": "Confidence",
+      "generated_at": "2026-04-28T15:35:41.515818"
+    },
+    {
+      "english": "Embrace the sounds, feel fluent.",
+      "spanish": "Abraza los sonidos, siéntete fluido.",
+      "category": "Confidence",
+      "generated_at": "2026-04-28T15:35:41.515827"
     }
   ],
-  "last_updated": "2026-04-27T22:00:35.624314",
+  "last_updated": "2026-04-28T15:35:41.515828",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5462,6 +5492,11 @@
     "what if words felt like home?",
     "wisdom: listen first, speak next.",
     "one 'gracias' opens hearts.",
-    "feel that spanish connection grow?"
+    "feel that spanish connection grow?",
+    "your spanish echo, amplify now.",
+    "surprise! your ears hear better.",
+    "tiny sound, huge understanding, see?",
+    "why hesitate? try this one.",
+    "embrace the sounds, feel fluent."
   ]
 }
