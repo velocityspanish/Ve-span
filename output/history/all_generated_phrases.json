@@ -4829,9 +4829,39 @@
       "spanish": "¡Sorpresa! Tu cerebro recuerda esto.",
       "category": "Growth",
       "generated_at": "2026-04-28T22:06:19.546035"
+    },
+    {
+      "english": "This word unlocks smiles.",
+      "spanish": "Esta palabra desbloquea sonrisas.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T15:17:49.011714"
+    },
+    {
+      "english": "Feel this connection grow?",
+      "spanish": "¿Sientes crecer esta conexión?",
+      "category": "Joy",
+      "generated_at": "2026-04-29T15:17:49.011731"
+    },
+    {
+      "english": "Your spanish echo amplifies.",
+      "spanish": "Tu eco español se amplifica.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T15:17:49.011740"
+    },
+    {
+      "english": "Wisdom: Listen deeply, then speak.",
+      "spanish": "Sabiduría: Escucha hondo, luego habla.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T15:17:49.011749"
+    },
+    {
+      "english": "Your tiny progress? Huge impact.",
+      "spanish": "¿Tu pequeño progreso? Impacto enorme.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T15:17:49.011757"
     }
   ],
-  "last_updated": "2026-04-28T22:06:19.546036",
+  "last_updated": "2026-04-29T15:17:49.011759",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5637,6 +5667,11 @@
     "curiosity: what sounds familiar?",
     "one simple sound, total understanding.",
     "wisdom: listen first, connect.",
-    "surprise! your brain remembers this."
+    "surprise! your brain remembers this.",
+    "this word unlocks smiles.",
+    "feel this connection grow?",
+    "your spanish echo amplifies.",
+    "wisdom: listen deeply, then speak.",
+    "your tiny progress? huge impact."
   ]
 }
