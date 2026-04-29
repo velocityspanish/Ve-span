@@ -4949,9 +4949,39 @@
       "spanish": "Aprende esto por alguien especial.",
       "category": "Love",
       "generated_at": "2026-04-29T20:07:34.975995"
+    },
+    {
+      "english": "Stop this if you want confidence.",
+      "spanish": "Deja esto si quieres confianza.",
+      "category": "Confidence",
+      "generated_at": "2026-04-29T22:06:07.398268"
+    },
+    {
+      "english": "Fake confidence until you become it.",
+      "spanish": "Finge confianza hasta que te conviertas.",
+      "category": "Confidence",
+      "generated_at": "2026-04-29T22:06:07.398282"
+    },
+    {
+      "english": "The body language trick that works.",
+      "spanish": "El truco lenguaje corporal que funciona.",
+      "category": "Confidence",
+      "generated_at": "2026-04-29T22:06:07.398291"
+    },
+    {
+      "english": "What confident people never say.",
+      "spanish": "Lo que la gente confiada nunca dice.",
+      "category": "Confidence",
+      "generated_at": "2026-04-29T22:06:07.398299"
+    },
+    {
+      "english": "Your self-talk is shaping you.",
+      "spanish": "Tu diálogo interno te está formando.",
+      "category": "Confidence",
+      "generated_at": "2026-04-29T22:06:07.398308"
     }
   ],
-  "last_updated": "2026-04-29T20:07:34.975997",
+  "last_updated": "2026-04-29T22:06:07.398310",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5777,6 +5807,11 @@
     "what if hearts spoke spanish?",
     "your affection, in spanish.",
     "feel that sweet 'te quiero'.",
-    "learn this for someone special."
+    "learn this for someone special.",
+    "stop this if you want confidence.",
+    "fake confidence until you become it.",
+    "the body language trick that works.",
+    "what confident people never say.",
+    "your self-talk is shaping you."
   ]
 }
