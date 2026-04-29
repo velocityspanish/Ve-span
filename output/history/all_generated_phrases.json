@@ -4919,9 +4919,39 @@
       "spanish": "Más sonrisas, con menos palabras.",
       "category": "Success",
       "generated_at": "2026-04-29T18:08:55.497449"
+    },
+    {
+      "english": "Whisper this word, feel love.",
+      "spanish": "Susurra esta palabra, siente amor.",
+      "category": "Love",
+      "generated_at": "2026-04-29T20:07:34.975948"
+    },
+    {
+      "english": "What if hearts spoke spanish?",
+      "spanish": "¿Y si los corazones hablaran español?",
+      "category": "Love",
+      "generated_at": "2026-04-29T20:07:34.975965"
+    },
+    {
+      "english": "Your affection, in spanish.",
+      "spanish": "Tu afecto, en español.",
+      "category": "Love",
+      "generated_at": "2026-04-29T20:07:34.975975"
+    },
+    {
+      "english": "Feel that sweet 'te quiero'.",
+      "spanish": "Siente ese dulce 'te quiero'.",
+      "category": "Love",
+      "generated_at": "2026-04-29T20:07:34.975987"
+    },
+    {
+      "english": "Learn this for someone special.",
+      "spanish": "Aprende esto por alguien especial.",
+      "category": "Love",
+      "generated_at": "2026-04-29T20:07:34.975995"
     }
   ],
-  "last_updated": "2026-04-29T18:08:55.497451",
+  "last_updated": "2026-04-29T20:07:34.975997",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5742,6 +5772,11 @@
     "listen close, understand more.",
     "why pause? begin now.",
     "surprise! you're connecting.",
-    "more smiles, with less words."
+    "more smiles, with less words.",
+    "whisper this word, feel love.",
+    "what if hearts spoke spanish?",
+    "your affection, in spanish.",
+    "feel that sweet 'te quiero'.",
+    "learn this for someone special."
   ]
 }
