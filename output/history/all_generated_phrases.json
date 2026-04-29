@@ -4859,9 +4859,39 @@
       "spanish": "¿Tu pequeño progreso? Impacto enorme.",
       "category": "Joy",
       "generated_at": "2026-04-29T15:17:49.011757"
+    },
+    {
+      "english": "Curiosity: what means 'ojalá'?",
+      "spanish": "Curiosidad: ¿qué significa 'ojalá'?",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T16:29:33.536129"
+    },
+    {
+      "english": "Wisdom: fluency needs patience.",
+      "spanish": "Sabiduría: la fluidez necesita paciencia.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T16:29:33.536149"
+    },
+    {
+      "english": "Embrace the struggle, friend.",
+      "spanish": "Abraza la lucha, amigo.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T16:29:33.536158"
+    },
+    {
+      "english": "This sound connection: powerful.",
+      "spanish": "Esta conexión de sonido: poderosa.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T16:29:33.536166"
+    },
+    {
+      "english": "Your effort matters greatly.",
+      "spanish": "Tu esfuerzo importa mucho.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T16:29:33.536175"
     }
   ],
-  "last_updated": "2026-04-29T15:17:49.011759",
+  "last_updated": "2026-04-29T16:29:33.536177",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5672,6 +5702,11 @@
     "feel this connection grow?",
     "your spanish echo amplifies.",
     "wisdom: listen deeply, then speak.",
-    "your tiny progress? huge impact."
+    "your tiny progress? huge impact.",
+    "curiosity: what means 'ojalá'?",
+    "wisdom: fluency needs patience.",
+    "embrace the struggle, friend.",
+    "this sound connection: powerful.",
+    "your effort matters greatly."
   ]
 }
