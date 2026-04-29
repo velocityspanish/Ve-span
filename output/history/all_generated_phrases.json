@@ -4889,9 +4889,39 @@
       "spanish": "Tu esfuerzo importa mucho.",
       "category": "Wisdom",
       "generated_at": "2026-04-29T16:29:33.536175"
+    },
+    {
+      "english": "Unlock confidence, yes?",
+      "spanish": "Desbloquea confianza, ¿sí?",
+      "category": "Success",
+      "generated_at": "2026-04-29T18:08:55.497407"
+    },
+    {
+      "english": "Listen close, understand more.",
+      "spanish": "Escucha atentamente, entiende más.",
+      "category": "Success",
+      "generated_at": "2026-04-29T18:08:55.497423"
+    },
+    {
+      "english": "Why pause? Begin now.",
+      "spanish": "¿Por qué pausar? Empieza ahora.",
+      "category": "Success",
+      "generated_at": "2026-04-29T18:08:55.497432"
+    },
+    {
+      "english": "Surprise! You're connecting.",
+      "spanish": "¡Sorpresa! Te conectas.",
+      "category": "Success",
+      "generated_at": "2026-04-29T18:08:55.497440"
+    },
+    {
+      "english": "More smiles, with less words.",
+      "spanish": "Más sonrisas, con menos palabras.",
+      "category": "Success",
+      "generated_at": "2026-04-29T18:08:55.497449"
     }
   ],
-  "last_updated": "2026-04-29T16:29:33.536177",
+  "last_updated": "2026-04-29T18:08:55.497451",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5707,6 +5737,11 @@
     "wisdom: fluency needs patience.",
     "embrace the struggle, friend.",
     "this sound connection: powerful.",
-    "your effort matters greatly."
+    "your effort matters greatly.",
+    "unlock confidence, yes?",
+    "listen close, understand more.",
+    "why pause? begin now.",
+    "surprise! you're connecting.",
+    "more smiles, with less words."
   ]
 }
