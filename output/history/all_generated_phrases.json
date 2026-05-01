@@ -4979,9 +4979,39 @@
       "spanish": "Tu diálogo interno te está formando.",
       "category": "Confidence",
       "generated_at": "2026-04-29T22:06:07.398308"
+    },
+    {
+      "english": "Smile, spanish unlocks it.",
+      "spanish": "Sonríe, el español lo desbloquea.",
+      "category": "Happiness",
+      "generated_at": "2026-05-01T14:18:45.447742"
+    },
+    {
+      "english": "Feel this spanish moment.",
+      "spanish": "Siente este momento español.",
+      "category": "Happiness",
+      "generated_at": "2026-05-01T14:18:45.447761"
+    },
+    {
+      "english": "Curiosity: what's 'mañana'?",
+      "spanish": "Curiosidad: ¿qué es 'mañana'?",
+      "category": "Happiness",
+      "generated_at": "2026-05-01T14:18:45.447771"
+    },
+    {
+      "english": "Encouragement: your voice echoes.",
+      "spanish": "Ánimo: tu voz resuena.",
+      "category": "Happiness",
+      "generated_at": "2026-05-01T14:18:45.447780"
+    },
+    {
+      "english": "Why wait? start small.",
+      "spanish": "¿Por qué esperar? empieza pequeño.",
+      "category": "Happiness",
+      "generated_at": "2026-05-01T14:18:45.447788"
     }
   ],
-  "last_updated": "2026-04-29T22:06:07.398310",
+  "last_updated": "2026-05-01T14:18:45.447790",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5812,6 +5842,11 @@
     "fake confidence until you become it.",
     "the body language trick that works.",
     "what confident people never say.",
-    "your self-talk is shaping you."
+    "your self-talk is shaping you.",
+    "smile, spanish unlocks it.",
+    "feel this spanish moment.",
+    "curiosity: what's 'mañana'?",
+    "encouragement: your voice echoes.",
+    "why wait? start small."
   ]
 }
