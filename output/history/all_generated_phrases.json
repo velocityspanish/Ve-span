@@ -5069,9 +5069,39 @@
       "spanish": "Este paso diminuto se expande.",
       "category": "Positive Life",
       "generated_at": "2026-05-01T17:51:48.308510"
+    },
+    {
+      "english": "Surprise! Your Spanish sounds natural.",
+      "spanish": "¡Sorpresa! Tu español suena natural.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-01T20:01:18.403001"
+    },
+    {
+      "english": "What if you already knew?",
+      "spanish": "¿Y si ya lo supieras?",
+      "category": "Wisdom",
+      "generated_at": "2026-05-01T20:01:18.403017"
+    },
+    {
+      "english": "Your voice matters here.",
+      "spanish": "Tu voz importa aquí.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-01T20:01:18.403026"
+    },
+    {
+      "english": "Embrace the awkward, grow.",
+      "spanish": "Abraza lo incómodo, crece.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-01T20:01:18.403034"
+    },
+    {
+      "english": "Your learning is seen.",
+      "spanish": "Tu aprendizaje es visto.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-01T20:01:18.403043"
     }
   ],
-  "last_updated": "2026-05-01T17:51:48.308512",
+  "last_updated": "2026-05-01T20:01:18.403044",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5917,6 +5947,11 @@
     "what if joy felt fluent?",
     "your patience wins the game.",
     "unlock smiles, just listen.",
-    "this tiny step expands."
+    "this tiny step expands.",
+    "surprise! your spanish sounds natural.",
+    "what if you already knew?",
+    "your voice matters here.",
+    "embrace the awkward, grow.",
+    "your learning is seen."
   ]
 }
