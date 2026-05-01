@@ -5099,9 +5099,39 @@
       "spanish": "Tu aprendizaje es visto.",
       "category": "Wisdom",
       "generated_at": "2026-05-01T20:01:18.403043"
+    },
+    {
+      "english": "Your Spanish journey, visualized.",
+      "spanish": "Tu viaje español, visualizado.",
+      "category": "Growth",
+      "generated_at": "2026-05-01T21:58:59.158556"
+    },
+    {
+      "english": "Unlock laughter, one phrase.",
+      "spanish": "Desbloquea risas, una frase.",
+      "category": "Growth",
+      "generated_at": "2026-05-01T21:58:59.158575"
+    },
+    {
+      "english": "Never underestimate small whispers.",
+      "spanish": "Nunca subestimes susurros pequeños.",
+      "category": "Growth",
+      "generated_at": "2026-05-01T21:58:59.158584"
+    },
+    {
+      "english": "Connection starts with this sound.",
+      "spanish": "La conexión empieza con este sonido.",
+      "category": "Growth",
+      "generated_at": "2026-05-01T21:58:59.158593"
+    },
+    {
+      "english": "Can you feel this rhythm?",
+      "spanish": "¿Puedes sentir este ritmo?",
+      "category": "Growth",
+      "generated_at": "2026-05-01T21:58:59.158602"
     }
   ],
-  "last_updated": "2026-05-01T20:01:18.403044",
+  "last_updated": "2026-05-01T21:58:59.158604",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5952,6 +5982,11 @@
     "what if you already knew?",
     "your voice matters here.",
     "embrace the awkward, grow.",
-    "your learning is seen."
+    "your learning is seen.",
+    "your spanish journey, visualized.",
+    "unlock laughter, one phrase.",
+    "never underestimate small whispers.",
+    "connection starts with this sound.",
+    "can you feel this rhythm?"
   ]
 }
