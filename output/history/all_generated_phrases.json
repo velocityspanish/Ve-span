@@ -5009,9 +5009,39 @@
       "spanish": "¿Por qué esperar? empieza pequeño.",
       "category": "Happiness",
       "generated_at": "2026-05-01T14:18:45.447788"
+    },
+    {
+      "english": "Slow down, hear the rhythm.",
+      "spanish": "Baja el ritmo, escucha.",
+      "category": "Patience",
+      "generated_at": "2026-05-01T15:59:12.066391"
+    },
+    {
+      "english": "Mistakes are stepping stones.",
+      "spanish": "Errores son peldaños.",
+      "category": "Patience",
+      "generated_at": "2026-05-01T15:59:12.066410"
+    },
+    {
+      "english": "Your ears are learning fast.",
+      "spanish": "Tus oídos, rápidos.",
+      "category": "Patience",
+      "generated_at": "2026-05-01T15:59:12.066420"
+    },
+    {
+      "english": "This whisper builds fluency.",
+      "spanish": "Susurro que da fluidez.",
+      "category": "Patience",
+      "generated_at": "2026-05-01T15:59:12.066429"
+    },
+    {
+      "english": "Don't rush, just absorb.",
+      "spanish": "Sin prisa, solo absorbe.",
+      "category": "Patience",
+      "generated_at": "2026-05-01T15:59:12.066437"
     }
   ],
-  "last_updated": "2026-05-01T14:18:45.447790",
+  "last_updated": "2026-05-01T15:59:12.066439",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5847,6 +5877,11 @@
     "feel this spanish moment.",
     "curiosity: what's 'mañana'?",
     "encouragement: your voice echoes.",
-    "why wait? start small."
+    "why wait? start small.",
+    "slow down, hear the rhythm.",
+    "mistakes are stepping stones.",
+    "your ears are learning fast.",
+    "this whisper builds fluency.",
+    "don't rush, just absorb."
   ]
 }
