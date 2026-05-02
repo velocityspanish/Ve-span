@@ -5189,9 +5189,39 @@
       "spanish": "Este momento? Tu pico español.",
       "category": "Strength",
       "generated_at": "2026-05-02T15:50:31.080205"
+    },
+    {
+      "english": "This whisper opens worlds, truly.",
+      "spanish": "Este susurro abre mundos, en serio.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T17:38:20.485618"
+    },
+    {
+      "english": "Your courage? It speaks volumes.",
+      "spanish": "¿Tu valentía? Habla muchísimo.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T17:38:20.485638"
+    },
+    {
+      "english": "One sound connection, immense power.",
+      "spanish": "Una conexión sonora, inmenso poder.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T17:38:20.485648"
+    },
+    {
+      "english": "Don't just learn, feel it.",
+      "spanish": "No solo aprendas, siéntelo.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T17:38:20.485657"
+    },
+    {
+      "english": "Wisdom: Listen to your heart.",
+      "spanish": "Sabiduría: Escucha a tu corazón.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T17:38:20.485667"
     }
   ],
-  "last_updated": "2026-05-02T15:50:31.080207",
+  "last_updated": "2026-05-02T17:38:20.485669",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6057,6 +6087,11 @@
     "your understanding is growing now.",
     "never fear speaking, try.",
     "hear the magic in spanish.",
-    "this moment? your spanish peak."
+    "this moment? your spanish peak.",
+    "this whisper opens worlds, truly.",
+    "your courage? it speaks volumes.",
+    "one sound connection, immense power.",
+    "don't just learn, feel it.",
+    "wisdom: listen to your heart."
   ]
 }
