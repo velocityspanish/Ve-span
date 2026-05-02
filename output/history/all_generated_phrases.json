@@ -5249,9 +5249,39 @@
       "spanish": "Progreso pequeño. Sentimiento enorme.",
       "category": "Positive Life",
       "generated_at": "2026-05-02T19:47:57.456222"
+    },
+    {
+      "english": "What if love sounded like this?",
+      "spanish": "¿Y si el amor sonara así?",
+      "category": "Love",
+      "generated_at": "2026-05-02T21:52:24.001881"
+    },
+    {
+      "english": "Feel this heart's gentle rhythm.",
+      "spanish": "Siente este suave latido.",
+      "category": "Love",
+      "generated_at": "2026-05-02T21:52:24.001901"
+    },
+    {
+      "english": "This phrase? Pure affection.",
+      "spanish": "Ésta frase: puro afecto.",
+      "category": "Love",
+      "generated_at": "2026-05-02T21:52:24.001911"
+    },
+    {
+      "english": "Wisdom: Love speaks softly.",
+      "spanish": "Sabiduría: Amor habla bajo.",
+      "category": "Love",
+      "generated_at": "2026-05-02T21:52:24.001920"
+    },
+    {
+      "english": "Surprise! Your feelings understood.",
+      "spanish": "¡Sorpresa! Tus sentimientos entendidos.",
+      "category": "Love",
+      "generated_at": "2026-05-02T21:52:24.001929"
     }
   ],
-  "last_updated": "2026-05-02T19:47:57.456224",
+  "last_updated": "2026-05-02T21:52:24.001931",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6127,6 +6157,11 @@
     "the sound of understanding.",
     "your voice. it’s heard now.",
     "what if you understood more?",
-    "small progress. huge feeling."
+    "small progress. huge feeling.",
+    "what if love sounded like this?",
+    "feel this heart's gentle rhythm.",
+    "this phrase? pure affection.",
+    "wisdom: love speaks softly.",
+    "surprise! your feelings understood."
   ]
 }
