@@ -5159,9 +5159,39 @@
       "spanish": "¿Por qué complicar? Prueba esta frase.",
       "category": "Growth",
       "generated_at": "2026-05-02T14:11:43.189619"
+    },
+    {
+      "english": "Unlock joy with this sound.",
+      "spanish": "Desbloquea la alegría con este sonido.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T15:50:31.080160"
+    },
+    {
+      "english": "Your understanding is growing now.",
+      "spanish": "Tu comprensión está creciendo ahora.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T15:50:31.080178"
+    },
+    {
+      "english": "Never fear speaking, try.",
+      "spanish": "Nunca temas hablar, intenta.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T15:50:31.080187"
+    },
+    {
+      "english": "Hear the magic in Spanish.",
+      "spanish": "Escucha la magia en español.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T15:50:31.080196"
+    },
+    {
+      "english": "This moment? Your Spanish peak.",
+      "spanish": "Este momento? Tu pico español.",
+      "category": "Strength",
+      "generated_at": "2026-05-02T15:50:31.080205"
     }
   ],
-  "last_updated": "2026-05-02T14:11:43.189621",
+  "last_updated": "2026-05-02T15:50:31.080207",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6022,6 +6052,11 @@
     "what if your voice had power?",
     "stop fearing, start speaking now.",
     "your persistence unlocks fluency.",
-    "why complicate? try this phrase."
+    "why complicate? try this phrase.",
+    "unlock joy with this sound.",
+    "your understanding is growing now.",
+    "never fear speaking, try.",
+    "hear the magic in spanish.",
+    "this moment? your spanish peak."
   ]
 }
