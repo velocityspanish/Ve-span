@@ -5129,9 +5129,39 @@
       "spanish": "¿Puedes sentir este ritmo?",
       "category": "Growth",
       "generated_at": "2026-05-01T21:58:59.158602"
+    },
+    {
+      "english": "Your fluency secret? Listen.",
+      "spanish": "Tu secreto de fluidez? Escucha.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:11:43.189576"
+    },
+    {
+      "english": "What if your voice had power?",
+      "spanish": "¿Y si tu voz tuviera poder?",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:11:43.189593"
+    },
+    {
+      "english": "Stop fearing, start speaking now.",
+      "spanish": "Deja de temer, empieza a hablar ahora.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:11:43.189602"
+    },
+    {
+      "english": "Your persistence unlocks fluency.",
+      "spanish": "Tu persistencia desbloquea la fluidez.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:11:43.189610"
+    },
+    {
+      "english": "Why complicate? Try this phrase.",
+      "spanish": "¿Por qué complicar? Prueba esta frase.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:11:43.189619"
     }
   ],
-  "last_updated": "2026-05-01T21:58:59.158604",
+  "last_updated": "2026-05-02T14:11:43.189621",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -5987,6 +6017,11 @@
     "unlock laughter, one phrase.",
     "never underestimate small whispers.",
     "connection starts with this sound.",
-    "can you feel this rhythm?"
+    "can you feel this rhythm?",
+    "your fluency secret? listen.",
+    "what if your voice had power?",
+    "stop fearing, start speaking now.",
+    "your persistence unlocks fluency.",
+    "why complicate? try this phrase."
   ]
 }
