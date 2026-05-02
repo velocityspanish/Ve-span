@@ -5219,9 +5219,39 @@
       "spanish": "Sabiduría: Escucha a tu corazón.",
       "category": "Strength",
       "generated_at": "2026-05-02T17:38:20.485667"
+    },
+    {
+      "english": "Want confidence? Listen up.",
+      "spanish": "¿Quieres confianza? Escucha bien.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-02T19:47:57.456171"
+    },
+    {
+      "english": "The sound of understanding.",
+      "spanish": "El sonido del entender.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-02T19:47:57.456191"
+    },
+    {
+      "english": "Your voice. It’s heard now.",
+      "spanish": "Tu voz. Es escuchada ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-02T19:47:57.456202"
+    },
+    {
+      "english": "What if you understood more?",
+      "spanish": "¿Y si entendieras más?",
+      "category": "Positive Life",
+      "generated_at": "2026-05-02T19:47:57.456212"
+    },
+    {
+      "english": "Small progress. Huge feeling.",
+      "spanish": "Progreso pequeño. Sentimiento enorme.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-02T19:47:57.456222"
     }
   ],
-  "last_updated": "2026-05-02T17:38:20.485669",
+  "last_updated": "2026-05-02T19:47:57.456224",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6092,6 +6122,11 @@
     "your courage? it speaks volumes.",
     "one sound connection, immense power.",
     "don't just learn, feel it.",
-    "wisdom: listen to your heart."
+    "wisdom: listen to your heart.",
+    "want confidence? listen up.",
+    "the sound of understanding.",
+    "your voice. it’s heard now.",
+    "what if you understood more?",
+    "small progress. huge feeling."
   ]
 }
