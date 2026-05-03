@@ -5339,9 +5339,39 @@
       "spanish": "¿Sientes esto? El español florece.",
       "category": "Perseverance",
       "generated_at": "2026-05-03T15:51:00.383048"
+    },
+    {
+      "english": "Surprise! You'll love this phrase.",
+      "spanish": "¡Sorpresa! Te encantará esta frase.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-03T17:40:03.926052"
+    },
+    {
+      "english": "Curiosity: What opens doors?",
+      "spanish": "¿Curiosidad? ¿Qué abre puertas?",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-03T17:40:03.926071"
+    },
+    {
+      "english": "Wisdom: Forgive, feel lighter.",
+      "spanish": "Sabiduría: Perdona, siéntete más ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-03T17:40:03.926081"
+    },
+    {
+      "english": "Encouragement: Your peace matters most.",
+      "spanish": "Tu paz importa más.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-03T17:40:03.926090"
+    },
+    {
+      "english": "Try this for inner calm.",
+      "spanish": "Intenta esto para calma interior.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-03T17:40:03.926098"
     }
   ],
-  "last_updated": "2026-05-03T15:51:00.383050",
+  "last_updated": "2026-05-03T17:40:03.926100",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6232,6 +6262,11 @@
     "this simple sound, pure connection.",
     "your progress whispers, listen close.",
     "curiosity: what does 'vale' mean?",
-    "feel this? spanish is blooming."
+    "feel this? spanish is blooming.",
+    "surprise! you'll love this phrase.",
+    "curiosity: what opens doors?",
+    "wisdom: forgive, feel lighter.",
+    "encouragement: your peace matters most.",
+    "try this for inner calm."
   ]
 }
