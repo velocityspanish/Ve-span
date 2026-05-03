@@ -5369,9 +5369,39 @@
       "spanish": "Intenta esto para calma interior.",
       "category": "Forgiveness",
       "generated_at": "2026-05-03T17:40:03.926098"
+    },
+    {
+      "english": "Surprise! Your intuition is right.",
+      "spanish": "¡Sorpresa! Tu intuición es correcta.",
+      "category": "Growth",
+      "generated_at": "2026-05-03T19:46:53.863214"
+    },
+    {
+      "english": "This phrase unlocks inner peace.",
+      "spanish": "Esta frase desbloquea paz interior.",
+      "category": "Growth",
+      "generated_at": "2026-05-03T19:46:53.863234"
+    },
+    {
+      "english": "Encouragement: Your voice echoes loudly.",
+      "spanish": "Animo: Tu voz resuena fuerte.",
+      "category": "Growth",
+      "generated_at": "2026-05-03T19:46:53.863244"
+    },
+    {
+      "english": "Stop fearing, speak this now.",
+      "spanish": "Deja de temer, di esto.",
+      "category": "Growth",
+      "generated_at": "2026-05-03T19:46:53.863253"
+    },
+    {
+      "english": "Wisdom: Flow with the rhythm.",
+      "spanish": "Sabiduría: Fluye con ritmo.",
+      "category": "Growth",
+      "generated_at": "2026-05-03T19:46:53.863263"
     }
   ],
-  "last_updated": "2026-05-03T17:40:03.926100",
+  "last_updated": "2026-05-03T19:46:53.863265",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6267,6 +6297,11 @@
     "curiosity: what opens doors?",
     "wisdom: forgive, feel lighter.",
     "encouragement: your peace matters most.",
-    "try this for inner calm."
+    "try this for inner calm.",
+    "surprise! your intuition is right.",
+    "this phrase unlocks inner peace.",
+    "encouragement: your voice echoes loudly.",
+    "stop fearing, speak this now.",
+    "wisdom: flow with the rhythm."
   ]
 }
