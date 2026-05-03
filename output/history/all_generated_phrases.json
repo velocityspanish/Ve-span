@@ -5309,9 +5309,39 @@
       "spanish": "Siente la calma. Solo respira.",
       "category": "Happiness",
       "generated_at": "2026-05-03T14:12:33.348014"
+    },
+    {
+      "english": "What if you understood? Try this.",
+      "spanish": "¿Y si entendieras? Prueba esto.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-03T15:51:00.383000"
+    },
+    {
+      "english": "This simple sound, pure connection.",
+      "spanish": "Este sonido simple, conexión pura.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-03T15:51:00.383020"
+    },
+    {
+      "english": "Your progress whispers, listen close.",
+      "spanish": "Tu progreso susurra, escucha atento.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-03T15:51:00.383029"
+    },
+    {
+      "english": "Curiosity: What does 'vale' mean?",
+      "spanish": "Curiosidad: ¿Qué significa 'vale'?",
+      "category": "Perseverance",
+      "generated_at": "2026-05-03T15:51:00.383038"
+    },
+    {
+      "english": "Feel this? Spanish is blooming.",
+      "spanish": "¿Sientes esto? El español florece.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-03T15:51:00.383048"
     }
   ],
-  "last_updated": "2026-05-03T14:12:33.348017",
+  "last_updated": "2026-05-03T15:51:00.383050",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6197,6 +6227,11 @@
     "what if joy was a word?",
     "your happiness echoed, beautiful.",
     "this tiny word brings smiles.",
-    "feel the calm. just breathe."
+    "feel the calm. just breathe.",
+    "what if you understood? try this.",
+    "this simple sound, pure connection.",
+    "your progress whispers, listen close.",
+    "curiosity: what does 'vale' mean?",
+    "feel this? spanish is blooming."
   ]
 }
