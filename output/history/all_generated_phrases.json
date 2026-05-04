@@ -5549,9 +5549,39 @@
       "spanish": "Deja de pensar demasiado. Solo dilo.",
       "category": "Balance",
       "generated_at": "2026-05-04T20:11:00.631576"
+    },
+    {
+      "english": "Feel this calm, practice 'gracias'.",
+      "spanish": "Siente calma, practica 'gracias'.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T22:09:42.665412"
+    },
+    {
+      "english": "Your efforts bloom, say 'bien'.",
+      "spanish": "Tus esfuerzos florecen, di 'bien'.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T22:09:42.665434"
+    },
+    {
+      "english": "This tiny word builds bridges.",
+      "spanish": "Esta palabra diminuta une.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T22:09:42.665445"
+    },
+    {
+      "english": "Want to connect? Say 'hola'.",
+      "spanish": "¿Quieres conectar? Di 'hola'.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T22:09:42.665455"
+    },
+    {
+      "english": "Feel welcomed with this sound.",
+      "spanish": "Siéntete bienvenido con esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T22:09:42.665466"
     }
   ],
-  "last_updated": "2026-05-04T20:11:00.631578",
+  "last_updated": "2026-05-04T22:09:42.665469",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6477,6 +6507,11 @@
     "your progress whispers. listen.",
     "never underestimate this greeting.",
     "feel this small victory now.",
-    "stop overthinking. just say it."
+    "stop overthinking. just say it.",
+    "feel this calm, practice 'gracias'.",
+    "your efforts bloom, say 'bien'.",
+    "this tiny word builds bridges.",
+    "want to connect? say 'hola'.",
+    "feel welcomed with this sound."
   ]
 }
