@@ -5519,9 +5519,39 @@
       "spanish": "Nunca dudes tu viaje de aprendizaje.",
       "category": "Perseverance",
       "generated_at": "2026-05-04T18:10:37.905699"
+    },
+    {
+      "english": "This word unlocks doors, fast.",
+      "spanish": "Esta palabra abre puertas, rápido.",
+      "category": "Balance",
+      "generated_at": "2026-05-04T20:11:00.631529"
+    },
+    {
+      "english": "Your progress whispers. Listen.",
+      "spanish": "Tu progreso susurra. Escucha.",
+      "category": "Balance",
+      "generated_at": "2026-05-04T20:11:00.631547"
+    },
+    {
+      "english": "Never underestimate this greeting.",
+      "spanish": "Nunca subestimes este saludo.",
+      "category": "Balance",
+      "generated_at": "2026-05-04T20:11:00.631557"
+    },
+    {
+      "english": "Feel this small victory now.",
+      "spanish": "Siente esta pequeña victoria ahora.",
+      "category": "Balance",
+      "generated_at": "2026-05-04T20:11:00.631567"
+    },
+    {
+      "english": "Stop overthinking. Just say it.",
+      "spanish": "Deja de pensar demasiado. Solo dilo.",
+      "category": "Balance",
+      "generated_at": "2026-05-04T20:11:00.631576"
     }
   ],
-  "last_updated": "2026-05-04T18:10:37.905701",
+  "last_updated": "2026-05-04T20:11:00.631578",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6442,6 +6472,11 @@
     "small wins, big motivation.",
     "can you guess this sound?",
     "surprise! your accent sounds great.",
-    "never doubt your learning journey."
+    "never doubt your learning journey.",
+    "this word unlocks doors, fast.",
+    "your progress whispers. listen.",
+    "never underestimate this greeting.",
+    "feel this small victory now.",
+    "stop overthinking. just say it."
   ]
 }
