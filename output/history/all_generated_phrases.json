@@ -5459,9 +5459,39 @@
       "spanish": "¡Sorpresa! Estás entendiendo.",
       "category": "Wisdom",
       "generated_at": "2026-05-04T15:11:49.429461"
+    },
+    {
+      "english": "Your voice starts today.",
+      "spanish": "Tu voz empieza hoy.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T16:48:30.198775"
+    },
+    {
+      "english": "This small step, huge gain.",
+      "spanish": "Este pequeño paso, gran ganancia.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T16:48:30.198793"
+    },
+    {
+      "english": "Keep whispering. It works.",
+      "spanish": "Sigue susurrando. Funciona.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T16:48:30.198803"
+    },
+    {
+      "english": "Wisdom: Every word counts.",
+      "spanish": "Sabiduría: Cada palabra cuenta.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T16:48:30.198812"
+    },
+    {
+      "english": "Unlock progress. Just speak.",
+      "spanish": "Desbloquea el progreso. Solo habla.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T16:48:30.198822"
     }
   ],
-  "last_updated": "2026-05-04T15:11:49.429464",
+  "last_updated": "2026-05-04T16:48:30.198823",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6372,6 +6402,11 @@
     "what if this flows easily?",
     "never underestimate 'gracias'.",
     "this tiny word feels great.",
-    "surprise! you're understanding."
+    "surprise! you're understanding.",
+    "your voice starts today.",
+    "this small step, huge gain.",
+    "keep whispering. it works.",
+    "wisdom: every word counts.",
+    "unlock progress. just speak."
   ]
 }
