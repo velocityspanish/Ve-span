@@ -5429,9 +5429,39 @@
       "spanish": "Momento pequeño, gran paz.",
       "category": "Happiness",
       "generated_at": "2026-05-03T21:53:55.150754"
+    },
+    {
+      "english": "One word unlocks understanding.",
+      "spanish": "Una palabra desbloquea la comprensión.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-04T15:11:49.429361"
+    },
+    {
+      "english": "What if this flows easily?",
+      "spanish": "¿Y si esto fluye fácil?",
+      "category": "Wisdom",
+      "generated_at": "2026-05-04T15:11:49.429408"
+    },
+    {
+      "english": "Never underestimate 'gracias'.",
+      "spanish": "Nunca subestimes 'gracias'.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-04T15:11:49.429427"
+    },
+    {
+      "english": "This tiny word feels great.",
+      "spanish": "Esta palabra pequeña se siente genial.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-04T15:11:49.429444"
+    },
+    {
+      "english": "Surprise! You're understanding.",
+      "spanish": "¡Sorpresa! Estás entendiendo.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-04T15:11:49.429461"
     }
   ],
-  "last_updated": "2026-05-03T21:53:55.150756",
+  "last_updated": "2026-05-04T15:11:49.429464",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6337,6 +6367,11 @@
     "feel this gentle connection.",
     "unlock smiles, instantly.",
     "your progress whispers loud.",
-    "small moment, big peace."
+    "small moment, big peace.",
+    "one word unlocks understanding.",
+    "what if this flows easily?",
+    "never underestimate 'gracias'.",
+    "this tiny word feels great.",
+    "surprise! you're understanding."
   ]
 }
