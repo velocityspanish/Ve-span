@@ -5489,9 +5489,39 @@
       "spanish": "Desbloquea el progreso. Solo habla.",
       "category": "Perseverance",
       "generated_at": "2026-05-04T16:48:30.198822"
+    },
+    {
+      "english": "Your effort counts, keep going.",
+      "spanish": "Tu esfuerzo cuenta, sigue.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:10:37.905653"
+    },
+    {
+      "english": "Small wins, big motivation.",
+      "spanish": "Pequeñas victorias, gran motivación.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:10:37.905670"
+    },
+    {
+      "english": "Can you guess this sound?",
+      "spanish": "¿Puedes adivinar este sonido?",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:10:37.905680"
+    },
+    {
+      "english": "Surprise! Your accent sounds great.",
+      "spanish": "¡Sorpresa! Tu acento suena bien.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:10:37.905690"
+    },
+    {
+      "english": "Never doubt your learning journey.",
+      "spanish": "Nunca dudes tu viaje de aprendizaje.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:10:37.905699"
     }
   ],
-  "last_updated": "2026-05-04T16:48:30.198823",
+  "last_updated": "2026-05-04T18:10:37.905701",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6407,6 +6437,11 @@
     "this small step, huge gain.",
     "keep whispering. it works.",
     "wisdom: every word counts.",
-    "unlock progress. just speak."
+    "unlock progress. just speak.",
+    "your effort counts, keep going.",
+    "small wins, big motivation.",
+    "can you guess this sound?",
+    "surprise! your accent sounds great.",
+    "never doubt your learning journey."
   ]
 }
