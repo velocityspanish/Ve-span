@@ -5609,9 +5609,39 @@
       "spanish": "Un sonido, poder inmenso.",
       "category": "Motivation",
       "generated_at": "2026-05-05T18:08:36.643357"
+    },
+    {
+      "english": "Hear this! Friendship in words.",
+      "spanish": "¡Oye esto! Amistad en palabras.",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:19:20.197778"
+    },
+    {
+      "english": "Can you say 'friend' now?",
+      "spanish": "¿Puedes decir 'amigo' ahora?",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:19:20.197807"
+    },
+    {
+      "english": "This word means loyalty.",
+      "spanish": "Esta palabra significa lealtad.",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:19:20.197817"
+    },
+    {
+      "english": "Your true friends listen.",
+      "spanish": "Tus verdaderos amigos escuchan.",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:19:20.197826"
+    },
+    {
+      "english": "Surprise! You can speak it.",
+      "spanish": "¡Sorpresa! Puedes decirlo.",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:19:20.197836"
     }
   ],
-  "last_updated": "2026-05-05T18:08:36.643359",
+  "last_updated": "2026-05-05T20:19:20.197838",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6547,6 +6577,11 @@
     "feel this progress, it's yours.",
     "stop fearing, speak courageously.",
     "your effort echoes loudly.",
-    "one sound, immense power."
+    "one sound, immense power.",
+    "hear this! friendship in words.",
+    "can you say 'friend' now?",
+    "this word means loyalty.",
+    "your true friends listen.",
+    "surprise! you can speak it."
   ]
 }
