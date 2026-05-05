@@ -5579,9 +5579,39 @@
       "spanish": "Siéntete bienvenido con esto.",
       "category": "Gratitude",
       "generated_at": "2026-05-04T22:09:42.665466"
+    },
+    {
+      "english": "Hear this, connect deeper.",
+      "spanish": "Escucha esto, conecta más profundo.",
+      "category": "Motivation",
+      "generated_at": "2026-05-05T18:08:36.643306"
+    },
+    {
+      "english": "Feel this progress, it's yours.",
+      "spanish": "Siente este progreso, es tuyo.",
+      "category": "Motivation",
+      "generated_at": "2026-05-05T18:08:36.643329"
+    },
+    {
+      "english": "Stop fearing, speak courageously.",
+      "spanish": "Deja el miedo, habla con coraje.",
+      "category": "Motivation",
+      "generated_at": "2026-05-05T18:08:36.643339"
+    },
+    {
+      "english": "Your effort echoes loudly.",
+      "spanish": "Tu esfuerzo resuena fuerte.",
+      "category": "Motivation",
+      "generated_at": "2026-05-05T18:08:36.643348"
+    },
+    {
+      "english": "One sound, immense power.",
+      "spanish": "Un sonido, poder inmenso.",
+      "category": "Motivation",
+      "generated_at": "2026-05-05T18:08:36.643357"
     }
   ],
-  "last_updated": "2026-05-04T22:09:42.665469",
+  "last_updated": "2026-05-05T18:08:36.643359",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6512,6 +6542,11 @@
     "your efforts bloom, say 'bien'.",
     "this tiny word builds bridges.",
     "want to connect? say 'hola'.",
-    "feel welcomed with this sound."
+    "feel welcomed with this sound.",
+    "hear this, connect deeper.",
+    "feel this progress, it's yours.",
+    "stop fearing, speak courageously.",
+    "your effort echoes loudly.",
+    "one sound, immense power."
   ]
 }
