@@ -5639,9 +5639,39 @@
       "spanish": "¡Sorpresa! Puedes decirlo.",
       "category": "Friendship",
       "generated_at": "2026-05-05T20:19:20.197836"
+    },
+    {
+      "english": "Love whispers, can you hear?",
+      "spanish": "El amor susurra, ¿lo oyes?",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:07:38.315680"
+    },
+    {
+      "english": "This one word means 'forever'.",
+      "spanish": "Esta palabra significa 'para siempre'.",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:07:38.315703"
+    },
+    {
+      "english": "Your heart speaks this language.",
+      "spanish": "Tu corazón habla este idioma.",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:07:38.315713"
+    },
+    {
+      "english": "What if 'te amo' changes everything?",
+      "spanish": "¿Y si 'te amo' cambia todo?",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:07:38.315723"
+    },
+    {
+      "english": "This phrase means 'you're home'.",
+      "spanish": "Esta frase significa 'estás en casa'.",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:07:38.315732"
     }
   ],
-  "last_updated": "2026-05-05T20:19:20.197838",
+  "last_updated": "2026-05-05T22:07:38.315734",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6582,6 +6612,11 @@
     "can you say 'friend' now?",
     "this word means loyalty.",
     "your true friends listen.",
-    "surprise! you can speak it."
+    "surprise! you can speak it.",
+    "love whispers, can you hear?",
+    "this one word means 'forever'.",
+    "your heart speaks this language.",
+    "what if 'te amo' changes everything?",
+    "this phrase means 'you're home'."
   ]
 }
