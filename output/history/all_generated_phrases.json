@@ -5729,9 +5729,39 @@
       "spanish": "Una palabra guarda tu corazón.",
       "category": "Love",
       "generated_at": "2026-05-06T16:44:12.195031"
+    },
+    {
+      "english": "Your voice echoes louder now.",
+      "spanish": "Tu voz resuena más fuerte.",
+      "category": "Success",
+      "generated_at": "2026-05-06T18:11:32.492542"
+    },
+    {
+      "english": "Feel this rhythm, it's Spanish.",
+      "spanish": "Siente este ritmo, es español.",
+      "category": "Success",
+      "generated_at": "2026-05-06T18:11:32.492563"
+    },
+    {
+      "english": "Never fear asking 'cómo'.",
+      "spanish": "Nunca temas preguntar 'cómo'.",
+      "category": "Success",
+      "generated_at": "2026-05-06T18:11:32.492575"
+    },
+    {
+      "english": "Curiosity: 'Qué pasa' means?",
+      "spanish": "Curiosidad: ¿'Qué pasa' significa?",
+      "category": "Success",
+      "generated_at": "2026-05-06T18:11:32.492586"
+    },
+    {
+      "english": "Keep saying 'gracias', feel good.",
+      "spanish": "Sigue diciendo 'gracias', siéntete bien.",
+      "category": "Success",
+      "generated_at": "2026-05-06T18:11:32.492596"
     }
   ],
-  "last_updated": "2026-05-06T16:44:12.195033",
+  "last_updated": "2026-05-06T18:11:32.492598",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6687,6 +6717,11 @@
     "your love story starts.",
     "this phrase means forever.",
     "whispers of true affection.",
-    "one word holds your heart."
+    "one word holds your heart.",
+    "your voice echoes louder now.",
+    "feel this rhythm, it's spanish.",
+    "never fear asking 'cómo'.",
+    "curiosity: 'qué pasa' means?",
+    "keep saying 'gracias', feel good."
   ]
 }
