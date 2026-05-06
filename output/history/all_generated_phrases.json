@@ -5759,9 +5759,39 @@
       "spanish": "Sigue diciendo 'gracias', siéntete bien.",
       "category": "Success",
       "generated_at": "2026-05-06T18:11:32.492596"
+    },
+    {
+      "english": "Your bravery shines, try 'hola'.",
+      "spanish": "Tu valentía brilla, prueba 'hola'.",
+      "category": "Joy",
+      "generated_at": "2026-05-06T20:19:11.710131"
+    },
+    {
+      "english": "One word opens doors: 'gracias'.",
+      "spanish": "Una palabra abre puertas: 'gracias'.",
+      "category": "Joy",
+      "generated_at": "2026-05-06T20:19:11.710149"
+    },
+    {
+      "english": "Feel this small win: 'bien'.",
+      "spanish": "Siente esta pequeña victoria: 'bien'.",
+      "category": "Joy",
+      "generated_at": "2026-05-06T20:19:11.710158"
+    },
+    {
+      "english": "What if understanding felt this good?",
+      "spanish": "¿Qué tal si entender se siente así?",
+      "category": "Joy",
+      "generated_at": "2026-05-06T20:19:11.710165"
+    },
+    {
+      "english": "This sound? Pure encouragement. 'vamos'.",
+      "spanish": "¿Este sonido? Puro aliento. 'vamos'.",
+      "category": "Joy",
+      "generated_at": "2026-05-06T20:19:11.710172"
     }
   ],
-  "last_updated": "2026-05-06T18:11:32.492598",
+  "last_updated": "2026-05-06T20:19:11.710174",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6722,6 +6752,11 @@
     "feel this rhythm, it's spanish.",
     "never fear asking 'cómo'.",
     "curiosity: 'qué pasa' means?",
-    "keep saying 'gracias', feel good."
+    "keep saying 'gracias', feel good.",
+    "your bravery shines, try 'hola'.",
+    "one word opens doors: 'gracias'.",
+    "feel this small win: 'bien'.",
+    "what if understanding felt this good?",
+    "this sound? pure encouragement. 'vamos'."
   ]
 }
