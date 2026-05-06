@@ -5669,9 +5669,39 @@
       "spanish": "Esta frase significa 'estás en casa'.",
       "category": "Love",
       "generated_at": "2026-05-05T22:07:38.315732"
+    },
+    {
+      "english": "Your courage sounds beautiful.",
+      "spanish": "Tu coraje suena hermoso.",
+      "category": "Success",
+      "generated_at": "2026-05-06T15:28:37.628700"
+    },
+    {
+      "english": "Unlock new worlds, simply.",
+      "spanish": "Abre mundos nuevos, simple.",
+      "category": "Success",
+      "generated_at": "2026-05-06T15:28:37.628716"
+    },
+    {
+      "english": "Can you hear this connection?",
+      "spanish": "¿Puedes oír esta conexión?",
+      "category": "Success",
+      "generated_at": "2026-05-06T15:28:37.628726"
+    },
+    {
+      "english": "Wisdom: Flow with practice.",
+      "spanish": "Sabiduría: Fluye con práctica.",
+      "category": "Success",
+      "generated_at": "2026-05-06T15:28:37.628735"
+    },
+    {
+      "english": "Stop fearing, start speaking.",
+      "spanish": "Deja el miedo, empieza a hablar.",
+      "category": "Success",
+      "generated_at": "2026-05-06T15:28:37.628745"
     }
   ],
-  "last_updated": "2026-05-05T22:07:38.315734",
+  "last_updated": "2026-05-06T15:28:37.628747",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6617,6 +6647,11 @@
     "this one word means 'forever'.",
     "your heart speaks this language.",
     "what if 'te amo' changes everything?",
-    "this phrase means 'you're home'."
+    "this phrase means 'you're home'.",
+    "your courage sounds beautiful.",
+    "unlock new worlds, simply.",
+    "can you hear this connection?",
+    "wisdom: flow with practice.",
+    "stop fearing, start speaking."
   ]
 }
