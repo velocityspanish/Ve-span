@@ -5789,9 +5789,39 @@
       "spanish": "¿Este sonido? Puro aliento. 'vamos'.",
       "category": "Joy",
       "generated_at": "2026-05-06T20:19:11.710172"
+    },
+    {
+      "english": "What if calm felt like this?",
+      "spanish": "¿Y si la calma se sintiera así?",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T22:15:42.925334"
+    },
+    {
+      "english": "Your inner peace unlocked.",
+      "spanish": "Tu paz interior desbloqueada.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T22:15:42.925351"
+    },
+    {
+      "english": "Hear this: A moment's escape.",
+      "spanish": "Oye esto: Un escape fugaz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T22:15:42.925362"
+    },
+    {
+      "english": "Wisdom: Breathe, you're enough.",
+      "spanish": "Sabiduría: Respira, eres suficiente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T22:15:42.925371"
+    },
+    {
+      "english": "Feel this joy, instantly.",
+      "spanish": "Siente esta alegría, al instante.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T22:15:42.925381"
     }
   ],
-  "last_updated": "2026-05-06T20:19:11.710174",
+  "last_updated": "2026-05-06T22:15:42.925382",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6757,6 +6787,11 @@
     "one word opens doors: 'gracias'.",
     "feel this small win: 'bien'.",
     "what if understanding felt this good?",
-    "this sound? pure encouragement. 'vamos'."
+    "this sound? pure encouragement. 'vamos'.",
+    "what if calm felt like this?",
+    "your inner peace unlocked.",
+    "hear this: a moment's escape.",
+    "wisdom: breathe, you're enough.",
+    "feel this joy, instantly."
   ]
 }
