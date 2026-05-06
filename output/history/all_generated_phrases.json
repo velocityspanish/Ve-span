@@ -5699,9 +5699,39 @@
       "spanish": "Deja el miedo, empieza a hablar.",
       "category": "Success",
       "generated_at": "2026-05-06T15:28:37.628745"
+    },
+    {
+      "english": "Hear this heartbeat.",
+      "spanish": "Oye este latido.",
+      "category": "Love",
+      "generated_at": "2026-05-06T16:44:12.194985"
+    },
+    {
+      "english": "Your love story starts.",
+      "spanish": "Tu historia de amor empieza.",
+      "category": "Love",
+      "generated_at": "2026-05-06T16:44:12.195002"
+    },
+    {
+      "english": "This phrase means forever.",
+      "spanish": "Esta frase significa para siempre.",
+      "category": "Love",
+      "generated_at": "2026-05-06T16:44:12.195012"
+    },
+    {
+      "english": "Whispers of true affection.",
+      "spanish": "Susurros de amor verdadero.",
+      "category": "Love",
+      "generated_at": "2026-05-06T16:44:12.195021"
+    },
+    {
+      "english": "One word holds your heart.",
+      "spanish": "Una palabra guarda tu corazón.",
+      "category": "Love",
+      "generated_at": "2026-05-06T16:44:12.195031"
     }
   ],
-  "last_updated": "2026-05-06T15:28:37.628747",
+  "last_updated": "2026-05-06T16:44:12.195033",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6652,6 +6682,11 @@
     "unlock new worlds, simply.",
     "can you hear this connection?",
     "wisdom: flow with practice.",
-    "stop fearing, start speaking."
+    "stop fearing, start speaking.",
+    "hear this heartbeat.",
+    "your love story starts.",
+    "this phrase means forever.",
+    "whispers of true affection.",
+    "one word holds your heart."
   ]
 }
