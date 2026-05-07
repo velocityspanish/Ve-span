@@ -5909,9 +5909,39 @@
       "spanish": "¿Qué es 'compañero'?",
       "category": "Friendship",
       "generated_at": "2026-05-07T18:20:32.646140"
+    },
+    {
+      "english": "Why forgive? Instant calm.",
+      "spanish": "¿Por qué perdonar? Calma instantánea.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-07T20:08:35.987712"
+    },
+    {
+      "english": "One word heals deep wounds.",
+      "spanish": "Una palabra sana heridas profundas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-07T20:08:35.987731"
+    },
+    {
+      "english": "Let go. Feel this freedom.",
+      "spanish": "Suelta. Siente esta libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-07T20:08:35.987741"
+    },
+    {
+      "english": "This sound melts resentment.",
+      "spanish": "Este sonido derrite resentimiento.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-07T20:08:35.987751"
+    },
+    {
+      "english": "Choose grace, feel lighter.",
+      "spanish": "Elige gracia, siéntete más ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-07T20:08:35.987762"
     }
   ],
-  "last_updated": "2026-05-07T18:20:32.646141",
+  "last_updated": "2026-05-07T20:08:35.987764",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6897,6 +6927,11 @@
     "want a real friend?",
     "your loyalty matters. say...",
     "what if 'we' is powerful?",
-    "curiosity: what's 'compañero'?"
+    "curiosity: what's 'compañero'?",
+    "why forgive? instant calm.",
+    "one word heals deep wounds.",
+    "let go. feel this freedom.",
+    "this sound melts resentment.",
+    "choose grace, feel lighter."
   ]
 }
