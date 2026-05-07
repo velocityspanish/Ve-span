@@ -5819,9 +5819,39 @@
       "spanish": "Siente esta alegría, al instante.",
       "category": "Inner Peace",
       "generated_at": "2026-05-06T22:15:42.925381"
+    },
+    {
+      "english": "Never fear mistakes, grow.",
+      "spanish": "Nunca temas errores, crece.",
+      "category": "Balance",
+      "generated_at": "2026-05-07T15:31:14.467918"
+    },
+    {
+      "english": "Your confidence? It's building.",
+      "spanish": "¿Tu confianza? Se está construyendo.",
+      "category": "Balance",
+      "generated_at": "2026-05-07T15:31:14.467936"
+    },
+    {
+      "english": "This rhythm is your journey.",
+      "spanish": "Este ritmo es tu viaje.",
+      "category": "Balance",
+      "generated_at": "2026-05-07T15:31:14.467944"
+    },
+    {
+      "english": "Hear this echo of learning.",
+      "spanish": "Escucha este eco de aprendizaje.",
+      "category": "Balance",
+      "generated_at": "2026-05-07T15:31:14.467952"
+    },
+    {
+      "english": "Stop hesitating. Speak now.",
+      "spanish": "Deja de dudar. Habla ahora.",
+      "category": "Balance",
+      "generated_at": "2026-05-07T15:31:14.467960"
     }
   ],
-  "last_updated": "2026-05-06T22:15:42.925382",
+  "last_updated": "2026-05-07T15:31:14.467962",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6792,6 +6822,11 @@
     "your inner peace unlocked.",
     "hear this: a moment's escape.",
     "wisdom: breathe, you're enough.",
-    "feel this joy, instantly."
+    "feel this joy, instantly.",
+    "never fear mistakes, grow.",
+    "your confidence? it's building.",
+    "this rhythm is your journey.",
+    "hear this echo of learning.",
+    "stop hesitating. speak now."
   ]
 }
