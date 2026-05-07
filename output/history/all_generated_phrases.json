@@ -5939,9 +5939,39 @@
       "spanish": "Elige gracia, siéntete más ligero.",
       "category": "Forgiveness",
       "generated_at": "2026-05-07T20:08:35.987762"
+    },
+    {
+      "english": "Hear this! Your voice matters.",
+      "spanish": "¡Escucha esto! Tu voz importa.",
+      "category": "Confidence",
+      "generated_at": "2026-05-07T22:08:35.931103"
+    },
+    {
+      "english": "Curiosity: What unlocks fluency?",
+      "spanish": "¿Curiosidad: Qué desbloquea la fluidez?",
+      "category": "Confidence",
+      "generated_at": "2026-05-07T22:08:35.931122"
+    },
+    {
+      "english": "Wisdom: Patience builds worlds.",
+      "spanish": "Sabiduría: La paciencia construye mundos.",
+      "category": "Confidence",
+      "generated_at": "2026-05-07T22:08:35.931132"
+    },
+    {
+      "english": "Feel this connection, speak easy.",
+      "spanish": "Siente esta conexión, habla fácil.",
+      "category": "Confidence",
+      "generated_at": "2026-05-07T22:08:35.931142"
+    },
+    {
+      "english": "Stop fearing, just begin now.",
+      "spanish": "Deja de temer, solo empieza ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-05-07T22:08:35.931152"
     }
   ],
-  "last_updated": "2026-05-07T20:08:35.987764",
+  "last_updated": "2026-05-07T22:08:35.931154",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6932,6 +6962,11 @@
     "one word heals deep wounds.",
     "let go. feel this freedom.",
     "this sound melts resentment.",
-    "choose grace, feel lighter."
+    "choose grace, feel lighter.",
+    "hear this! your voice matters.",
+    "curiosity: what unlocks fluency?",
+    "wisdom: patience builds worlds.",
+    "feel this connection, speak easy.",
+    "stop fearing, just begin now."
   ]
 }
