@@ -5849,9 +5849,39 @@
       "spanish": "Deja de dudar. Habla ahora.",
       "category": "Balance",
       "generated_at": "2026-05-07T15:31:14.467960"
+    },
+    {
+      "english": "This sound, your calm.",
+      "spanish": "Este sonido, tu calma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-07T16:52:46.173500"
+    },
+    {
+      "english": "What if patience bloomed?",
+      "spanish": "¿Y si la paciencia florece?",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-07T16:52:46.173519"
+    },
+    {
+      "english": "Your quiet strength revealed.",
+      "spanish": "Tu fuerza callada, revelada.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-07T16:52:46.173530"
+    },
+    {
+      "english": "Listen, peace is near.",
+      "spanish": "Escucha, la paz está cerca.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-07T16:52:46.173539"
+    },
+    {
+      "english": "One word heals: 'perdón'.",
+      "spanish": "Una palabra sana: 'perdón'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-07T16:52:46.173549"
     }
   ],
-  "last_updated": "2026-05-07T15:31:14.467962",
+  "last_updated": "2026-05-07T16:52:46.173551",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6827,6 +6857,11 @@
     "your confidence? it's building.",
     "this rhythm is your journey.",
     "hear this echo of learning.",
-    "stop hesitating. speak now."
+    "stop hesitating. speak now.",
+    "this sound, your calm.",
+    "what if patience bloomed?",
+    "your quiet strength revealed.",
+    "listen, peace is near.",
+    "one word heals: 'perdón'."
   ]
 }
