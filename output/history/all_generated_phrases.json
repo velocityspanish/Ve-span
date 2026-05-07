@@ -5879,9 +5879,39 @@
       "spanish": "Una palabra sana: 'perdón'.",
       "category": "Inner Peace",
       "generated_at": "2026-05-07T16:52:46.173549"
+    },
+    {
+      "english": "Friendship's magic sound?",
+      "spanish": "¿Sonido de amistad?",
+      "category": "Friendship",
+      "generated_at": "2026-05-07T18:20:32.646098"
+    },
+    {
+      "english": "Want a real friend?",
+      "spanish": "¿Quieres amigo real?",
+      "category": "Friendship",
+      "generated_at": "2026-05-07T18:20:32.646114"
+    },
+    {
+      "english": "Your loyalty matters. Say...",
+      "spanish": "Tu lealtad, di...",
+      "category": "Friendship",
+      "generated_at": "2026-05-07T18:20:32.646123"
+    },
+    {
+      "english": "What if 'we' is powerful?",
+      "spanish": "¿Si 'nosotros' es fuerte?",
+      "category": "Friendship",
+      "generated_at": "2026-05-07T18:20:32.646131"
+    },
+    {
+      "english": "Curiosity: What's 'compañero'?",
+      "spanish": "¿Qué es 'compañero'?",
+      "category": "Friendship",
+      "generated_at": "2026-05-07T18:20:32.646140"
     }
   ],
-  "last_updated": "2026-05-07T16:52:46.173551",
+  "last_updated": "2026-05-07T18:20:32.646141",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6862,6 +6892,11 @@
     "what if patience bloomed?",
     "your quiet strength revealed.",
     "listen, peace is near.",
-    "one word heals: 'perdón'."
+    "one word heals: 'perdón'.",
+    "friendship's magic sound?",
+    "want a real friend?",
+    "your loyalty matters. say...",
+    "what if 'we' is powerful?",
+    "curiosity: what's 'compañero'?"
   ]
 }
