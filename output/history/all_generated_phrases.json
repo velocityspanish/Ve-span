@@ -6059,9 +6059,39 @@
       "spanish": "¿Por qué disculparse? Paz instantánea.",
       "category": "Strength",
       "generated_at": "2026-05-08T18:05:36.375191"
+    },
+    {
+      "english": "Your voice, their smile.",
+      "spanish": "Tu voz, su sonrisa.",
+      "category": "Success",
+      "generated_at": "2026-05-08T20:04:28.496177"
+    },
+    {
+      "english": "Feel this new confidence.",
+      "spanish": "Siente esta nueva confianza.",
+      "category": "Success",
+      "generated_at": "2026-05-08T20:04:28.496198"
+    },
+    {
+      "english": "This tiny word, big impact.",
+      "spanish": "Esta palabra pequeña, gran impacto.",
+      "category": "Success",
+      "generated_at": "2026-05-08T20:04:28.496209"
+    },
+    {
+      "english": "The secret? Practice daily.",
+      "spanish": "El secreto: Practica a diario.",
+      "category": "Success",
+      "generated_at": "2026-05-08T20:04:28.496219"
+    },
+    {
+      "english": "Your journey, one word.",
+      "spanish": "Tu viaje, una palabra.",
+      "category": "Success",
+      "generated_at": "2026-05-08T20:04:28.496229"
     }
   ],
-  "last_updated": "2026-05-08T18:05:36.375193",
+  "last_updated": "2026-05-08T20:04:28.496231",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7072,6 +7102,11 @@
     "the secret to connection is simple.",
     "feel this progress. now.",
     "curiosity: what's 'por favor'?",
-    "why apologize? instant peace."
+    "why apologize? instant peace.",
+    "your voice, their smile.",
+    "feel this new confidence.",
+    "this tiny word, big impact.",
+    "the secret? practice daily.",
+    "your journey, one word."
   ]
 }
