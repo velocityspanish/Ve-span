@@ -5999,9 +5999,39 @@
       "spanish": "Curiosidad: ¿qué es 'chisme'?",
       "category": "Growth",
       "generated_at": "2026-05-08T14:54:50.808124"
+    },
+    {
+      "english": "Your voice is growing stronger.",
+      "spanish": "Tu voz se fortalece.",
+      "category": "Hope",
+      "generated_at": "2026-05-08T16:15:41.260683"
+    },
+    {
+      "english": "What if it's easier than you think?",
+      "spanish": "¿Y si es más fácil?",
+      "category": "Hope",
+      "generated_at": "2026-05-08T16:15:41.260702"
+    },
+    {
+      "english": "This small word unlocks worlds.",
+      "spanish": "Esta palabra abre mundos.",
+      "category": "Hope",
+      "generated_at": "2026-05-08T16:15:41.260713"
+    },
+    {
+      "english": "Feel the progress, embrace it.",
+      "spanish": "Siente el progreso, acéptalo.",
+      "category": "Hope",
+      "generated_at": "2026-05-08T16:15:41.260723"
+    },
+    {
+      "english": "Never stop learning. Enjoy the ride.",
+      "spanish": "Nunca dejes de aprender. Disfruta.",
+      "category": "Hope",
+      "generated_at": "2026-05-08T16:15:41.260732"
     }
   ],
-  "last_updated": "2026-05-08T14:54:50.808126",
+  "last_updated": "2026-05-08T16:15:41.260734",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7002,6 +7032,11 @@
     "your accent sounds amazing!",
     "one word, total understanding.",
     "this phrase melts hearts.",
-    "curiosity: what's 'chisme'?"
+    "curiosity: what's 'chisme'?",
+    "your voice is growing stronger.",
+    "what if it's easier than you think?",
+    "this small word unlocks worlds.",
+    "feel the progress, embrace it.",
+    "never stop learning. enjoy the ride."
   ]
 }
