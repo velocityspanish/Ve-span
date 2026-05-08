@@ -6029,9 +6029,39 @@
       "spanish": "Nunca dejes de aprender. Disfruta.",
       "category": "Hope",
       "generated_at": "2026-05-08T16:15:41.260732"
+    },
+    {
+      "english": "Your bravery sounds amazing.",
+      "spanish": "Tu valentía suena increíble.",
+      "category": "Strength",
+      "generated_at": "2026-05-08T18:05:36.375128"
+    },
+    {
+      "english": "The secret to connection is simple.",
+      "spanish": "El secreto de la conexión es simple.",
+      "category": "Strength",
+      "generated_at": "2026-05-08T18:05:36.375159"
+    },
+    {
+      "english": "Feel this progress. Now.",
+      "spanish": "Siente este progreso. Ahora.",
+      "category": "Strength",
+      "generated_at": "2026-05-08T18:05:36.375170"
+    },
+    {
+      "english": "Curiosity: What's 'por favor'?",
+      "spanish": "Curiosidad: ¿Qué es 'por favor'?",
+      "category": "Strength",
+      "generated_at": "2026-05-08T18:05:36.375181"
+    },
+    {
+      "english": "Why apologize? Instant peace.",
+      "spanish": "¿Por qué disculparse? Paz instantánea.",
+      "category": "Strength",
+      "generated_at": "2026-05-08T18:05:36.375191"
     }
   ],
-  "last_updated": "2026-05-08T16:15:41.260734",
+  "last_updated": "2026-05-08T18:05:36.375193",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7037,6 +7067,11 @@
     "what if it's easier than you think?",
     "this small word unlocks worlds.",
     "feel the progress, embrace it.",
-    "never stop learning. enjoy the ride."
+    "never stop learning. enjoy the ride.",
+    "your bravery sounds amazing.",
+    "the secret to connection is simple.",
+    "feel this progress. now.",
+    "curiosity: what's 'por favor'?",
+    "why apologize? instant peace."
   ]
 }
