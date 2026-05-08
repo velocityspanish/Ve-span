@@ -6089,9 +6089,39 @@
       "spanish": "Tu viaje, una palabra.",
       "category": "Success",
       "generated_at": "2026-05-08T20:04:28.496229"
+    },
+    {
+      "english": "Future you thanks you.",
+      "spanish": "Tu yo futuro te agradece.",
+      "category": "Courage",
+      "generated_at": "2026-05-08T22:04:25.407094"
+    },
+    {
+      "english": "One word, world unlocked.",
+      "spanish": "Una palabra, mundo desbloqueado.",
+      "category": "Courage",
+      "generated_at": "2026-05-08T22:04:25.407112"
+    },
+    {
+      "english": "Mistakes are your teachers.",
+      "spanish": "Los errores son tus maestros.",
+      "category": "Courage",
+      "generated_at": "2026-05-08T22:04:25.407122"
+    },
+    {
+      "english": "Don't wait. Speak it.",
+      "spanish": "No esperes. Dilo.",
+      "category": "Courage",
+      "generated_at": "2026-05-08T22:04:25.407132"
+    },
+    {
+      "english": "Breathe, you're doing great.",
+      "spanish": "Respira, lo estás haciendo genial.",
+      "category": "Courage",
+      "generated_at": "2026-05-08T22:04:25.407142"
     }
   ],
-  "last_updated": "2026-05-08T20:04:28.496231",
+  "last_updated": "2026-05-08T22:04:25.407144",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7107,6 +7137,11 @@
     "feel this new confidence.",
     "this tiny word, big impact.",
     "the secret? practice daily.",
-    "your journey, one word."
+    "your journey, one word.",
+    "future you thanks you.",
+    "one word, world unlocked.",
+    "mistakes are your teachers.",
+    "don't wait. speak it.",
+    "breathe, you're doing great."
   ]
 }
