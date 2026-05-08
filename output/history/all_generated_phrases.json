@@ -5969,9 +5969,39 @@
       "spanish": "Deja de temer, solo empieza ahora.",
       "category": "Confidence",
       "generated_at": "2026-05-07T22:08:35.931152"
+    },
+    {
+      "english": "Unlock fluency, feel this.",
+      "spanish": "Desbloquea fluidez, siente esto.",
+      "category": "Growth",
+      "generated_at": "2026-05-08T14:54:50.808075"
+    },
+    {
+      "english": "Your accent sounds amazing!",
+      "spanish": "¡Tu acento suena genial!",
+      "category": "Growth",
+      "generated_at": "2026-05-08T14:54:50.808094"
+    },
+    {
+      "english": "One word, total understanding.",
+      "spanish": "Una palabra, total comprensión.",
+      "category": "Growth",
+      "generated_at": "2026-05-08T14:54:50.808104"
+    },
+    {
+      "english": "This phrase melts hearts.",
+      "spanish": "Esta frase derrite corazones.",
+      "category": "Growth",
+      "generated_at": "2026-05-08T14:54:50.808114"
+    },
+    {
+      "english": "Curiosity: what's 'chisme'?",
+      "spanish": "Curiosidad: ¿qué es 'chisme'?",
+      "category": "Growth",
+      "generated_at": "2026-05-08T14:54:50.808124"
     }
   ],
-  "last_updated": "2026-05-07T22:08:35.931154",
+  "last_updated": "2026-05-08T14:54:50.808126",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -6967,6 +6997,11 @@
     "curiosity: what unlocks fluency?",
     "wisdom: patience builds worlds.",
     "feel this connection, speak easy.",
-    "stop fearing, just begin now."
+    "stop fearing, just begin now.",
+    "unlock fluency, feel this.",
+    "your accent sounds amazing!",
+    "one word, total understanding.",
+    "this phrase melts hearts.",
+    "curiosity: what's 'chisme'?"
   ]
 }
