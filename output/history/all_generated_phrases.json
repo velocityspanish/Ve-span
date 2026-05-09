@@ -6209,9 +6209,39 @@
       "spanish": "Un sonido, conexión profunda. Escúchalo.",
       "category": "Gratitude",
       "generated_at": "2026-05-09T17:42:51.061441"
+    },
+    {
+      "english": "Your voice has power, unlock it.",
+      "spanish": "Tu voz tiene poder, desatala.",
+      "category": "Balance",
+      "generated_at": "2026-05-09T19:51:37.786148"
+    },
+    {
+      "english": "Curious? What does 'disfruta' mean?",
+      "spanish": "¿Curioso? ¿Qué significa 'disfruta'?",
+      "category": "Balance",
+      "generated_at": "2026-05-09T19:51:37.786168"
+    },
+    {
+      "english": "Feel this rhythm, your Spanish journey.",
+      "spanish": "Siente este ritmo, tu viaje español.",
+      "category": "Balance",
+      "generated_at": "2026-05-09T19:51:37.786178"
+    },
+    {
+      "english": "Wisdom: Learn little, speak daily.",
+      "spanish": "Sabiduria: Aprende poco, habla diario.",
+      "category": "Balance",
+      "generated_at": "2026-05-09T19:51:37.786188"
+    },
+    {
+      "english": "You belong here. Welcome, speak!",
+      "spanish": "Perteneces aquí. ¡Bienvenido, habla!",
+      "category": "Balance",
+      "generated_at": "2026-05-09T19:51:37.786198"
     }
   ],
-  "last_updated": "2026-05-09T17:42:51.061442",
+  "last_updated": "2026-05-09T19:51:37.786200",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7247,6 +7277,11 @@
     "your effort sounds beautiful, friend.",
     "curious? 'lo siento' means sorry.",
     "what if this word felt calm?",
-    "one sound, deep connection. hear it."
+    "one sound, deep connection. hear it.",
+    "your voice has power, unlock it.",
+    "curious? what does 'disfruta' mean?",
+    "feel this rhythm, your spanish journey.",
+    "wisdom: learn little, speak daily.",
+    "you belong here. welcome, speak!"
   ]
 }
