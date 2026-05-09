@@ -6239,9 +6239,39 @@
       "spanish": "Perteneces aquí. ¡Bienvenido, habla!",
       "category": "Balance",
       "generated_at": "2026-05-09T19:51:37.786198"
+    },
+    {
+      "english": "Curiosity: What's 'en serio'?",
+      "spanish": "Curiosidad: ¿Qué es 'en serio'?",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-09T21:54:47.739886"
+    },
+    {
+      "english": "Your mind will thank you.",
+      "spanish": "Tu mente te lo agradecerá.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-09T21:54:47.739904"
+    },
+    {
+      "english": "Never rush your learning.",
+      "spanish": "Nunca apresures tu aprendizaje.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-09T21:54:47.739915"
+    },
+    {
+      "english": "What if 'vale' changes it?",
+      "spanish": "¿Y si 'vale' lo cambia?",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-09T21:54:47.739926"
+    },
+    {
+      "english": "This sound means 'yes'!",
+      "spanish": "¡Este sonido significa 'sí'!",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-09T21:54:47.739937"
     }
   ],
-  "last_updated": "2026-05-09T19:51:37.786200",
+  "last_updated": "2026-05-09T21:54:47.739939",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7282,6 +7312,11 @@
     "curious? what does 'disfruta' mean?",
     "feel this rhythm, your spanish journey.",
     "wisdom: learn little, speak daily.",
-    "you belong here. welcome, speak!"
+    "you belong here. welcome, speak!",
+    "curiosity: what's 'en serio'?",
+    "your mind will thank you.",
+    "never rush your learning.",
+    "what if 'vale' changes it?",
+    "this sound means 'yes'!"
   ]
 }
