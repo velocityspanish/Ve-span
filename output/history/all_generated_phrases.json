@@ -6179,9 +6179,39 @@
       "spanish": "Abraza el ritmo. Sonríe.",
       "category": "Joy",
       "generated_at": "2026-05-09T15:55:27.119747"
+    },
+    {
+      "english": "This word, pure relief. Try it.",
+      "spanish": "Esta palabra, puro alivio. Pruébala.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-09T17:42:51.061393"
+    },
+    {
+      "english": "Your effort sounds beautiful, friend.",
+      "spanish": "Tu esfuerzo suena hermoso, amigo.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-09T17:42:51.061410"
+    },
+    {
+      "english": "Curious? 'Lo siento' means sorry.",
+      "spanish": "Curioso? 'Lo siento' significa perdón.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-09T17:42:51.061420"
+    },
+    {
+      "english": "What if this word felt calm?",
+      "spanish": "¿Y si esta palabra se siente calma?",
+      "category": "Gratitude",
+      "generated_at": "2026-05-09T17:42:51.061431"
+    },
+    {
+      "english": "One sound, deep connection. Hear it.",
+      "spanish": "Un sonido, conexión profunda. Escúchalo.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-09T17:42:51.061441"
     }
   ],
-  "last_updated": "2026-05-09T15:55:27.119749",
+  "last_updated": "2026-05-09T17:42:51.061442",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7212,6 +7242,11 @@
     "this word sparks happiness.",
     "curious? say 'qué tal'.",
     "your voice is a song.",
-    "embrace the rhythm. smile."
+    "embrace the rhythm. smile.",
+    "this word, pure relief. try it.",
+    "your effort sounds beautiful, friend.",
+    "curious? 'lo siento' means sorry.",
+    "what if this word felt calm?",
+    "one sound, deep connection. hear it."
   ]
 }
