@@ -6149,9 +6149,39 @@
       "spanish": "Alivia tu carga, di 'perdón'.",
       "category": "Forgiveness",
       "generated_at": "2026-05-09T14:18:34.635806"
+    },
+    {
+      "english": "Unlock joy. Speak it.",
+      "spanish": "Desbloquea la alegría. Dilo.",
+      "category": "Joy",
+      "generated_at": "2026-05-09T15:55:27.119693"
+    },
+    {
+      "english": "This word sparks happiness.",
+      "spanish": "Esta palabra chispea felicidad.",
+      "category": "Joy",
+      "generated_at": "2026-05-09T15:55:27.119716"
+    },
+    {
+      "english": "Curious? Say 'qué tal'.",
+      "spanish": "¿Curioso? Di 'qué tal'.",
+      "category": "Joy",
+      "generated_at": "2026-05-09T15:55:27.119727"
+    },
+    {
+      "english": "Your voice is a song.",
+      "spanish": "Tu voz es una canción.",
+      "category": "Joy",
+      "generated_at": "2026-05-09T15:55:27.119737"
+    },
+    {
+      "english": "Embrace the rhythm. Smile.",
+      "spanish": "Abraza el ritmo. Sonríe.",
+      "category": "Joy",
+      "generated_at": "2026-05-09T15:55:27.119747"
     }
   ],
-  "last_updated": "2026-05-09T14:18:34.635808",
+  "last_updated": "2026-05-09T15:55:27.119749",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7177,6 +7207,11 @@
     "why hold on? let go now.",
     "feel this peace, truly forgiving.",
     "your heart heals, one word.",
-    "unburden yourself, speak 'perdón'."
+    "unburden yourself, speak 'perdón'.",
+    "unlock joy. speak it.",
+    "this word sparks happiness.",
+    "curious? say 'qué tal'.",
+    "your voice is a song.",
+    "embrace the rhythm. smile."
   ]
 }
