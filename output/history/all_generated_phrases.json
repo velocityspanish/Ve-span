@@ -6119,9 +6119,39 @@
       "spanish": "Respira, lo estás haciendo genial.",
       "category": "Courage",
       "generated_at": "2026-05-08T22:04:25.407142"
+    },
+    {
+      "english": "This sounds like freedom, embrace.",
+      "spanish": "Esto suena a libertad, abraza.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-09T14:18:34.635751"
+    },
+    {
+      "english": "Why hold on? Let go now.",
+      "spanish": "¿Por qué aferrarse? Suelta ya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-09T14:18:34.635771"
+    },
+    {
+      "english": "Feel this peace, truly forgiving.",
+      "spanish": "Siente esta paz, perdonando de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-09T14:18:34.635784"
+    },
+    {
+      "english": "Your heart heals, one word.",
+      "spanish": "Tu corazón sana, una palabra.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-09T14:18:34.635795"
+    },
+    {
+      "english": "Unburden yourself, speak 'perdón'.",
+      "spanish": "Alivia tu carga, di 'perdón'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-09T14:18:34.635806"
     }
   ],
-  "last_updated": "2026-05-08T22:04:25.407144",
+  "last_updated": "2026-05-09T14:18:34.635808",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7142,6 +7172,11 @@
     "one word, world unlocked.",
     "mistakes are your teachers.",
     "don't wait. speak it.",
-    "breathe, you're doing great."
+    "breathe, you're doing great.",
+    "this sounds like freedom, embrace.",
+    "why hold on? let go now.",
+    "feel this peace, truly forgiving.",
+    "your heart heals, one word.",
+    "unburden yourself, speak 'perdón'."
   ]
 }
