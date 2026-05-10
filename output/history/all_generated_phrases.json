@@ -6359,9 +6359,39 @@
       "spanish": "Sabiduría: Aprende poco, habla a menudo.",
       "category": "Friendship",
       "generated_at": "2026-05-10T17:43:41.120016"
+    },
+    {
+      "english": "Try this: simple joy.",
+      "spanish": "Prueba esto: gozo simple.",
+      "category": "Courage",
+      "generated_at": "2026-05-10T19:53:34.004131"
+    },
+    {
+      "english": "Hear this, feel it.",
+      "spanish": "Oye esto, siéntelo.",
+      "category": "Courage",
+      "generated_at": "2026-05-10T19:53:34.004150"
+    },
+    {
+      "english": "Wisdom: patience blooms courage.",
+      "spanish": "Sabiduría: paciencia florece coraje.",
+      "category": "Courage",
+      "generated_at": "2026-05-10T19:53:34.004169"
+    },
+    {
+      "english": "Feel this small triumph.",
+      "spanish": "Siente este pequeño triunfo.",
+      "category": "Courage",
+      "generated_at": "2026-05-10T19:53:34.004180"
+    },
+    {
+      "english": "Curiosity? What's 'vale'?",
+      "spanish": "¿Curiosidad? ¿Qué es 'vale'?",
+      "category": "Courage",
+      "generated_at": "2026-05-10T19:53:34.004190"
     }
   ],
-  "last_updated": "2026-05-10T17:43:41.120018",
+  "last_updated": "2026-05-10T19:53:34.004192",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7422,6 +7452,11 @@
     "mistakes are just learning steps.",
     "one word unlocks deep connection.",
     "what if 'lo siento' felt peaceful?",
-    "wisdom: learn small, speak often."
+    "wisdom: learn small, speak often.",
+    "try this: simple joy.",
+    "hear this, feel it.",
+    "wisdom: patience blooms courage.",
+    "feel this small triumph.",
+    "curiosity? what's 'vale'?"
   ]
 }
