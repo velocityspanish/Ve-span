@@ -6299,9 +6299,39 @@
       "spanish": "Deja de temer. Empieza a explorar.",
       "category": "Gratitude",
       "generated_at": "2026-05-10T14:21:22.729587"
+    },
+    {
+      "english": "Her eyes, a silent Spanish poem.",
+      "spanish": "Sus ojos, un poema español mudo.",
+      "category": "Love",
+      "generated_at": "2026-05-10T15:58:09.219064"
+    },
+    {
+      "english": "This phrase captures pure adoration.",
+      "spanish": "Esta frase captura pura adoración.",
+      "category": "Love",
+      "generated_at": "2026-05-10T15:58:09.219082"
+    },
+    {
+      "english": "Your smile, my favorite Spanish lesson.",
+      "spanish": "Tu sonrisa, mi lección española favorita.",
+      "category": "Love",
+      "generated_at": "2026-05-10T15:58:09.219090"
+    },
+    {
+      "english": "Stop resisting this sweet connection.",
+      "spanish": "Deja de resistir esta dulce conexión.",
+      "category": "Love",
+      "generated_at": "2026-05-10T15:58:09.219098"
+    },
+    {
+      "english": "Feel the warmth in 'mi amor'.",
+      "spanish": "Siente el calor en 'mi amor'.",
+      "category": "Love",
+      "generated_at": "2026-05-10T15:58:09.219110"
     }
   ],
-  "last_updated": "2026-05-10T14:21:22.729589",
+  "last_updated": "2026-05-10T15:58:09.219112",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7352,6 +7382,11 @@
     "unlock a new friendship.",
     "this sound is pure connection.",
     "wisdom: small words, big impact.",
-    "stop fearing. start exploring."
+    "stop fearing. start exploring.",
+    "her eyes, a silent spanish poem.",
+    "this phrase captures pure adoration.",
+    "your smile, my favorite spanish lesson.",
+    "stop resisting this sweet connection.",
+    "feel the warmth in 'mi amor'."
   ]
 }
