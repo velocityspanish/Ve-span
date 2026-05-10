@@ -6269,9 +6269,39 @@
       "spanish": "¡Este sonido significa 'sí'!",
       "category": "Mindfulness",
       "generated_at": "2026-05-09T21:54:47.739937"
+    },
+    {
+      "english": "Curiosity: What is 'besos'?",
+      "spanish": "¿Curiosidad: qué son 'besos'?",
+      "category": "Gratitude",
+      "generated_at": "2026-05-10T14:21:22.729536"
+    },
+    {
+      "english": "Unlock a new friendship.",
+      "spanish": "Desbloquea una nueva amistad.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-10T14:21:22.729555"
+    },
+    {
+      "english": "This sound is pure connection.",
+      "spanish": "Este sonido es pura conexión.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-10T14:21:22.729566"
+    },
+    {
+      "english": "Wisdom: Small words, big impact.",
+      "spanish": "Sabiduría: Palabras pequeñas, gran impacto.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-10T14:21:22.729576"
+    },
+    {
+      "english": "Stop fearing. Start exploring.",
+      "spanish": "Deja de temer. Empieza a explorar.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-10T14:21:22.729587"
     }
   ],
-  "last_updated": "2026-05-09T21:54:47.739939",
+  "last_updated": "2026-05-10T14:21:22.729589",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7317,6 +7347,11 @@
     "your mind will thank you.",
     "never rush your learning.",
     "what if 'vale' changes it?",
-    "this sound means 'yes'!"
+    "this sound means 'yes'!",
+    "curiosity: what is 'besos'?",
+    "unlock a new friendship.",
+    "this sound is pure connection.",
+    "wisdom: small words, big impact.",
+    "stop fearing. start exploring."
   ]
 }
