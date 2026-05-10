@@ -6389,9 +6389,39 @@
       "spanish": "¿Curiosidad? ¿Qué es 'vale'?",
       "category": "Courage",
       "generated_at": "2026-05-10T19:53:34.004190"
+    },
+    {
+      "english": "Surprise! This word feels good.",
+      "spanish": "¡Sorpresa! Esta palabra se siente bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T21:55:45.837299"
+    },
+    {
+      "english": "Your mind, expanding now.",
+      "spanish": "Tu mente, expandiéndose ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T21:55:45.837319"
+    },
+    {
+      "english": "Wisdom: Small wins, big leaps.",
+      "spanish": "Sabiduría: Pequeñas victorias, grandes saltos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T21:55:45.837330"
+    },
+    {
+      "english": "What if learning was fun?",
+      "spanish": "¿Qué si aprender fuera divertido?",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T21:55:45.837341"
+    },
+    {
+      "english": "Here's a quick boost.",
+      "spanish": "Aquí tienes un impulso rápido.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T21:55:45.837351"
     }
   ],
-  "last_updated": "2026-05-10T19:53:34.004192",
+  "last_updated": "2026-05-10T21:55:45.837352",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7457,6 +7487,11 @@
     "hear this, feel it.",
     "wisdom: patience blooms courage.",
     "feel this small triumph.",
-    "curiosity? what's 'vale'?"
+    "curiosity? what's 'vale'?",
+    "surprise! this word feels good.",
+    "your mind, expanding now.",
+    "wisdom: small wins, big leaps.",
+    "what if learning was fun?",
+    "here's a quick boost."
   ]
 }
