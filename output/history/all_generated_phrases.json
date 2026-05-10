@@ -6329,9 +6329,39 @@
       "spanish": "Siente el calor en 'mi amor'.",
       "category": "Love",
       "generated_at": "2026-05-10T15:58:09.219110"
+    },
+    {
+      "english": "Curious? 'Hasta luego' means bye.",
+      "spanish": "¿Curioso? 'Hasta luego' es adiós.",
+      "category": "Friendship",
+      "generated_at": "2026-05-10T17:43:41.119968"
+    },
+    {
+      "english": "Mistakes are just learning steps.",
+      "spanish": "Los errores son pasos de aprendizaje.",
+      "category": "Friendship",
+      "generated_at": "2026-05-10T17:43:41.119985"
+    },
+    {
+      "english": "One word unlocks deep connection.",
+      "spanish": "Una palabra desbloquea conexión profunda.",
+      "category": "Friendship",
+      "generated_at": "2026-05-10T17:43:41.119996"
+    },
+    {
+      "english": "What if 'lo siento' felt peaceful?",
+      "spanish": "¿Y si 'lo siento' se sintiera pacífico?",
+      "category": "Friendship",
+      "generated_at": "2026-05-10T17:43:41.120006"
+    },
+    {
+      "english": "Wisdom: Learn small, speak often.",
+      "spanish": "Sabiduría: Aprende poco, habla a menudo.",
+      "category": "Friendship",
+      "generated_at": "2026-05-10T17:43:41.120016"
     }
   ],
-  "last_updated": "2026-05-10T15:58:09.219112",
+  "last_updated": "2026-05-10T17:43:41.120018",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7387,6 +7417,11 @@
     "this phrase captures pure adoration.",
     "your smile, my favorite spanish lesson.",
     "stop resisting this sweet connection.",
-    "feel the warmth in 'mi amor'."
+    "feel the warmth in 'mi amor'.",
+    "curious? 'hasta luego' means bye.",
+    "mistakes are just learning steps.",
+    "one word unlocks deep connection.",
+    "what if 'lo siento' felt peaceful?",
+    "wisdom: learn small, speak often."
   ]
 }
