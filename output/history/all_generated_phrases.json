@@ -6539,9 +6539,39 @@
       "spanish": "Abraza tu viaje español.",
       "category": "Mindfulness",
       "generated_at": "2026-05-11T20:27:34.087035"
+    },
+    {
+      "english": "Unlock smiles, speak simply.",
+      "spanish": "Desbloquea sonrisas, habla simple.",
+      "category": "Hope",
+      "generated_at": "2026-05-11T22:13:56.420551"
+    },
+    {
+      "english": "Wisdom: Courage speaks loudest.",
+      "spanish": "Sabiduría: El coraje habla más fuerte.",
+      "category": "Hope",
+      "generated_at": "2026-05-11T22:13:56.420572"
+    },
+    {
+      "english": "Your voice, a vibrant tapestry.",
+      "spanish": "Tu voz, un tapiz vibrante.",
+      "category": "Hope",
+      "generated_at": "2026-05-11T22:13:56.420584"
+    },
+    {
+      "english": "This tiny word sparks hope.",
+      "spanish": "Esta palabra diminuta enciende esperanza.",
+      "category": "Hope",
+      "generated_at": "2026-05-11T22:13:56.420595"
+    },
+    {
+      "english": "Surprise! Fluency is closer.",
+      "spanish": "¡Sorpresa! La fluidez está más cerca.",
+      "category": "Hope",
+      "generated_at": "2026-05-11T22:13:56.420607"
     }
   ],
-  "last_updated": "2026-05-11T20:27:34.087037",
+  "last_updated": "2026-05-11T22:13:56.420609",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7632,6 +7662,11 @@
     "curiosity: what's 'vale'?",
     "your rhythm will amaze.",
     "wisdom: connect, don't judge.",
-    "embrace your spanish journey."
+    "embrace your spanish journey.",
+    "unlock smiles, speak simply.",
+    "wisdom: courage speaks loudest.",
+    "your voice, a vibrant tapestry.",
+    "this tiny word sparks hope.",
+    "surprise! fluency is closer."
   ]
 }
