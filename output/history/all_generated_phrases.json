@@ -6449,9 +6449,39 @@
       "spanish": "Escucha esto: tu valentía canta.",
       "category": "Mindfulness",
       "generated_at": "2026-05-11T15:57:34.374903"
+    },
+    {
+      "english": "Feel this rhythm, you've got this.",
+      "spanish": "Siente este ritmo, puedes hacerlo.",
+      "category": "Courage",
+      "generated_at": "2026-05-11T17:27:31.934426"
+    },
+    {
+      "english": "Unlock new friendships, say hi.",
+      "spanish": "Desbloquea nuevas amistades, saluda.",
+      "category": "Courage",
+      "generated_at": "2026-05-11T17:27:31.934445"
+    },
+    {
+      "english": "Curiosity: What's 'que pasa'?",
+      "spanish": "Curiosidad: ¿Qué significa 'qué pasa'?",
+      "category": "Courage",
+      "generated_at": "2026-05-11T17:27:31.934457"
+    },
+    {
+      "english": "Why fear? Just breathe, speak.",
+      "spanish": "¿Por qué temer? Solo respira, habla.",
+      "category": "Courage",
+      "generated_at": "2026-05-11T17:27:31.934468"
+    },
+    {
+      "english": "This tiny sound, huge connection.",
+      "spanish": "Este sonido pequeño, gran conexión.",
+      "category": "Courage",
+      "generated_at": "2026-05-11T17:27:31.934478"
     }
   ],
-  "last_updated": "2026-05-11T15:57:34.374905",
+  "last_updated": "2026-05-11T17:27:31.934480",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7527,6 +7557,11 @@
     "your inner voice is awakening.",
     "wisdom: learn with your heart.",
     "this rhythm, your new comfort.",
-    "hear this: your bravery sings."
+    "hear this: your bravery sings.",
+    "feel this rhythm, you've got this.",
+    "unlock new friendships, say hi.",
+    "curiosity: what's 'que pasa'?",
+    "why fear? just breathe, speak.",
+    "this tiny sound, huge connection."
   ]
 }
