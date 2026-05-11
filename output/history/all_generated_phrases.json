@@ -6479,9 +6479,39 @@
       "spanish": "Este sonido pequeño, gran conexión.",
       "category": "Courage",
       "generated_at": "2026-05-11T17:27:31.934478"
+    },
+    {
+      "english": "This sound, pure freedom. Try.",
+      "spanish": "Este sonido, pura libertad. Prueba.",
+      "category": "Confidence",
+      "generated_at": "2026-05-11T18:52:11.786462"
+    },
+    {
+      "english": "What if 'hola' opens doors?",
+      "spanish": "¿Qué si 'hola' abre puertas?",
+      "category": "Confidence",
+      "generated_at": "2026-05-11T18:52:11.786481"
+    },
+    {
+      "english": "One word, instant warmth.",
+      "spanish": "Una palabra, calor instantáneo.",
+      "category": "Confidence",
+      "generated_at": "2026-05-11T18:52:11.786492"
+    },
+    {
+      "english": "Never forget your progress.",
+      "spanish": "Nunca olvides tu progreso.",
+      "category": "Confidence",
+      "generated_at": "2026-05-11T18:52:11.786503"
+    },
+    {
+      "english": "Feel this rhythm, speak now.",
+      "spanish": "Siente este ritmo, habla ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-05-11T18:52:11.786514"
     }
   ],
-  "last_updated": "2026-05-11T17:27:31.934480",
+  "last_updated": "2026-05-11T18:52:11.786516",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7562,6 +7592,11 @@
     "unlock new friendships, say hi.",
     "curiosity: what's 'que pasa'?",
     "why fear? just breathe, speak.",
-    "this tiny sound, huge connection."
+    "this tiny sound, huge connection.",
+    "this sound, pure freedom. try.",
+    "what if 'hola' opens doors?",
+    "one word, instant warmth.",
+    "never forget your progress.",
+    "feel this rhythm, speak now."
   ]
 }
