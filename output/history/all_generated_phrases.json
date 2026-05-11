@@ -6419,9 +6419,39 @@
       "spanish": "Aquí tienes un impulso rápido.",
       "category": "Mindfulness",
       "generated_at": "2026-05-10T21:55:45.837351"
+    },
+    {
+      "english": "This word calms the storm.",
+      "spanish": "Esta palabra calma la tormenta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T15:57:34.374849"
+    },
+    {
+      "english": "Your inner voice is awakening.",
+      "spanish": "Tu voz interior está despertando.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T15:57:34.374870"
+    },
+    {
+      "english": "Wisdom: Learn with your heart.",
+      "spanish": "Sabiduría: Aprende con tu corazón.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T15:57:34.374881"
+    },
+    {
+      "english": "This rhythm, your new comfort.",
+      "spanish": "Este ritmo, tu nuevo consuelo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T15:57:34.374892"
+    },
+    {
+      "english": "Hear this: your bravery sings.",
+      "spanish": "Escucha esto: tu valentía canta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T15:57:34.374903"
     }
   ],
-  "last_updated": "2026-05-10T21:55:45.837352",
+  "last_updated": "2026-05-11T15:57:34.374905",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7492,6 +7522,11 @@
     "your mind, expanding now.",
     "wisdom: small wins, big leaps.",
     "what if learning was fun?",
-    "here's a quick boost."
+    "here's a quick boost.",
+    "this word calms the storm.",
+    "your inner voice is awakening.",
+    "wisdom: learn with your heart.",
+    "this rhythm, your new comfort.",
+    "hear this: your bravery sings."
   ]
 }
