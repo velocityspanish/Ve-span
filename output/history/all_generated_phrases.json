@@ -6509,9 +6509,39 @@
       "spanish": "Siente este ritmo, habla ahora.",
       "category": "Confidence",
       "generated_at": "2026-05-11T18:52:11.786514"
+    },
+    {
+      "english": "Breathe. You are fluent.",
+      "spanish": "Respira. Eres fluido.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T20:27:34.086978"
+    },
+    {
+      "english": "Curiosity: what's 'vale'?",
+      "spanish": "¿Curiosidad: qué es 'vale'?",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T20:27:34.087002"
+    },
+    {
+      "english": "Your rhythm will amaze.",
+      "spanish": "Tu ritmo asombrará.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T20:27:34.087013"
+    },
+    {
+      "english": "Wisdom: connect, don't judge.",
+      "spanish": "Sabiduría: conecta, no juzgues.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T20:27:34.087024"
+    },
+    {
+      "english": "Embrace your Spanish journey.",
+      "spanish": "Abraza tu viaje español.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-11T20:27:34.087035"
     }
   ],
-  "last_updated": "2026-05-11T18:52:11.786516",
+  "last_updated": "2026-05-11T20:27:34.087037",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7597,6 +7627,11 @@
     "what if 'hola' opens doors?",
     "one word, instant warmth.",
     "never forget your progress.",
-    "feel this rhythm, speak now."
+    "feel this rhythm, speak now.",
+    "breathe. you are fluent.",
+    "curiosity: what's 'vale'?",
+    "your rhythm will amaze.",
+    "wisdom: connect, don't judge.",
+    "embrace your spanish journey."
   ]
 }
