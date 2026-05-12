@@ -6659,9 +6659,39 @@
       "spanish": "Aquí tienes un pequeño 'gracias'.",
       "category": "Gratitude",
       "generated_at": "2026-05-12T19:15:01.761365"
+    },
+    {
+      "english": "Curious? Say 'lo sé'.",
+      "spanish": "Curioso? Di 'lo sé'.",
+      "category": "Motivation",
+      "generated_at": "2026-05-12T20:26:02.709824"
+    },
+    {
+      "english": "Unlock smiles. It's easy.",
+      "spanish": "Desbloquea sonrisas. Es fácil.",
+      "category": "Motivation",
+      "generated_at": "2026-05-12T20:26:02.709845"
+    },
+    {
+      "english": "This small 'gracias' matters.",
+      "spanish": "Este pequeño 'gracias' importa.",
+      "category": "Motivation",
+      "generated_at": "2026-05-12T20:26:02.709857"
+    },
+    {
+      "english": "Tiny word, huge comfort.",
+      "spanish": "Palabra pequeña, gran consuelo.",
+      "category": "Motivation",
+      "generated_at": "2026-05-12T20:26:02.709868"
+    },
+    {
+      "english": "Your progress sounds lovely.",
+      "spanish": "Tu progreso suena encantador.",
+      "category": "Motivation",
+      "generated_at": "2026-05-12T20:26:02.709879"
     }
   ],
-  "last_updated": "2026-05-12T19:15:01.761367",
+  "last_updated": "2026-05-12T20:26:02.709881",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7772,6 +7802,11 @@
     "feeling this new understanding.",
     "one small 'gracias,' big joy.",
     "what if this was easy?",
-    "here's a little 'thank you'."
+    "here's a little 'thank you'.",
+    "curious? say 'lo sé'.",
+    "unlock smiles. it's easy.",
+    "this small 'gracias' matters.",
+    "tiny word, huge comfort.",
+    "your progress sounds lovely."
   ]
 }
