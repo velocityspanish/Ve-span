@@ -6629,9 +6629,39 @@
       "spanish": "¿Y si los amigos entendieran?",
       "category": "Friendship",
       "generated_at": "2026-05-12T17:14:08.807876"
+    },
+    {
+      "english": "This tiny word, immense warmth.",
+      "spanish": "Esta palabra diminuta, inmensa calidez.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T19:15:01.761311"
+    },
+    {
+      "english": "Feeling this new understanding.",
+      "spanish": "Sintiendo esta nueva comprensión.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T19:15:01.761331"
+    },
+    {
+      "english": "One small 'gracias,' big joy.",
+      "spanish": "Un pequeño 'gracias,' gran alegría.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T19:15:01.761343"
+    },
+    {
+      "english": "What if this was easy?",
+      "spanish": "¿Y si esto fuera fácil?",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T19:15:01.761353"
+    },
+    {
+      "english": "Here's a little 'thank you'.",
+      "spanish": "Aquí tienes un pequeño 'gracias'.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T19:15:01.761365"
     }
   ],
-  "last_updated": "2026-05-12T17:14:08.807878",
+  "last_updated": "2026-05-12T19:15:01.761367",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7737,6 +7767,11 @@
     "want a true connection? listen.",
     "friendship's rhythm, you feel it.",
     "this shared secret, so special.",
-    "what if friends could understand?"
+    "what if friends could understand?",
+    "this tiny word, immense warmth.",
+    "feeling this new understanding.",
+    "one small 'gracias,' big joy.",
+    "what if this was easy?",
+    "here's a little 'thank you'."
   ]
 }
