@@ -6599,9 +6599,39 @@
       "spanish": "¡Sorpresa! Entiendes más.",
       "category": "Patience",
       "generated_at": "2026-05-12T15:44:01.265060"
+    },
+    {
+      "english": "A friend's laugh, pure magic.",
+      "spanish": "La risa de un amigo, pura magia.",
+      "category": "Friendship",
+      "generated_at": "2026-05-12T17:14:08.807823"
+    },
+    {
+      "english": "Want a true connection? Listen.",
+      "spanish": "¿Quieres conexión real? Escucha.",
+      "category": "Friendship",
+      "generated_at": "2026-05-12T17:14:08.807844"
+    },
+    {
+      "english": "Friendship's rhythm, you feel it.",
+      "spanish": "El ritmo de amistad, lo sientes.",
+      "category": "Friendship",
+      "generated_at": "2026-05-12T17:14:08.807855"
+    },
+    {
+      "english": "This shared secret, so special.",
+      "spanish": "Este secreto compartido, tan especial.",
+      "category": "Friendship",
+      "generated_at": "2026-05-12T17:14:08.807866"
+    },
+    {
+      "english": "What if friends could understand?",
+      "spanish": "¿Y si los amigos entendieran?",
+      "category": "Friendship",
+      "generated_at": "2026-05-12T17:14:08.807876"
     }
   ],
-  "last_updated": "2026-05-12T15:44:01.265062",
+  "last_updated": "2026-05-12T17:14:08.807878",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7702,6 +7732,11 @@
     "your progress, a quiet revolution.",
     "one more try, feels closer.",
     "mistakes are just detours, not endings.",
-    "surprise! you're understanding more."
+    "surprise! you're understanding more.",
+    "a friend's laugh, pure magic.",
+    "want a true connection? listen.",
+    "friendship's rhythm, you feel it.",
+    "this shared secret, so special.",
+    "what if friends could understand?"
   ]
 }
