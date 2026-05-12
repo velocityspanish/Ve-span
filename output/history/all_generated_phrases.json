@@ -6689,9 +6689,39 @@
       "spanish": "Tu progreso suena encantador.",
       "category": "Motivation",
       "generated_at": "2026-05-12T20:26:02.709879"
+    },
+    {
+      "english": "This warmth feels amazing, right?",
+      "spanish": "Este calor se siente increíble, ¿verdad?",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T22:18:16.504812"
+    },
+    {
+      "english": "What if this brings you joy?",
+      "spanish": "¿Y si esto te trae alegría?",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T22:18:16.504837"
+    },
+    {
+      "english": "A little gratitude, a lot.",
+      "spanish": "Un poco de gratitud, mucho.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T22:18:16.504849"
+    },
+    {
+      "english": "You can say 'thank you'!",
+      "spanish": "¡Puedes decir 'gracias'!",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T22:18:16.504860"
+    },
+    {
+      "english": "Hear this, feel this peace.",
+      "spanish": "Escucha esto, siente esta paz.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-12T22:18:16.504871"
     }
   ],
-  "last_updated": "2026-05-12T20:26:02.709881",
+  "last_updated": "2026-05-12T22:18:16.504873",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7807,6 +7837,11 @@
     "unlock smiles. it's easy.",
     "this small 'gracias' matters.",
     "tiny word, huge comfort.",
-    "your progress sounds lovely."
+    "your progress sounds lovely.",
+    "this warmth feels amazing, right?",
+    "what if this brings you joy?",
+    "a little gratitude, a lot.",
+    "you can say 'thank you'!",
+    "hear this, feel this peace."
   ]
 }
