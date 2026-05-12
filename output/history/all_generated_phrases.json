@@ -6569,9 +6569,39 @@
       "spanish": "¡Sorpresa! La fluidez está más cerca.",
       "category": "Hope",
       "generated_at": "2026-05-11T22:13:56.420607"
+    },
+    {
+      "english": "Trust the learning curve, friend.",
+      "spanish": "Confía en la curva de aprendizaje, amigo.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T15:44:01.265008"
+    },
+    {
+      "english": "Your progress, a quiet revolution.",
+      "spanish": "Tu progreso, una revolución silenciosa.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T15:44:01.265029"
+    },
+    {
+      "english": "One more try, feels closer.",
+      "spanish": "Un intento más, se siente más cerca.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T15:44:01.265040"
+    },
+    {
+      "english": "Mistakes are just detours, not endings.",
+      "spanish": "Los errores son desvíos, no finales.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T15:44:01.265050"
+    },
+    {
+      "english": "Surprise! You're understanding more.",
+      "spanish": "¡Sorpresa! Entiendes más.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T15:44:01.265060"
     }
   ],
-  "last_updated": "2026-05-11T22:13:56.420609",
+  "last_updated": "2026-05-12T15:44:01.265062",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7667,6 +7697,11 @@
     "wisdom: courage speaks loudest.",
     "your voice, a vibrant tapestry.",
     "this tiny word sparks hope.",
-    "surprise! fluency is closer."
+    "surprise! fluency is closer.",
+    "trust the learning curve, friend.",
+    "your progress, a quiet revolution.",
+    "one more try, feels closer.",
+    "mistakes are just detours, not endings.",
+    "surprise! you're understanding more."
   ]
 }
