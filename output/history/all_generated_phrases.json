@@ -6809,9 +6809,39 @@
       "spanish": "Eres bienvenido aquí. ¡Habla!",
       "category": "Kindness",
       "generated_at": "2026-05-13T18:53:21.455103"
+    },
+    {
+      "english": "Your quiet confidence blooms.",
+      "spanish": "Tu confianza tranquila florece.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-13T20:34:12.212122"
+    },
+    {
+      "english": "What if peace is a language?",
+      "spanish": "¿Qué si la paz es idioma?",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-13T20:34:12.212145"
+    },
+    {
+      "english": "This rhythm calms your spirit.",
+      "spanish": "Este ritmo calma tu espíritu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-13T20:34:12.212157"
+    },
+    {
+      "english": "Breathe deeply, speak simply, live.",
+      "spanish": "Respira hondo, habla simple, vive.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-13T20:34:12.212168"
+    },
+    {
+      "english": "Your inner voice, a gentle hum.",
+      "spanish": "Tu voz interna, un suave zumbido.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-13T20:34:12.212180"
     }
   ],
-  "last_updated": "2026-05-13T18:53:21.455105",
+  "last_updated": "2026-05-13T20:34:12.212182",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7947,6 +7977,11 @@
     "your voice, a powerful melody.",
     "curious? 'poco a poco' means slowly.",
     "wisdom: learn patiently, speak bravely.",
-    "you are welcome here. speak!"
+    "you are welcome here. speak!",
+    "your quiet confidence blooms.",
+    "what if peace is a language?",
+    "this rhythm calms your spirit.",
+    "breathe deeply, speak simply, live.",
+    "your inner voice, a gentle hum."
   ]
 }
