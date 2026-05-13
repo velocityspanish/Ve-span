@@ -6839,9 +6839,39 @@
       "spanish": "Tu voz interna, un suave zumbido.",
       "category": "Inner Peace",
       "generated_at": "2026-05-13T20:34:12.212180"
+    },
+    {
+      "english": "Your voice, now blooming.",
+      "spanish": "Tu voz, floreciendo ahora.",
+      "category": "Balance",
+      "generated_at": "2026-05-13T22:20:18.202959"
+    },
+    {
+      "english": "One sound, huge comfort.",
+      "spanish": "Un sonido, gran consuelo.",
+      "category": "Balance",
+      "generated_at": "2026-05-13T22:20:18.202979"
+    },
+    {
+      "english": "Surprise! You're making friends.",
+      "spanish": "¡Sorpresa! Estás haciendo amigos.",
+      "category": "Balance",
+      "generated_at": "2026-05-13T22:20:18.202990"
+    },
+    {
+      "english": "Feel this simple joy.",
+      "spanish": "Siente esta alegría simple.",
+      "category": "Balance",
+      "generated_at": "2026-05-13T22:20:18.203001"
+    },
+    {
+      "english": "What if words were bridges?",
+      "spanish": "¿Y si las palabras fueran puentes?",
+      "category": "Balance",
+      "generated_at": "2026-05-13T22:20:18.203012"
     }
   ],
-  "last_updated": "2026-05-13T20:34:12.212182",
+  "last_updated": "2026-05-13T22:20:18.203014",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7982,6 +8012,11 @@
     "what if peace is a language?",
     "this rhythm calms your spirit.",
     "breathe deeply, speak simply, live.",
-    "your inner voice, a gentle hum."
+    "your inner voice, a gentle hum.",
+    "your voice, now blooming.",
+    "one sound, huge comfort.",
+    "surprise! you're making friends.",
+    "feel this simple joy.",
+    "what if words were bridges?"
   ]
 }
