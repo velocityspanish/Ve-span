@@ -6749,9 +6749,39 @@
       "spanish": "Sabiduría: Dilo, siéntelo.",
       "category": "Purpose",
       "generated_at": "2026-05-13T15:51:34.619643"
+    },
+    {
+      "english": "This one word feels like sunshine.",
+      "spanish": "Esta palabra se siente sol.",
+      "category": "Motivation",
+      "generated_at": "2026-05-13T17:21:29.483384"
+    },
+    {
+      "english": "Curious? What's 'qué bueno'?",
+      "spanish": "¿Curioso? ¿Qué significa 'qué bueno'?",
+      "category": "Motivation",
+      "generated_at": "2026-05-13T17:21:29.483410"
+    },
+    {
+      "english": "Feel this rhythm, you're growing.",
+      "spanish": "Siente este ritmo, estás creciendo.",
+      "category": "Motivation",
+      "generated_at": "2026-05-13T17:21:29.483422"
+    },
+    {
+      "english": "Surprise! This phrase is easy.",
+      "spanish": "¡Sorpresa! Esta frase es fácil.",
+      "category": "Motivation",
+      "generated_at": "2026-05-13T17:21:29.483434"
+    },
+    {
+      "english": "Hear this connection happening.",
+      "spanish": "Escucha esta conexión sucediendo.",
+      "category": "Motivation",
+      "generated_at": "2026-05-13T17:21:29.483445"
     }
   ],
-  "last_updated": "2026-05-13T15:51:34.619645",
+  "last_updated": "2026-05-13T17:21:29.483447",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7877,6 +7907,11 @@
     "unlock smiles with one sound.",
     "this connection feels real, right?",
     "feel the rhythm, you're learning.",
-    "wisdom: speak it, feel it."
+    "wisdom: speak it, feel it.",
+    "this one word feels like sunshine.",
+    "curious? what's 'qué bueno'?",
+    "feel this rhythm, you're growing.",
+    "surprise! this phrase is easy.",
+    "hear this connection happening."
   ]
 }
