@@ -6719,9 +6719,39 @@
       "spanish": "Escucha esto, siente esta paz.",
       "category": "Gratitude",
       "generated_at": "2026-05-12T22:18:16.504871"
+    },
+    {
+      "english": "This single word, pure magic.",
+      "spanish": "Esta sola palabra, pura magia.",
+      "category": "Purpose",
+      "generated_at": "2026-05-13T15:51:34.619583"
+    },
+    {
+      "english": "Unlock smiles with one sound.",
+      "spanish": "Desbloquea sonrisas con un sonido.",
+      "category": "Purpose",
+      "generated_at": "2026-05-13T15:51:34.619608"
+    },
+    {
+      "english": "This connection feels real, right?",
+      "spanish": "Esta conexión se siente real, ¿verdad?",
+      "category": "Purpose",
+      "generated_at": "2026-05-13T15:51:34.619620"
+    },
+    {
+      "english": "Feel the rhythm, you're learning.",
+      "spanish": "Siente el ritmo, estás aprendiendo.",
+      "category": "Purpose",
+      "generated_at": "2026-05-13T15:51:34.619631"
+    },
+    {
+      "english": "Wisdom: Speak it, feel it.",
+      "spanish": "Sabiduría: Dilo, siéntelo.",
+      "category": "Purpose",
+      "generated_at": "2026-05-13T15:51:34.619643"
     }
   ],
-  "last_updated": "2026-05-12T22:18:16.504873",
+  "last_updated": "2026-05-13T15:51:34.619645",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7842,6 +7872,11 @@
     "what if this brings you joy?",
     "a little gratitude, a lot.",
     "you can say 'thank you'!",
-    "hear this, feel this peace."
+    "hear this, feel this peace.",
+    "this single word, pure magic.",
+    "unlock smiles with one sound.",
+    "this connection feels real, right?",
+    "feel the rhythm, you're learning.",
+    "wisdom: speak it, feel it."
   ]
 }
