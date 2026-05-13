@@ -6779,9 +6779,39 @@
       "spanish": "Escucha esta conexión sucediendo.",
       "category": "Motivation",
       "generated_at": "2026-05-13T17:21:29.483445"
+    },
+    {
+      "english": "Your effort resonates deeply, friend.",
+      "spanish": "Tu esfuerzo resuena profundamente, amigo.",
+      "category": "Kindness",
+      "generated_at": "2026-05-13T18:53:21.455050"
+    },
+    {
+      "english": "Your voice, a powerful melody.",
+      "spanish": "Tu voz, una melodía poderosa.",
+      "category": "Kindness",
+      "generated_at": "2026-05-13T18:53:21.455070"
+    },
+    {
+      "english": "Curious? 'Poco a poco' means slowly.",
+      "spanish": "¿Curioso? 'Poco a poco' significa lentamente.",
+      "category": "Kindness",
+      "generated_at": "2026-05-13T18:53:21.455081"
+    },
+    {
+      "english": "Wisdom: Learn patiently, speak bravely.",
+      "spanish": "Sabiduría: Aprende paciente, habla valiente.",
+      "category": "Kindness",
+      "generated_at": "2026-05-13T18:53:21.455092"
+    },
+    {
+      "english": "You are welcome here. Speak!",
+      "spanish": "Eres bienvenido aquí. ¡Habla!",
+      "category": "Kindness",
+      "generated_at": "2026-05-13T18:53:21.455103"
     }
   ],
-  "last_updated": "2026-05-13T17:21:29.483447",
+  "last_updated": "2026-05-13T18:53:21.455105",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -7912,6 +7942,11 @@
     "curious? what's 'qué bueno'?",
     "feel this rhythm, you're growing.",
     "surprise! this phrase is easy.",
-    "hear this connection happening."
+    "hear this connection happening.",
+    "your effort resonates deeply, friend.",
+    "your voice, a powerful melody.",
+    "curious? 'poco a poco' means slowly.",
+    "wisdom: learn patiently, speak bravely.",
+    "you are welcome here. speak!"
   ]
 }
