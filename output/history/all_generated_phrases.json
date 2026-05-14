@@ -6899,9 +6899,39 @@
       "spanish": "Un 'hola' más abre mundos.",
       "category": "Inspiration",
       "generated_at": "2026-05-14T15:23:29.812624"
+    },
+    {
+      "english": "This unlocks a new world.",
+      "spanish": "Esto abre un nuevo mundo.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:03:23.246798"
+    },
+    {
+      "english": "Your courage is speaking.",
+      "spanish": "Tu valentía está hablando.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:03:23.246820"
+    },
+    {
+      "english": "One sound connects worlds.",
+      "spanish": "Un sonido conecta mundos.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:03:23.246833"
+    },
+    {
+      "english": "Why wait for mañana?",
+      "spanish": "¿Por qué esperar hasta mañana?",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:03:23.246844"
+    },
+    {
+      "english": "This simple word changes everything.",
+      "spanish": "Esta palabra simple cambia todo.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:03:23.246855"
     }
   ],
-  "last_updated": "2026-05-14T15:23:29.812626",
+  "last_updated": "2026-05-14T17:03:23.246857",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8052,6 +8082,11 @@
     "wisdom: fluent one word.",
     "what if joy is speaking?",
     "courage is your new language.",
-    "one more 'hola' opens worlds."
+    "one more 'hola' opens worlds.",
+    "this unlocks a new world.",
+    "your courage is speaking.",
+    "one sound connects worlds.",
+    "why wait for mañana?",
+    "this simple word changes everything."
   ]
 }
