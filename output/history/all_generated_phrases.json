@@ -6929,9 +6929,39 @@
       "spanish": "Esta palabra simple cambia todo.",
       "category": "Purpose",
       "generated_at": "2026-05-14T17:03:23.246855"
+    },
+    {
+      "english": "Your bravery unlocks everything.",
+      "spanish": "Tu valentía lo desbloquea todo.",
+      "category": "Courage",
+      "generated_at": "2026-05-14T18:50:43.364326"
+    },
+    {
+      "english": "What if fear disappears?",
+      "spanish": "¿Qué si el miedo desaparece?",
+      "category": "Courage",
+      "generated_at": "2026-05-14T18:50:43.364347"
+    },
+    {
+      "english": "Dare to speak, friend.",
+      "spanish": "Atrévete a hablar, amigo.",
+      "category": "Courage",
+      "generated_at": "2026-05-14T18:50:43.364359"
+    },
+    {
+      "english": "Your progress will amaze you.",
+      "spanish": "Tu progreso te asombrará.",
+      "category": "Courage",
+      "generated_at": "2026-05-14T18:50:43.364371"
+    },
+    {
+      "english": "Listen closely, this helps.",
+      "spanish": "Escucha atentamente, esto ayuda.",
+      "category": "Courage",
+      "generated_at": "2026-05-14T18:50:43.364383"
     }
   ],
-  "last_updated": "2026-05-14T17:03:23.246857",
+  "last_updated": "2026-05-14T18:50:43.364385",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8087,6 +8117,11 @@
     "your courage is speaking.",
     "one sound connects worlds.",
     "why wait for mañana?",
-    "this simple word changes everything."
+    "this simple word changes everything.",
+    "your bravery unlocks everything.",
+    "what if fear disappears?",
+    "dare to speak, friend.",
+    "your progress will amaze you.",
+    "listen closely, this helps."
   ]
 }
