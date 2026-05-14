@@ -6869,9 +6869,39 @@
       "spanish": "¿Y si las palabras fueran puentes?",
       "category": "Balance",
       "generated_at": "2026-05-13T22:20:18.203012"
+    },
+    {
+      "english": "This sounds like success.",
+      "spanish": "Esto suena a éxito.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-14T15:23:29.812560"
+    },
+    {
+      "english": "Wisdom: Fluent one word.",
+      "spanish": "Sabiduría: Una palabra fluida.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-14T15:23:29.812585"
+    },
+    {
+      "english": "What if joy is speaking?",
+      "spanish": "¿Y si la alegría habla?",
+      "category": "Inspiration",
+      "generated_at": "2026-05-14T15:23:29.812601"
+    },
+    {
+      "english": "Courage is your new language.",
+      "spanish": "El coraje es tu nuevo idioma.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-14T15:23:29.812612"
+    },
+    {
+      "english": "One more 'hola' opens worlds.",
+      "spanish": "Un 'hola' más abre mundos.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-14T15:23:29.812624"
     }
   ],
-  "last_updated": "2026-05-13T22:20:18.203014",
+  "last_updated": "2026-05-14T15:23:29.812626",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8017,6 +8047,11 @@
     "one sound, huge comfort.",
     "surprise! you're making friends.",
     "feel this simple joy.",
-    "what if words were bridges?"
+    "what if words were bridges?",
+    "this sounds like success.",
+    "wisdom: fluent one word.",
+    "what if joy is speaking?",
+    "courage is your new language.",
+    "one more 'hola' opens worlds."
   ]
 }
