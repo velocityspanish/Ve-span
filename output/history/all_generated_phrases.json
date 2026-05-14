@@ -6959,9 +6959,39 @@
       "spanish": "Escucha atentamente, esto ayuda.",
       "category": "Courage",
       "generated_at": "2026-05-14T18:50:43.364383"
+    },
+    {
+      "english": "This feeling? It's called progress.",
+      "spanish": "Este sentimiento? Se llama progreso.",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T22:16:16.693300"
+    },
+    {
+      "english": "Want pure joy? Listen closely.",
+      "spanish": "¿Quieres pura alegría? Escucha atentamente.",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T22:16:16.693320"
+    },
+    {
+      "english": "One sound opens their hearts.",
+      "spanish": "Un sonido abre sus corazones.",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T22:16:16.693333"
+    },
+    {
+      "english": "Curious? 'Por favor' means please.",
+      "spanish": "¿Curioso? 'Por favor' significa please.",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T22:16:16.693344"
+    },
+    {
+      "english": "Your effort, a beautiful symphony.",
+      "spanish": "Tu esfuerzo, una hermosa sinfonía.",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T22:16:16.693354"
     }
   ],
-  "last_updated": "2026-05-14T18:50:43.364385",
+  "last_updated": "2026-05-14T22:16:16.693356",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8122,6 +8152,11 @@
     "what if fear disappears?",
     "dare to speak, friend.",
     "your progress will amaze you.",
-    "listen closely, this helps."
+    "listen closely, this helps.",
+    "this feeling? it's called progress.",
+    "want pure joy? listen closely.",
+    "one sound opens their hearts.",
+    "curious? 'por favor' means please.",
+    "your effort, a beautiful symphony."
   ]
 }
