@@ -6989,9 +6989,39 @@
       "spanish": "Tu esfuerzo, una hermosa sinfonía.",
       "category": "Happiness",
       "generated_at": "2026-05-14T22:16:16.693354"
+    },
+    {
+      "english": "Unlock secrets with 'por qué?'",
+      "spanish": "Desbloquea secretos con 'por qué?'",
+      "category": "Success",
+      "generated_at": "2026-05-17T20:20:24.762506"
+    },
+    {
+      "english": "Hear this: 'poco a poco'.",
+      "spanish": "Escucha esto: 'poco a poco'.",
+      "category": "Success",
+      "generated_at": "2026-05-17T20:20:24.762528"
+    },
+    {
+      "english": "Courage whispers: 'Lo intento'.",
+      "spanish": "El coraje susurra: 'Lo intento'.",
+      "category": "Success",
+      "generated_at": "2026-05-17T20:20:24.762541"
+    },
+    {
+      "english": "Feeling this, you are learning.",
+      "spanish": "Sintiendo esto, estás aprendiendo.",
+      "category": "Success",
+      "generated_at": "2026-05-17T20:20:24.762552"
+    },
+    {
+      "english": "Surprise! Fluency is a journey.",
+      "spanish": "¡Sorpresa! La fluidez es un viaje.",
+      "category": "Success",
+      "generated_at": "2026-05-17T20:20:24.762564"
     }
   ],
-  "last_updated": "2026-05-14T22:16:16.693356",
+  "last_updated": "2026-05-17T20:20:24.762566",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8157,6 +8187,11 @@
     "want pure joy? listen closely.",
     "one sound opens their hearts.",
     "curious? 'por favor' means please.",
-    "your effort, a beautiful symphony."
+    "your effort, a beautiful symphony.",
+    "unlock secrets with 'por qué?'",
+    "hear this: 'poco a poco'.",
+    "courage whispers: 'lo intento'.",
+    "feeling this, you are learning.",
+    "surprise! fluency is a journey."
   ]
 }
