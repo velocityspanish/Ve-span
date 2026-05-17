@@ -7019,9 +7019,39 @@
       "spanish": "¡Sorpresa! La fluidez es un viaje.",
       "category": "Success",
       "generated_at": "2026-05-17T20:20:24.762564"
+    },
+    {
+      "english": "Mistakes? Just practice whispers.",
+      "spanish": "Errores? Solo práctica susurra.",
+      "category": "Patience",
+      "generated_at": "2026-05-17T22:00:34.352516"
+    },
+    {
+      "english": "Tiny triumphs, huge impact.",
+      "spanish": "Pequeños triunfos, gran impacto.",
+      "category": "Patience",
+      "generated_at": "2026-05-17T22:00:34.352539"
+    },
+    {
+      "english": "What if progress feels amazing?",
+      "spanish": "¿Y si el progreso se siente increíble?",
+      "category": "Patience",
+      "generated_at": "2026-05-17T22:00:34.352552"
+    },
+    {
+      "english": "Never underestimate your 'hola'.",
+      "spanish": "Nunca subestimes tu 'hola'.",
+      "category": "Patience",
+      "generated_at": "2026-05-17T22:00:34.352564"
+    },
+    {
+      "english": "Feel this quiet confidence growing.",
+      "spanish": "Siente esta confianza tranquila creciendo.",
+      "category": "Patience",
+      "generated_at": "2026-05-17T22:00:34.352575"
     }
   ],
-  "last_updated": "2026-05-17T20:20:24.762566",
+  "last_updated": "2026-05-17T22:00:34.352577",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8192,6 +8222,11 @@
     "hear this: 'poco a poco'.",
     "courage whispers: 'lo intento'.",
     "feeling this, you are learning.",
-    "surprise! fluency is a journey."
+    "surprise! fluency is a journey.",
+    "mistakes? just practice whispers.",
+    "tiny triumphs, huge impact.",
+    "what if progress feels amazing?",
+    "never underestimate your 'hola'.",
+    "feel this quiet confidence growing."
   ]
 }
