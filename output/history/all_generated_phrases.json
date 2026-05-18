@@ -7079,9 +7079,39 @@
       "spanish": "Curiosidad: el primer paso.",
       "category": "Courage",
       "generated_at": "2026-05-18T16:27:33.517721"
+    },
+    {
+      "english": "Your Spanish rhythm, emerging now.",
+      "spanish": "Tu ritmo español, emergiendo ahora.",
+      "category": "Success",
+      "generated_at": "2026-05-18T17:30:40.370830"
+    },
+    {
+      "english": "One 'por favor' unlocks doors.",
+      "spanish": "Un 'por favor' abre puertas.",
+      "category": "Success",
+      "generated_at": "2026-05-18T17:30:40.370849"
+    },
+    {
+      "english": "Feel this flow, your voice grows.",
+      "spanish": "Siente este flujo, tu voz crece.",
+      "category": "Success",
+      "generated_at": "2026-05-18T17:30:40.370859"
+    },
+    {
+      "english": "Embrace mistakes, a secret weapon.",
+      "spanish": "Abraza errores, un arma secreta.",
+      "category": "Success",
+      "generated_at": "2026-05-18T17:30:40.370867"
+    },
+    {
+      "english": "This energy feels so powerful.",
+      "spanish": "Esta energía se siente tan poderosa.",
+      "category": "Success",
+      "generated_at": "2026-05-18T17:30:40.370876"
     }
   ],
-  "last_updated": "2026-05-18T16:27:33.517723",
+  "last_updated": "2026-05-18T17:30:40.370878",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8262,6 +8292,11 @@
     "what if fear just vanished?",
     "your voice, a rising tide.",
     "this small 'lo intento' wins.",
-    "curiosity: the first step."
+    "curiosity: the first step.",
+    "your spanish rhythm, emerging now.",
+    "one 'por favor' unlocks doors.",
+    "feel this flow, your voice grows.",
+    "embrace mistakes, a secret weapon.",
+    "this energy feels so powerful."
   ]
 }
