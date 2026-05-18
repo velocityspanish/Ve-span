@@ -7109,9 +7109,39 @@
       "spanish": "Esta energía se siente tan poderosa.",
       "category": "Success",
       "generated_at": "2026-05-18T17:30:40.370876"
+    },
+    {
+      "english": "Unlock doors, speak bravely.",
+      "spanish": "Abre puertas, habla valiente.",
+      "category": "Courage",
+      "generated_at": "2026-05-18T18:27:15.683627"
+    },
+    {
+      "english": "This is your moment. Go!",
+      "spanish": "Este es tu momento. ¡Ve!",
+      "category": "Courage",
+      "generated_at": "2026-05-18T18:27:15.683648"
+    },
+    {
+      "english": "Just breathe. You are learning.",
+      "spanish": "Solo respira. Estás aprendiendo.",
+      "category": "Courage",
+      "generated_at": "2026-05-18T18:27:15.683661"
+    },
+    {
+      "english": "One more word, immense power.",
+      "spanish": "Una palabra más, inmenso poder.",
+      "category": "Courage",
+      "generated_at": "2026-05-18T18:27:15.683673"
+    },
+    {
+      "english": "Dare to try. Surprise yourself.",
+      "spanish": "Atrévete a intentar. Sorpréndete.",
+      "category": "Courage",
+      "generated_at": "2026-05-18T18:27:15.683684"
     }
   ],
-  "last_updated": "2026-05-18T17:30:40.370878",
+  "last_updated": "2026-05-18T18:27:15.683686",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8297,6 +8327,11 @@
     "one 'por favor' unlocks doors.",
     "feel this flow, your voice grows.",
     "embrace mistakes, a secret weapon.",
-    "this energy feels so powerful."
+    "this energy feels so powerful.",
+    "unlock doors, speak bravely.",
+    "this is your moment. go!",
+    "just breathe. you are learning.",
+    "one more word, immense power.",
+    "dare to try. surprise yourself."
   ]
 }
