@@ -7169,9 +7169,39 @@
       "spanish": "Abraza el flujo de aprender.",
       "category": "Balance",
       "generated_at": "2026-05-18T20:22:07.429898"
+    },
+    {
+      "english": "This phrase, your secret weapon.",
+      "spanish": "Esta frase, tu arma secreta.",
+      "category": "Friendship",
+      "generated_at": "2026-05-18T22:08:00.958777"
+    },
+    {
+      "english": "This single word, immense power.",
+      "spanish": "Esta palabra sola, inmenso poder.",
+      "category": "Friendship",
+      "generated_at": "2026-05-18T22:08:00.958798"
+    },
+    {
+      "english": "Unlock smiles. It's simple, really.",
+      "spanish": "Desbloquea sonrisas. Es simple, de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-05-18T22:08:00.958809"
+    },
+    {
+      "english": "Your progress, a beautiful melody.",
+      "spanish": "Tu progreso, una bella melodía.",
+      "category": "Friendship",
+      "generated_at": "2026-05-18T22:08:00.958821"
+    },
+    {
+      "english": "Here's a tiny, mighty phrase.",
+      "spanish": "Aquí una frase diminuta, poderosa.",
+      "category": "Friendship",
+      "generated_at": "2026-05-18T22:08:00.958833"
     }
   ],
-  "last_updated": "2026-05-18T20:22:07.429900",
+  "last_updated": "2026-05-18T22:08:00.958835",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8367,6 +8397,11 @@
     "tiny steps, giant leaps.",
     "you are heard. speak louder.",
     "one word can connect worlds.",
-    "embrace the learning flow."
+    "embrace the learning flow.",
+    "this phrase, your secret weapon.",
+    "this single word, immense power.",
+    "unlock smiles. it's simple, really.",
+    "your progress, a beautiful melody.",
+    "here's a tiny, mighty phrase."
   ]
 }
