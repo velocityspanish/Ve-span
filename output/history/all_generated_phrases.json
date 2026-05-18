@@ -7049,9 +7049,39 @@
       "spanish": "Siente esta confianza tranquila creciendo.",
       "category": "Patience",
       "generated_at": "2026-05-17T22:00:34.352575"
+    },
+    {
+      "english": "Whispers of courage, speak now.",
+      "spanish": "Susurros de coraje, habla ya.",
+      "category": "Courage",
+      "generated_at": "2026-05-18T16:27:33.517668"
+    },
+    {
+      "english": "What if fear just vanished?",
+      "spanish": "¿Y si el miedo se esfuma?",
+      "category": "Courage",
+      "generated_at": "2026-05-18T16:27:33.517686"
+    },
+    {
+      "english": "Your voice, a rising tide.",
+      "spanish": "Tu voz, una marea creciente.",
+      "category": "Courage",
+      "generated_at": "2026-05-18T16:27:33.517698"
+    },
+    {
+      "english": "This small 'lo intento' wins.",
+      "spanish": "Este 'lo intento' pequeño gana.",
+      "category": "Courage",
+      "generated_at": "2026-05-18T16:27:33.517710"
+    },
+    {
+      "english": "Curiosity: the first step.",
+      "spanish": "Curiosidad: el primer paso.",
+      "category": "Courage",
+      "generated_at": "2026-05-18T16:27:33.517721"
     }
   ],
-  "last_updated": "2026-05-17T22:00:34.352577",
+  "last_updated": "2026-05-18T16:27:33.517723",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8227,6 +8257,11 @@
     "tiny triumphs, huge impact.",
     "what if progress feels amazing?",
     "never underestimate your 'hola'.",
-    "feel this quiet confidence growing."
+    "feel this quiet confidence growing.",
+    "whispers of courage, speak now.",
+    "what if fear just vanished?",
+    "your voice, a rising tide.",
+    "this small 'lo intento' wins.",
+    "curiosity: the first step."
   ]
 }
