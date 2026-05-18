@@ -7139,9 +7139,39 @@
       "spanish": "Atrévete a intentar. Sorpréndete.",
       "category": "Courage",
       "generated_at": "2026-05-18T18:27:15.683684"
+    },
+    {
+      "english": "Future you is smiling.",
+      "spanish": "Tu futuro sonríe.",
+      "category": "Balance",
+      "generated_at": "2026-05-18T20:22:07.429841"
+    },
+    {
+      "english": "Tiny steps, giant leaps.",
+      "spanish": "Pasos pequeños, saltos gigantes.",
+      "category": "Balance",
+      "generated_at": "2026-05-18T20:22:07.429862"
+    },
+    {
+      "english": "You are heard. Speak louder.",
+      "spanish": "Eres oído. Habla fuerte.",
+      "category": "Balance",
+      "generated_at": "2026-05-18T20:22:07.429875"
+    },
+    {
+      "english": "One word can connect worlds.",
+      "spanish": "Una palabra une mundos.",
+      "category": "Balance",
+      "generated_at": "2026-05-18T20:22:07.429886"
+    },
+    {
+      "english": "Embrace the learning flow.",
+      "spanish": "Abraza el flujo de aprender.",
+      "category": "Balance",
+      "generated_at": "2026-05-18T20:22:07.429898"
     }
   ],
-  "last_updated": "2026-05-18T18:27:15.683686",
+  "last_updated": "2026-05-18T20:22:07.429900",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8332,6 +8362,11 @@
     "this is your moment. go!",
     "just breathe. you are learning.",
     "one more word, immense power.",
-    "dare to try. surprise yourself."
+    "dare to try. surprise yourself.",
+    "future you is smiling.",
+    "tiny steps, giant leaps.",
+    "you are heard. speak louder.",
+    "one word can connect worlds.",
+    "embrace the learning flow."
   ]
 }
