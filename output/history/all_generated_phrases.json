@@ -7199,9 +7199,39 @@
       "spanish": "Aquí una frase diminuta, poderosa.",
       "category": "Friendship",
       "generated_at": "2026-05-18T22:08:00.958833"
+    },
+    {
+      "english": "Stop looking for happiness there.",
+      "spanish": "Deja de buscar la felicidad ahí.",
+      "category": "Happiness",
+      "generated_at": "2026-05-19T16:23:13.808395"
+    },
+    {
+      "english": "This simple trick boosts joy.",
+      "spanish": "Este truco simple aumenta la alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-05-19T16:23:13.808416"
+    },
+    {
+      "english": "What happy people do differently.",
+      "spanish": "Lo que hace la gente feliz diferente.",
+      "category": "Happiness",
+      "generated_at": "2026-05-19T16:23:13.808428"
+    },
+    {
+      "english": "The real source of lasting happiness.",
+      "spanish": "La fuente real de felicidad duradera.",
+      "category": "Happiness",
+      "generated_at": "2026-05-19T16:23:13.808439"
+    },
+    {
+      "english": "You're one choice away from joy.",
+      "spanish": "Estás a una elección de la alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-05-19T16:23:13.808451"
     }
   ],
-  "last_updated": "2026-05-18T22:08:00.958835",
+  "last_updated": "2026-05-19T16:23:13.808453",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8402,6 +8432,11 @@
     "this single word, immense power.",
     "unlock smiles. it's simple, really.",
     "your progress, a beautiful melody.",
-    "here's a tiny, mighty phrase."
+    "here's a tiny, mighty phrase.",
+    "stop looking for happiness there.",
+    "this simple trick boosts joy.",
+    "what happy people do differently.",
+    "the real source of lasting happiness.",
+    "you're one choice away from joy."
   ]
 }
