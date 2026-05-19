@@ -7259,9 +7259,39 @@
       "spanish": "Tu zona de confort te mata.",
       "category": "Self Improvement",
       "generated_at": "2026-05-19T17:39:25.883466"
+    },
+    {
+      "english": "Stop burning out. Find rhythm.",
+      "spanish": "Deja quemarte. Encuentra ritmo.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T18:55:00.190300"
+    },
+    {
+      "english": "This work-life balance really looks.",
+      "spanish": "Así equilibrio trabajo-vida realmente.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T18:55:00.190320"
+    },
+    {
+      "english": "Secret having all without losing yourself.",
+      "spanish": "Secreto tenerlo todo sin perderte.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T18:55:00.190331"
+    },
+    {
+      "english": "Can't pour from empty cup. Fill.",
+      "spanish": "No servir desde taza vacía. Llena.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T18:55:00.190343"
+    },
+    {
+      "english": "Rest productive. Stop feeling guilty.",
+      "spanish": "Descansar productivo. Deja sentirte culpable.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T18:55:00.190354"
     }
   ],
-  "last_updated": "2026-05-19T17:39:25.883468",
+  "last_updated": "2026-05-19T18:55:00.190356",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8472,6 +8502,11 @@
     "stop wasting time on this.",
     "the 1% rule that changes lives.",
     "what i do every morning.",
-    "your comfort zone is killing you."
+    "your comfort zone is killing you.",
+    "stop burning out. find rhythm.",
+    "this work-life balance really looks.",
+    "secret having all without losing yourself.",
+    "can't pour from empty cup. fill.",
+    "rest productive. stop feeling guilty."
   ]
 }
