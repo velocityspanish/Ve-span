@@ -7319,9 +7319,39 @@
       "spanish": "Cosas buenas vienen quienes esperan.",
       "category": "Patience",
       "generated_at": "2026-05-19T20:24:46.977994"
+    },
+    {
+      "english": "Cut these toxic habits from life.",
+      "spanish": "Corta estos hábitos tóxicos vida.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-19T22:20:56.285358"
+    },
+    {
+      "english": "The mindset that attracts good things.",
+      "spanish": "La mentalidad que atrae cosas buenas.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-19T22:20:56.285380"
+    },
+    {
+      "english": "Stop consuming. Start creating.",
+      "spanish": "Deja de consumir. Empieza a crear.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-19T22:20:56.285393"
+    },
+    {
+      "english": "Choose progress over perfection always.",
+      "spanish": "Elige progreso sobre perfección siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-19T22:20:56.285405"
+    },
+    {
+      "english": "Stop scrolling. This is your sign.",
+      "spanish": "Deja desplazarte. Esta tu señal.",
+      "category": "Positive Life",
+      "generated_at": "2026-05-19T22:20:56.285417"
     }
   ],
-  "last_updated": "2026-05-19T20:24:46.977996",
+  "last_updated": "2026-05-19T22:20:56.285418",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8542,6 +8572,11 @@
     "this is why patience tested.",
     "the art of waiting without suffering.",
     "what patient people know you don't.",
-    "good things come to those who wait."
+    "good things come to those who wait.",
+    "cut these toxic habits from life.",
+    "the mindset that attracts good things.",
+    "stop consuming. start creating.",
+    "choose progress over perfection always.",
+    "stop scrolling. this is your sign."
   ]
 }
