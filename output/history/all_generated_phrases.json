@@ -7289,9 +7289,39 @@
       "spanish": "Descansar productivo. Deja sentirte culpable.",
       "category": "Balance",
       "generated_at": "2026-05-19T18:55:00.190354"
+    },
+    {
+      "english": "Stop rushing. Trust the timing.",
+      "spanish": "Deja de apresurarte. Confía tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-05-19T20:24:46.977935"
+    },
+    {
+      "english": "This is why patience tested.",
+      "spanish": "Por esto es paciencia probada.",
+      "category": "Patience",
+      "generated_at": "2026-05-19T20:24:46.977959"
+    },
+    {
+      "english": "The art of waiting without suffering.",
+      "spanish": "El arte esperar sin sufrir.",
+      "category": "Patience",
+      "generated_at": "2026-05-19T20:24:46.977971"
+    },
+    {
+      "english": "What patient people know you don't.",
+      "spanish": "Lo que sabe gente paciente tú no.",
+      "category": "Patience",
+      "generated_at": "2026-05-19T20:24:46.977983"
+    },
+    {
+      "english": "Good things come to those who wait.",
+      "spanish": "Cosas buenas vienen quienes esperan.",
+      "category": "Patience",
+      "generated_at": "2026-05-19T20:24:46.977994"
     }
   ],
-  "last_updated": "2026-05-19T18:55:00.190356",
+  "last_updated": "2026-05-19T20:24:46.977996",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8507,6 +8537,11 @@
     "this work-life balance really looks.",
     "secret having all without losing yourself.",
     "can't pour from empty cup. fill.",
-    "rest productive. stop feeling guilty."
+    "rest productive. stop feeling guilty.",
+    "stop rushing. trust the timing.",
+    "this is why patience tested.",
+    "the art of waiting without suffering.",
+    "what patient people know you don't.",
+    "good things come to those who wait."
   ]
 }
