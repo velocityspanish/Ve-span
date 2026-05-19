@@ -7229,9 +7229,39 @@
       "spanish": "Estás a una elección de la alegría.",
       "category": "Happiness",
       "generated_at": "2026-05-19T16:23:13.808451"
+    },
+    {
+      "english": "This one change transformed me.",
+      "spanish": "Este único cambio me transformó.",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-19T17:39:25.883393"
+    },
+    {
+      "english": "Stop wasting time on this.",
+      "spanish": "Deja de perder tiempo en esto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-19T17:39:25.883429"
+    },
+    {
+      "english": "The 1% rule that changes lives.",
+      "spanish": "La regla del 1% cambia vidas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-19T17:39:25.883442"
+    },
+    {
+      "english": "What I do every morning.",
+      "spanish": "Lo que hago cada mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-19T17:39:25.883454"
+    },
+    {
+      "english": "Your comfort zone is killing you.",
+      "spanish": "Tu zona de confort te mata.",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-19T17:39:25.883466"
     }
   ],
-  "last_updated": "2026-05-19T16:23:13.808453",
+  "last_updated": "2026-05-19T17:39:25.883468",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8437,6 +8467,11 @@
     "this simple trick boosts joy.",
     "what happy people do differently.",
     "the real source of lasting happiness.",
-    "you're one choice away from joy."
+    "you're one choice away from joy.",
+    "this one change transformed me.",
+    "stop wasting time on this.",
+    "the 1% rule that changes lives.",
+    "what i do every morning.",
+    "your comfort zone is killing you."
   ]
 }
