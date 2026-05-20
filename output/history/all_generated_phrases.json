@@ -7403,9 +7403,39 @@
       "spanish": "No saltes. Esto cambia todo.",
       "category": "Happiness",
       "generated_at": "2026-05-20T17:54:47.960365"
+    },
+    {
+      "english": "Stop letting them steal your peace.",
+      "spanish": "Deja de dejarles robar tu paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-20T19:15:27.597291"
+    },
+    {
+      "english": "This breathing trick calms anxiety.",
+      "spanish": "Este truco respiración calma ansiedad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-20T19:15:27.597310"
+    },
+    {
+      "english": "What I do when mind races.",
+      "spanish": "Lo que hago cuando mente corre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-20T19:15:27.597323"
+    },
+    {
+      "english": "The price of inner peace.",
+      "spanish": "El precio de la paz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-20T19:15:27.597334"
+    },
+    {
+      "english": "Let go of what you can't control.",
+      "spanish": "Suelta lo que no puedes controlar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-20T19:15:27.597346"
     }
   ],
-  "last_updated": "2026-05-20T17:54:47.960366",
+  "last_updated": "2026-05-20T19:15:27.597348",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8640,6 +8670,11 @@
     "stop waiting. choose happiness now.",
     "you needed hear this today.",
     "this is your wake-up call.",
-    "don't skip. this changes everything."
+    "don't skip. this changes everything.",
+    "stop letting them steal your peace.",
+    "this breathing trick calms anxiety.",
+    "what i do when mind races.",
+    "the price of inner peace.",
+    "let go of what you can't control."
   ]
 }
