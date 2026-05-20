@@ -7439,9 +7439,15 @@
       "spanish": "Mantente firme. Eres imparable.",
       "category": "Confidence",
       "generated_at": "2026-05-20T20:57:22.525143"
+    },
+    {
+      "english": "Your seeds growing underground. Be patient.",
+      "spanish": "Semillas creciendo bajo tierra. Sé paciente.",
+      "category": "Patience",
+      "generated_at": "2026-05-20T22:26:58.541101"
     }
   ],
-  "last_updated": "2026-05-20T20:57:22.525156",
+  "last_updated": "2026-05-20T22:26:58.541112",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8682,6 +8688,7 @@
     "what i do when mind races.",
     "the price of inner peace.",
     "let go of what you can't control.",
-    "stand tall. you're unstoppable."
+    "stand tall. you're unstoppable.",
+    "your seeds growing underground. be patient."
   ]
 }
