@@ -7379,9 +7379,33 @@
       "spanish": "El coraje no es falta miedo. Es esto.",
       "category": "Courage",
       "generated_at": "2026-05-20T16:28:30.193469"
+    },
+    {
+      "english": "Stop waiting. Choose happiness now.",
+      "spanish": "Deja de esperar. Elige felicidad ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-05-20T17:54:47.960320"
+    },
+    {
+      "english": "You needed hear this today.",
+      "spanish": "Necesitabas escuchar esto hoy.",
+      "category": "Happiness",
+      "generated_at": "2026-05-20T17:54:47.960340"
+    },
+    {
+      "english": "This is your wake-up call.",
+      "spanish": "Esta es tu llamada atención.",
+      "category": "Happiness",
+      "generated_at": "2026-05-20T17:54:47.960353"
+    },
+    {
+      "english": "Don't skip. This changes everything.",
+      "spanish": "No saltes. Esto cambia todo.",
+      "category": "Happiness",
+      "generated_at": "2026-05-20T17:54:47.960365"
     }
   ],
-  "last_updated": "2026-05-20T16:28:30.193471",
+  "last_updated": "2026-05-20T17:54:47.960366",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8612,6 +8636,10 @@
     "this is what bravery really looks.",
     "stop hiding. the world needs seeing.",
     "the risk you're avoiding is worth.",
-    "courage isn't fearlessness. it's this."
+    "courage isn't fearlessness. it's this.",
+    "stop waiting. choose happiness now.",
+    "you needed hear this today.",
+    "this is your wake-up call.",
+    "don't skip. this changes everything."
   ]
 }
