@@ -7433,9 +7433,15 @@
       "spanish": "Suelta lo que no puedes controlar.",
       "category": "Inner Peace",
       "generated_at": "2026-05-20T19:15:27.597346"
+    },
+    {
+      "english": "Stand tall. You're unstoppable.",
+      "spanish": "Mantente firme. Eres imparable.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T20:57:22.525143"
     }
   ],
-  "last_updated": "2026-05-20T19:15:27.597348",
+  "last_updated": "2026-05-20T20:57:22.525156",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8675,6 +8681,7 @@
     "this breathing trick calms anxiety.",
     "what i do when mind races.",
     "the price of inner peace.",
-    "let go of what you can't control."
+    "let go of what you can't control.",
+    "stand tall. you're unstoppable."
   ]
 }
