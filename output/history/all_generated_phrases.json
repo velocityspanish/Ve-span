@@ -7349,9 +7349,39 @@
       "spanish": "Deja desplazarte. Esta tu señal.",
       "category": "Positive Life",
       "generated_at": "2026-05-19T22:20:56.285417"
+    },
+    {
+      "english": "Feel the fear. Do it anyway.",
+      "spanish": "Siente el miedo. Hazlo todos modos.",
+      "category": "Courage",
+      "generated_at": "2026-05-20T16:28:30.193411"
+    },
+    {
+      "english": "This is what bravery really looks.",
+      "spanish": "Así es como se ve valentía.",
+      "category": "Courage",
+      "generated_at": "2026-05-20T16:28:30.193434"
+    },
+    {
+      "english": "Stop hiding. The world needs seeing.",
+      "spanish": "Deja de esconderte. Mundo necesita verte.",
+      "category": "Courage",
+      "generated_at": "2026-05-20T16:28:30.193446"
+    },
+    {
+      "english": "The risk you're avoiding is worth.",
+      "spanish": "El riesgo que evitas vale pena.",
+      "category": "Courage",
+      "generated_at": "2026-05-20T16:28:30.193458"
+    },
+    {
+      "english": "Courage isn't fearlessness. It's this.",
+      "spanish": "El coraje no es falta miedo. Es esto.",
+      "category": "Courage",
+      "generated_at": "2026-05-20T16:28:30.193469"
     }
   ],
-  "last_updated": "2026-05-19T22:20:56.285418",
+  "last_updated": "2026-05-20T16:28:30.193471",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8577,6 +8607,11 @@
     "the mindset that attracts good things.",
     "stop consuming. start creating.",
     "choose progress over perfection always.",
-    "stop scrolling. this is your sign."
+    "stop scrolling. this is your sign.",
+    "feel the fear. do it anyway.",
+    "this is what bravery really looks.",
+    "stop hiding. the world needs seeing.",
+    "the risk you're avoiding is worth.",
+    "courage isn't fearlessness. it's this."
   ]
 }
