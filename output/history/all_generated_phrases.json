@@ -7445,9 +7445,39 @@
       "spanish": "Semillas creciendo bajo tierra. Sé paciente.",
       "category": "Patience",
       "generated_at": "2026-05-20T22:26:58.541101"
+    },
+    {
+      "english": "Stop overthinking. Start doing.",
+      "spanish": "Deja de pensar. Empieza a hacer.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-21T16:16:42.510420"
+    },
+    {
+      "english": "The lesson life keeps teaching.",
+      "spanish": "La lección que la vida enseña.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-21T16:16:42.510442"
+    },
+    {
+      "english": "What I wish I knew at 20.",
+      "spanish": "Lo que desearía saber a los 20.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-21T16:16:42.510455"
+    },
+    {
+      "english": "This truth will set you free.",
+      "spanish": "Esta verdad te liberará.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-21T16:16:42.510468"
+    },
+    {
+      "english": "The price of staying the same.",
+      "spanish": "El precio de permanecer igual.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-21T16:16:42.510483"
     }
   ],
-  "last_updated": "2026-05-20T22:26:58.541112",
+  "last_updated": "2026-05-21T16:16:42.510484",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8689,6 +8719,11 @@
     "the price of inner peace.",
     "let go of what you can't control.",
     "stand tall. you're unstoppable.",
-    "your seeds growing underground. be patient."
+    "your seeds growing underground. be patient.",
+    "stop overthinking. start doing.",
+    "the lesson life keeps teaching.",
+    "what i wish i knew at 20.",
+    "this truth will set you free.",
+    "the price of staying the same."
   ]
 }
