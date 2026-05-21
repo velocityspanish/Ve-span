@@ -7475,9 +7475,39 @@
       "spanish": "El precio de permanecer igual.",
       "category": "Wisdom",
       "generated_at": "2026-05-21T16:16:42.510483"
+    },
+    {
+      "english": "When everything fails, remember this.",
+      "spanish": "Cuando todo falla, recuerda esto.",
+      "category": "Hope",
+      "generated_at": "2026-05-21T18:54:22.610789"
+    },
+    {
+      "english": "Stop believing this lie about hope.",
+      "spanish": "Deja de creer esta mentira sobre esperanza.",
+      "category": "Hope",
+      "generated_at": "2026-05-21T18:54:22.610812"
+    },
+    {
+      "english": "The dawn always comes after darkness.",
+      "spanish": "El amanecer siempre llega después oscuridad.",
+      "category": "Hope",
+      "generated_at": "2026-05-21T18:54:22.610824"
+    },
+    {
+      "english": "What keeps me going when quitting.",
+      "spanish": "Lo que me mantiene siguiendo cuando rindo.",
+      "category": "Hope",
+      "generated_at": "2026-05-21T18:54:22.610835"
+    },
+    {
+      "english": "Your breakthrough is closer than think.",
+      "spanish": "Tu avance está más cerca piensas.",
+      "category": "Hope",
+      "generated_at": "2026-05-21T18:54:22.610847"
     }
   ],
-  "last_updated": "2026-05-21T16:16:42.510484",
+  "last_updated": "2026-05-21T18:54:22.610849",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8724,6 +8754,11 @@
     "the lesson life keeps teaching.",
     "what i wish i knew at 20.",
     "this truth will set you free.",
-    "the price of staying the same."
+    "the price of staying the same.",
+    "when everything fails, remember this.",
+    "stop believing this lie about hope.",
+    "the dawn always comes after darkness.",
+    "what keeps me going when quitting.",
+    "your breakthrough is closer than think."
   ]
 }
