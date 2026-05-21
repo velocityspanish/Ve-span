@@ -7505,9 +7505,15 @@
       "spanish": "Tu avance está más cerca piensas.",
       "category": "Hope",
       "generated_at": "2026-05-21T18:54:22.610847"
+    },
+    {
+      "english": "Be the person you needed younger.",
+      "spanish": "Sé persona que necesitabas cuando joven.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-21T20:46:06.676294"
     }
   ],
-  "last_updated": "2026-05-21T18:54:22.610849",
+  "last_updated": "2026-05-21T20:46:06.676306",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8759,6 +8765,7 @@
     "stop believing this lie about hope.",
     "the dawn always comes after darkness.",
     "what keeps me going when quitting.",
-    "your breakthrough is closer than think."
+    "your breakthrough is closer than think.",
+    "be the person you needed younger."
   ]
 }
