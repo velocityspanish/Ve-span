@@ -7541,9 +7541,15 @@
       "spanish": "Vive intención vive arrepentimiento.",
       "category": "Purpose",
       "generated_at": "2026-05-22T15:50:23.905986"
+    },
+    {
+      "english": "Become who you were meant to be.",
+      "spanish": "Conviértete en quien debías ser.",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-22T17:10:28.122055"
     }
   ],
-  "last_updated": "2026-05-22T15:50:23.905988",
+  "last_updated": "2026-05-22T17:10:28.122065",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8801,6 +8807,7 @@
     "this is why feel unfulfilled.",
     "intersection joy service purpose.",
     "what meant do find you.",
-    "live intention live regret."
+    "live intention live regret.",
+    "become who you were meant to be."
   ]
 }
