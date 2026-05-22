@@ -7511,9 +7511,39 @@
       "spanish": "Sé persona que necesitabas cuando joven.",
       "category": "Inspiration",
       "generated_at": "2026-05-21T20:46:06.676294"
+    },
+    {
+      "english": "Stop searching. Purpose already here.",
+      "spanish": "Deja buscar. Propósito ya aquí.",
+      "category": "Purpose",
+      "generated_at": "2026-05-22T15:50:23.905913"
+    },
+    {
+      "english": "This is why feel unfulfilled.",
+      "spanish": "Por esto es sientes insatisfecho.",
+      "category": "Purpose",
+      "generated_at": "2026-05-22T15:50:23.905950"
+    },
+    {
+      "english": "Intersection joy service purpose.",
+      "spanish": "Intersección alegría servicio propósito.",
+      "category": "Purpose",
+      "generated_at": "2026-05-22T15:50:23.905962"
+    },
+    {
+      "english": "What meant do find you.",
+      "spanish": "Lo destinado hacer encontrará.",
+      "category": "Purpose",
+      "generated_at": "2026-05-22T15:50:23.905974"
+    },
+    {
+      "english": "Live intention live regret.",
+      "spanish": "Vive intención vive arrepentimiento.",
+      "category": "Purpose",
+      "generated_at": "2026-05-22T15:50:23.905986"
     }
   ],
-  "last_updated": "2026-05-21T20:46:06.676306",
+  "last_updated": "2026-05-22T15:50:23.905988",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8766,6 +8796,11 @@
     "the dawn always comes after darkness.",
     "what keeps me going when quitting.",
     "your breakthrough is closer than think.",
-    "be the person you needed younger."
+    "be the person you needed younger.",
+    "stop searching. purpose already here.",
+    "this is why feel unfulfilled.",
+    "intersection joy service purpose.",
+    "what meant do find you.",
+    "live intention live regret."
   ]
 }
