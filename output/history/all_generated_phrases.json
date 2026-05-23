@@ -7553,9 +7553,15 @@
       "spanish": "Nunca pierdas fe. Esto también pasará.",
       "category": "Hope",
       "generated_at": "2026-05-23T16:03:20.386481"
+    },
+    {
+      "english": "Champions are made in dark.",
+      "spanish": "Los campeones se hacen oscuridad.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-23T17:55:57.049046"
     }
   ],
-  "last_updated": "2026-05-23T16:03:20.386493",
+  "last_updated": "2026-05-23T17:55:57.049058",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8815,6 +8821,7 @@
     "what meant do find you.",
     "live intention live regret.",
     "become who you were meant to be.",
-    "never lose faith. this too shall pass."
+    "never lose faith. this too shall pass.",
+    "champions are made in dark."
   ]
 }
