@@ -7583,9 +7583,39 @@
       "spanish": "La verdad sobre el éxito repentino.",
       "category": "Success",
       "generated_at": "2026-05-23T20:01:55.024811"
+    },
+    {
+      "english": "Real friends do this without asking.",
+      "spanish": "Los amigos reales hacen esto sin pedir.",
+      "category": "Friendship",
+      "generated_at": "2026-05-23T21:59:46.611011"
+    },
+    {
+      "english": "Stop calling these people friends.",
+      "spanish": "Deja de llamar amigos a estas personas.",
+      "category": "Friendship",
+      "generated_at": "2026-05-23T21:59:46.611032"
+    },
+    {
+      "english": "The test of true friendship.",
+      "spanish": "La prueba de la verdadera amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-05-23T21:59:46.611045"
+    },
+    {
+      "english": "What I learned about loyalty.",
+      "spanish": "Lo que aprendí sobre la lealtad.",
+      "category": "Friendship",
+      "generated_at": "2026-05-23T21:59:46.611058"
+    },
+    {
+      "english": "Keep these people close forever.",
+      "spanish": "Mantén a estas personas cerca siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-05-23T21:59:46.611070"
     }
   ],
-  "last_updated": "2026-05-23T20:01:55.024813",
+  "last_updated": "2026-05-23T21:59:46.611072",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8850,6 +8880,11 @@
     "what successful people do before 8am.",
     "this mindset shift changes lives.",
     "why you're not seeing results.",
-    "the truth about overnight success."
+    "the truth about overnight success.",
+    "real friends do this without asking.",
+    "stop calling these people friends.",
+    "the test of true friendship.",
+    "what i learned about loyalty.",
+    "keep these people close forever."
   ]
 }
