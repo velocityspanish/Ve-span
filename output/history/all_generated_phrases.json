@@ -7559,9 +7559,33 @@
       "spanish": "Los campeones se hacen oscuridad.",
       "category": "Perseverance",
       "generated_at": "2026-05-23T17:55:57.049046"
+    },
+    {
+      "english": "What successful people do before 8am.",
+      "spanish": "Lo que hace la gente exitosa temprano.",
+      "category": "Success",
+      "generated_at": "2026-05-23T20:01:55.024763"
+    },
+    {
+      "english": "This mindset shift changes lives.",
+      "spanish": "Este cambio mental cambia vidas.",
+      "category": "Success",
+      "generated_at": "2026-05-23T20:01:55.024785"
+    },
+    {
+      "english": "Why you're not seeing results.",
+      "spanish": "Por qué no ves resultados.",
+      "category": "Success",
+      "generated_at": "2026-05-23T20:01:55.024799"
+    },
+    {
+      "english": "The truth about overnight success.",
+      "spanish": "La verdad sobre el éxito repentino.",
+      "category": "Success",
+      "generated_at": "2026-05-23T20:01:55.024811"
     }
   ],
-  "last_updated": "2026-05-23T17:55:57.049058",
+  "last_updated": "2026-05-23T20:01:55.024813",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8822,6 +8846,10 @@
     "live intention live regret.",
     "become who you were meant to be.",
     "never lose faith. this too shall pass.",
-    "champions are made in dark."
+    "champions are made in dark.",
+    "what successful people do before 8am.",
+    "this mindset shift changes lives.",
+    "why you're not seeing results.",
+    "the truth about overnight success."
   ]
 }
