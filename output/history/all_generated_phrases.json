@@ -7613,9 +7613,39 @@
       "spanish": "Mantén a estas personas cerca siempre.",
       "category": "Friendship",
       "generated_at": "2026-05-23T21:59:46.611070"
+    },
+    {
+      "english": "You're stronger than realize. Here's proof.",
+      "spanish": "Eres más fuerte das cuenta. Prueba.",
+      "category": "Strength",
+      "generated_at": "2026-05-24T20:00:02.757414"
+    },
+    {
+      "english": "This is how warriors made.",
+      "spanish": "Así es como hacen guerreros.",
+      "category": "Strength",
+      "generated_at": "2026-05-24T20:00:02.757437"
+    },
+    {
+      "english": "Stop apologizing for being powerful.",
+      "spanish": "Deja disculparte por ser poderoso.",
+      "category": "Strength",
+      "generated_at": "2026-05-24T20:00:02.757474"
+    },
+    {
+      "english": "The storm didn't break. Refined.",
+      "spanish": "Tormenta no rompió. Refinó.",
+      "category": "Strength",
+      "generated_at": "2026-05-24T20:00:02.757496"
+    },
+    {
+      "english": "Your scars proof survival. Wear proudly.",
+      "spanish": "Cicatrices prueba supervivencia. Lleva orgullo.",
+      "category": "Strength",
+      "generated_at": "2026-05-24T20:00:02.757512"
     }
   ],
-  "last_updated": "2026-05-23T21:59:46.611072",
+  "last_updated": "2026-05-24T20:00:02.757514",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8885,6 +8915,11 @@
     "stop calling these people friends.",
     "the test of true friendship.",
     "what i learned about loyalty.",
-    "keep these people close forever."
+    "keep these people close forever.",
+    "you're stronger than realize. here's proof.",
+    "this is how warriors made.",
+    "stop apologizing for being powerful.",
+    "the storm didn't break. refined.",
+    "your scars proof survival. wear proudly."
   ]
 }
