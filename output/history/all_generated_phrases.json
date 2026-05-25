@@ -7643,9 +7643,39 @@
       "spanish": "Cicatrices prueba supervivencia. Lleva orgullo.",
       "category": "Strength",
       "generated_at": "2026-05-24T20:00:02.757512"
+    },
+    {
+      "english": "This small act changed someone's day.",
+      "spanish": "Este pequeño acto cambió día alguien.",
+      "category": "Kindness",
+      "generated_at": "2026-05-25T15:53:15.648421"
+    },
+    {
+      "english": "Stop underestimating power of kindness.",
+      "spanish": "Deja de subestimar poder amabilidad.",
+      "category": "Kindness",
+      "generated_at": "2026-05-25T15:53:15.648442"
+    },
+    {
+      "english": "What happens when you choose kindness.",
+      "spanish": "Lo que pasa eliges amabilidad.",
+      "category": "Kindness",
+      "generated_at": "2026-05-25T15:53:15.648454"
+    },
+    {
+      "english": "The ripple effect one kind word.",
+      "spanish": "El efecto dominó una palabra amable.",
+      "category": "Kindness",
+      "generated_at": "2026-05-25T15:53:15.648466"
+    },
+    {
+      "english": "Be the reason someone smiles today.",
+      "spanish": "Sé razón por la que alguien sonríe.",
+      "category": "Kindness",
+      "generated_at": "2026-05-25T15:53:15.648477"
     }
   ],
-  "last_updated": "2026-05-24T20:00:02.757514",
+  "last_updated": "2026-05-25T15:53:15.648479",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8920,6 +8950,11 @@
     "this is how warriors made.",
     "stop apologizing for being powerful.",
     "the storm didn't break. refined.",
-    "your scars proof survival. wear proudly."
+    "your scars proof survival. wear proudly.",
+    "this small act changed someone's day.",
+    "stop underestimating power of kindness.",
+    "what happens when you choose kindness.",
+    "the ripple effect one kind word.",
+    "be the reason someone smiles today."
   ]
 }
