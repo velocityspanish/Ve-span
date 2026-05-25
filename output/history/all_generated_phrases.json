@@ -7685,9 +7685,39 @@
       "spanish": "Legado comienza elecciones hoy.",
       "category": "Purpose",
       "generated_at": "2026-05-25T20:19:33.538051"
+    },
+    {
+      "english": "Holding grudges poisoning you. Let go.",
+      "spanish": "Guardar rencores envenena. Suelta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-25T22:14:11.387878"
+    },
+    {
+      "english": "This is what forgiveness really means.",
+      "spanish": "Esto es lo significa perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-25T22:14:11.387897"
+    },
+    {
+      "english": "Stop waiting apology won't come.",
+      "spanish": "Deja esperar disculpa no vendrá.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-25T22:14:11.387910"
+    },
+    {
+      "english": "The freedom feel after forgiving.",
+      "spanish": "La libertad sientes después perdonar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-25T22:14:11.387922"
+    },
+    {
+      "english": "Forgive them not for them, for you.",
+      "spanish": "Perdona no por ellos, por ti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-25T22:14:11.387934"
     }
   ],
-  "last_updated": "2026-05-25T20:19:33.538063",
+  "last_updated": "2026-05-25T22:14:11.387935",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8969,6 +8999,11 @@
     "the ripple effect one kind word.",
     "be the reason someone smiles today.",
     "why wise people stay quiet.",
-    "legacy starts today's choices."
+    "legacy starts today's choices.",
+    "holding grudges poisoning you. let go.",
+    "this is what forgiveness really means.",
+    "stop waiting apology won't come.",
+    "the freedom feel after forgiving.",
+    "forgive them not for them, for you."
   ]
 }
