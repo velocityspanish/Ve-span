@@ -7679,9 +7679,15 @@
       "spanish": "Por qué la gente sabia calla.",
       "category": "Wisdom",
       "generated_at": "2026-05-25T18:22:24.291579"
+    },
+    {
+      "english": "Legacy starts today's choices.",
+      "spanish": "Legado comienza elecciones hoy.",
+      "category": "Purpose",
+      "generated_at": "2026-05-25T20:19:33.538051"
     }
   ],
-  "last_updated": "2026-05-25T18:22:24.291591",
+  "last_updated": "2026-05-25T20:19:33.538063",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8962,6 +8968,7 @@
     "what happens when you choose kindness.",
     "the ripple effect one kind word.",
     "be the reason someone smiles today.",
-    "why wise people stay quiet."
+    "why wise people stay quiet.",
+    "legacy starts today's choices."
   ]
 }
