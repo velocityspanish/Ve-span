@@ -7673,9 +7673,15 @@
       "spanish": "Sé razón por la que alguien sonríe.",
       "category": "Kindness",
       "generated_at": "2026-05-25T15:53:15.648477"
+    },
+    {
+      "english": "Why wise people stay quiet.",
+      "spanish": "Por qué la gente sabia calla.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-25T18:22:24.291579"
     }
   ],
-  "last_updated": "2026-05-25T15:53:15.648479",
+  "last_updated": "2026-05-25T18:22:24.291591",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -8955,6 +8961,7 @@
     "stop underestimating power of kindness.",
     "what happens when you choose kindness.",
     "the ripple effect one kind word.",
-    "be the reason someone smiles today."
+    "be the reason someone smiles today.",
+    "why wise people stay quiet."
   ]
 }
