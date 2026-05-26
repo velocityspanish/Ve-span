@@ -7715,9 +7715,15 @@
       "spanish": "Perdona no por ellos, por ti.",
       "category": "Forgiveness",
       "generated_at": "2026-05-25T22:14:11.387934"
+    },
+    {
+      "english": "Find center. Everything else aligns.",
+      "spanish": "Encuentra centro. Todo demás alinea.",
+      "category": "Balance",
+      "generated_at": "2026-05-26T16:44:10.290803"
     }
   ],
-  "last_updated": "2026-05-25T22:14:11.387935",
+  "last_updated": "2026-05-26T16:44:10.290810",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9004,6 +9010,7 @@
     "this is what forgiveness really means.",
     "stop waiting apology won't come.",
     "the freedom feel after forgiving.",
-    "forgive them not for them, for you."
+    "forgive them not for them, for you.",
+    "find center. everything else aligns."
   ]
 }
