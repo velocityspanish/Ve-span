@@ -7721,9 +7721,39 @@
       "spanish": "Encuentra centro. Todo demás alinea.",
       "category": "Balance",
       "generated_at": "2026-05-26T16:44:10.290803"
+    },
+    {
+      "english": "Stop chasing. Real love finds you.",
+      "spanish": "Deja de perseguir. El amor real te encuentra.",
+      "category": "Love",
+      "generated_at": "2026-05-26T20:51:24.434021"
+    },
+    {
+      "english": "This is what real love feels.",
+      "spanish": "Así se siente el amor verdadero.",
+      "category": "Love",
+      "generated_at": "2026-05-26T20:51:24.434056"
+    },
+    {
+      "english": "The secret to being deeply loved.",
+      "spanish": "El secreto para ser amado.",
+      "category": "Love",
+      "generated_at": "2026-05-26T20:51:24.434070"
+    },
+    {
+      "english": "What nobody tells you about heartbreak.",
+      "spanish": "Lo que nadie te dice del desamor.",
+      "category": "Love",
+      "generated_at": "2026-05-26T20:51:24.434082"
+    },
+    {
+      "english": "You deserve this kind of love.",
+      "spanish": "Mereces este tipo de amor.",
+      "category": "Love",
+      "generated_at": "2026-05-26T20:51:24.434094"
     }
   ],
-  "last_updated": "2026-05-26T16:44:10.290810",
+  "last_updated": "2026-05-26T20:51:24.434096",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9011,6 +9041,11 @@
     "stop waiting apology won't come.",
     "the freedom feel after forgiving.",
     "forgive them not for them, for you.",
-    "find center. everything else aligns."
+    "find center. everything else aligns.",
+    "stop chasing. real love finds you.",
+    "this is what real love feels.",
+    "the secret to being deeply loved.",
+    "what nobody tells you about heartbreak.",
+    "you deserve this kind of love."
   ]
 }
