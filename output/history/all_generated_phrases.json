@@ -7751,9 +7751,15 @@
       "spanish": "Mereces este tipo de amor.",
       "category": "Love",
       "generated_at": "2026-05-26T20:51:24.434094"
+    },
+    {
+      "english": "Take the leap. The net appears.",
+      "spanish": "Da el salto. La red aparece.",
+      "category": "Courage",
+      "generated_at": "2026-05-27T16:40:20.374948"
     }
   ],
-  "last_updated": "2026-05-26T20:51:24.434096",
+  "last_updated": "2026-05-27T16:40:20.374959",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9046,6 +9052,7 @@
     "this is what real love feels.",
     "the secret to being deeply loved.",
     "what nobody tells you about heartbreak.",
-    "you deserve this kind of love."
+    "you deserve this kind of love.",
+    "take the leap. the net appears."
   ]
 }
