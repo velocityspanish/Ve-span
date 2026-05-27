@@ -7757,9 +7757,39 @@
       "spanish": "Da el salto. La red aparece.",
       "category": "Courage",
       "generated_at": "2026-05-27T16:40:20.374948"
+    },
+    {
+      "english": "This discomfort feel? That's growth.",
+      "spanish": "¿Incomodidad sientes? Eso crecimiento.",
+      "category": "Growth",
+      "generated_at": "2026-05-27T19:14:32.494491"
+    },
+    {
+      "english": "Stop playing small. Meant more.",
+      "spanish": "Deja jugar pequeño. Creado más.",
+      "category": "Growth",
+      "generated_at": "2026-05-27T19:14:32.494515"
+    },
+    {
+      "english": "Person becoming worth pain.",
+      "spanish": "Persona conviertes vale pena.",
+      "category": "Growth",
+      "generated_at": "2026-05-27T19:14:32.494529"
+    },
+    {
+      "english": "What growing pains teach you.",
+      "spanish": "Dolores crecimiento intentan enseñan.",
+      "category": "Growth",
+      "generated_at": "2026-05-27T19:14:32.494542"
+    },
+    {
+      "english": "Embrace suck. It's temporary.",
+      "spanish": "Abraza difícil. Temporal.",
+      "category": "Growth",
+      "generated_at": "2026-05-27T19:14:32.494555"
     }
   ],
-  "last_updated": "2026-05-27T16:40:20.374959",
+  "last_updated": "2026-05-27T19:14:32.494557",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9053,6 +9083,11 @@
     "the secret to being deeply loved.",
     "what nobody tells you about heartbreak.",
     "you deserve this kind of love.",
-    "take the leap. the net appears."
+    "take the leap. the net appears.",
+    "this discomfort feel? that's growth.",
+    "stop playing small. meant more.",
+    "person becoming worth pain.",
+    "what growing pains teach you.",
+    "embrace suck. it's temporary."
   ]
 }
