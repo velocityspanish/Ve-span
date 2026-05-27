@@ -7787,9 +7787,15 @@
       "spanish": "Abraza difícil. Temporal.",
       "category": "Growth",
       "generated_at": "2026-05-27T19:14:32.494555"
+    },
+    {
+      "english": "Bend but never break. That's resilience.",
+      "spanish": "Dóblate pero nunca rompas. Resiliencia.",
+      "category": "Strength",
+      "generated_at": "2026-05-27T20:58:09.888470"
     }
   ],
-  "last_updated": "2026-05-27T19:14:32.494557",
+  "last_updated": "2026-05-27T20:58:09.888484",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9088,6 +9094,7 @@
     "stop playing small. meant more.",
     "person becoming worth pain.",
     "what growing pains teach you.",
-    "embrace suck. it's temporary."
+    "embrace suck. it's temporary.",
+    "bend but never break. that's resilience."
   ]
 }
