@@ -7817,9 +7817,15 @@
       "spanish": "Deja de decir 'algún día'. Di 'hoy'.",
       "category": "Motivation",
       "generated_at": "2026-05-28T19:33:50.422034"
+    },
+    {
+      "english": "A friend who does this is rare.",
+      "spanish": "Un amigo que hace esto es raro.",
+      "category": "Friendship",
+      "generated_at": "2026-05-28T21:03:17.991600"
     }
   ],
-  "last_updated": "2026-05-28T19:33:50.422036",
+  "last_updated": "2026-05-28T21:03:17.991612",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9123,6 +9129,7 @@
     "stop waiting. start now.",
     "this is why you're stuck.",
     "the secret? consistency wins.",
-    "stop saying 'someday'. say 'today'."
+    "stop saying 'someday'. say 'today'.",
+    "a friend who does this is rare."
   ]
 }
