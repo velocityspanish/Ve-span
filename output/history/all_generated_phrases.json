@@ -7823,9 +7823,15 @@
       "spanish": "Un amigo que hace esto es raro.",
       "category": "Friendship",
       "generated_at": "2026-05-28T21:03:17.991600"
+    },
+    {
+      "english": "Your healing starts moment you forgive.",
+      "spanish": "Sanación comienza momento perdonas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-28T22:43:30.516622"
     }
   ],
-  "last_updated": "2026-05-28T21:03:17.991612",
+  "last_updated": "2026-05-28T22:43:30.516633",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9130,6 +9136,7 @@
     "this is why you're stuck.",
     "the secret? consistency wins.",
     "stop saying 'someday'. say 'today'.",
-    "a friend who does this is rare."
+    "a friend who does this is rare.",
+    "your healing starts moment you forgive."
   ]
 }
