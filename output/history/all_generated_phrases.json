@@ -7793,9 +7793,33 @@
       "spanish": "Dóblate pero nunca rompas. Resiliencia.",
       "category": "Strength",
       "generated_at": "2026-05-27T20:58:09.888470"
+    },
+    {
+      "english": "Stop waiting. Start now.",
+      "spanish": "Deja de esperar. Comienza ahora.",
+      "category": "Motivation",
+      "generated_at": "2026-05-28T19:33:50.421990"
+    },
+    {
+      "english": "This is why you're stuck.",
+      "spanish": "Por esto estás atascado.",
+      "category": "Motivation",
+      "generated_at": "2026-05-28T19:33:50.422008"
+    },
+    {
+      "english": "The secret? Consistency wins.",
+      "spanish": "¿El secreto? La constancia gana.",
+      "category": "Motivation",
+      "generated_at": "2026-05-28T19:33:50.422022"
+    },
+    {
+      "english": "Stop saying 'someday'. Say 'today'.",
+      "spanish": "Deja de decir 'algún día'. Di 'hoy'.",
+      "category": "Motivation",
+      "generated_at": "2026-05-28T19:33:50.422034"
     }
   ],
-  "last_updated": "2026-05-27T20:58:09.888484",
+  "last_updated": "2026-05-28T19:33:50.422036",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9095,6 +9119,10 @@
     "person becoming worth pain.",
     "what growing pains teach you.",
     "embrace suck. it's temporary.",
-    "bend but never break. that's resilience."
+    "bend but never break. that's resilience.",
+    "stop waiting. start now.",
+    "this is why you're stuck.",
+    "the secret? consistency wins.",
+    "stop saying 'someday'. say 'today'."
   ]
 }
