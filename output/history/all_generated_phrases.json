@@ -7835,9 +7835,15 @@
       "spanish": "Potencial ilimitado. Empieza actuar.",
       "category": "Growth",
       "generated_at": "2026-05-29T16:42:45.683221"
+    },
+    {
+      "english": "Your calm mind is your superpower.",
+      "spanish": "Tu mente calmada es tu superpoder.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-29T18:13:39.044257"
     }
   ],
-  "last_updated": "2026-05-29T16:42:45.683233",
+  "last_updated": "2026-05-29T18:13:39.044268",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9144,6 +9150,7 @@
     "stop saying 'someday'. say 'today'.",
     "a friend who does this is rare.",
     "your healing starts moment you forgive.",
-    "potential unlimited. start acting."
+    "potential unlimited. start acting.",
+    "your calm mind is your superpower."
   ]
 }
