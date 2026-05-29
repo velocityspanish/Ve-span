@@ -7829,9 +7829,15 @@
       "spanish": "Sanación comienza momento perdonas.",
       "category": "Forgiveness",
       "generated_at": "2026-05-28T22:43:30.516622"
+    },
+    {
+      "english": "Potential unlimited. Start acting.",
+      "spanish": "Potencial ilimitado. Empieza actuar.",
+      "category": "Growth",
+      "generated_at": "2026-05-29T16:42:45.683221"
     }
   ],
-  "last_updated": "2026-05-28T22:43:30.516633",
+  "last_updated": "2026-05-29T16:42:45.683233",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9137,6 +9143,7 @@
     "the secret? consistency wins.",
     "stop saying 'someday'. say 'today'.",
     "a friend who does this is rare.",
-    "your healing starts moment you forgive."
+    "your healing starts moment you forgive.",
+    "potential unlimited. start acting."
   ]
 }
