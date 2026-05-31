@@ -7871,9 +7871,39 @@
       "spanish": "Alegría es acto resistencia.",
       "category": "Joy",
       "generated_at": "2026-05-30T14:42:28.294588"
+    },
+    {
+      "english": "This practice changed my life.",
+      "spanish": "Esta práctica cambió mi vida.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-31T20:01:12.487202"
+    },
+    {
+      "english": "Stop scrolling. Count your blessings.",
+      "spanish": "Deja de desplazarte. Cuenta bendiciones.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-31T20:01:12.487231"
+    },
+    {
+      "english": "What grateful people do daily.",
+      "spanish": "Lo que hace la gente agradecida diariamente.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-31T20:01:12.487246"
+    },
+    {
+      "english": "The fastest way to feel abundant.",
+      "spanish": "La forma más rápida de sentirse abundante.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-31T20:01:12.487260"
+    },
+    {
+      "english": "Say this every morning for 30 days.",
+      "spanish": "Di esto cada mañana por 30 días.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-31T20:01:12.487274"
     }
   ],
-  "last_updated": "2026-05-30T14:42:28.294590",
+  "last_updated": "2026-05-31T20:01:12.487277",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9186,6 +9216,11 @@
     "this is what pure joy feels.",
     "find joy ordinary. it's magic.",
     "what joyful people do you don't.",
-    "your joy is act resistance."
+    "your joy is act resistance.",
+    "this practice changed my life.",
+    "stop scrolling. count your blessings.",
+    "what grateful people do daily.",
+    "the fastest way to feel abundant.",
+    "say this every morning for 30 days."
   ]
 }
