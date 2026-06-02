@@ -7901,9 +7901,15 @@
       "spanish": "Di esto cada mañana por 30 días.",
       "category": "Gratitude",
       "generated_at": "2026-05-31T20:01:12.487274"
+    },
+    {
+      "english": "Gratitude turns what we have into enough.",
+      "spanish": "La gratitud convierte lo tenemos en suficiente.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T19:59:50.374743"
     }
   ],
-  "last_updated": "2026-05-31T20:01:12.487277",
+  "last_updated": "2026-06-02T19:59:50.374752",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9221,6 +9227,7 @@
     "stop scrolling. count your blessings.",
     "what grateful people do daily.",
     "the fastest way to feel abundant.",
-    "say this every morning for 30 days."
+    "say this every morning for 30 days.",
+    "gratitude turns what we have into enough."
   ]
 }
