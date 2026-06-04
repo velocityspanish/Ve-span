@@ -7913,9 +7913,15 @@
       "spanish": "Baila vida como si nadie viera.",
       "category": "Joy",
       "generated_at": "2026-06-04T16:21:28.686121"
+    },
+    {
+      "english": "Never settle for less.",
+      "spanish": "Nunca te conformes con menos.",
+      "category": "Love",
+      "generated_at": "2026-06-04T20:54:45.795380"
     }
   ],
-  "last_updated": "2026-06-04T16:21:28.686134",
+  "last_updated": "2026-06-04T20:54:45.795390",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9235,6 +9241,7 @@
     "the fastest way to feel abundant.",
     "say this every morning for 30 days.",
     "gratitude turns what we have into enough.",
-    "dance through life nobody's watching."
+    "dance through life nobody's watching.",
+    "never settle for less."
   ]
 }
