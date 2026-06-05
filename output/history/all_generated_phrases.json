@@ -7949,9 +7949,39 @@
       "spanish": "Rompe estas reglas para ser creativo.",
       "category": "Creativity",
       "generated_at": "2026-06-05T17:20:51.571299"
+    },
+    {
+      "english": "Stop living autopilot. Wake now.",
+      "spanish": "Deja vivir piloto automático. Despierta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-05T18:55:26.797137"
+    },
+    {
+      "english": "This moment all truly have.",
+      "spanish": "Momento todo realmente tienes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-05T18:55:26.797161"
+    },
+    {
+      "english": "Present called gift reason.",
+      "spanish": "Presente llama regalo razón.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-05T18:55:26.797174"
+    },
+    {
+      "english": "What mindfulness does brain.",
+      "spanish": "Atención plena hace cerebro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-05T18:55:26.797187"
+    },
+    {
+      "english": "Breathe. This only moment exists.",
+      "spanish": "Respira. Este único momento existe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-05T18:55:26.797200"
     }
   ],
-  "last_updated": "2026-06-05T17:20:51.571301",
+  "last_updated": "2026-06-05T18:55:26.797202",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9277,6 +9307,11 @@
     "the secret to endless creative ideas.",
     "what artists know that others don't.",
     "your creativity is hiding here.",
-    "break these rules to be creative."
+    "break these rules to be creative.",
+    "stop living autopilot. wake now.",
+    "this moment all truly have.",
+    "present called gift reason.",
+    "what mindfulness does brain.",
+    "breathe. this only moment exists."
   ]
 }
