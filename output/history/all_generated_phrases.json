@@ -7919,9 +7919,39 @@
       "spanish": "Nunca te conformes con menos.",
       "category": "Love",
       "generated_at": "2026-06-04T20:54:45.795380"
+    },
+    {
+      "english": "Stop waiting for inspiration. Do.",
+      "spanish": "Deja de esperar inspiración. Haz.",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T17:20:51.571237"
+    },
+    {
+      "english": "The secret to endless creative ideas.",
+      "spanish": "El secreto para ideas creativas infinitas.",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T17:20:51.571259"
+    },
+    {
+      "english": "What artists know that others don't.",
+      "spanish": "Lo que los artistas saben otros no.",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T17:20:51.571272"
+    },
+    {
+      "english": "Your creativity is hiding here.",
+      "spanish": "Tu creatividad se está escondiendo aquí.",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T17:20:51.571286"
+    },
+    {
+      "english": "Break these rules to be creative.",
+      "spanish": "Rompe estas reglas para ser creativo.",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T17:20:51.571299"
     }
   ],
-  "last_updated": "2026-06-04T20:54:45.795390",
+  "last_updated": "2026-06-05T17:20:51.571301",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9242,6 +9272,11 @@
     "say this every morning for 30 days.",
     "gratitude turns what we have into enough.",
     "dance through life nobody's watching.",
-    "never settle for less."
+    "never settle for less.",
+    "stop waiting for inspiration. do.",
+    "the secret to endless creative ideas.",
+    "what artists know that others don't.",
+    "your creativity is hiding here.",
+    "break these rules to be creative."
   ]
 }
