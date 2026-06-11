@@ -8045,9 +8045,39 @@
       "spanish": "El verdadero lugar tranquilo de tu mente.",
       "category": "Inner Peace",
       "generated_at": "2026-06-11T16:56:19.198572"
+    },
+    {
+      "english": "Your Spanish voice, amplified.",
+      "spanish": "Tu voz en español, amplificada.",
+      "category": "Joy",
+      "generated_at": "2026-06-11T18:15:58.696829"
+    },
+    {
+      "english": "Unlock fluency. Your turn.",
+      "spanish": "Desbloquea la fluidez. Tu turno.",
+      "category": "Joy",
+      "generated_at": "2026-06-11T18:15:58.696850"
+    },
+    {
+      "english": "Little effort, much Spanish.",
+      "spanish": "Poco esfuerzo, mucho español.",
+      "category": "Joy",
+      "generated_at": "2026-06-11T18:15:58.696864"
+    },
+    {
+      "english": "Real Spanish connection awaits.",
+      "spanish": "La conexión real en español espera.",
+      "category": "Joy",
+      "generated_at": "2026-06-11T18:15:58.696877"
+    },
+    {
+      "english": "Your vibrant Spanish life.",
+      "spanish": "Tu vida vibrante en español.",
+      "category": "Joy",
+      "generated_at": "2026-06-11T18:15:58.696890"
     }
   ],
-  "last_updated": "2026-06-11T16:56:19.198574",
+  "last_updated": "2026-06-11T18:15:58.696892",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9389,6 +9419,11 @@
     "silence this noise, instantly.",
     "peace isn't found, it's built.",
     "want more serenity? try this.",
-    "your mind's true quiet place."
+    "your mind's true quiet place.",
+    "your spanish voice, amplified.",
+    "unlock fluency. your turn.",
+    "little effort, much spanish.",
+    "real spanish connection awaits.",
+    "your vibrant spanish life."
   ]
 }
