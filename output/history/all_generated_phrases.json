@@ -8075,9 +8075,39 @@
       "spanish": "Tu vida vibrante en español.",
       "category": "Joy",
       "generated_at": "2026-06-11T18:15:58.696890"
+    },
+    {
+      "english": "Did you hear that whisper?",
+      "spanish": "¿Oíste ese susurro?",
+      "category": "Hope",
+      "generated_at": "2026-06-11T19:29:10.898102"
+    },
+    {
+      "english": "This ONE thing fuels you.",
+      "spanish": "Esto ÚNICO te impulsa.",
+      "category": "Hope",
+      "generated_at": "2026-06-11T19:29:10.898122"
+    },
+    {
+      "english": "Your next chapter starts now.",
+      "spanish": "Tu próximo capítulo empieza ahora.",
+      "category": "Hope",
+      "generated_at": "2026-06-11T19:29:10.898135"
+    },
+    {
+      "english": "Stop holding your light back.",
+      "spanish": "Deja de ocultar tu luz.",
+      "category": "Hope",
+      "generated_at": "2026-06-11T19:29:10.898149"
+    },
+    {
+      "english": "A simple 'yes' can bloom.",
+      "spanish": "Un simple 'sí' puede florecer.",
+      "category": "Hope",
+      "generated_at": "2026-06-11T19:29:10.898161"
     }
   ],
-  "last_updated": "2026-06-11T18:15:58.696892",
+  "last_updated": "2026-06-11T19:29:10.898163",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9424,6 +9454,11 @@
     "unlock fluency. your turn.",
     "little effort, much spanish.",
     "real spanish connection awaits.",
-    "your vibrant spanish life."
+    "your vibrant spanish life.",
+    "did you hear that whisper?",
+    "this one thing fuels you.",
+    "your next chapter starts now.",
+    "stop holding your light back.",
+    "a simple 'yes' can bloom."
   ]
 }
