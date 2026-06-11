@@ -8105,9 +8105,39 @@
       "spanish": "Un simple 'sí' puede florecer.",
       "category": "Hope",
       "generated_at": "2026-06-11T19:29:10.898161"
+    },
+    {
+      "english": "Spread smiles, not worries.",
+      "spanish": "Esparce sonrisas, no preocupaciones.",
+      "category": "Kindness",
+      "generated_at": "2026-06-11T21:12:44.839757"
+    },
+    {
+      "english": "What if kindness was free?",
+      "spanish": "¿Y si la bondad fuera gratis?",
+      "category": "Kindness",
+      "generated_at": "2026-06-11T21:12:44.839779"
+    },
+    {
+      "english": "Offer help, build bridges.",
+      "spanish": "Ofrece ayuda, construye puentes.",
+      "category": "Kindness",
+      "generated_at": "2026-06-11T21:12:44.839792"
+    },
+    {
+      "english": "See the good, be good.",
+      "spanish": "Ve lo bueno, sé bueno.",
+      "category": "Kindness",
+      "generated_at": "2026-06-11T21:12:44.839805"
+    },
+    {
+      "english": "A small gesture, immense joy.",
+      "spanish": "Un pequeño gesto, inmensa alegría.",
+      "category": "Kindness",
+      "generated_at": "2026-06-11T21:12:44.839818"
     }
   ],
-  "last_updated": "2026-06-11T19:29:10.898163",
+  "last_updated": "2026-06-11T21:12:44.839820",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9459,6 +9489,11 @@
     "this one thing fuels you.",
     "your next chapter starts now.",
     "stop holding your light back.",
-    "a simple 'yes' can bloom."
+    "a simple 'yes' can bloom.",
+    "spread smiles, not worries.",
+    "what if kindness was free?",
+    "offer help, build bridges.",
+    "see the good, be good.",
+    "a small gesture, immense joy."
   ]
 }
