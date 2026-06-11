@@ -8135,9 +8135,39 @@
       "spanish": "Un pequeño gesto, inmensa alegría.",
       "category": "Kindness",
       "generated_at": "2026-06-11T21:12:44.839818"
+    },
+    {
+      "english": "Whispers of hope start today.",
+      "spanish": "Susurros de esperanza hoy.",
+      "category": "Hope",
+      "generated_at": "2026-06-11T22:52:39.140746"
+    },
+    {
+      "english": "Tiny seeds grow mighty oaks.",
+      "spanish": "Semillas pequeñas, grandes robles.",
+      "category": "Hope",
+      "generated_at": "2026-06-11T22:52:39.140769"
+    },
+    {
+      "english": "What if you simply tried?",
+      "spanish": "¿Y si simplemente lo intentas?",
+      "category": "Hope",
+      "generated_at": "2026-06-11T22:52:39.140782"
+    },
+    {
+      "english": "Your moment is arriving now.",
+      "spanish": "Tu momento llega ahora.",
+      "category": "Hope",
+      "generated_at": "2026-06-11T22:52:39.140795"
+    },
+    {
+      "english": "This spark ignites everything.",
+      "spanish": "Esta chispa lo enciende.",
+      "category": "Hope",
+      "generated_at": "2026-06-11T22:52:39.140809"
     }
   ],
-  "last_updated": "2026-06-11T21:12:44.839820",
+  "last_updated": "2026-06-11T22:52:39.140811",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9494,6 +9524,11 @@
     "what if kindness was free?",
     "offer help, build bridges.",
     "see the good, be good.",
-    "a small gesture, immense joy."
+    "a small gesture, immense joy.",
+    "whispers of hope start today.",
+    "tiny seeds grow mighty oaks.",
+    "what if you simply tried?",
+    "your moment is arriving now.",
+    "this spark ignites everything."
   ]
 }
