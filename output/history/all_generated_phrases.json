@@ -8015,9 +8015,39 @@
       "spanish": "Escucha esto antes de rendirte.",
       "category": "Success",
       "generated_at": "2026-06-11T07:33:05.654624"
+    },
+    {
+      "english": "Your inner calm? Found it.",
+      "spanish": "Tu calma interior? La encontré.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-11T16:56:19.198488"
+    },
+    {
+      "english": "Silence this noise, instantly.",
+      "spanish": "Silencia este ruido, al instante.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-11T16:56:19.198528"
+    },
+    {
+      "english": "Peace isn't found, it's built.",
+      "spanish": "La paz no se encuentra, se construye.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-11T16:56:19.198542"
+    },
+    {
+      "english": "Want more serenity? Try this.",
+      "spanish": "¿Quieres más serenidad? Prueba esto.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-11T16:56:19.198558"
+    },
+    {
+      "english": "Your mind's true quiet place.",
+      "spanish": "El verdadero lugar tranquilo de tu mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-11T16:56:19.198572"
     }
   ],
-  "last_updated": "2026-06-11T07:33:05.654625",
+  "last_updated": "2026-06-11T16:56:19.198574",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9354,6 +9384,11 @@
     "is your spanish stuck?",
     "small spanish habits, huge progress.",
     "the truth about fluency?",
-    "hear this before you quit."
+    "hear this before you quit.",
+    "your inner calm? found it.",
+    "silence this noise, instantly.",
+    "peace isn't found, it's built.",
+    "want more serenity? try this.",
+    "your mind's true quiet place."
   ]
 }
