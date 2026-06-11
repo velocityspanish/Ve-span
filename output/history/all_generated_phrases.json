@@ -7985,9 +7985,39 @@
       "spanish": "Crea primero, edita después. Confía.",
       "category": "Creativity",
       "generated_at": "2026-06-07T16:19:34.794191"
+    },
+    {
+      "english": "Unlock your Spanish superpowers.",
+      "spanish": "Desbloquea tus superpoderes de español.",
+      "category": "Success",
+      "generated_at": "2026-06-11T07:33:05.654585"
+    },
+    {
+      "english": "Is your Spanish stuck?",
+      "spanish": "¿Está tu español estancado?",
+      "category": "Success",
+      "generated_at": "2026-06-11T07:33:05.654604"
+    },
+    {
+      "english": "Small Spanish habits, huge progress.",
+      "spanish": "Pequeños hábitos de español, gran progreso.",
+      "category": "Success",
+      "generated_at": "2026-06-11T07:33:05.654610"
+    },
+    {
+      "english": "The truth about fluency?",
+      "spanish": "¿La verdad sobre la fluidez?",
+      "category": "Success",
+      "generated_at": "2026-06-11T07:33:05.654617"
+    },
+    {
+      "english": "Hear this before you quit.",
+      "spanish": "Escucha esto antes de rendirte.",
+      "category": "Success",
+      "generated_at": "2026-06-11T07:33:05.654624"
     }
   ],
-  "last_updated": "2026-06-07T16:19:34.794206",
+  "last_updated": "2026-06-11T07:33:05.654625",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9319,6 +9349,11 @@
     "present called gift reason.",
     "what mindfulness does brain.",
     "breathe. this only moment exists.",
-    "create first, edit later. trust."
+    "create first, edit later. trust.",
+    "unlock your spanish superpowers.",
+    "is your spanish stuck?",
+    "small spanish habits, huge progress.",
+    "the truth about fluency?",
+    "hear this before you quit."
   ]
 }
