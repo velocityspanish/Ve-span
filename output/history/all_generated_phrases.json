@@ -8195,9 +8195,39 @@
       "spanish": "Tu secreto de pronunciación revelado.",
       "category": "Growth",
       "generated_at": "2026-06-12T16:21:16.657127"
+    },
+    {
+      "english": "What if calm arrived?",
+      "spanish": "¿Y si llega la calma?",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-12T17:38:57.031052"
+    },
+    {
+      "english": "Breathe deeply, find you.",
+      "spanish": "Respira hondo, encuéntrate.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-12T17:38:57.031074"
+    },
+    {
+      "english": "Your quiet inner world.",
+      "spanish": "Tu mundo interior tranquilo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-12T17:38:57.031086"
+    },
+    {
+      "english": "Joy hides here, now.",
+      "spanish": "La alegría se esconde aquí.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-12T17:38:57.031099"
+    },
+    {
+      "english": "Feel fully, live more.",
+      "spanish": "Siente plenamente, vive más.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-12T17:38:57.031111"
     }
   ],
-  "last_updated": "2026-06-12T16:21:16.657128",
+  "last_updated": "2026-06-12T17:38:57.031113",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9564,6 +9594,11 @@
     "hear this, sound native.",
     "stop guessing, learn this.",
     "spanish made simple, finally.",
-    "your pronunciation secret revealed."
+    "your pronunciation secret revealed.",
+    "what if calm arrived?",
+    "breathe deeply, find you.",
+    "your quiet inner world.",
+    "joy hides here, now.",
+    "feel fully, live more."
   ]
 }
