@@ -8255,9 +8255,39 @@
       "spanish": "Abraza tu hermoso caos.",
       "category": "Happiness",
       "generated_at": "2026-06-12T18:58:51.112799"
+    },
+    {
+      "english": "Unlock Spanish confidence, faster.",
+      "spanish": "Desbloquea confianza española, más rápido.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-12T20:59:36.039837"
+    },
+    {
+      "english": "This one tiny habit, huge progress.",
+      "spanish": "Este hábito diminuto, progreso enorme.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-12T20:59:36.039863"
+    },
+    {
+      "english": "Why wise people listen more.",
+      "spanish": "¿Por qué sabios escuchan más?",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-12T20:59:36.039878"
+    },
+    {
+      "english": "Your vibrant Spanish life awaits.",
+      "spanish": "Tu vida española vibrante espera.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-12T20:59:36.039892"
+    },
+    {
+      "english": "Stop letting fear control you.",
+      "spanish": "Deja de dejar que el miedo te controle.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-12T20:59:36.039907"
     }
   ],
-  "last_updated": "2026-06-12T18:58:51.112801",
+  "last_updated": "2026-06-12T20:59:36.039909",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9634,6 +9664,11 @@
     "why happy people whisper this.",
     "unlock your calm, instantly.",
     "this feeling is your power.",
-    "embrace your beautiful chaos."
+    "embrace your beautiful chaos.",
+    "unlock spanish confidence, faster.",
+    "this one tiny habit, huge progress.",
+    "why wise people listen more.",
+    "your vibrant spanish life awaits.",
+    "stop letting fear control you."
   ]
 }
