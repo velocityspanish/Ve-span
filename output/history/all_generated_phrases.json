@@ -8225,9 +8225,39 @@
       "spanish": "Siente plenamente, vive más.",
       "category": "Mindfulness",
       "generated_at": "2026-06-12T17:38:57.031111"
+    },
+    {
+      "english": "Your light, brighter than you know.",
+      "spanish": "Tu luz, más brillante de lo que sabes.",
+      "category": "Happiness",
+      "generated_at": "2026-06-12T18:58:51.112733"
+    },
+    {
+      "english": "Why happy people whisper this.",
+      "spanish": "Por qué la gente feliz susurra esto.",
+      "category": "Happiness",
+      "generated_at": "2026-06-12T18:58:51.112757"
+    },
+    {
+      "english": "Unlock your calm, instantly.",
+      "spanish": "Desbloquea tu calma, al instante.",
+      "category": "Happiness",
+      "generated_at": "2026-06-12T18:58:51.112771"
+    },
+    {
+      "english": "This feeling is your power.",
+      "spanish": "Esta sensación es tu poder.",
+      "category": "Happiness",
+      "generated_at": "2026-06-12T18:58:51.112785"
+    },
+    {
+      "english": "Embrace your beautiful chaos.",
+      "spanish": "Abraza tu hermoso caos.",
+      "category": "Happiness",
+      "generated_at": "2026-06-12T18:58:51.112799"
     }
   ],
-  "last_updated": "2026-06-12T17:38:57.031113",
+  "last_updated": "2026-06-12T18:58:51.112801",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9599,6 +9629,11 @@
     "breathe deeply, find you.",
     "your quiet inner world.",
     "joy hides here, now.",
-    "feel fully, live more."
+    "feel fully, live more.",
+    "your light, brighter than you know.",
+    "why happy people whisper this.",
+    "unlock your calm, instantly.",
+    "this feeling is your power.",
+    "embrace your beautiful chaos."
   ]
 }
