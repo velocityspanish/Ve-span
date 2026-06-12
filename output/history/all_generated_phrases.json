@@ -8165,9 +8165,39 @@
       "spanish": "Esta chispa lo enciende.",
       "category": "Hope",
       "generated_at": "2026-06-11T22:52:39.140809"
+    },
+    {
+      "english": "One phrase unlocks fluency?",
+      "spanish": "¿Una frase desbloquea fluidez?",
+      "category": "Growth",
+      "generated_at": "2026-06-12T16:21:16.657067"
+    },
+    {
+      "english": "Hear this, sound native.",
+      "spanish": "Oye esto, suena nativo.",
+      "category": "Growth",
+      "generated_at": "2026-06-12T16:21:16.657087"
+    },
+    {
+      "english": "Stop guessing, learn THIS.",
+      "spanish": "Deja de adivinar, aprende ESTO.",
+      "category": "Growth",
+      "generated_at": "2026-06-12T16:21:16.657101"
+    },
+    {
+      "english": "Spanish made simple, finally.",
+      "spanish": "Español simple, al fin.",
+      "category": "Growth",
+      "generated_at": "2026-06-12T16:21:16.657114"
+    },
+    {
+      "english": "Your pronunciation secret revealed.",
+      "spanish": "Tu secreto de pronunciación revelado.",
+      "category": "Growth",
+      "generated_at": "2026-06-12T16:21:16.657127"
     }
   ],
-  "last_updated": "2026-06-11T22:52:39.140811",
+  "last_updated": "2026-06-12T16:21:16.657128",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9529,6 +9559,11 @@
     "tiny seeds grow mighty oaks.",
     "what if you simply tried?",
     "your moment is arriving now.",
-    "this spark ignites everything."
+    "this spark ignites everything.",
+    "one phrase unlocks fluency?",
+    "hear this, sound native.",
+    "stop guessing, learn this.",
+    "spanish made simple, finally.",
+    "your pronunciation secret revealed."
   ]
 }
