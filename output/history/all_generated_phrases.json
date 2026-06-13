@@ -8345,9 +8345,39 @@
       "spanish": "Encuentra maravilla en lo pequeño",
       "category": "Happiness",
       "generated_at": "2026-06-13T15:03:11.845915"
+    },
+    {
+      "english": "Your mind shapes your reality.",
+      "spanish": "Tu mente moldea tu realidad.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-13T16:14:58.715797"
+    },
+    {
+      "english": "This one habit changes everything.",
+      "spanish": "Este hábito lo cambia todo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-13T16:14:58.715820"
+    },
+    {
+      "english": "You are more resilient than you think.",
+      "spanish": "Eres más resiliente de lo que crees.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-13T16:14:58.715833"
+    },
+    {
+      "english": "Tiny steps create big futures.",
+      "spanish": "Pasos pequeños crean grandes futuros.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-13T16:14:58.715846"
+    },
+    {
+      "english": "Your voice, louder than you know.",
+      "spanish": "Tu voz, más alta de lo que sabes.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-13T16:14:58.715860"
     }
   ],
-  "last_updated": "2026-06-13T15:03:11.845917",
+  "last_updated": "2026-06-13T16:14:58.715861",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9739,6 +9769,11 @@
     "this tiny joy, embrace it",
     "what if you just smiled?",
     "listen: the universe whispers",
-    "find wonder in small things"
+    "find wonder in small things",
+    "your mind shapes your reality.",
+    "this one habit changes everything.",
+    "you are more resilient than you think.",
+    "tiny steps create big futures.",
+    "your voice, louder than you know."
   ]
 }
