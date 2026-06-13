@@ -8405,9 +8405,39 @@
       "spanish": "La sabiduría susurra: escucha.",
       "category": "Hope",
       "generated_at": "2026-06-13T18:03:27.067177"
+    },
+    {
+      "english": "Kindness echoes, always.",
+      "spanish": "La bondad resuena, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-06-13T20:11:09.930512"
+    },
+    {
+      "english": "Your gentle smile matters.",
+      "spanish": "Tu dulce sonrisa importa.",
+      "category": "Kindness",
+      "generated_at": "2026-06-13T20:11:09.930536"
+    },
+    {
+      "english": "Share light, feel it.",
+      "spanish": "Comparte luz, siéntela.",
+      "category": "Kindness",
+      "generated_at": "2026-06-13T20:11:09.930548"
+    },
+    {
+      "english": "Compassion builds true strength.",
+      "spanish": "La compasión crea fuerza real.",
+      "category": "Kindness",
+      "generated_at": "2026-06-13T20:11:09.930561"
+    },
+    {
+      "english": "Your empathy changes worlds.",
+      "spanish": "Tu empatía cambia mundos.",
+      "category": "Kindness",
+      "generated_at": "2026-06-13T20:11:09.930576"
     }
   ],
-  "last_updated": "2026-06-13T18:03:27.067179",
+  "last_updated": "2026-06-13T20:11:09.930578",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9809,6 +9839,11 @@
     "small joys build big lives.",
     "your next step, just begin.",
     "what if kindness wins?",
-    "wisdom whispers: listen."
+    "wisdom whispers: listen.",
+    "kindness echoes, always.",
+    "your gentle smile matters.",
+    "share light, feel it.",
+    "compassion builds true strength.",
+    "your empathy changes worlds."
   ]
 }
