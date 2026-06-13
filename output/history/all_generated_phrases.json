@@ -8315,9 +8315,39 @@
       "spanish": "Tu voz en español, llega.",
       "category": "Perseverance",
       "generated_at": "2026-06-12T22:42:07.996785"
+    },
+    {
+      "english": "Your calm energy, contagious",
+      "spanish": "Tu calma, contagiosa",
+      "category": "Happiness",
+      "generated_at": "2026-06-13T15:03:11.845852"
+    },
+    {
+      "english": "This tiny joy, embrace it",
+      "spanish": "Esta alegría pequeña, abrázala",
+      "category": "Happiness",
+      "generated_at": "2026-06-13T15:03:11.845875"
+    },
+    {
+      "english": "What if you just smiled?",
+      "spanish": "¿Y si solo sonríes?",
+      "category": "Happiness",
+      "generated_at": "2026-06-13T15:03:11.845888"
+    },
+    {
+      "english": "Listen: the universe whispers",
+      "spanish": "Escucha: el universo susurra",
+      "category": "Happiness",
+      "generated_at": "2026-06-13T15:03:11.845901"
+    },
+    {
+      "english": "Find wonder in small things",
+      "spanish": "Encuentra maravilla en lo pequeño",
+      "category": "Happiness",
+      "generated_at": "2026-06-13T15:03:11.845915"
     }
   ],
-  "last_updated": "2026-06-12T22:42:07.996787",
+  "last_updated": "2026-06-13T15:03:11.845917",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9704,6 +9734,11 @@
     "one word, massive spanish impact.",
     "tiny habits, giant spanish leaps.",
     "the true meaning of 'poco a poco'.",
-    "your spanish voice? it's arriving."
+    "your spanish voice? it's arriving.",
+    "your calm energy, contagious",
+    "this tiny joy, embrace it",
+    "what if you just smiled?",
+    "listen: the universe whispers",
+    "find wonder in small things"
   ]
 }
