@@ -8435,9 +8435,39 @@
       "spanish": "Tu empatía cambia mundos.",
       "category": "Kindness",
       "generated_at": "2026-06-13T20:11:09.930576"
+    },
+    {
+      "english": "Besties, your Spanish adventure awaits!",
+      "spanish": "¡Amigas, su aventura en español espera!",
+      "category": "Friendship",
+      "generated_at": "2026-06-13T22:12:21.963682"
+    },
+    {
+      "english": "Listen, true friends speak Spanish.",
+      "spanish": "Escucha, amigos verdaderos hablan español.",
+      "category": "Friendship",
+      "generated_at": "2026-06-13T22:12:21.963707"
+    },
+    {
+      "english": "Friendship is a universal language.",
+      "spanish": "La amistad es lenguaje universal.",
+      "category": "Friendship",
+      "generated_at": "2026-06-13T22:12:21.963721"
+    },
+    {
+      "english": "Share this Spanish phrase with your crew!",
+      "spanish": "¡Comparte esta frase en español con tu pandilla!",
+      "category": "Friendship",
+      "generated_at": "2026-06-13T22:12:21.963733"
+    },
+    {
+      "english": "One word bonds us: 'Amigo'.",
+      "spanish": "Una palabra nos une: 'Amigo'.",
+      "category": "Friendship",
+      "generated_at": "2026-06-13T22:12:21.963747"
     }
   ],
-  "last_updated": "2026-06-13T20:11:09.930578",
+  "last_updated": "2026-06-13T22:12:21.963750",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9844,6 +9874,11 @@
     "your gentle smile matters.",
     "share light, feel it.",
     "compassion builds true strength.",
-    "your empathy changes worlds."
+    "your empathy changes worlds.",
+    "besties, your spanish adventure awaits!",
+    "listen, true friends speak spanish.",
+    "friendship is a universal language.",
+    "share this spanish phrase with your crew!",
+    "one word bonds us: 'amigo'."
   ]
 }
