@@ -8375,9 +8375,39 @@
       "spanish": "Tu voz, más alta de lo que sabes.",
       "category": "Self Improvement",
       "generated_at": "2026-06-13T16:14:58.715860"
+    },
+    {
+      "english": "Your calm is contagious. Spread it.",
+      "spanish": "Tu calma es contagiosa. Espárcela.",
+      "category": "Hope",
+      "generated_at": "2026-06-13T18:03:27.067091"
+    },
+    {
+      "english": "Small joys build big lives.",
+      "spanish": "Pequeñas alegrías construyen grandes vidas.",
+      "category": "Hope",
+      "generated_at": "2026-06-13T18:03:27.067115"
+    },
+    {
+      "english": "Your next step, just begin.",
+      "spanish": "Tu próximo paso, solo empieza.",
+      "category": "Hope",
+      "generated_at": "2026-06-13T18:03:27.067136"
+    },
+    {
+      "english": "What if kindness wins?",
+      "spanish": "¿Y si la bondad gana?",
+      "category": "Hope",
+      "generated_at": "2026-06-13T18:03:27.067157"
+    },
+    {
+      "english": "Wisdom whispers: listen.",
+      "spanish": "La sabiduría susurra: escucha.",
+      "category": "Hope",
+      "generated_at": "2026-06-13T18:03:27.067177"
     }
   ],
-  "last_updated": "2026-06-13T16:14:58.715861",
+  "last_updated": "2026-06-13T18:03:27.067179",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9774,6 +9804,11 @@
     "this one habit changes everything.",
     "you are more resilient than you think.",
     "tiny steps create big futures.",
-    "your voice, louder than you know."
+    "your voice, louder than you know.",
+    "your calm is contagious. spread it.",
+    "small joys build big lives.",
+    "your next step, just begin.",
+    "what if kindness wins?",
+    "wisdom whispers: listen."
   ]
 }
