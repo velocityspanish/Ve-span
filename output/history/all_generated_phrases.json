@@ -8585,9 +8585,39 @@
       "spanish": "Tu viaje español comienza.",
       "category": "Confidence",
       "generated_at": "2026-06-14T20:15:14.033737"
+    },
+    {
+      "english": "Kindness echoes, beautiful truth.",
+      "spanish": "Bondad resuena, verdad hermosa.",
+      "category": "Kindness",
+      "generated_at": "2026-06-14T22:18:32.928614"
+    },
+    {
+      "english": "What if smiles were currency?",
+      "spanish": "¿Y si sonrisas fueran moneda?",
+      "category": "Kindness",
+      "generated_at": "2026-06-14T22:18:32.928639"
+    },
+    {
+      "english": "Spread good vibes, feel them.",
+      "spanish": "Difunde buenas vibras, siéntelas.",
+      "category": "Kindness",
+      "generated_at": "2026-06-14T22:18:32.928653"
+    },
+    {
+      "english": "Helping others, helps you.",
+      "spanish": "Ayudar a otros, te ayuda.",
+      "category": "Kindness",
+      "generated_at": "2026-06-14T22:18:32.928667"
+    },
+    {
+      "english": "Imagine a kinder world, now.",
+      "spanish": "Imagina un mundo más amable, ahora.",
+      "category": "Kindness",
+      "generated_at": "2026-06-14T22:18:32.928681"
     }
   ],
-  "last_updated": "2026-06-14T20:15:14.033739",
+  "last_updated": "2026-06-14T22:18:32.928683",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10019,6 +10049,11 @@
     "one small phrase, huge impact.",
     "listen to this whisper.",
     "why are you afraid?",
-    "your spanish journey begins."
+    "your spanish journey begins.",
+    "kindness echoes, beautiful truth.",
+    "what if smiles were currency?",
+    "spread good vibes, feel them.",
+    "helping others, helps you.",
+    "imagine a kinder world, now."
   ]
 }
