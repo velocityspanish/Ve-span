@@ -8555,9 +8555,39 @@
       "spanish": "¿Está atascado tu viaje lingüístico?",
       "category": "Positive Life",
       "generated_at": "2026-06-14T18:08:25.993181"
+    },
+    {
+      "english": "Your voice, amplified now.",
+      "spanish": "Tu voz, amplificada ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-06-14T20:15:14.033675"
+    },
+    {
+      "english": "One small phrase, huge impact.",
+      "spanish": "Una frase pequeña, gran impacto.",
+      "category": "Confidence",
+      "generated_at": "2026-06-14T20:15:14.033698"
+    },
+    {
+      "english": "Listen to this whisper.",
+      "spanish": "Escucha este susurro.",
+      "category": "Confidence",
+      "generated_at": "2026-06-14T20:15:14.033711"
+    },
+    {
+      "english": "Why are you afraid?",
+      "spanish": "¿Por qué tienes miedo?",
+      "category": "Confidence",
+      "generated_at": "2026-06-14T20:15:14.033723"
+    },
+    {
+      "english": "Your Spanish journey begins.",
+      "spanish": "Tu viaje español comienza.",
+      "category": "Confidence",
+      "generated_at": "2026-06-14T20:15:14.033737"
     }
   ],
-  "last_updated": "2026-06-14T18:08:25.993183",
+  "last_updated": "2026-06-14T20:15:14.033739",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9984,6 +10014,11 @@
     "why is spanish so cool?",
     "don't miss this magic phrase.",
     "small efforts, big spanish wins.",
-    "is your language journey stuck?"
+    "is your language journey stuck?",
+    "your voice, amplified now.",
+    "one small phrase, huge impact.",
+    "listen to this whisper.",
+    "why are you afraid?",
+    "your spanish journey begins."
   ]
 }
