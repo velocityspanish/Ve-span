@@ -8525,9 +8525,39 @@
       "spanish": "Tu confianza en español llega.",
       "category": "Wisdom",
       "generated_at": "2026-06-14T16:23:40.225262"
+    },
+    {
+      "english": "Your next 'wow' moment awaits.",
+      "spanish": "Tu próximo momento 'wow' te espera.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-14T18:08:25.993113"
+    },
+    {
+      "english": "Why is Spanish so cool?",
+      "spanish": "¿Por qué el español es tan genial?",
+      "category": "Positive Life",
+      "generated_at": "2026-06-14T18:08:25.993138"
+    },
+    {
+      "english": "Don't miss this magic phrase.",
+      "spanish": "No te pierdas esta frase mágica.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-14T18:08:25.993153"
+    },
+    {
+      "english": "Small efforts, big spanish wins.",
+      "spanish": "Pequeños esfuerzos, grandes triunfos.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-14T18:08:25.993167"
+    },
+    {
+      "english": "Is your language journey stuck?",
+      "spanish": "¿Está atascado tu viaje lingüístico?",
+      "category": "Positive Life",
+      "generated_at": "2026-06-14T18:08:25.993181"
     }
   ],
-  "last_updated": "2026-06-14T16:23:40.225264",
+  "last_updated": "2026-06-14T18:08:25.993183",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9949,6 +9979,11 @@
     "this one sound transforms your accent.",
     "stop wishing, start speaking spanish.",
     "one phrase, massive impact.",
-    "your spanish confidence is coming."
+    "your spanish confidence is coming.",
+    "your next 'wow' moment awaits.",
+    "why is spanish so cool?",
+    "don't miss this magic phrase.",
+    "small efforts, big spanish wins.",
+    "is your language journey stuck?"
   ]
 }
