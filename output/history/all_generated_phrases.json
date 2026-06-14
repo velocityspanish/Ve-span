@@ -8495,9 +8495,39 @@
       "spanish": "Poco a poco, llegas allí.",
       "category": "Patience",
       "generated_at": "2026-06-14T15:08:17.441500"
+    },
+    {
+      "english": "Whispers of a new language, listen.",
+      "spanish": "Susurros de nuevo idioma, escucha.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T16:23:40.225197"
+    },
+    {
+      "english": "This one sound transforms your accent.",
+      "spanish": "Este sonido cambia tu acento.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T16:23:40.225220"
+    },
+    {
+      "english": "Stop wishing, start speaking Spanish.",
+      "spanish": "Deja de desear, habla español.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T16:23:40.225234"
+    },
+    {
+      "english": "One phrase, massive impact.",
+      "spanish": "Una frase, impacto masivo.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T16:23:40.225249"
+    },
+    {
+      "english": "Your Spanish confidence is coming.",
+      "spanish": "Tu confianza en español llega.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T16:23:40.225262"
     }
   ],
-  "last_updated": "2026-06-14T15:08:17.441502",
+  "last_updated": "2026-06-14T16:23:40.225264",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9914,6 +9944,11 @@
     "your focus, spanish success.",
     "hear your progress, slowly.",
     "spanish blooms with patience.",
-    "little by little, you get there."
+    "little by little, you get there.",
+    "whispers of a new language, listen.",
+    "this one sound transforms your accent.",
+    "stop wishing, start speaking spanish.",
+    "one phrase, massive impact.",
+    "your spanish confidence is coming."
   ]
 }
