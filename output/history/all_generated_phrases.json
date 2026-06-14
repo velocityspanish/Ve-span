@@ -8465,9 +8465,39 @@
       "spanish": "Una palabra nos une: 'Amigo'.",
       "category": "Friendship",
       "generated_at": "2026-06-13T22:12:21.963747"
+    },
+    {
+      "english": "This helps you improve faster.",
+      "spanish": "Esto te ayuda a mejorar más rápido.",
+      "category": "Patience",
+      "generated_at": "2026-06-14T15:08:17.441434"
+    },
+    {
+      "english": "Your focus, Spanish success.",
+      "spanish": "Tu enfoque, éxito español.",
+      "category": "Patience",
+      "generated_at": "2026-06-14T15:08:17.441459"
+    },
+    {
+      "english": "Hear your progress, slowly.",
+      "spanish": "Oye tu progreso, lentamente.",
+      "category": "Patience",
+      "generated_at": "2026-06-14T15:08:17.441473"
+    },
+    {
+      "english": "Spanish blooms with patience.",
+      "spanish": "El español florece con paciencia.",
+      "category": "Patience",
+      "generated_at": "2026-06-14T15:08:17.441487"
+    },
+    {
+      "english": "Little by little, you get there.",
+      "spanish": "Poco a poco, llegas allí.",
+      "category": "Patience",
+      "generated_at": "2026-06-14T15:08:17.441500"
     }
   ],
-  "last_updated": "2026-06-13T22:12:21.963750",
+  "last_updated": "2026-06-14T15:08:17.441502",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -9879,6 +9909,11 @@
     "listen, true friends speak spanish.",
     "friendship is a universal language.",
     "share this spanish phrase with your crew!",
-    "one word bonds us: 'amigo'."
+    "one word bonds us: 'amigo'.",
+    "this helps you improve faster.",
+    "your focus, spanish success.",
+    "hear your progress, slowly.",
+    "spanish blooms with patience.",
+    "little by little, you get there."
   ]
 }
