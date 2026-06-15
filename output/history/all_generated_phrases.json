@@ -8645,9 +8645,39 @@
       "spanish": "Tu coraje resuena adelante.",
       "category": "Positive Life",
       "generated_at": "2026-06-15T17:58:52.414438"
+    },
+    {
+      "english": "Your hidden spanish voice?",
+      "spanish": "¿Tu voz secreta en español?",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T19:04:52.604593"
+    },
+    {
+      "english": "Quick fix, instant results.",
+      "spanish": "Solución rápida, resultados al instante.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T19:04:52.604616"
+    },
+    {
+      "english": "Your next phrase: 'Me encanta'.",
+      "spanish": "Tu próxima frase: 'Me encanta'.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T19:04:52.604630"
+    },
+    {
+      "english": "Unlock fluency, the simple way.",
+      "spanish": "Desbloquea fluidez, la forma simple.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T19:04:52.604644"
+    },
+    {
+      "english": "Feel confident, speak boldly.",
+      "spanish": "Siéntete seguro, habla audazmente.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T19:04:52.604658"
     }
   ],
-  "last_updated": "2026-06-15T17:58:52.414440",
+  "last_updated": "2026-06-15T19:04:52.604660",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10089,6 +10119,11 @@
     "stop wishing, start flowing.",
     "tiny habits, vast impact.",
     "the universe is listening, try.",
-    "your courage echoes forward."
+    "your courage echoes forward.",
+    "your hidden spanish voice?",
+    "quick fix, instant results.",
+    "your next phrase: 'me encanta'.",
+    "unlock fluency, the simple way.",
+    "feel confident, speak boldly."
   ]
 }
