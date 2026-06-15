@@ -8735,9 +8735,39 @@
       "spanish": "Tu esfuerzo crea milagros.",
       "category": "Success",
       "generated_at": "2026-06-15T21:38:45.477926"
+    },
+    {
+      "english": "Friendship: your spanish superpower.",
+      "spanish": "Amistad: tu superpoder español.",
+      "category": "Friendship",
+      "generated_at": "2026-06-15T23:06:38.556893"
+    },
+    {
+      "english": "This phrase bonds your group.",
+      "spanish": "Esta frase une tu grupo.",
+      "category": "Friendship",
+      "generated_at": "2026-06-15T23:06:38.556919"
+    },
+    {
+      "english": "Why 'gracias' means more.",
+      "spanish": "¿Por qué 'gracias' significa más?",
+      "category": "Friendship",
+      "generated_at": "2026-06-15T23:06:38.556934"
+    },
+    {
+      "english": "Your crew, speaking spanish together.",
+      "spanish": "Tu pandilla, hablando español juntos.",
+      "category": "Friendship",
+      "generated_at": "2026-06-15T23:06:38.556947"
+    },
+    {
+      "english": "Share this: 'Me caes bien'.",
+      "spanish": "Comparte esto: 'Me caes bien'.",
+      "category": "Friendship",
+      "generated_at": "2026-06-15T23:06:38.556962"
     }
   ],
-  "last_updated": "2026-06-15T21:38:45.477928",
+  "last_updated": "2026-06-15T23:06:38.556963",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10194,6 +10224,11 @@
     "why is this sound crucial?",
     "this tiny habit transforms fluency.",
     "don't skip this vital detail.",
-    "your effort creates miracles."
+    "your effort creates miracles.",
+    "friendship: your spanish superpower.",
+    "this phrase bonds your group.",
+    "why 'gracias' means more.",
+    "your crew, speaking spanish together.",
+    "share this: 'me caes bien'."
   ]
 }
