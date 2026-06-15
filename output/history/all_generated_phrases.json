@@ -8615,9 +8615,39 @@
       "spanish": "Imagina un mundo más amable, ahora.",
       "category": "Kindness",
       "generated_at": "2026-06-14T22:18:32.928681"
+    },
+    {
+      "english": "Your spanish glow-up starts.",
+      "spanish": "Tu cambio de español empieza.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-15T17:58:52.414371"
+    },
+    {
+      "english": "Stop wishing, start flowing.",
+      "spanish": "Deja de desear, empieza a fluir.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-15T17:58:52.414396"
+    },
+    {
+      "english": "Tiny habits, vast impact.",
+      "spanish": "Pequeños hábitos, gran impacto.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-15T17:58:52.414410"
+    },
+    {
+      "english": "The universe is listening, try.",
+      "spanish": "El universo escucha, inténtalo.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-15T17:58:52.414424"
+    },
+    {
+      "english": "Your courage echoes forward.",
+      "spanish": "Tu coraje resuena adelante.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-15T17:58:52.414438"
     }
   ],
-  "last_updated": "2026-06-14T22:18:32.928683",
+  "last_updated": "2026-06-15T17:58:52.414440",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10054,6 +10084,11 @@
     "what if smiles were currency?",
     "spread good vibes, feel them.",
     "helping others, helps you.",
-    "imagine a kinder world, now."
+    "imagine a kinder world, now.",
+    "your spanish glow-up starts.",
+    "stop wishing, start flowing.",
+    "tiny habits, vast impact.",
+    "the universe is listening, try.",
+    "your courage echoes forward."
   ]
 }
