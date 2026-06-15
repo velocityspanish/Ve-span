@@ -8705,9 +8705,39 @@
       "spanish": "Siente fluidez ahora, de verdad.",
       "category": "Confidence",
       "generated_at": "2026-06-15T20:24:26.922428"
+    },
+    {
+      "english": "Your next spanish win awaits.",
+      "spanish": "Tu próxima victoria en español te espera.",
+      "category": "Success",
+      "generated_at": "2026-06-15T21:38:45.477862"
+    },
+    {
+      "english": "Why is this sound crucial?",
+      "spanish": "¿Por qué es crucial este sonido?",
+      "category": "Success",
+      "generated_at": "2026-06-15T21:38:45.477884"
+    },
+    {
+      "english": "This tiny habit transforms fluency.",
+      "spanish": "Este pequeño hábito transforma la fluidez.",
+      "category": "Success",
+      "generated_at": "2026-06-15T21:38:45.477898"
+    },
+    {
+      "english": "Don't skip this vital detail.",
+      "spanish": "No te saltes este detalle vital.",
+      "category": "Success",
+      "generated_at": "2026-06-15T21:38:45.477912"
+    },
+    {
+      "english": "Your effort creates miracles.",
+      "spanish": "Tu esfuerzo crea milagros.",
+      "category": "Success",
+      "generated_at": "2026-06-15T21:38:45.477926"
     }
   ],
-  "last_updated": "2026-06-15T20:24:26.922430",
+  "last_updated": "2026-06-15T21:38:45.477928",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10159,6 +10189,11 @@
     "the power? simple repetition.",
     "why your accent vanishes.",
     "your spanish confidence boost.",
-    "feel fluency now, really."
+    "feel fluency now, really.",
+    "your next spanish win awaits.",
+    "why is this sound crucial?",
+    "this tiny habit transforms fluency.",
+    "don't skip this vital detail.",
+    "your effort creates miracles."
   ]
 }
