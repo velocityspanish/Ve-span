@@ -8675,9 +8675,39 @@
       "spanish": "Siéntete seguro, habla audazmente.",
       "category": "Purpose",
       "generated_at": "2026-06-15T19:04:52.604658"
+    },
+    {
+      "english": "Your next phrase unlocks it.",
+      "spanish": "Tu próxima frase lo desbloquea.",
+      "category": "Confidence",
+      "generated_at": "2026-06-15T20:24:26.922364"
+    },
+    {
+      "english": "The power? Simple repetition.",
+      "spanish": "El poder? Repetición simple.",
+      "category": "Confidence",
+      "generated_at": "2026-06-15T20:24:26.922387"
+    },
+    {
+      "english": "Why your accent vanishes.",
+      "spanish": "Por qué tu acento se desvanece.",
+      "category": "Confidence",
+      "generated_at": "2026-06-15T20:24:26.922401"
+    },
+    {
+      "english": "Your spanish confidence boost.",
+      "spanish": "Tu impulso de confianza española.",
+      "category": "Confidence",
+      "generated_at": "2026-06-15T20:24:26.922415"
+    },
+    {
+      "english": "Feel fluency now, really.",
+      "spanish": "Siente fluidez ahora, de verdad.",
+      "category": "Confidence",
+      "generated_at": "2026-06-15T20:24:26.922428"
     }
   ],
-  "last_updated": "2026-06-15T19:04:52.604660",
+  "last_updated": "2026-06-15T20:24:26.922430",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10124,6 +10154,11 @@
     "quick fix, instant results.",
     "your next phrase: 'me encanta'.",
     "unlock fluency, the simple way.",
-    "feel confident, speak boldly."
+    "feel confident, speak boldly.",
+    "your next phrase unlocks it.",
+    "the power? simple repetition.",
+    "why your accent vanishes.",
+    "your spanish confidence boost.",
+    "feel fluency now, really."
   ]
 }
