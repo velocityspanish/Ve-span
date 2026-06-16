@@ -8855,9 +8855,39 @@
       "spanish": "Este es tu momento de brillar.",
       "category": "Strength",
       "generated_at": "2026-06-16T20:10:23.585077"
+    },
+    {
+      "english": "Unlock your spanish power, today.",
+      "spanish": "Desbloquea tu poder español, hoy.",
+      "category": "Motivation",
+      "generated_at": "2026-06-16T21:39:06.237954"
+    },
+    {
+      "english": "This tiny phrase changes moods.",
+      "spanish": "Esta frase diminuta cambia ánimos.",
+      "category": "Motivation",
+      "generated_at": "2026-06-16T21:39:06.237979"
+    },
+    {
+      "english": "Are you hearing the rhythm?",
+      "spanish": "¿Estás escuchando el ritmo?",
+      "category": "Motivation",
+      "generated_at": "2026-06-16T21:39:06.237994"
+    },
+    {
+      "english": "Your effort is your strength.",
+      "spanish": "Tu esfuerzo es tu fuerza.",
+      "category": "Motivation",
+      "generated_at": "2026-06-16T21:39:06.238010"
+    },
+    {
+      "english": "One 'hola' opens doors.",
+      "spanish": "Un 'hola' abre puertas.",
+      "category": "Motivation",
+      "generated_at": "2026-06-16T21:39:06.238024"
     }
   ],
-  "last_updated": "2026-06-16T20:10:23.585079",
+  "last_updated": "2026-06-16T21:39:06.238026",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10334,6 +10364,11 @@
     "wisdom whispers: listen closely.",
     "what if you started today?",
     "believe in your unfolding journey.",
-    "this is your moment to shine."
+    "this is your moment to shine.",
+    "unlock your spanish power, today.",
+    "this tiny phrase changes moods.",
+    "are you hearing the rhythm?",
+    "your effort is your strength.",
+    "one 'hola' opens doors."
   ]
 }
