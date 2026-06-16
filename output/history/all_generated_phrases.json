@@ -8825,9 +8825,39 @@
       "spanish": "Imagina tu yo fluido en español.",
       "category": "Confidence",
       "generated_at": "2026-06-16T18:55:47.638316"
+    },
+    {
+      "english": "Your mind is a powerful muscle.",
+      "spanish": "Tu mente es un músculo poderoso.",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:10:23.585012"
+    },
+    {
+      "english": "Wisdom whispers: listen closely.",
+      "spanish": "La sabiduría susurra: escucha atentamente.",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:10:23.585035"
+    },
+    {
+      "english": "What if you started today?",
+      "spanish": "¿Y si empezaras hoy?",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:10:23.585049"
+    },
+    {
+      "english": "Believe in your unfolding journey.",
+      "spanish": "Cree en tu viaje en desarrollo.",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:10:23.585063"
+    },
+    {
+      "english": "This is your moment to shine.",
+      "spanish": "Este es tu momento de brillar.",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:10:23.585077"
     }
   ],
-  "last_updated": "2026-06-16T18:55:47.638318",
+  "last_updated": "2026-06-16T20:10:23.585079",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10299,6 +10329,11 @@
     "why your courage whispers 'sí'.",
     "this one question unlocks spanish.",
     "your empathy? a secret weapon.",
-    "imagine your fluent spanish self."
+    "imagine your fluent spanish self.",
+    "your mind is a powerful muscle.",
+    "wisdom whispers: listen closely.",
+    "what if you started today?",
+    "believe in your unfolding journey.",
+    "this is your moment to shine."
   ]
 }
