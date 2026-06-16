@@ -8765,9 +8765,39 @@
       "spanish": "Comparte esto: 'Me caes bien'.",
       "category": "Friendship",
       "generated_at": "2026-06-15T23:06:38.556962"
+    },
+    {
+      "english": "Your next phrase? Life-changing.",
+      "spanish": "Tu próxima frase: cambia vidas.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-16T18:06:04.034455"
+    },
+    {
+      "english": "Don't forget this nuance.",
+      "spanish": "No olvides este matiz.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-16T18:06:04.034478"
+    },
+    {
+      "english": "Your quiet progress is real.",
+      "spanish": "Tu progreso silencioso es real.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-16T18:06:04.034493"
+    },
+    {
+      "english": "Hear the rhythm, feel it.",
+      "spanish": "Escucha el ritmo, siéntelo.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-16T18:06:04.034507"
+    },
+    {
+      "english": "Imagine saying this perfectly.",
+      "spanish": "Imagina decir esto perfecto.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-16T18:06:04.034521"
     }
   ],
-  "last_updated": "2026-06-15T23:06:38.556963",
+  "last_updated": "2026-06-16T18:06:04.034523",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10229,6 +10259,11 @@
     "this phrase bonds your group.",
     "why 'gracias' means more.",
     "your crew, speaking spanish together.",
-    "share this: 'me caes bien'."
+    "share this: 'me caes bien'.",
+    "your next phrase? life-changing.",
+    "don't forget this nuance.",
+    "your quiet progress is real.",
+    "hear the rhythm, feel it.",
+    "imagine saying this perfectly."
   ]
 }
