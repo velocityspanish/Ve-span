@@ -8885,9 +8885,39 @@
       "spanish": "Un 'hola' abre puertas.",
       "category": "Motivation",
       "generated_at": "2026-06-16T21:39:06.238024"
+    },
+    {
+      "english": "This sound? Fluency unlocked.",
+      "spanish": "Este sonido? Fluidez desbloqueada.",
+      "category": "Strength",
+      "generated_at": "2026-06-16T22:55:55.329249"
+    },
+    {
+      "english": "Why is 'claro' so useful?",
+      "spanish": "¿Por qué 'claro' es tan útil?",
+      "category": "Strength",
+      "generated_at": "2026-06-16T22:55:55.329276"
+    },
+    {
+      "english": "The secret? Your own pace.",
+      "spanish": "El secreto? Tu propio ritmo.",
+      "category": "Strength",
+      "generated_at": "2026-06-16T22:55:55.329291"
+    },
+    {
+      "english": "This tiny word, huge power.",
+      "spanish": "Esta palabra pequeña, enorme poder.",
+      "category": "Strength",
+      "generated_at": "2026-06-16T22:55:55.329306"
+    },
+    {
+      "english": "Are you feeling this vibe?",
+      "spanish": "¿Estás sintiendo esta vibra?",
+      "category": "Strength",
+      "generated_at": "2026-06-16T22:55:55.329320"
     }
   ],
-  "last_updated": "2026-06-16T21:39:06.238026",
+  "last_updated": "2026-06-16T22:55:55.329322",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10369,6 +10399,11 @@
     "this tiny phrase changes moods.",
     "are you hearing the rhythm?",
     "your effort is your strength.",
-    "one 'hola' opens doors."
+    "one 'hola' opens doors.",
+    "this sound? fluency unlocked.",
+    "why is 'claro' so useful?",
+    "the secret? your own pace.",
+    "this tiny word, huge power.",
+    "are you feeling this vibe?"
   ]
 }
