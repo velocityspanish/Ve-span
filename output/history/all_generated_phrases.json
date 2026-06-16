@@ -8795,9 +8795,39 @@
       "spanish": "Imagina decir esto perfecto.",
       "category": "Inspiration",
       "generated_at": "2026-06-16T18:06:04.034521"
+    },
+    {
+      "english": "Your spanish accent? It's charming.",
+      "spanish": "Tu acento en español es encantador.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:55:47.638244"
+    },
+    {
+      "english": "Why your courage whispers 'sí'.",
+      "spanish": "Por qué tu coraje susurra 'sí'.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:55:47.638272"
+    },
+    {
+      "english": "This one question unlocks spanish.",
+      "spanish": "Esta pregunta desbloquea el español.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:55:47.638286"
+    },
+    {
+      "english": "Your empathy? A secret weapon.",
+      "spanish": "Tu empatía es un arma secreta.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:55:47.638302"
+    },
+    {
+      "english": "Imagine your fluent spanish self.",
+      "spanish": "Imagina tu yo fluido en español.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:55:47.638316"
     }
   ],
-  "last_updated": "2026-06-16T18:06:04.034523",
+  "last_updated": "2026-06-16T18:55:47.638318",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10264,6 +10294,11 @@
     "don't forget this nuance.",
     "your quiet progress is real.",
     "hear the rhythm, feel it.",
-    "imagine saying this perfectly."
+    "imagine saying this perfectly.",
+    "your spanish accent? it's charming.",
+    "why your courage whispers 'sí'.",
+    "this one question unlocks spanish.",
+    "your empathy? a secret weapon.",
+    "imagine your fluent spanish self."
   ]
 }
