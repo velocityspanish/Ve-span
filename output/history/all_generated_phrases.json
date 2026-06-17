@@ -9035,9 +9035,39 @@
       "spanish": "Una palabra a la vez, de verdad.",
       "category": "Patience",
       "generated_at": "2026-06-17T20:59:50.924399"
+    },
+    {
+      "english": "Wisdom: embrace the struggle.",
+      "spanish": "Sabiduría: abraza la lucha.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-17T22:48:46.485745"
+    },
+    {
+      "english": "Why this word is vital?",
+      "spanish": "¿Por qué esta palabra es vital?",
+      "category": "Inspiration",
+      "generated_at": "2026-06-17T22:48:46.485766"
+    },
+    {
+      "english": "Your first fluent sentence awaits.",
+      "spanish": "Tu primera frase fluida espera.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-17T22:48:46.485780"
+    },
+    {
+      "english": "This tiny habit is crucial.",
+      "spanish": "Este pequeño hábito es crucial.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-17T22:48:46.485795"
+    },
+    {
+      "english": "One question, massive clarity.",
+      "spanish": "Una pregunta, claridad masiva.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-17T22:48:46.485813"
     }
   ],
-  "last_updated": "2026-06-17T20:59:50.924400",
+  "last_updated": "2026-06-17T22:48:46.485815",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10544,6 +10574,11 @@
     "your progress, a gentle river.",
     "mistakes are language whispers.",
     "what if fluency takes time?",
-    "one word at a time, truly."
+    "one word at a time, truly.",
+    "wisdom: embrace the struggle.",
+    "why this word is vital?",
+    "your first fluent sentence awaits.",
+    "this tiny habit is crucial.",
+    "one question, massive clarity."
   ]
 }
