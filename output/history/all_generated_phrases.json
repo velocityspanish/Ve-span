@@ -9005,9 +9005,39 @@
       "spanish": "Tu próxima frase es clave.",
       "category": "Confidence",
       "generated_at": "2026-06-17T19:18:20.222974"
+    },
+    {
+      "english": "Slowly, Spanish unfolds. Embrace it.",
+      "spanish": "Poco a poco, español florece. Abrázalo.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T20:59:50.924332"
+    },
+    {
+      "english": "Your progress, a gentle river.",
+      "spanish": "Tu progreso, un río suave.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T20:59:50.924355"
+    },
+    {
+      "english": "Mistakes are language whispers.",
+      "spanish": "Los errores, susurros del idioma.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T20:59:50.924370"
+    },
+    {
+      "english": "What if fluency takes time?",
+      "spanish": "¿Y si la fluidez lleva tiempo?",
+      "category": "Patience",
+      "generated_at": "2026-06-17T20:59:50.924385"
+    },
+    {
+      "english": "One word at a time, truly.",
+      "spanish": "Una palabra a la vez, de verdad.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T20:59:50.924399"
     }
   ],
-  "last_updated": "2026-06-17T19:18:20.222976",
+  "last_updated": "2026-06-17T20:59:50.924400",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10509,6 +10539,11 @@
     "here's what makes spanish easy.",
     "small wins build great fluency.",
     "this tiny word, so powerful.",
-    "your next phrase is key."
+    "your next phrase is key.",
+    "slowly, spanish unfolds. embrace it.",
+    "your progress, a gentle river.",
+    "mistakes are language whispers.",
+    "what if fluency takes time?",
+    "one word at a time, truly."
   ]
 }
