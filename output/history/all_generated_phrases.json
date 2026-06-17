@@ -8945,9 +8945,39 @@
       "spanish": "Ve lo bueno, amplifícalo.",
       "category": "Positive Life",
       "generated_at": "2026-06-17T16:40:42.617798"
+    },
+    {
+      "english": "Listen, words have energy.",
+      "spanish": "Escucha, las palabras tienen energía.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T17:50:36.382100"
+    },
+    {
+      "english": "This one sound matters.",
+      "spanish": "Este sonido importa.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T17:50:36.382125"
+    },
+    {
+      "english": "Embrace the fumbles, friends.",
+      "spanish": "Abraza los tropiezos, amigos.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T17:50:36.382140"
+    },
+    {
+      "english": "Feel this phrase, truly.",
+      "spanish": "Siente esta frase, de verdad.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T17:50:36.382154"
+    },
+    {
+      "english": "Why try a new rhythm?",
+      "spanish": "¿Por qué probar un ritmo nuevo?",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T17:50:36.382168"
     }
   ],
-  "last_updated": "2026-06-17T16:40:42.617801",
+  "last_updated": "2026-06-17T17:50:36.382169",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10439,6 +10469,11 @@
     "this tiny moment, own it.",
     "peace begins with your breath.",
     "your kindness has ripple effects.",
-    "see the good, amplify it."
+    "see the good, amplify it.",
+    "listen, words have energy.",
+    "this one sound matters.",
+    "embrace the fumbles, friends.",
+    "feel this phrase, truly.",
+    "why try a new rhythm?"
   ]
 }
