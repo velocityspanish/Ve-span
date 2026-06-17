@@ -8915,9 +8915,39 @@
       "spanish": "¿Estás sintiendo esta vibra?",
       "category": "Strength",
       "generated_at": "2026-06-16T22:55:55.329320"
+    },
+    {
+      "english": "Your next great idea, here.",
+      "spanish": "Tu próxima gran idea, aquí.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-17T16:40:42.617742"
+    },
+    {
+      "english": "This tiny moment, own it.",
+      "spanish": "Este instante diminuto, aduéñate.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-17T16:40:42.617766"
+    },
+    {
+      "english": "Peace begins with your breath.",
+      "spanish": "La paz empieza con tu aliento.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-17T16:40:42.617777"
+    },
+    {
+      "english": "Your kindness has ripple effects.",
+      "spanish": "Tu amabilidad tiene efectos dominó.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-17T16:40:42.617788"
+    },
+    {
+      "english": "See the good, amplify it.",
+      "spanish": "Ve lo bueno, amplifícalo.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-17T16:40:42.617798"
     }
   ],
-  "last_updated": "2026-06-16T22:55:55.329322",
+  "last_updated": "2026-06-17T16:40:42.617801",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10404,6 +10434,11 @@
     "why is 'claro' so useful?",
     "the secret? your own pace.",
     "this tiny word, huge power.",
-    "are you feeling this vibe?"
+    "are you feeling this vibe?",
+    "your next great idea, here.",
+    "this tiny moment, own it.",
+    "peace begins with your breath.",
+    "your kindness has ripple effects.",
+    "see the good, amplify it."
   ]
 }
