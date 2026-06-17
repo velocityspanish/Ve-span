@@ -8975,9 +8975,39 @@
       "spanish": "¿Por qué probar un ritmo nuevo?",
       "category": "Wisdom",
       "generated_at": "2026-06-17T17:50:36.382168"
+    },
+    {
+      "english": "This one sound, fluency unlocked.",
+      "spanish": "Este sonido, fluidez desbloqueada.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T19:18:20.222886"
+    },
+    {
+      "english": "Here's what makes spanish easy.",
+      "spanish": "Aquí está qué hace español fácil.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T19:18:20.222910"
+    },
+    {
+      "english": "Small wins build great fluency.",
+      "spanish": "Pequeñas victorias construyen gran fluidez.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T19:18:20.222925"
+    },
+    {
+      "english": "This tiny word, so powerful.",
+      "spanish": "Esta palabra pequeña, tan poderosa.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T19:18:20.222959"
+    },
+    {
+      "english": "Your next phrase is key.",
+      "spanish": "Tu próxima frase es clave.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T19:18:20.222974"
     }
   ],
-  "last_updated": "2026-06-17T17:50:36.382169",
+  "last_updated": "2026-06-17T19:18:20.222976",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10474,6 +10504,11 @@
     "this one sound matters.",
     "embrace the fumbles, friends.",
     "feel this phrase, truly.",
-    "why try a new rhythm?"
+    "why try a new rhythm?",
+    "this one sound, fluency unlocked.",
+    "here's what makes spanish easy.",
+    "small wins build great fluency.",
+    "this tiny word, so powerful.",
+    "your next phrase is key."
   ]
 }
