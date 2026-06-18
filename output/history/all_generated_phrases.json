@@ -9065,9 +9065,39 @@
       "spanish": "Una pregunta, claridad masiva.",
       "category": "Inspiration",
       "generated_at": "2026-06-17T22:48:46.485813"
+    },
+    {
+      "english": "Hear this small word",
+      "spanish": "Escucha esta pequeña palabra",
+      "category": "Patience",
+      "generated_at": "2026-06-18T16:45:51.743888"
+    },
+    {
+      "english": "This feeling? True fluency.",
+      "spanish": "¿Este sentimiento? Verdadera fluidez.",
+      "category": "Patience",
+      "generated_at": "2026-06-18T16:45:51.743914"
+    },
+    {
+      "english": "One more try, friend.",
+      "spanish": "Un intento más, amigo.",
+      "category": "Patience",
+      "generated_at": "2026-06-18T16:45:51.743928"
+    },
+    {
+      "english": "Mistakes build your voice.",
+      "spanish": "Los errores construyen tu voz.",
+      "category": "Patience",
+      "generated_at": "2026-06-18T16:45:51.743943"
+    },
+    {
+      "english": "Why this phrase matters.",
+      "spanish": "¿Por qué importa esta frase?",
+      "category": "Patience",
+      "generated_at": "2026-06-18T16:45:51.743957"
     }
   ],
-  "last_updated": "2026-06-17T22:48:46.485815",
+  "last_updated": "2026-06-18T16:45:51.743959",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10579,6 +10609,11 @@
     "why this word is vital?",
     "your first fluent sentence awaits.",
     "this tiny habit is crucial.",
-    "one question, massive clarity."
+    "one question, massive clarity.",
+    "hear this small word",
+    "this feeling? true fluency.",
+    "one more try, friend.",
+    "mistakes build your voice.",
+    "why this phrase matters."
   ]
 }
