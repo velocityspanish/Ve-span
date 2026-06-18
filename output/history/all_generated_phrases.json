@@ -9125,9 +9125,39 @@
       "spanish": "Nunca apresures la fluidez, amigo.",
       "category": "Patience",
       "generated_at": "2026-06-18T18:17:57.781080"
+    },
+    {
+      "english": "Your quiet practice speaks volumes.",
+      "spanish": "Tu práctica silenciosa dice mucho.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T19:23:37.124755"
+    },
+    {
+      "english": "This one phrase eases minds.",
+      "spanish": "Esta frase tranquiliza mentes.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T19:23:37.124783"
+    },
+    {
+      "english": "Why patience unlocks fluency.",
+      "spanish": "¿Por qué la paciencia desbloquea fluidez?",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T19:23:37.124800"
+    },
+    {
+      "english": "Your inner peace is growing.",
+      "spanish": "Tu paz interior está creciendo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T19:23:37.124815"
+    },
+    {
+      "english": "Wisdom: learn from each moment.",
+      "spanish": "Sabiduría: aprende de cada instante.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T19:23:37.124858"
     }
   ],
-  "last_updated": "2026-06-18T18:17:57.781082",
+  "last_updated": "2026-06-18T19:23:37.124861",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10649,6 +10679,11 @@
     "slow progress? it's real.",
     "keep going, embrace the journey.",
     "your 'stuck' feeling? temporary.",
-    "never rush fluency, friend."
+    "never rush fluency, friend.",
+    "your quiet practice speaks volumes.",
+    "this one phrase eases minds.",
+    "why patience unlocks fluency.",
+    "your inner peace is growing.",
+    "wisdom: learn from each moment."
   ]
 }
