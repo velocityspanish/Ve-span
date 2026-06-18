@@ -9095,9 +9095,39 @@
       "spanish": "¿Por qué importa esta frase?",
       "category": "Patience",
       "generated_at": "2026-06-18T16:45:51.743957"
+    },
+    {
+      "english": "This word shifts everything.",
+      "spanish": "Esta palabra cambia todo.",
+      "category": "Patience",
+      "generated_at": "2026-06-18T18:17:57.781016"
+    },
+    {
+      "english": "Slow progress? It's real.",
+      "spanish": "Progreso lento? Es real.",
+      "category": "Patience",
+      "generated_at": "2026-06-18T18:17:57.781037"
+    },
+    {
+      "english": "Keep going, embrace the journey.",
+      "spanish": "Sigue adelante, abraza el viaje.",
+      "category": "Patience",
+      "generated_at": "2026-06-18T18:17:57.781052"
+    },
+    {
+      "english": "Your 'stuck' feeling? Temporary.",
+      "spanish": "¿Tu sensación de bloqueo? Temporal.",
+      "category": "Patience",
+      "generated_at": "2026-06-18T18:17:57.781066"
+    },
+    {
+      "english": "Never rush fluency, friend.",
+      "spanish": "Nunca apresures la fluidez, amigo.",
+      "category": "Patience",
+      "generated_at": "2026-06-18T18:17:57.781080"
     }
   ],
-  "last_updated": "2026-06-18T16:45:51.743959",
+  "last_updated": "2026-06-18T18:17:57.781082",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10614,6 +10644,11 @@
     "this feeling? true fluency.",
     "one more try, friend.",
     "mistakes build your voice.",
-    "why this phrase matters."
+    "why this phrase matters.",
+    "this word shifts everything.",
+    "slow progress? it's real.",
+    "keep going, embrace the journey.",
+    "your 'stuck' feeling? temporary.",
+    "never rush fluency, friend."
   ]
 }
