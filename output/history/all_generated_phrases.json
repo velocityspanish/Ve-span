@@ -9155,9 +9155,39 @@
       "spanish": "Sabiduría: aprende de cada instante.",
       "category": "Inner Peace",
       "generated_at": "2026-06-18T19:23:37.124858"
+    },
+    {
+      "english": "Your small efforts, adding up.",
+      "spanish": "Tus pequeños esfuerzos, sumando.",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:20:11.874791"
+    },
+    {
+      "english": "Believe this: you can do it.",
+      "spanish": "Cree esto: puedes hacerlo.",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:20:11.874814"
+    },
+    {
+      "english": "Hear this quiet wisdom.",
+      "spanish": "Escucha esta sabia calma.",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:20:11.874830"
+    },
+    {
+      "english": "Your learning pace, perfect.",
+      "spanish": "Tu ritmo de aprendizaje, perfecto.",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:20:11.874844"
+    },
+    {
+      "english": "Mistakes? Just stepping stones.",
+      "spanish": "¿Errores? Solo escalones.",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:20:11.874859"
     }
   ],
-  "last_updated": "2026-06-18T19:23:37.124861",
+  "last_updated": "2026-06-18T21:20:11.874861",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10684,6 +10714,11 @@
     "this one phrase eases minds.",
     "why patience unlocks fluency.",
     "your inner peace is growing.",
-    "wisdom: learn from each moment."
+    "wisdom: learn from each moment.",
+    "your small efforts, adding up.",
+    "believe this: you can do it.",
+    "hear this quiet wisdom.",
+    "your learning pace, perfect.",
+    "mistakes? just stepping stones."
   ]
 }
