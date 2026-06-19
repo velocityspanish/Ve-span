@@ -9275,9 +9275,39 @@
       "spanish": "Sabiduría: Elige ser feliz.",
       "category": "Happiness",
       "generated_at": "2026-06-19T17:20:24.009421"
+    },
+    {
+      "english": "This one sound sparks joy.",
+      "spanish": "Este sonido enciende alegría.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T18:28:33.327043"
+    },
+    {
+      "english": "Your pronunciation breakthrough awaits.",
+      "spanish": "Tu avance de pronunciación espera.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T18:28:33.327067"
+    },
+    {
+      "english": "Feel the Spanish rhythm flow.",
+      "spanish": "Siente el ritmo español fluir.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T18:28:33.327083"
+    },
+    {
+      "english": "Tiny habit, massive progress.",
+      "spanish": "Hábito diminuto, progreso masivo.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T18:28:33.327099"
+    },
+    {
+      "english": "Hear this, understand more.",
+      "spanish": "Escucha esto, entiende más.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T18:28:33.327114"
     }
   ],
-  "last_updated": "2026-06-19T17:20:24.009423",
+  "last_updated": "2026-06-19T18:28:33.327116",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10824,6 +10854,11 @@
     "this feeling? pure joy unlocked.",
     "what makes people truly happy?",
     "share this joy, pass it.",
-    "wisdom: happiness is a choice."
+    "wisdom: happiness is a choice.",
+    "this one sound sparks joy.",
+    "your pronunciation breakthrough awaits.",
+    "feel the spanish rhythm flow.",
+    "tiny habit, massive progress.",
+    "hear this, understand more."
   ]
 }
