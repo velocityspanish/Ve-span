@@ -9305,9 +9305,39 @@
       "spanish": "Escucha esto, entiende más.",
       "category": "Strength",
       "generated_at": "2026-06-19T18:28:33.327114"
+    },
+    {
+      "english": "What if fluency isn't hard?",
+      "spanish": "¿Y si la fluidez no es difícil?",
+      "category": "Growth",
+      "generated_at": "2026-06-19T20:23:38.072742"
+    },
+    {
+      "english": "Don't miss this easy sound.",
+      "spanish": "No te pierdas este sonido fácil.",
+      "category": "Growth",
+      "generated_at": "2026-06-19T20:23:38.072767"
+    },
+    {
+      "english": "The secret? Authentic connection.",
+      "spanish": "El secreto? Conexión auténtica.",
+      "category": "Growth",
+      "generated_at": "2026-06-19T20:23:38.072782"
+    },
+    {
+      "english": "Here's the magic of 'por'.",
+      "spanish": "Aquí está la magia de 'por'.",
+      "category": "Growth",
+      "generated_at": "2026-06-19T20:23:38.072796"
+    },
+    {
+      "english": "Your courage opens doors.",
+      "spanish": "Tu coraje abre puertas.",
+      "category": "Growth",
+      "generated_at": "2026-06-19T20:23:38.072811"
     }
   ],
-  "last_updated": "2026-06-19T18:28:33.327116",
+  "last_updated": "2026-06-19T20:23:38.072812",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10859,6 +10889,11 @@
     "your pronunciation breakthrough awaits.",
     "feel the spanish rhythm flow.",
     "tiny habit, massive progress.",
-    "hear this, understand more."
+    "hear this, understand more.",
+    "what if fluency isn't hard?",
+    "don't miss this easy sound.",
+    "the secret? authentic connection.",
+    "here's the magic of 'por'.",
+    "your courage opens doors."
   ]
 }
