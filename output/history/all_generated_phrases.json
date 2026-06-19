@@ -9335,9 +9335,39 @@
       "spanish": "Tu coraje abre puertas.",
       "category": "Growth",
       "generated_at": "2026-06-19T20:23:38.072811"
+    },
+    {
+      "english": "Small word, massive connection.",
+      "spanish": "Palabra pequeña, conexión masiva.",
+      "category": "Success",
+      "generated_at": "2026-06-19T22:10:36.095565"
+    },
+    {
+      "english": "Stop fearing mistakes, embrace them.",
+      "spanish": "Deja de temer errores, abrázalos.",
+      "category": "Success",
+      "generated_at": "2026-06-19T22:10:36.095588"
+    },
+    {
+      "english": "Wisdom: Speak your truth aloud.",
+      "spanish": "Sabiduría: Di tu verdad en voz alta.",
+      "category": "Success",
+      "generated_at": "2026-06-19T22:10:36.095604"
+    },
+    {
+      "english": "This phrase is pure kindness.",
+      "spanish": "Esta frase es pura amabilidad.",
+      "category": "Success",
+      "generated_at": "2026-06-19T22:10:36.095619"
+    },
+    {
+      "english": "Imagine your fluent conversation now.",
+      "spanish": "Imagina tu conversación fluida ahora.",
+      "category": "Success",
+      "generated_at": "2026-06-19T22:10:36.095633"
     }
   ],
-  "last_updated": "2026-06-19T20:23:38.072812",
+  "last_updated": "2026-06-19T22:10:36.095635",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10894,6 +10924,11 @@
     "don't miss this easy sound.",
     "the secret? authentic connection.",
     "here's the magic of 'por'.",
-    "your courage opens doors."
+    "your courage opens doors.",
+    "small word, massive connection.",
+    "stop fearing mistakes, embrace them.",
+    "wisdom: speak your truth aloud.",
+    "this phrase is pure kindness.",
+    "imagine your fluent conversation now."
   ]
 }
