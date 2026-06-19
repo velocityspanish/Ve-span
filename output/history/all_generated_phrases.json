@@ -9215,9 +9215,39 @@
       "spanish": "Desbloquea el entendimiento, así.",
       "category": "Inspiration",
       "generated_at": "2026-06-18T22:59:35.820302"
+    },
+    {
+      "english": "Your voice matters. Speak up.",
+      "spanish": "Tu voz importa. Habla.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T16:07:13.023207"
+    },
+    {
+      "english": "Fear whispers. Courage roars louder.",
+      "spanish": "El miedo susurra. El coraje ruge.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T16:07:13.023231"
+    },
+    {
+      "english": "One brave word, opens worlds.",
+      "spanish": "Una palabra valiente, abre mundos.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T16:07:13.023248"
+    },
+    {
+      "english": "Embrace the wobble, my friend.",
+      "spanish": "Abraza el tambaleo, amigo.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T16:07:13.023263"
+    },
+    {
+      "english": "Tiny sparks, create a fire.",
+      "spanish": "Pequeñas chispas, crean fuego.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T16:07:13.023279"
     }
   ],
-  "last_updated": "2026-06-18T22:59:35.820304",
+  "last_updated": "2026-06-19T16:07:13.023281",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10754,6 +10784,11 @@
     "this rhythm makes fluency flow.",
     "tiny phrases, massive impact.",
     "don't just dream, converse.",
-    "unlock understanding, this way."
+    "unlock understanding, this way.",
+    "your voice matters. speak up.",
+    "fear whispers. courage roars louder.",
+    "one brave word, opens worlds.",
+    "embrace the wobble, my friend.",
+    "tiny sparks, create a fire."
   ]
 }
