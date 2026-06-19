@@ -9245,9 +9245,39 @@
       "spanish": "Pequeñas chispas, crean fuego.",
       "category": "Courage",
       "generated_at": "2026-06-19T16:07:13.023279"
+    },
+    {
+      "english": "Your smile, a universal language.",
+      "spanish": "Tu sonrisa, universal.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T17:20:24.009349"
+    },
+    {
+      "english": "This feeling? Pure joy unlocked.",
+      "spanish": "Esta alegría: desbloqueada.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T17:20:24.009374"
+    },
+    {
+      "english": "What makes people truly happy?",
+      "spanish": "¿Felicidad genuina?",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T17:20:24.009391"
+    },
+    {
+      "english": "Share this joy, pass it.",
+      "spanish": "Comparte la alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T17:20:24.009405"
+    },
+    {
+      "english": "Wisdom: Happiness is a choice.",
+      "spanish": "Sabiduría: Elige ser feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T17:20:24.009421"
     }
   ],
-  "last_updated": "2026-06-19T16:07:13.023281",
+  "last_updated": "2026-06-19T17:20:24.009423",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10789,6 +10819,11 @@
     "fear whispers. courage roars louder.",
     "one brave word, opens worlds.",
     "embrace the wobble, my friend.",
-    "tiny sparks, create a fire."
+    "tiny sparks, create a fire.",
+    "your smile, a universal language.",
+    "this feeling? pure joy unlocked.",
+    "what makes people truly happy?",
+    "share this joy, pass it.",
+    "wisdom: happiness is a choice."
   ]
 }
