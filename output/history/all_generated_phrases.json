@@ -9365,9 +9365,39 @@
       "spanish": "Imagina tu conversación fluida ahora.",
       "category": "Success",
       "generated_at": "2026-06-19T22:10:36.095633"
+    },
+    {
+      "english": "Your patience, a superpower.",
+      "spanish": "Tu paciencia, un superpoder.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T15:04:33.116340"
+    },
+    {
+      "english": "Stop guessing, start knowing.",
+      "spanish": "Deja de adivinar, empieza a saber.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T15:04:33.116363"
+    },
+    {
+      "english": "Feel the language flow.",
+      "spanish": "Siente el idioma fluir.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T15:04:33.116377"
+    },
+    {
+      "english": "Your next word, perfect.",
+      "spanish": "Tu próxima palabra, perfecta.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T15:04:33.116392"
+    },
+    {
+      "english": "This context is key.",
+      "spanish": "Este contexto es clave.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T15:04:33.116405"
     }
   ],
-  "last_updated": "2026-06-19T22:10:36.095635",
+  "last_updated": "2026-06-20T15:04:33.116407",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10929,6 +10959,11 @@
     "stop fearing mistakes, embrace them.",
     "wisdom: speak your truth aloud.",
     "this phrase is pure kindness.",
-    "imagine your fluent conversation now."
+    "imagine your fluent conversation now.",
+    "your patience, a superpower.",
+    "stop guessing, start knowing.",
+    "feel the language flow.",
+    "your next word, perfect.",
+    "this context is key."
   ]
 }
