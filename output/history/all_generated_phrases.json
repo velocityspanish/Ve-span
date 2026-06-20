@@ -9485,9 +9485,39 @@
       "spanish": "Desbloquea conexión, palabra a palabra.",
       "category": "Balance",
       "generated_at": "2026-06-20T20:11:53.706981"
+    },
+    {
+      "english": "This simple sound, unlock.",
+      "spanish": "Este sonido simple, desbloquea.",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T22:16:07.570632"
+    },
+    {
+      "english": "Are you practicing today?",
+      "spanish": "¿Estás practicando hoy?",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T22:16:07.570658"
+    },
+    {
+      "english": "Your patience pays off.",
+      "spanish": "Tu paciencia vale la pena.",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T22:16:07.570673"
+    },
+    {
+      "english": "This phrase calms nerves.",
+      "spanish": "Esta frase calma nervios.",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T22:16:07.570688"
+    },
+    {
+      "english": "Small efforts, big connections.",
+      "spanish": "Pequeños esfuerzos, grandes conexiones.",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T22:16:07.570705"
     }
   ],
-  "last_updated": "2026-06-20T20:11:53.706983",
+  "last_updated": "2026-06-20T22:16:07.570707",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11069,6 +11099,11 @@
     "wisdom: slow breaths, fast fluency.",
     "your doubt fades, learn this.",
     "what if learning's playful?",
-    "unlock connection, word by word."
+    "unlock connection, word by word.",
+    "this simple sound, unlock.",
+    "are you practicing today?",
+    "your patience pays off.",
+    "this phrase calms nerves.",
+    "small efforts, big connections."
   ]
 }
