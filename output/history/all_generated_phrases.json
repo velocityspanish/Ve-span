@@ -9395,9 +9395,39 @@
       "spanish": "Este contexto es clave.",
       "category": "Self Improvement",
       "generated_at": "2026-06-20T15:04:33.116405"
+    },
+    {
+      "english": "Your persistence, unbreakable.",
+      "spanish": "Tu persistencia, inquebrantable.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T16:20:15.613248"
+    },
+    {
+      "english": "This sounds makes you smile?",
+      "spanish": "¿Este sonido te alegra?",
+      "category": "Strength",
+      "generated_at": "2026-06-20T16:20:15.613272"
+    },
+    {
+      "english": "Feel the spanish words connect.",
+      "spanish": "Siente las palabras españolas conectar.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T16:20:15.613287"
+    },
+    {
+      "english": "Your voice echoes louder.",
+      "spanish": "Tu voz resuena más fuerte.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T16:20:15.613301"
+    },
+    {
+      "english": "Embrace the unknown, joyfully.",
+      "spanish": "Abraza lo desconocido, gozosamente.",
+      "category": "Strength",
+      "generated_at": "2026-06-20T16:20:15.613316"
     }
   ],
-  "last_updated": "2026-06-20T15:04:33.116407",
+  "last_updated": "2026-06-20T16:20:15.613318",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10964,6 +10994,11 @@
     "stop guessing, start knowing.",
     "feel the language flow.",
     "your next word, perfect.",
-    "this context is key."
+    "this context is key.",
+    "your persistence, unbreakable.",
+    "this sounds makes you smile?",
+    "feel the spanish words connect.",
+    "your voice echoes louder.",
+    "embrace the unknown, joyfully."
   ]
 }
