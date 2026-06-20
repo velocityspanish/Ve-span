@@ -9455,9 +9455,39 @@
       "spanish": "Un truco de acento cambia todo.",
       "category": "Self Improvement",
       "generated_at": "2026-06-20T18:05:46.891444"
+    },
+    {
+      "english": "This tiny phrase, pure power.",
+      "spanish": "Esta frase diminuta, poder puro.",
+      "category": "Balance",
+      "generated_at": "2026-06-20T20:11:53.706908"
+    },
+    {
+      "english": "Wisdom: Slow breaths, fast fluency.",
+      "spanish": "Sabiduría: Respiraciones lentas, fluidez rápida.",
+      "category": "Balance",
+      "generated_at": "2026-06-20T20:11:53.706934"
+    },
+    {
+      "english": "Your doubt fades, learn this.",
+      "spanish": "Tu duda se desvanece, aprende esto.",
+      "category": "Balance",
+      "generated_at": "2026-06-20T20:11:53.706950"
+    },
+    {
+      "english": "What if learning's playful?",
+      "spanish": "¿Y si aprender es divertido?",
+      "category": "Balance",
+      "generated_at": "2026-06-20T20:11:53.706966"
+    },
+    {
+      "english": "Unlock connection, word by word.",
+      "spanish": "Desbloquea conexión, palabra a palabra.",
+      "category": "Balance",
+      "generated_at": "2026-06-20T20:11:53.706981"
     }
   ],
-  "last_updated": "2026-06-20T18:05:46.891446",
+  "last_updated": "2026-06-20T20:11:53.706983",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11034,6 +11064,11 @@
     "why 'lo siento' matters.",
     "feel the sound, grow.",
     "your confidence, build it.",
-    "one accent tip changes everything."
+    "one accent tip changes everything.",
+    "this tiny phrase, pure power.",
+    "wisdom: slow breaths, fast fluency.",
+    "your doubt fades, learn this.",
+    "what if learning's playful?",
+    "unlock connection, word by word."
   ]
 }
