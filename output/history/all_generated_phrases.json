@@ -9425,9 +9425,39 @@
       "spanish": "Abraza lo desconocido, gozosamente.",
       "category": "Strength",
       "generated_at": "2026-06-20T16:20:15.613316"
+    },
+    {
+      "english": "Your patience wins, trust it.",
+      "spanish": "Tu paciencia gana, confía.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T18:05:46.891380"
+    },
+    {
+      "english": "Why 'lo siento' matters.",
+      "spanish": "¿Por qué 'lo siento' importa?",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T18:05:46.891401"
+    },
+    {
+      "english": "Feel the sound, grow.",
+      "spanish": "Siente el sonido, crece.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T18:05:46.891415"
+    },
+    {
+      "english": "Your confidence, build it.",
+      "spanish": "Tu confianza, constrúyela.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T18:05:46.891430"
+    },
+    {
+      "english": "One accent tip changes everything.",
+      "spanish": "Un truco de acento cambia todo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-20T18:05:46.891444"
     }
   ],
-  "last_updated": "2026-06-20T16:20:15.613318",
+  "last_updated": "2026-06-20T18:05:46.891446",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -10999,6 +11029,11 @@
     "this sounds makes you smile?",
     "feel the spanish words connect.",
     "your voice echoes louder.",
-    "embrace the unknown, joyfully."
+    "embrace the unknown, joyfully.",
+    "your patience wins, trust it.",
+    "why 'lo siento' matters.",
+    "feel the sound, grow.",
+    "your confidence, build it.",
+    "one accent tip changes everything."
   ]
 }
