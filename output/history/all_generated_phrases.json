@@ -9635,9 +9635,39 @@
       "spanish": "Urgencia: Di esta frase, conecta ahora.",
       "category": "Patience",
       "generated_at": "2026-06-21T20:20:39.770630"
+    },
+    {
+      "english": "That one word, magic",
+      "spanish": "Esa palabra, magia",
+      "category": "Balance",
+      "generated_at": "2026-06-21T22:19:22.420868"
+    },
+    {
+      "english": "Your feeling? Almost fluent",
+      "spanish": "Tu sentimiento? Casi fluido",
+      "category": "Balance",
+      "generated_at": "2026-06-21T22:19:22.420895"
+    },
+    {
+      "english": "One word unlocks entire sentences",
+      "spanish": "Una palabra desbloquea frases enteras",
+      "category": "Balance",
+      "generated_at": "2026-06-21T22:19:22.420911"
+    },
+    {
+      "english": "Why this phrase feels right?",
+      "spanish": "¿Por qué esta frase se siente bien?",
+      "category": "Balance",
+      "generated_at": "2026-06-21T22:19:22.420928"
+    },
+    {
+      "english": "Small pause, big understanding",
+      "spanish": "Pequeña pausa, gran entendimiento",
+      "category": "Balance",
+      "generated_at": "2026-06-21T22:19:22.420944"
     }
   ],
-  "last_updated": "2026-06-21T20:20:39.770632",
+  "last_updated": "2026-06-21T22:19:22.420946",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11244,6 +11274,11 @@
     "wisdom: language blooms slowly, beautifully.",
     "fact: 'hablar' is pure conversation.",
     "relatable: that 'aha!' moment awaits.",
-    "urgency: speak this phrase, connect now."
+    "urgency: speak this phrase, connect now.",
+    "that one word, magic",
+    "your feeling? almost fluent",
+    "one word unlocks entire sentences",
+    "why this phrase feels right?",
+    "small pause, big understanding"
   ]
 }
