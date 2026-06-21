@@ -9605,9 +9605,39 @@
       "spanish": "El paso más pequeño cuenta.",
       "category": "Perseverance",
       "generated_at": "2026-06-21T18:15:26.301251"
+    },
+    {
+      "english": "Curiosity: What makes spanish easier?",
+      "spanish": "Curiosidad: ¿Qué facilita el español?",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:39.770564"
+    },
+    {
+      "english": "Wisdom: Language blooms slowly, beautifully.",
+      "spanish": "Sabiduría: El idioma florece lento, bello.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:39.770589"
+    },
+    {
+      "english": "Fact: 'Hablar' is pure conversation.",
+      "spanish": "Dato: 'Hablar' es pura conversación.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:39.770603"
+    },
+    {
+      "english": "Relatable: That 'aha!' moment awaits.",
+      "spanish": "Identificable: Ese momento 'ajá' espera.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:39.770617"
+    },
+    {
+      "english": "Urgency: Speak this phrase, connect now.",
+      "spanish": "Urgencia: Di esta frase, conecta ahora.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:39.770630"
     }
   ],
-  "last_updated": "2026-06-21T18:15:26.301253",
+  "last_updated": "2026-06-21T20:20:39.770632",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11209,6 +11239,11 @@
     "one brave question, fluency.",
     "embrace the accent, beautiful.",
     "your voice deserves to be heard.",
-    "the smallest step forward counts."
+    "the smallest step forward counts.",
+    "curiosity: what makes spanish easier?",
+    "wisdom: language blooms slowly, beautifully.",
+    "fact: 'hablar' is pure conversation.",
+    "relatable: that 'aha!' moment awaits.",
+    "urgency: speak this phrase, connect now."
   ]
 }
