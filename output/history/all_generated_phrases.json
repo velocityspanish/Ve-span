@@ -9545,9 +9545,39 @@
       "spanish": "Oye este susurro, conecta.",
       "category": "Wisdom",
       "generated_at": "2026-06-21T15:12:34.438825"
+    },
+    {
+      "english": "Did you hear that? Beautiful forgiveness.",
+      "spanish": "¿Oíste eso? Hermoso perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:46:42.694106"
+    },
+    {
+      "english": "This phrase mends bridges.",
+      "spanish": "Esta frase repara puentes.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:46:42.694143"
+    },
+    {
+      "english": "Wisdom: Forgive to thrive.",
+      "spanish": "Sabiduría: Perdona para prosperar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:46:42.694159"
+    },
+    {
+      "english": "Start healing, right now.",
+      "spanish": "Empieza a sanar, ahora mismo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:46:42.694174"
+    },
+    {
+      "english": "One word: Peace, inner peace.",
+      "spanish": "Una palabra: Paz, paz interior.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:46:42.694190"
     }
   ],
-  "last_updated": "2026-06-21T15:12:34.438827",
+  "last_updated": "2026-06-21T16:46:42.694192",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11139,6 +11169,11 @@
     "why pause? embrace the accent.",
     "one more 'hola', brave soul.",
     "your frustration? just a detour.",
-    "hear this whisper, connect deeply."
+    "hear this whisper, connect deeply.",
+    "did you hear that? beautiful forgiveness.",
+    "this phrase mends bridges.",
+    "wisdom: forgive to thrive.",
+    "start healing, right now.",
+    "one word: peace, inner peace."
   ]
 }
