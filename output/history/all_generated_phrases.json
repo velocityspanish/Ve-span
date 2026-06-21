@@ -9515,9 +9515,39 @@
       "spanish": "Pequeños esfuerzos, grandes conexiones.",
       "category": "Confidence",
       "generated_at": "2026-06-20T22:16:07.570705"
+    },
+    {
+      "english": "This tiny sound, unlocks words.",
+      "spanish": "Este sonido, desbloquea palabras.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-21T15:12:34.438756"
+    },
+    {
+      "english": "Why pause? Embrace the accent.",
+      "spanish": "¿Por qué pausar? Abraza el acento.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-21T15:12:34.438783"
+    },
+    {
+      "english": "One more 'hola', brave soul.",
+      "spanish": "Un 'hola' más, alma valiente.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-21T15:12:34.438798"
+    },
+    {
+      "english": "Your frustration? Just a detour.",
+      "spanish": "¿Tu frustración? Solo un desvío.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-21T15:12:34.438812"
+    },
+    {
+      "english": "Hear this whisper, connect deeply.",
+      "spanish": "Oye este susurro, conecta.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-21T15:12:34.438825"
     }
   ],
-  "last_updated": "2026-06-20T22:16:07.570707",
+  "last_updated": "2026-06-21T15:12:34.438827",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11104,6 +11134,11 @@
     "are you practicing today?",
     "your patience pays off.",
     "this phrase calms nerves.",
-    "small efforts, big connections."
+    "small efforts, big connections.",
+    "this tiny sound, unlocks words.",
+    "why pause? embrace the accent.",
+    "one more 'hola', brave soul.",
+    "your frustration? just a detour.",
+    "hear this whisper, connect deeply."
   ]
 }
