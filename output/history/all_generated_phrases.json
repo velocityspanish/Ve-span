@@ -9575,9 +9575,39 @@
       "spanish": "Una palabra: Paz, paz interior.",
       "category": "Forgiveness",
       "generated_at": "2026-06-21T16:46:42.694190"
+    },
+    {
+      "english": "Your practice moment, vital.",
+      "spanish": "Tu momento de práctica, vital.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-21T18:15:26.301166"
+    },
+    {
+      "english": "One brave question, fluency.",
+      "spanish": "Una pregunta valiente, fluidez.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-21T18:15:26.301192"
+    },
+    {
+      "english": "Embrace the accent, beautiful.",
+      "spanish": "Abraza el acento, hermoso.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-21T18:15:26.301209"
+    },
+    {
+      "english": "Your voice deserves to be heard.",
+      "spanish": "Tu voz merece ser escuchada.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-21T18:15:26.301224"
+    },
+    {
+      "english": "The smallest step forward counts.",
+      "spanish": "El paso más pequeño cuenta.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-21T18:15:26.301251"
     }
   ],
-  "last_updated": "2026-06-21T16:46:42.694192",
+  "last_updated": "2026-06-21T18:15:26.301253",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11174,6 +11204,11 @@
     "this phrase mends bridges.",
     "wisdom: forgive to thrive.",
     "start healing, right now.",
-    "one word: peace, inner peace."
+    "one word: peace, inner peace.",
+    "your practice moment, vital.",
+    "one brave question, fluency.",
+    "embrace the accent, beautiful.",
+    "your voice deserves to be heard.",
+    "the smallest step forward counts."
   ]
 }
