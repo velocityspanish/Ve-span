@@ -9725,9 +9725,39 @@
       "spanish": "Sabiduría: Florece a tu ritmo.",
       "category": "Patience",
       "generated_at": "2026-06-22T18:47:27.488668"
+    },
+    {
+      "english": "Your courage is showing, amigo.",
+      "spanish": "Tu valentía se nota, amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T19:59:43.272643"
+    },
+    {
+      "english": "Fact: You speak more than you think.",
+      "spanish": "Hecho: Hablas más de lo que crees.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T19:59:43.272666"
+    },
+    {
+      "english": "One simple phrase, pure impact.",
+      "spanish": "Una frase simple, impacto puro.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T19:59:43.272682"
+    },
+    {
+      "english": "Imagine, you're speaking Spanish!",
+      "spanish": "¡Imagina, estás hablando español!",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T19:59:43.272706"
+    },
+    {
+      "english": "Feel this kindness in words.",
+      "spanish": "Siente esta amabilidad en palabras.",
+      "category": "Friendship",
+      "generated_at": "2026-06-22T19:59:43.272723"
     }
   ],
-  "last_updated": "2026-06-22T18:47:27.488670",
+  "last_updated": "2026-06-22T19:59:43.272725",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11349,6 +11379,11 @@
     "your calm voice, heard.",
     "curious? what unlocks speed?",
     "your spirit, unwritten.",
-    "wisdom: bloom at your pace."
+    "wisdom: bloom at your pace.",
+    "your courage is showing, amigo.",
+    "fact: you speak more than you think.",
+    "one simple phrase, pure impact.",
+    "imagine, you're speaking spanish!",
+    "feel this kindness in words."
   ]
 }
