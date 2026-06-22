@@ -9755,9 +9755,39 @@
       "spanish": "Siente esta amabilidad en palabras.",
       "category": "Friendship",
       "generated_at": "2026-06-22T19:59:43.272723"
+    },
+    {
+      "english": "Forgive quickly, live fully.",
+      "spanish": "Perdona rápido, vive pleno.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-22T21:27:38.499460"
+    },
+    {
+      "english": "This one word, peace found.",
+      "spanish": "Esta palabra, paz hallada.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-22T21:27:38.499488"
+    },
+    {
+      "english": "Why hold grudges? Let go.",
+      "spanish": "¿Por qué guardar rencor? Suelta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-22T21:27:38.499503"
+    },
+    {
+      "english": "Healing starts with forgiveness.",
+      "spanish": "La sanación empieza perdonando.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-22T21:27:38.499519"
+    },
+    {
+      "english": "Your freedom, a forgiving heart.",
+      "spanish": "Tu libertad, un corazón que perdona.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-22T21:27:38.499534"
     }
   ],
-  "last_updated": "2026-06-22T19:59:43.272725",
+  "last_updated": "2026-06-22T21:27:38.499536",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11384,6 +11414,11 @@
     "fact: you speak more than you think.",
     "one simple phrase, pure impact.",
     "imagine, you're speaking spanish!",
-    "feel this kindness in words."
+    "feel this kindness in words.",
+    "forgive quickly, live fully.",
+    "this one word, peace found.",
+    "why hold grudges? let go.",
+    "healing starts with forgiveness.",
+    "your freedom, a forgiving heart."
   ]
 }
