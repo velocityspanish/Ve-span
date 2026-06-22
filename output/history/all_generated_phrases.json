@@ -9695,9 +9695,39 @@
       "spanish": "Esta confianza tranquila crece.",
       "category": "Inner Peace",
       "generated_at": "2026-06-22T17:41:06.888308"
+    },
+    {
+      "english": "This tiny habit pays off.",
+      "spanish": "Este pequeño hábito vale.",
+      "category": "Patience",
+      "generated_at": "2026-06-22T18:47:27.488594"
+    },
+    {
+      "english": "Your calm voice, heard.",
+      "spanish": "Tu voz calmada, escuchada.",
+      "category": "Patience",
+      "generated_at": "2026-06-22T18:47:27.488621"
+    },
+    {
+      "english": "Curious? What unlocks speed?",
+      "spanish": "¿Curioso? ¿Qué acelera?",
+      "category": "Patience",
+      "generated_at": "2026-06-22T18:47:27.488638"
+    },
+    {
+      "english": "Your spirit, unwritten.",
+      "spanish": "Tu espíritu, inédito.",
+      "category": "Patience",
+      "generated_at": "2026-06-22T18:47:27.488652"
+    },
+    {
+      "english": "Wisdom: Bloom at your pace.",
+      "spanish": "Sabiduría: Florece a tu ritmo.",
+      "category": "Patience",
+      "generated_at": "2026-06-22T18:47:27.488668"
     }
   ],
-  "last_updated": "2026-06-22T17:41:06.888311",
+  "last_updated": "2026-06-22T18:47:27.488670",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11314,6 +11344,11 @@
     "this one word calms fear.",
     "feel this calm connect.",
     "breathe deep, speak truth.",
-    "this quiet confidence grows."
+    "this quiet confidence grows.",
+    "this tiny habit pays off.",
+    "your calm voice, heard.",
+    "curious? what unlocks speed?",
+    "your spirit, unwritten.",
+    "wisdom: bloom at your pace."
   ]
 }
