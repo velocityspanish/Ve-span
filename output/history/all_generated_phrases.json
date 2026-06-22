@@ -9785,9 +9785,39 @@
       "spanish": "Tu libertad, un corazón que perdona.",
       "category": "Forgiveness",
       "generated_at": "2026-06-22T21:27:38.499534"
+    },
+    {
+      "english": "Your words matter, speak.",
+      "spanish": "Tus palabras importan, habla.",
+      "category": "Kindness",
+      "generated_at": "2026-06-22T22:50:54.181152"
+    },
+    {
+      "english": "Your courage shows today.",
+      "spanish": "Tu coraje se muestra hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-06-22T22:50:54.181181"
+    },
+    {
+      "english": "One more 'hola', brave.",
+      "spanish": "Un 'hola' más, valiente.",
+      "category": "Kindness",
+      "generated_at": "2026-06-22T22:50:54.181197"
+    },
+    {
+      "english": "Trust the process, amigo.",
+      "spanish": "Confía en el proceso, amigo.",
+      "category": "Kindness",
+      "generated_at": "2026-06-22T22:50:54.181212"
+    },
+    {
+      "english": "Start where you are, now.",
+      "spanish": "Empieza donde estás, ahora.",
+      "category": "Kindness",
+      "generated_at": "2026-06-22T22:50:54.181227"
     }
   ],
-  "last_updated": "2026-06-22T21:27:38.499536",
+  "last_updated": "2026-06-22T22:50:54.181230",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11419,6 +11449,11 @@
     "this one word, peace found.",
     "why hold grudges? let go.",
     "healing starts with forgiveness.",
-    "your freedom, a forgiving heart."
+    "your freedom, a forgiving heart.",
+    "your words matter, speak.",
+    "your courage shows today.",
+    "one more 'hola', brave.",
+    "trust the process, amigo.",
+    "start where you are, now."
   ]
 }
