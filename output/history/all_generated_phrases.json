@@ -9665,9 +9665,39 @@
       "spanish": "Pequeña pausa, gran entendimiento",
       "category": "Balance",
       "generated_at": "2026-06-21T22:19:22.420944"
+    },
+    {
+      "english": "Your mind already knows.",
+      "spanish": "Tu mente ya sabe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T17:41:06.888234"
+    },
+    {
+      "english": "This one word calms fear.",
+      "spanish": "Esta palabra calma miedo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T17:41:06.888262"
+    },
+    {
+      "english": "Feel this calm connect.",
+      "spanish": "Siente esta calma conectar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T17:41:06.888277"
+    },
+    {
+      "english": "Breathe deep, speak truth.",
+      "spanish": "Respira hondo, habla verdad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T17:41:06.888292"
+    },
+    {
+      "english": "This quiet confidence grows.",
+      "spanish": "Esta confianza tranquila crece.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T17:41:06.888308"
     }
   ],
-  "last_updated": "2026-06-21T22:19:22.420946",
+  "last_updated": "2026-06-22T17:41:06.888311",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11279,6 +11309,11 @@
     "your feeling? almost fluent",
     "one word unlocks entire sentences",
     "why this phrase feels right?",
-    "small pause, big understanding"
+    "small pause, big understanding",
+    "your mind already knows.",
+    "this one word calms fear.",
+    "feel this calm connect.",
+    "breathe deep, speak truth.",
+    "this quiet confidence grows."
   ]
 }
