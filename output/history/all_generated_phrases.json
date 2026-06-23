@@ -9905,9 +9905,39 @@
       "spanish": "¿Estás listo para perdonar?",
       "category": "Forgiveness",
       "generated_at": "2026-06-23T19:04:30.587546"
+    },
+    {
+      "english": "Your peace begins now.",
+      "spanish": "Tu paz empieza ahora.",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T20:59:47.282709"
+    },
+    {
+      "english": "Whisper this, feel calm.",
+      "spanish": "Susurra esto, siente calma.",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T20:59:47.282730"
+    },
+    {
+      "english": "This kindness connects worlds.",
+      "spanish": "Esta amabilidad conecta mundos.",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T20:59:47.282740"
+    },
+    {
+      "english": "One gentle word, healing.",
+      "spanish": "Una palabra suave, sanando.",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T20:59:47.282750"
+    },
+    {
+      "english": "Can you spare a smile?",
+      "spanish": "¿Puedes regalar una sonrisa?",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T20:59:47.282760"
     }
   ],
-  "last_updated": "2026-06-23T19:04:30.587548",
+  "last_updated": "2026-06-23T20:59:47.282763",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11559,6 +11589,11 @@
     "your heart's true freedom.",
     "this tiny act heals.",
     "one word, pure peace.",
-    "are you ready to forgive?"
+    "are you ready to forgive?",
+    "your peace begins now.",
+    "whisper this, feel calm.",
+    "this kindness connects worlds.",
+    "one gentle word, healing.",
+    "can you spare a smile?"
   ]
 }
