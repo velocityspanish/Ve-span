@@ -9935,9 +9935,39 @@
       "spanish": "¿Puedes regalar una sonrisa?",
       "category": "Kindness",
       "generated_at": "2026-06-23T20:59:47.282760"
+    },
+    {
+      "english": "Your Spanish whispers back.",
+      "spanish": "Tu español te susurra.",
+      "category": "Love",
+      "generated_at": "2026-06-23T22:19:28.286338"
+    },
+    {
+      "english": "One word can heal.",
+      "spanish": "Una palabra puede sanar.",
+      "category": "Love",
+      "generated_at": "2026-06-23T22:19:28.286363"
+    },
+    {
+      "english": "Embrace the happy sound.",
+      "spanish": "Abraza el sonido feliz.",
+      "category": "Love",
+      "generated_at": "2026-06-23T22:19:28.286379"
+    },
+    {
+      "english": "This warmth connects us.",
+      "spanish": "Esta calidez nos une.",
+      "category": "Love",
+      "generated_at": "2026-06-23T22:19:28.286394"
+    },
+    {
+      "english": "Your comfort zone ends here.",
+      "spanish": "Tu zona cómoda acaba aquí.",
+      "category": "Love",
+      "generated_at": "2026-06-23T22:19:28.286411"
     }
   ],
-  "last_updated": "2026-06-23T20:59:47.282763",
+  "last_updated": "2026-06-23T22:19:28.286413",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11594,6 +11624,11 @@
     "whisper this, feel calm.",
     "this kindness connects worlds.",
     "one gentle word, healing.",
-    "can you spare a smile?"
+    "can you spare a smile?",
+    "your spanish whispers back.",
+    "one word can heal.",
+    "embrace the happy sound.",
+    "this warmth connects us.",
+    "your comfort zone ends here."
   ]
 }
