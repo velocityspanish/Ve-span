@@ -9845,9 +9845,39 @@
       "spanish": "Tu corazón merece amabilidad.",
       "category": "Forgiveness",
       "generated_at": "2026-06-23T15:51:07.085964"
+    },
+    {
+      "english": "Wisdom: Patience opens doors.",
+      "spanish": "Sabiduría: paciencia abre puertas.",
+      "category": "Hope",
+      "generated_at": "2026-06-23T17:18:46.565422"
+    },
+    {
+      "english": "Your courage, speaking now.",
+      "spanish": "Tu coraje, hablando ahora.",
+      "category": "Hope",
+      "generated_at": "2026-06-23T17:18:46.565446"
+    },
+    {
+      "english": "Tiny habit, big leap.",
+      "spanish": "Hábito pequeño, gran salto.",
+      "category": "Hope",
+      "generated_at": "2026-06-23T17:18:46.565461"
+    },
+    {
+      "english": "Your smile, a bridge.",
+      "spanish": "Tu sonrisa, un puente.",
+      "category": "Hope",
+      "generated_at": "2026-06-23T17:18:46.565475"
+    },
+    {
+      "english": "Small word, big feeling.",
+      "spanish": "Palabra pequeña, gran sentimiento.",
+      "category": "Hope",
+      "generated_at": "2026-06-23T17:18:46.565490"
     }
   ],
-  "last_updated": "2026-06-23T15:51:07.085966",
+  "last_updated": "2026-06-23T17:18:46.565491",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11489,6 +11519,11 @@
     "your freedom? forgiveness unlocked.",
     "mend bridges, start now.",
     "what if letting go helps?",
-    "your heart deserves kindness."
+    "your heart deserves kindness.",
+    "wisdom: patience opens doors.",
+    "your courage, speaking now.",
+    "tiny habit, big leap.",
+    "your smile, a bridge.",
+    "small word, big feeling."
   ]
 }
