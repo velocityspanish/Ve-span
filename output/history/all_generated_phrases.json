@@ -9875,9 +9875,39 @@
       "spanish": "Palabra pequeña, gran sentimiento.",
       "category": "Hope",
       "generated_at": "2026-06-23T17:18:46.565490"
+    },
+    {
+      "english": "Forgive fast, speak more.",
+      "spanish": "Perdona rápido, habla más.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T19:04:30.587471"
+    },
+    {
+      "english": "Your heart's true freedom.",
+      "spanish": "La verdadera libertad de tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T19:04:30.587500"
+    },
+    {
+      "english": "This tiny act heals.",
+      "spanish": "Este pequeño acto sana.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T19:04:30.587515"
+    },
+    {
+      "english": "One word, pure peace.",
+      "spanish": "Una palabra, paz pura.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T19:04:30.587530"
+    },
+    {
+      "english": "Are you ready to forgive?",
+      "spanish": "¿Estás listo para perdonar?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T19:04:30.587546"
     }
   ],
-  "last_updated": "2026-06-23T17:18:46.565491",
+  "last_updated": "2026-06-23T19:04:30.587548",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11524,6 +11554,11 @@
     "your courage, speaking now.",
     "tiny habit, big leap.",
     "your smile, a bridge.",
-    "small word, big feeling."
+    "small word, big feeling.",
+    "forgive fast, speak more.",
+    "your heart's true freedom.",
+    "this tiny act heals.",
+    "one word, pure peace.",
+    "are you ready to forgive?"
   ]
 }
