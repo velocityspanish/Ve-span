@@ -9815,9 +9815,39 @@
       "spanish": "Empieza donde estás, ahora.",
       "category": "Kindness",
       "generated_at": "2026-06-22T22:50:54.181227"
+    },
+    {
+      "english": "This one word heals everything.",
+      "spanish": "Esta palabra lo sana todo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T15:51:07.085893"
+    },
+    {
+      "english": "Your freedom? Forgiveness unlocked.",
+      "spanish": "¿Tu libertad? Perdón desbloqueado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T15:51:07.085918"
+    },
+    {
+      "english": "Mend bridges, start now.",
+      "spanish": "Cura puentes, empieza ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T15:51:07.085933"
+    },
+    {
+      "english": "What if letting go helps?",
+      "spanish": "¿Qué si soltar ayuda?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T15:51:07.085948"
+    },
+    {
+      "english": "Your heart deserves kindness.",
+      "spanish": "Tu corazón merece amabilidad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T15:51:07.085964"
     }
   ],
-  "last_updated": "2026-06-22T22:50:54.181230",
+  "last_updated": "2026-06-23T15:51:07.085966",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11454,6 +11484,11 @@
     "your courage shows today.",
     "one more 'hola', brave.",
     "trust the process, amigo.",
-    "start where you are, now."
+    "start where you are, now.",
+    "this one word heals everything.",
+    "your freedom? forgiveness unlocked.",
+    "mend bridges, start now.",
+    "what if letting go helps?",
+    "your heart deserves kindness."
   ]
 }
