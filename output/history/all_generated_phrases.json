@@ -9965,9 +9965,39 @@
       "spanish": "Tu zona cómoda acaba aquí.",
       "category": "Love",
       "generated_at": "2026-06-23T22:19:28.286411"
+    },
+    {
+      "english": "Your next word, a triumph.",
+      "spanish": "Tu próxima palabra, un triunfo.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T15:34:11.738247"
+    },
+    {
+      "english": "Don't give up, amigo.",
+      "spanish": "No te rindas, amigo.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T15:34:11.738269"
+    },
+    {
+      "english": "This mistake? Learning fuel.",
+      "spanish": "Este error? Combustible de aprendizaje.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T15:34:11.738283"
+    },
+    {
+      "english": "Keep going, you're so close.",
+      "spanish": "Sigue, estás muy cerca.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T15:34:11.738295"
+    },
+    {
+      "english": "Why silence holds power?",
+      "spanish": "¿Por qué el silencio tiene poder?",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T15:34:11.738307"
     }
   ],
-  "last_updated": "2026-06-23T22:19:28.286413",
+  "last_updated": "2026-06-24T15:34:11.738308",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11629,6 +11659,11 @@
     "one word can heal.",
     "embrace the happy sound.",
     "this warmth connects us.",
-    "your comfort zone ends here."
+    "your comfort zone ends here.",
+    "your next word, a triumph.",
+    "don't give up, amigo.",
+    "this mistake? learning fuel.",
+    "keep going, you're so close.",
+    "why silence holds power?"
   ]
 }
