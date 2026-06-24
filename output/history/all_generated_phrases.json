@@ -10055,9 +10055,39 @@
       "spanish": "Esta frasecita, impacto.",
       "category": "Creativity",
       "generated_at": "2026-06-24T18:28:35.263011"
+    },
+    {
+      "english": "Your people are waiting.",
+      "spanish": "Tu gente te espera.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T20:27:50.802084"
+    },
+    {
+      "english": "One shared smile?",
+      "spanish": "¿Una sonrisa compartida?",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T20:27:50.802105"
+    },
+    {
+      "english": "Fact: kindness is universal.",
+      "spanish": "Hecho: la amabilidad es universal.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T20:27:50.802123"
+    },
+    {
+      "english": "You already know this.",
+      "spanish": "Tú ya sabes esto.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T20:27:50.802137"
+    },
+    {
+      "english": "Surprise! It's easy.",
+      "spanish": "¡Sorpresa! Es fácil.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T20:27:50.802152"
     }
   ],
-  "last_updated": "2026-06-24T18:28:35.263013",
+  "last_updated": "2026-06-24T20:27:50.802153",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11734,6 +11764,11 @@
     "fact: you learn faster.",
     "listen, then speak freely.",
     "your dream sounds real.",
-    "this tiny phrase, impact."
+    "this tiny phrase, impact.",
+    "your people are waiting.",
+    "one shared smile?",
+    "fact: kindness is universal.",
+    "you already know this.",
+    "surprise! it's easy."
   ]
 }
