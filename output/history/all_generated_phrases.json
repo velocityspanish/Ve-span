@@ -10085,9 +10085,39 @@
       "spanish": "¡Sorpresa! Es fácil.",
       "category": "Friendship",
       "generated_at": "2026-06-24T20:27:50.802152"
+    },
+    {
+      "english": "This sounds change lives.",
+      "spanish": "Estos sonidos cambian vidas.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-24T22:23:25.086715"
+    },
+    {
+      "english": "Tiny habits, huge connections.",
+      "spanish": "Pequeños hábitos, grandes conexiones.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-24T22:23:25.086737"
+    },
+    {
+      "english": "You belong, keep speaking.",
+      "spanish": "Perteneces, sigue hablando.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-24T22:23:25.086753"
+    },
+    {
+      "english": "Trust your inner voice.",
+      "spanish": "Confía en tu voz interior.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-24T22:23:25.086767"
+    },
+    {
+      "english": "Here's what sparks progress.",
+      "spanish": "Aquí lo que impulsa el progreso.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-24T22:23:25.086783"
     }
   ],
-  "last_updated": "2026-06-24T20:27:50.802153",
+  "last_updated": "2026-06-24T22:23:25.086785",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11769,6 +11799,11 @@
     "one shared smile?",
     "fact: kindness is universal.",
     "you already know this.",
-    "surprise! it's easy."
+    "surprise! it's easy.",
+    "this sounds change lives.",
+    "tiny habits, huge connections.",
+    "you belong, keep speaking.",
+    "trust your inner voice.",
+    "here's what sparks progress."
   ]
 }
