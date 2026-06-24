@@ -10025,9 +10025,39 @@
       "spanish": "Hecho: Estás aprendiendo ahora.",
       "category": "Perseverance",
       "generated_at": "2026-06-24T17:06:44.253505"
+    },
+    {
+      "english": "Your bravery shines through.",
+      "spanish": "Tu valentía brilla.",
+      "category": "Creativity",
+      "generated_at": "2026-06-24T18:28:35.262943"
+    },
+    {
+      "english": "Fact: You learn faster.",
+      "spanish": "Dato: Aprendes más rápido.",
+      "category": "Creativity",
+      "generated_at": "2026-06-24T18:28:35.262964"
+    },
+    {
+      "english": "Listen, then speak freely.",
+      "spanish": "Escucha, luego habla libre.",
+      "category": "Creativity",
+      "generated_at": "2026-06-24T18:28:35.262980"
+    },
+    {
+      "english": "Your dream sounds real.",
+      "spanish": "Tu sueño suena real.",
+      "category": "Creativity",
+      "generated_at": "2026-06-24T18:28:35.262995"
+    },
+    {
+      "english": "This tiny phrase, impact.",
+      "spanish": "Esta frasecita, impacto.",
+      "category": "Creativity",
+      "generated_at": "2026-06-24T18:28:35.263011"
     }
   ],
-  "last_updated": "2026-06-24T17:06:44.253507",
+  "last_updated": "2026-06-24T18:28:35.263013",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11699,6 +11729,11 @@
     "keep going, it clicks soon.",
     "your tiny wins matter.",
     "did you feel that connection?",
-    "fact: you are learning now."
+    "fact: you are learning now.",
+    "your bravery shines through.",
+    "fact: you learn faster.",
+    "listen, then speak freely.",
+    "your dream sounds real.",
+    "this tiny phrase, impact."
   ]
 }
