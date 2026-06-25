@@ -10115,9 +10115,39 @@
       "spanish": "Aquí lo que impulsa el progreso.",
       "category": "Inspiration",
       "generated_at": "2026-06-24T22:23:25.086783"
+    },
+    {
+      "english": "Your voice, finally free.",
+      "spanish": "Tu voz, finalmente libre.",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T15:41:10.850326"
+    },
+    {
+      "english": "Don't fear the accent, embrace.",
+      "spanish": "No temas el acento, abraza.",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T15:41:10.850349"
+    },
+    {
+      "english": "The sound everyone misses?",
+      "spanish": "¿El sonido que todos extrañan?",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T15:41:10.850365"
+    },
+    {
+      "english": "This trick makes words stick.",
+      "spanish": "Este truco hace que las palabras se peguen.",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T15:41:10.850381"
+    },
+    {
+      "english": "Connect deeply, one word.",
+      "spanish": "Conecta profundamente, una palabra.",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T15:41:10.850396"
     }
   ],
-  "last_updated": "2026-06-24T22:23:25.086785",
+  "last_updated": "2026-06-25T15:41:10.850398",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11804,6 +11834,11 @@
     "tiny habits, huge connections.",
     "you belong, keep speaking.",
     "trust your inner voice.",
-    "here's what sparks progress."
+    "here's what sparks progress.",
+    "your voice, finally free.",
+    "don't fear the accent, embrace.",
+    "the sound everyone misses?",
+    "this trick makes words stick.",
+    "connect deeply, one word."
   ]
 }
