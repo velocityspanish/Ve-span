@@ -10145,9 +10145,39 @@
       "spanish": "Conecta profundamente, una palabra.",
       "category": "Purpose",
       "generated_at": "2026-06-25T15:41:10.850396"
+    },
+    {
+      "english": "This one word heals.",
+      "spanish": "Esta palabra cura.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T17:12:55.681770"
+    },
+    {
+      "english": "Why holding back, amigo?",
+      "spanish": "¿Por qué te detienes, amigo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T17:12:55.681796"
+    },
+    {
+      "english": "Fact: You are enough.",
+      "spanish": "Hecho: Eres suficiente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T17:12:55.681811"
+    },
+    {
+      "english": "Your voice deserves freedom.",
+      "spanish": "Tu voz merece libertad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T17:12:55.681828"
+    },
+    {
+      "english": "Listen to your calm.",
+      "spanish": "Escucha tu calma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T17:12:55.681842"
     }
   ],
-  "last_updated": "2026-06-25T15:41:10.850398",
+  "last_updated": "2026-06-25T17:12:55.681844",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11839,6 +11869,11 @@
     "don't fear the accent, embrace.",
     "the sound everyone misses?",
     "this trick makes words stick.",
-    "connect deeply, one word."
+    "connect deeply, one word.",
+    "this one word heals.",
+    "why holding back, amigo?",
+    "fact: you are enough.",
+    "your voice deserves freedom.",
+    "listen to your calm."
   ]
 }
