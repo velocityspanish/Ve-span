@@ -10205,9 +10205,39 @@
       "spanish": "Tu progreso: es visible ahora.",
       "category": "Purpose",
       "generated_at": "2026-06-25T19:02:28.442317"
+    },
+    {
+      "english": "Unlock joy, say 'gracias'.",
+      "spanish": "Desbloquea alegría, di 'gracias'.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T20:51:50.018633"
+    },
+    {
+      "english": "What if 'hola' changes?",
+      "spanish": "¿Y si 'hola' cambia?",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T20:51:50.018655"
+    },
+    {
+      "english": "This sounds bring smiles.",
+      "spanish": "Estos sonidos traen sonrisas.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T20:51:50.018671"
+    },
+    {
+      "english": "Embrace every tiny word.",
+      "spanish": "Abraza cada pequeña palabra.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T20:51:50.018686"
+    },
+    {
+      "english": "Your confidence will bloom.",
+      "spanish": "Tu confianza florecerá.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T20:51:50.018702"
     }
   ],
-  "last_updated": "2026-06-25T19:02:28.442319",
+  "last_updated": "2026-06-25T20:51:50.018704",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11909,6 +11939,11 @@
     "why does this sound so good?",
     "your next phrase, pure magic.",
     "stop fearing the grammar rules.",
-    "your progress: it's visible now."
+    "your progress: it's visible now.",
+    "unlock joy, say 'gracias'.",
+    "what if 'hola' changes?",
+    "this sounds bring smiles.",
+    "embrace every tiny word.",
+    "your confidence will bloom."
   ]
 }
