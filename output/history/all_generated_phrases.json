@@ -10175,9 +10175,39 @@
       "spanish": "Escucha tu calma.",
       "category": "Inner Peace",
       "generated_at": "2026-06-25T17:12:55.681842"
+    },
+    {
+      "english": "One brave word, massive connection.",
+      "spanish": "Una palabra valiente, conexión masiva.",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T19:02:28.442241"
+    },
+    {
+      "english": "Why does this sound so good?",
+      "spanish": "¿Por qué suena tan bien?",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T19:02:28.442268"
+    },
+    {
+      "english": "Your next phrase, pure magic.",
+      "spanish": "Tu próxima frase, pura magia.",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T19:02:28.442286"
+    },
+    {
+      "english": "Stop fearing the grammar rules.",
+      "spanish": "Deja de temer las reglas gramaticales.",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T19:02:28.442302"
+    },
+    {
+      "english": "Your progress: it's visible now.",
+      "spanish": "Tu progreso: es visible ahora.",
+      "category": "Purpose",
+      "generated_at": "2026-06-25T19:02:28.442317"
     }
   ],
-  "last_updated": "2026-06-25T17:12:55.681844",
+  "last_updated": "2026-06-25T19:02:28.442319",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11874,6 +11904,11 @@
     "why holding back, amigo?",
     "fact: you are enough.",
     "your voice deserves freedom.",
-    "listen to your calm."
+    "listen to your calm.",
+    "one brave word, massive connection.",
+    "why does this sound so good?",
+    "your next phrase, pure magic.",
+    "stop fearing the grammar rules.",
+    "your progress: it's visible now."
   ]
 }
