@@ -10235,9 +10235,39 @@
       "spanish": "Tu confianza florecerá.",
       "category": "Positive Life",
       "generated_at": "2026-06-25T20:51:50.018702"
+    },
+    {
+      "english": "Feeling thankful? Try this word.",
+      "spanish": "¿Sentir agradecido? Prueba esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-25T22:25:49.324982"
+    },
+    {
+      "english": "This single word connects people.",
+      "spanish": "Esta palabra une gente.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-25T22:25:49.325009"
+    },
+    {
+      "english": "What unlocks pure happiness?",
+      "spanish": "¿Qué desbloquea la felicidad pura?",
+      "category": "Gratitude",
+      "generated_at": "2026-06-25T22:25:49.325031"
+    },
+    {
+      "english": "Your kindness, amplified, starts here.",
+      "spanish": "Tu amabilidad, amplificada, empieza aquí.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-25T22:25:49.325046"
+    },
+    {
+      "english": "Never forget this grateful feeling.",
+      "spanish": "Nunca olvides este sentimiento. Gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-25T22:25:49.325062"
     }
   ],
-  "last_updated": "2026-06-25T20:51:50.018704",
+  "last_updated": "2026-06-25T22:25:49.325064",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11944,6 +11974,11 @@
     "what if 'hola' changes?",
     "this sounds bring smiles.",
     "embrace every tiny word.",
-    "your confidence will bloom."
+    "your confidence will bloom.",
+    "feeling thankful? try this word.",
+    "this single word connects people.",
+    "what unlocks pure happiness?",
+    "your kindness, amplified, starts here.",
+    "never forget this grateful feeling."
   ]
 }
