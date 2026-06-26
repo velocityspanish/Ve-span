@@ -10295,9 +10295,39 @@
       "spanish": "¿Por qué aferrarse a preocupaciones? Libera.",
       "category": "Gratitude",
       "generated_at": "2026-06-26T15:25:11.026731"
+    },
+    {
+      "english": "This one word? Unlocks progress.",
+      "spanish": "Esta palabra, ¿desbloquea progreso?",
+      "category": "Patience",
+      "generated_at": "2026-06-26T17:01:30.065092"
+    },
+    {
+      "english": "Your tiny 'hola', huge connection.",
+      "spanish": "Tu pequeño 'hola', gran conexión.",
+      "category": "Patience",
+      "generated_at": "2026-06-26T17:01:30.065115"
+    },
+    {
+      "english": "Why rush this beautiful journey?",
+      "spanish": "¿Por qué apurar este hermoso viaje?",
+      "category": "Patience",
+      "generated_at": "2026-06-26T17:01:30.065131"
+    },
+    {
+      "english": "Embrace the pause. It teaches.",
+      "spanish": "Abraza la pausa. Enseña.",
+      "category": "Patience",
+      "generated_at": "2026-06-26T17:01:30.065147"
+    },
+    {
+      "english": "Surprise! Your brain is adapting.",
+      "spanish": "¡Sorpresa! Tu cerebro se adapta.",
+      "category": "Patience",
+      "generated_at": "2026-06-26T17:01:30.065163"
     }
   ],
-  "last_updated": "2026-06-26T15:25:11.026732",
+  "last_updated": "2026-06-26T17:01:30.065164",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12014,6 +12044,11 @@
     "your spirit, now unfettered.",
     "your courage, beautifully showing.",
     "fact: you communicate more.",
-    "why hold onto worries? release."
+    "why hold onto worries? release.",
+    "this one word? unlocks progress.",
+    "your tiny 'hola', huge connection.",
+    "why rush this beautiful journey?",
+    "embrace the pause. it teaches.",
+    "surprise! your brain is adapting."
   ]
 }
