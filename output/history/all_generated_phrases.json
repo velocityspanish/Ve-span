@@ -10265,9 +10265,39 @@
       "spanish": "Nunca olvides este sentimiento. Gracias.",
       "category": "Gratitude",
       "generated_at": "2026-06-25T22:25:49.325062"
+    },
+    {
+      "english": "Imagine, speaking Spanish fluently!",
+      "spanish": "¡Imagina, hablando español fluidamente!",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T15:25:11.026659"
+    },
+    {
+      "english": "Your spirit, now unfettered.",
+      "spanish": "Tu espíritu, ahora sin ataduras.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T15:25:11.026683"
+    },
+    {
+      "english": "Your courage, beautifully showing.",
+      "spanish": "Tu coraje, bellamente mostrándose.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T15:25:11.026699"
+    },
+    {
+      "english": "Fact: You communicate more.",
+      "spanish": "Hecho: Te comunicas más.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T15:25:11.026715"
+    },
+    {
+      "english": "Why hold onto worries? Release.",
+      "spanish": "¿Por qué aferrarse a preocupaciones? Libera.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T15:25:11.026731"
     }
   ],
-  "last_updated": "2026-06-25T22:25:49.325064",
+  "last_updated": "2026-06-26T15:25:11.026732",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -11979,6 +12009,11 @@
     "this single word connects people.",
     "what unlocks pure happiness?",
     "your kindness, amplified, starts here.",
-    "never forget this grateful feeling."
+    "never forget this grateful feeling.",
+    "imagine, speaking spanish fluently!",
+    "your spirit, now unfettered.",
+    "your courage, beautifully showing.",
+    "fact: you communicate more.",
+    "why hold onto worries? release."
   ]
 }
