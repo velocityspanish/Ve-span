@@ -10355,9 +10355,39 @@
       "spanish": "La risa compartida empieza aquí.",
       "category": "Friendship",
       "generated_at": "2026-06-26T18:23:47.916204"
+    },
+    {
+      "english": "This one word? Pure joy.",
+      "spanish": "Esta palabra? Pura alegría.",
+      "category": "Love",
+      "generated_at": "2026-06-26T20:27:16.494339"
+    },
+    {
+      "english": "Curious? What’s the secret?",
+      "spanish": "¿Curioso? ¿Cuál es el secreto?",
+      "category": "Love",
+      "generated_at": "2026-06-26T20:27:16.494363"
+    },
+    {
+      "english": "Small 'te quiero', big love.",
+      "spanish": "Pequeño 'te quiero', gran amor.",
+      "category": "Love",
+      "generated_at": "2026-06-26T20:27:16.494380"
+    },
+    {
+      "english": "Why fear speaking? Connect.",
+      "spanish": "¿Por qué temer hablar? Conecta.",
+      "category": "Love",
+      "generated_at": "2026-06-26T20:27:16.494397"
+    },
+    {
+      "english": "Your heart's sweetest sound?",
+      "spanish": "¿El sonido más dulce de tu corazón?",
+      "category": "Love",
+      "generated_at": "2026-06-26T20:27:16.494413"
     }
   ],
-  "last_updated": "2026-06-26T18:23:47.916206",
+  "last_updated": "2026-06-26T20:27:16.494415",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12084,6 +12114,11 @@
     "one word connects, wow!",
     "your secret superpower? speaking.",
     "why learn words? friendship.",
-    "the shared laugh starts here."
+    "the shared laugh starts here.",
+    "this one word? pure joy.",
+    "curious? what’s the secret?",
+    "small 'te quiero', big love.",
+    "why fear speaking? connect.",
+    "your heart's sweetest sound?"
   ]
 }
