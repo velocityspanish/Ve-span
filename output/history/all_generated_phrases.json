@@ -10385,9 +10385,39 @@
       "spanish": "¿El sonido más dulce de tu corazón?",
       "category": "Love",
       "generated_at": "2026-06-26T20:27:16.494413"
+    },
+    {
+      "english": "Curious? It's simpler than you think.",
+      "spanish": "¿Curioso? Es más simple de lo que crees.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:20:10.954535"
+    },
+    {
+      "english": "Your next word? A breakthrough.",
+      "spanish": "Tu próxima palabra, un avance.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:20:10.954558"
+    },
+    {
+      "english": "Feel this? Your brain's rewiring.",
+      "spanish": "¿Sientes esto? Tu cerebro se adapta.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:20:10.954571"
+    },
+    {
+      "english": "Unlock joy: Say 'por favor'.",
+      "spanish": "Desbloquea alegría: di 'por favor'.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:20:10.954584"
+    },
+    {
+      "english": "Why hide your voice? Share.",
+      "spanish": "¿Por qué ocultar tu voz? Comparte.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:20:10.954597"
     }
   ],
-  "last_updated": "2026-06-26T20:27:16.494415",
+  "last_updated": "2026-06-26T22:20:10.954599",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12119,6 +12149,11 @@
     "curious? what’s the secret?",
     "small 'te quiero', big love.",
     "why fear speaking? connect.",
-    "your heart's sweetest sound?"
+    "your heart's sweetest sound?",
+    "curious? it's simpler than you think.",
+    "your next word? a breakthrough.",
+    "feel this? your brain's rewiring.",
+    "unlock joy: say 'por favor'.",
+    "why hide your voice? share."
   ]
 }
