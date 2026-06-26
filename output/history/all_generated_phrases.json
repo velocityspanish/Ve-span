@@ -10325,9 +10325,39 @@
       "spanish": "¡Sorpresa! Tu cerebro se adapta.",
       "category": "Patience",
       "generated_at": "2026-06-26T17:01:30.065163"
+    },
+    {
+      "english": "This sounds your friends need.",
+      "spanish": "Estos sonidos que tus amigos necesitan.",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T18:23:47.916133"
+    },
+    {
+      "english": "One word connects, wow!",
+      "spanish": "Una palabra conecta, ¡wow!",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T18:23:47.916155"
+    },
+    {
+      "english": "Your secret superpower? Speaking.",
+      "spanish": "Tu superpoder secreto: Hablar.",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T18:23:47.916171"
+    },
+    {
+      "english": "Why learn words? Friendship.",
+      "spanish": "¿Por qué aprender palabras? Amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T18:23:47.916188"
+    },
+    {
+      "english": "The shared laugh starts here.",
+      "spanish": "La risa compartida empieza aquí.",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T18:23:47.916204"
     }
   ],
-  "last_updated": "2026-06-26T17:01:30.065164",
+  "last_updated": "2026-06-26T18:23:47.916206",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12049,6 +12079,11 @@
     "your tiny 'hola', huge connection.",
     "why rush this beautiful journey?",
     "embrace the pause. it teaches.",
-    "surprise! your brain is adapting."
+    "surprise! your brain is adapting.",
+    "this sounds your friends need.",
+    "one word connects, wow!",
+    "your secret superpower? speaking.",
+    "why learn words? friendship.",
+    "the shared laugh starts here."
   ]
 }
