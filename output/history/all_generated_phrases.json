@@ -10415,9 +10415,39 @@
       "spanish": "¿Por qué ocultar tu voz? Comparte.",
       "category": "Success",
       "generated_at": "2026-06-26T22:20:10.954597"
+    },
+    {
+      "english": "Your brain craves connection, amigo.",
+      "spanish": "Tu cerebro anhela conexión, amigo.",
+      "category": "Hope",
+      "generated_at": "2026-06-27T14:44:40.429539"
+    },
+    {
+      "english": "This sounds unlock understanding, listen.",
+      "spanish": "Estos sonidos desbloquean entendimiento, escucha.",
+      "category": "Hope",
+      "generated_at": "2026-06-27T14:44:40.429561"
+    },
+    {
+      "english": "Curious? Your progress is visible.",
+      "spanish": "¿Curioso? Tu progreso es visible.",
+      "category": "Hope",
+      "generated_at": "2026-06-27T14:44:40.429603"
+    },
+    {
+      "english": "One tiny word, huge feeling.",
+      "spanish": "Una palabra pequeña, sentimiento enorme.",
+      "category": "Hope",
+      "generated_at": "2026-06-27T14:44:40.429620"
+    },
+    {
+      "english": "Surprise! You speak more daily.",
+      "spanish": "¡Sorpresa! Hablas más diario.",
+      "category": "Hope",
+      "generated_at": "2026-06-27T14:44:40.429637"
     }
   ],
-  "last_updated": "2026-06-26T22:20:10.954599",
+  "last_updated": "2026-06-27T14:44:40.429639",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12154,6 +12184,11 @@
     "your next word? a breakthrough.",
     "feel this? your brain's rewiring.",
     "unlock joy: say 'por favor'.",
-    "why hide your voice? share."
+    "why hide your voice? share.",
+    "your brain craves connection, amigo.",
+    "this sounds unlock understanding, listen.",
+    "curious? your progress is visible.",
+    "one tiny word, huge feeling.",
+    "surprise! you speak more daily."
   ]
 }
