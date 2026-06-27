@@ -10535,9 +10535,39 @@
       "spanish": "Nunca dejes de decir 'por favor'.",
       "category": "Kindness",
       "generated_at": "2026-06-27T20:03:11.978285"
+    },
+    {
+      "english": "Unburden your heart, friend.",
+      "spanish": "Descarga tu corazón, amigo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T22:09:22.799319"
+    },
+    {
+      "english": "This changes everything, right?",
+      "spanish": "¿Esto lo cambia todo, verdad?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T22:09:22.799344"
+    },
+    {
+      "english": "Releasing hurt, feeling lighter.",
+      "spanish": "Soltando el dolor, sintiéndote ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T22:09:22.799361"
+    },
+    {
+      "english": "What if they change?",
+      "spanish": "¿Qué tal si cambian?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T22:09:22.799375"
+    },
+    {
+      "english": "Small 'lo siento', big impact.",
+      "spanish": "'Lo siento' pequeño, gran impacto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T22:09:22.799391"
     }
   ],
-  "last_updated": "2026-06-27T20:03:11.978286",
+  "last_updated": "2026-06-27T22:09:22.799393",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12294,6 +12324,11 @@
     "this sounds spark friendship.",
     "wisdom: kindness needs no accent.",
     "your small talk connects.",
-    "never stop saying 'por favor'."
+    "never stop saying 'por favor'.",
+    "unburden your heart, friend.",
+    "this changes everything, right?",
+    "releasing hurt, feeling lighter.",
+    "what if they change?",
+    "small 'lo siento', big impact."
   ]
 }
