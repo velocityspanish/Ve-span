@@ -10505,9 +10505,39 @@
       "spanish": "Abraza la palabra hablada.",
       "category": "Strength",
       "generated_at": "2026-06-27T17:56:01.469550"
+    },
+    {
+      "english": "Feeling lost? Try 'ayuda'.",
+      "spanish": "¿Te sientes perdido? Prueba 'ayuda'.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:03:11.978210"
+    },
+    {
+      "english": "This sounds spark friendship.",
+      "spanish": "Estos sonidos encienden amistad.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:03:11.978236"
+    },
+    {
+      "english": "Wisdom: Kindness needs no accent.",
+      "spanish": "Sabiduría: Bondad no necesita acento.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:03:11.978252"
+    },
+    {
+      "english": "Your small talk connects.",
+      "spanish": "Tu charla pequeña conecta.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:03:11.978268"
+    },
+    {
+      "english": "Never stop saying 'por favor'.",
+      "spanish": "Nunca dejes de decir 'por favor'.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:03:11.978285"
     }
   ],
-  "last_updated": "2026-06-27T17:56:01.469552",
+  "last_updated": "2026-06-27T20:03:11.978286",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12259,6 +12289,11 @@
     "what if progress sounds like this?",
     "why silence hinders connection.",
     "your next word: pure connection.",
-    "embrace the spoken word."
+    "embrace the spoken word.",
+    "feeling lost? try 'ayuda'.",
+    "this sounds spark friendship.",
+    "wisdom: kindness needs no accent.",
+    "your small talk connects.",
+    "never stop saying 'por favor'."
   ]
 }
