@@ -10475,9 +10475,39 @@
       "spanish": "¡Sorpresa! Te conectas con esto.",
       "category": "Kindness",
       "generated_at": "2026-06-27T16:06:28.479266"
+    },
+    {
+      "english": "Your brain, rewired for Spanish.",
+      "spanish": "Tu cerebro, recableado para español.",
+      "category": "Strength",
+      "generated_at": "2026-06-27T17:56:01.469481"
+    },
+    {
+      "english": "What if progress sounds like this?",
+      "spanish": "¿Qué si el progreso suena así?",
+      "category": "Strength",
+      "generated_at": "2026-06-27T17:56:01.469502"
+    },
+    {
+      "english": "Why silence hinders connection.",
+      "spanish": "Por qué el silencio obstaculiza la conexión.",
+      "category": "Strength",
+      "generated_at": "2026-06-27T17:56:01.469519"
+    },
+    {
+      "english": "Your next word: pure connection.",
+      "spanish": "Tu próxima palabra: conexión pura.",
+      "category": "Strength",
+      "generated_at": "2026-06-27T17:56:01.469535"
+    },
+    {
+      "english": "Embrace the spoken word.",
+      "spanish": "Abraza la palabra hablada.",
+      "category": "Strength",
+      "generated_at": "2026-06-27T17:56:01.469550"
     }
   ],
-  "last_updated": "2026-06-27T16:06:28.479271",
+  "last_updated": "2026-06-27T17:56:01.469552",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12224,6 +12254,11 @@
     "hear this subtle compliment.",
     "one shared 'gracias' works.",
     "your empathy resonates, speak.",
-    "surprise! you connect with this."
+    "surprise! you connect with this.",
+    "your brain, rewired for spanish.",
+    "what if progress sounds like this?",
+    "why silence hinders connection.",
+    "your next word: pure connection.",
+    "embrace the spoken word."
   ]
 }
