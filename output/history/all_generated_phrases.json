@@ -10445,9 +10445,39 @@
       "spanish": "¡Sorpresa! Hablas más diario.",
       "category": "Hope",
       "generated_at": "2026-06-27T14:44:40.429637"
+    },
+    {
+      "english": "Your kindness, Spanish accent.",
+      "spanish": "Tu amabilidad, acento español.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T16:06:28.479146"
+    },
+    {
+      "english": "Hear this subtle compliment.",
+      "spanish": "Oye este cumplido sutil.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T16:06:28.479183"
+    },
+    {
+      "english": "One shared 'gracias' works.",
+      "spanish": "Un 'gracias' compartido funciona.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T16:06:28.479211"
+    },
+    {
+      "english": "Your empathy resonates, speak.",
+      "spanish": "Tu empatía resuena, habla.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T16:06:28.479240"
+    },
+    {
+      "english": "Surprise! You connect with this.",
+      "spanish": "¡Sorpresa! Te conectas con esto.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T16:06:28.479266"
     }
   ],
-  "last_updated": "2026-06-27T14:44:40.429639",
+  "last_updated": "2026-06-27T16:06:28.479271",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12189,6 +12219,11 @@
     "this sounds unlock understanding, listen.",
     "curious? your progress is visible.",
     "one tiny word, huge feeling.",
-    "surprise! you speak more daily."
+    "surprise! you speak more daily.",
+    "your kindness, spanish accent.",
+    "hear this subtle compliment.",
+    "one shared 'gracias' works.",
+    "your empathy resonates, speak.",
+    "surprise! you connect with this."
   ]
 }
