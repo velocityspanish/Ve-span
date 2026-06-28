@@ -10685,9 +10685,39 @@
       "spanish": "¡Escucha! Tu fluidez viene.",
       "category": "Hope",
       "generated_at": "2026-06-28T20:06:39.143126"
+    },
+    {
+      "english": "This sound, instant connection. Listen.",
+      "spanish": "Este sonido, conexión instantánea. Escucha.",
+      "category": "Success",
+      "generated_at": "2026-06-28T22:07:59.693552"
+    },
+    {
+      "english": "Your brain rewiring, amazing!",
+      "spanish": "Tu cerebro recableando, ¡increíble!",
+      "category": "Success",
+      "generated_at": "2026-06-28T22:07:59.693578"
+    },
+    {
+      "english": "Small 'hola', big doors open.",
+      "spanish": "Pequeño 'hola', grandes puertas abren.",
+      "category": "Success",
+      "generated_at": "2026-06-28T22:07:59.693595"
+    },
+    {
+      "english": "This feeling: You understand.",
+      "spanish": "Este sentimiento: Entiendes.",
+      "category": "Success",
+      "generated_at": "2026-06-28T22:07:59.693611"
+    },
+    {
+      "english": "Curious? Your accent matters less.",
+      "spanish": "¿Curioso? Tu acento importa menos.",
+      "category": "Success",
+      "generated_at": "2026-06-28T22:07:59.693627"
     }
   ],
-  "last_updated": "2026-06-28T20:06:39.143128",
+  "last_updated": "2026-06-28T22:07:59.693629",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12469,6 +12499,11 @@
     "tiny effort, giant connection.",
     "one word: instant friendship?",
     "this feeling: progress is real.",
-    "listen! your fluency is coming."
+    "listen! your fluency is coming.",
+    "this sound, instant connection. listen.",
+    "your brain rewiring, amazing!",
+    "small 'hola', big doors open.",
+    "this feeling: you understand.",
+    "curious? your accent matters less."
   ]
 }
