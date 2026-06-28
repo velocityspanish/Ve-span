@@ -10625,9 +10625,39 @@
       "spanish": "Pequeño 'hola', gran sonrisa.",
       "category": "Mindfulness",
       "generated_at": "2026-06-28T16:12:47.171967"
+    },
+    {
+      "english": "This sound breaks the ice.",
+      "spanish": "Este sonido rompe el hielo.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T17:59:27.884671"
+    },
+    {
+      "english": "Why so shy to speak?",
+      "spanish": "¿Por qué tanta pena hablar?",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T17:59:27.884698"
+    },
+    {
+      "english": "Fact: Your brain adapts faster.",
+      "spanish": "Hecho: Tu cerebro se adapta.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T17:59:27.884713"
+    },
+    {
+      "english": "One shared 'lo siento,' heals.",
+      "spanish": "Un 'lo siento' compartido, sana.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T17:59:27.884728"
+    },
+    {
+      "english": "Your voice: finally unmuted.",
+      "spanish": "Tu voz: finalmente desbloqueada.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T17:59:27.884743"
     }
   ],
-  "last_updated": "2026-06-28T16:12:47.171969",
+  "last_updated": "2026-06-28T17:59:27.884745",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12399,6 +12429,11 @@
     "this tiny sound unlocks trust.",
     "this moment? pure learning.",
     "your desire to connect is real.",
-    "small 'hola', huge smile."
+    "small 'hola', huge smile.",
+    "this sound breaks the ice.",
+    "why so shy to speak?",
+    "fact: your brain adapts faster.",
+    "one shared 'lo siento,' heals.",
+    "your voice: finally unmuted."
   ]
 }
