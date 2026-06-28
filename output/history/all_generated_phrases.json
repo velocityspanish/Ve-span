@@ -10655,9 +10655,39 @@
       "spanish": "Tu voz: finalmente desbloqueada.",
       "category": "Purpose",
       "generated_at": "2026-06-28T17:59:27.884743"
+    },
+    {
+      "english": "Curious? What if they understand?",
+      "spanish": "¿Curioso? ¿Y si te entienden?",
+      "category": "Hope",
+      "generated_at": "2026-06-28T20:06:39.143052"
+    },
+    {
+      "english": "Tiny effort, giant connection.",
+      "spanish": "Esfuerzo mínimo, conexión gigante.",
+      "category": "Hope",
+      "generated_at": "2026-06-28T20:06:39.143077"
+    },
+    {
+      "english": "One word: instant friendship?",
+      "spanish": "Una palabra: ¿amistad instantánea?",
+      "category": "Hope",
+      "generated_at": "2026-06-28T20:06:39.143094"
+    },
+    {
+      "english": "This feeling: progress is real.",
+      "spanish": "Esta sensación: el progreso es real.",
+      "category": "Hope",
+      "generated_at": "2026-06-28T20:06:39.143111"
+    },
+    {
+      "english": "Listen! Your fluency is coming.",
+      "spanish": "¡Escucha! Tu fluidez viene.",
+      "category": "Hope",
+      "generated_at": "2026-06-28T20:06:39.143126"
     }
   ],
-  "last_updated": "2026-06-28T17:59:27.884745",
+  "last_updated": "2026-06-28T20:06:39.143128",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12434,6 +12464,11 @@
     "why so shy to speak?",
     "fact: your brain adapts faster.",
     "one shared 'lo siento,' heals.",
-    "your voice: finally unmuted."
+    "your voice: finally unmuted.",
+    "curious? what if they understand?",
+    "tiny effort, giant connection.",
+    "one word: instant friendship?",
+    "this feeling: progress is real.",
+    "listen! your fluency is coming."
   ]
 }
