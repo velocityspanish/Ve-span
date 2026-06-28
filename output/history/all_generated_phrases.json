@@ -10565,9 +10565,39 @@
       "spanish": "'Lo siento' pequeño, gran impacto.",
       "category": "Forgiveness",
       "generated_at": "2026-06-27T22:09:22.799391"
+    },
+    {
+      "english": "One correct phrase, huge confidence.",
+      "spanish": "Una frase correcta, gran confianza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-28T14:50:01.765387"
+    },
+    {
+      "english": "Curious? The best practice.",
+      "spanish": "¿Curioso? La mejor práctica.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-28T14:50:01.765413"
+    },
+    {
+      "english": "Feel that progress, amigo.",
+      "spanish": "Siente ese progreso, amigo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-28T14:50:01.765430"
+    },
+    {
+      "english": "This feeling? Authentic connection.",
+      "spanish": "¿Este sentimiento? Conexión auténtica.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-28T14:50:01.765446"
+    },
+    {
+      "english": "Wisdom: Kindness requires no translation.",
+      "spanish": "Sabiduría: La amabilidad no requiere traducción.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-28T14:50:01.765459"
     }
   ],
-  "last_updated": "2026-06-27T22:09:22.799393",
+  "last_updated": "2026-06-28T14:50:01.765462",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12329,6 +12359,11 @@
     "this changes everything, right?",
     "releasing hurt, feeling lighter.",
     "what if they change?",
-    "small 'lo siento', big impact."
+    "small 'lo siento', big impact.",
+    "one correct phrase, huge confidence.",
+    "curious? the best practice.",
+    "feel that progress, amigo.",
+    "this feeling? authentic connection.",
+    "wisdom: kindness requires no translation."
   ]
 }
