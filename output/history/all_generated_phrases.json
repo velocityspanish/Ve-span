@@ -10805,9 +10805,39 @@
       "spanish": "Tu cerebro ama esto.",
       "category": "Inspiration",
       "generated_at": "2026-06-29T18:59:20.548353"
+    },
+    {
+      "english": "This sound sparks instant connection.",
+      "spanish": "Este sonido conecta al instante.",
+      "category": "Success",
+      "generated_at": "2026-06-29T20:46:37.593857"
+    },
+    {
+      "english": "Why hesitate? Speak. Connect.",
+      "spanish": "¿Por qué dudar? Habla. Conecta.",
+      "category": "Success",
+      "generated_at": "2026-06-29T20:46:37.593884"
+    },
+    {
+      "english": "Unlock doors with one word.",
+      "spanish": "Abre puertas con una palabra.",
+      "category": "Success",
+      "generated_at": "2026-06-29T20:46:37.593901"
+    },
+    {
+      "english": "This emotion, truly fluent.",
+      "spanish": "Esta emoción, verdaderamente fluida.",
+      "category": "Success",
+      "generated_at": "2026-06-29T20:46:37.593917"
+    },
+    {
+      "english": "Future conversations await you.",
+      "spanish": "Conversaciones futuras te esperan.",
+      "category": "Success",
+      "generated_at": "2026-06-29T20:46:37.593934"
     }
   ],
-  "last_updated": "2026-06-29T18:59:20.548355",
+  "last_updated": "2026-06-29T20:46:37.593936",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12609,6 +12639,11 @@
     "why fear the accent?",
     "small steps equal big connections.",
     "curious? the reward is huge.",
-    "your brain loves this."
+    "your brain loves this.",
+    "this sound sparks instant connection.",
+    "why hesitate? speak. connect.",
+    "unlock doors with one word.",
+    "this emotion, truly fluent.",
+    "future conversations await you."
   ]
 }
