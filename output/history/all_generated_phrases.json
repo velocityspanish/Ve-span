@@ -10745,9 +10745,39 @@
       "spanish": "¿Y si hablar te libera?",
       "category": "Inner Peace",
       "generated_at": "2026-06-29T16:39:10.131574"
+    },
+    {
+      "english": "Unlock joy: just say 'adiós'.",
+      "spanish": "Desbloquea la alegría: solo di 'adiós'.",
+      "category": "Motivation",
+      "generated_at": "2026-06-29T17:38:32.634362"
+    },
+    {
+      "english": "Small 'gracias', huge connection.",
+      "spanish": "Pequeño 'gracias', gran conexión.",
+      "category": "Motivation",
+      "generated_at": "2026-06-29T17:38:32.634400"
+    },
+    {
+      "english": "Feeling shy? Try 'hola'.",
+      "spanish": "¿Sintiéndote tímido? Prueba 'hola'.",
+      "category": "Motivation",
+      "generated_at": "2026-06-29T17:38:32.634423"
+    },
+    {
+      "english": "This single sound sparks smiles.",
+      "spanish": "Este sonido único provoca sonrisas.",
+      "category": "Motivation",
+      "generated_at": "2026-06-29T17:38:32.634439"
+    },
+    {
+      "english": "Never stop practicing joy.",
+      "spanish": "Nunca dejes de practicar la alegría.",
+      "category": "Motivation",
+      "generated_at": "2026-06-29T17:38:32.634455"
     }
   ],
-  "last_updated": "2026-06-29T16:39:10.131576",
+  "last_updated": "2026-06-29T17:38:32.634457",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12539,6 +12569,11 @@
     "why hold back your voice?",
     "this sounds unlock calm.",
     "imagine fluent peace inside.",
-    "what if speaking frees you?"
+    "what if speaking frees you?",
+    "unlock joy: just say 'adiós'.",
+    "small 'gracias', huge connection.",
+    "feeling shy? try 'hola'.",
+    "this single sound sparks smiles.",
+    "never stop practicing joy."
   ]
 }
