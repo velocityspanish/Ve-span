@@ -10775,9 +10775,39 @@
       "spanish": "Nunca dejes de practicar la alegría.",
       "category": "Motivation",
       "generated_at": "2026-06-29T17:38:32.634455"
+    },
+    {
+      "english": "Future you: So proud!",
+      "spanish": "Tu yo futuro: ¡Orgulloso!",
+      "category": "Inspiration",
+      "generated_at": "2026-06-29T18:59:20.548277"
+    },
+    {
+      "english": "Why fear the accent?",
+      "spanish": "¿Por qué temer el acento?",
+      "category": "Inspiration",
+      "generated_at": "2026-06-29T18:59:20.548302"
+    },
+    {
+      "english": "Small steps equal big connections.",
+      "spanish": "Pequeños pasos, grandes conexiones.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-29T18:59:20.548320"
+    },
+    {
+      "english": "Curious? The reward is huge.",
+      "spanish": "¿Curioso? La recompensa es enorme.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-29T18:59:20.548338"
+    },
+    {
+      "english": "Your brain loves this.",
+      "spanish": "Tu cerebro ama esto.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-29T18:59:20.548353"
     }
   ],
-  "last_updated": "2026-06-29T17:38:32.634457",
+  "last_updated": "2026-06-29T18:59:20.548355",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12574,6 +12604,11 @@
     "small 'gracias', huge connection.",
     "feeling shy? try 'hola'.",
     "this single sound sparks smiles.",
-    "never stop practicing joy."
+    "never stop practicing joy.",
+    "future you: so proud!",
+    "why fear the accent?",
+    "small steps equal big connections.",
+    "curious? the reward is huge.",
+    "your brain loves this."
   ]
 }
