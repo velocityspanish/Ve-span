@@ -10715,9 +10715,39 @@
       "spanish": "¿Curioso? Tu acento importa menos.",
       "category": "Success",
       "generated_at": "2026-06-28T22:07:59.693627"
+    },
+    {
+      "english": "Peace in speaking, friend.",
+      "spanish": "Paz al hablar, amigo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-29T16:39:10.131496"
+    },
+    {
+      "english": "Why hold back your voice?",
+      "spanish": "¿Por qué callar tu voz?",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-29T16:39:10.131523"
+    },
+    {
+      "english": "This sounds unlock calm.",
+      "spanish": "Estos sonidos desbloquean calma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-29T16:39:10.131539"
+    },
+    {
+      "english": "Imagine fluent peace inside.",
+      "spanish": "Imagina paz fluida adentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-29T16:39:10.131557"
+    },
+    {
+      "english": "What if speaking frees you?",
+      "spanish": "¿Y si hablar te libera?",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-29T16:39:10.131574"
     }
   ],
-  "last_updated": "2026-06-28T22:07:59.693629",
+  "last_updated": "2026-06-29T16:39:10.131576",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12504,6 +12534,11 @@
     "your brain rewiring, amazing!",
     "small 'hola', big doors open.",
     "this feeling: you understand.",
-    "curious? your accent matters less."
+    "curious? your accent matters less.",
+    "peace in speaking, friend.",
+    "why hold back your voice?",
+    "this sounds unlock calm.",
+    "imagine fluent peace inside.",
+    "what if speaking frees you?"
   ]
 }
