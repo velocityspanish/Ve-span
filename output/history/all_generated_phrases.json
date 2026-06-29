@@ -10835,9 +10835,39 @@
       "spanish": "Conversaciones futuras te esperan.",
       "category": "Success",
       "generated_at": "2026-06-29T20:46:37.593934"
+    },
+    {
+      "english": "Imagine speaking Spanish, truly.",
+      "spanish": "Imagina hablar español, de verdad.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T22:15:16.071775"
+    },
+    {
+      "english": "Future you, speaking easily.",
+      "spanish": "Tu futuro, hablando fácil.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T22:15:16.071803"
+    },
+    {
+      "english": "Did you know? You're learning.",
+      "spanish": "¿Sabías? Estás aprendiendo.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T22:15:16.071820"
+    },
+    {
+      "english": "Your effort sparks brilliance.",
+      "spanish": "Tu esfuerzo chispa brillantez.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T22:15:16.071837"
+    },
+    {
+      "english": "Why fear? Just say 'hola'.",
+      "spanish": "¿Por qué temer? Di 'hola'.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T22:15:16.071853"
     }
   ],
-  "last_updated": "2026-06-29T20:46:37.593936",
+  "last_updated": "2026-06-29T22:15:16.071855",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12644,6 +12674,11 @@
     "why hesitate? speak. connect.",
     "unlock doors with one word.",
     "this emotion, truly fluent.",
-    "future conversations await you."
+    "future conversations await you.",
+    "imagine speaking spanish, truly.",
+    "future you, speaking easily.",
+    "did you know? you're learning.",
+    "your effort sparks brilliance.",
+    "why fear? just say 'hola'."
   ]
 }
