@@ -10955,9 +10955,39 @@
       "spanish": "Sabiduría: Habla para vivir.",
       "category": "Inspiration",
       "generated_at": "2026-06-30T18:29:35.038780"
+    },
+    {
+      "english": "Slow progress, big dreams, amigo.",
+      "spanish": "Progreso lento, grandes sueños, amigo.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T20:51:27.421448"
+    },
+    {
+      "english": "This sound builds connections.",
+      "spanish": "Este sonido construye conexiones.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T20:51:27.421477"
+    },
+    {
+      "english": "Wisdom: Speak slow, learn fast.",
+      "spanish": "Sabiduría: Habla lento, aprende rápido.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T20:51:27.421495"
+    },
+    {
+      "english": "Feel that comfort? That's progress.",
+      "spanish": "¿Sientes esa comodidad? Eso es progreso.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T20:51:27.421511"
+    },
+    {
+      "english": "One right word, more understanding.",
+      "spanish": "Una palabra correcta, más entendimiento.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T20:51:27.421527"
     }
   ],
-  "last_updated": "2026-06-30T18:29:35.038782",
+  "last_updated": "2026-06-30T20:51:27.421529",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12784,6 +12814,11 @@
     "curious? the best phrase awaits.",
     "small victories, huge momentum.",
     "you belong in this conversation.",
-    "wisdom: speak it to live."
+    "wisdom: speak it to live.",
+    "slow progress, big dreams, amigo.",
+    "this sound builds connections.",
+    "wisdom: speak slow, learn fast.",
+    "feel that comfort? that's progress.",
+    "one right word, more understanding."
   ]
 }
