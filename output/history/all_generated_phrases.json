@@ -10925,9 +10925,39 @@
       "spanish": "Sabiduría: Paciencia desbloquea progreso.",
       "category": "Positive Life",
       "generated_at": "2026-06-30T17:07:42.769743"
+    },
+    {
+      "english": "Future you is listening now.",
+      "spanish": "Tu yo futuro escucha.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-30T18:29:35.038707"
+    },
+    {
+      "english": "Curious? The best phrase awaits.",
+      "spanish": "Curioso? La mejor frase.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-30T18:29:35.038730"
+    },
+    {
+      "english": "Small victories, huge momentum.",
+      "spanish": "Pequeñas victorias, gran impulso.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-30T18:29:35.038747"
+    },
+    {
+      "english": "You belong in this conversation.",
+      "spanish": "Perteneces a esta charla.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-30T18:29:35.038763"
+    },
+    {
+      "english": "Wisdom: Speak it to live.",
+      "spanish": "Sabiduría: Habla para vivir.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-30T18:29:35.038780"
     }
   ],
-  "last_updated": "2026-06-30T17:07:42.769745",
+  "last_updated": "2026-06-30T18:29:35.038782",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12749,6 +12779,11 @@
     "surprise! fluency whispers here.",
     "what if speaking unlocks peace?",
     "tiny phrase, massive heart.",
-    "wisdom: patience unlocks progress."
+    "wisdom: patience unlocks progress.",
+    "future you is listening now.",
+    "curious? the best phrase awaits.",
+    "small victories, huge momentum.",
+    "you belong in this conversation.",
+    "wisdom: speak it to live."
   ]
 }
