@@ -10985,9 +10985,39 @@
       "spanish": "Una palabra correcta, más entendimiento.",
       "category": "Patience",
       "generated_at": "2026-06-30T20:51:27.421527"
+    },
+    {
+      "english": "Your brain craves this sound.",
+      "spanish": "Tu cerebro anhela este sonido.",
+      "category": "Success",
+      "generated_at": "2026-06-30T22:18:53.833750"
+    },
+    {
+      "english": "One word, new perspective.",
+      "spanish": "Una palabra, nueva perspectiva.",
+      "category": "Success",
+      "generated_at": "2026-06-30T22:18:53.833776"
+    },
+    {
+      "english": "Feel that click? You're learning.",
+      "spanish": "Siente ese clic? Estás aprendiendo.",
+      "category": "Success",
+      "generated_at": "2026-06-30T22:18:53.833794"
+    },
+    {
+      "english": "The magic? Small, consistent steps.",
+      "spanish": "La magia? Pasos pequeños, constantes.",
+      "category": "Success",
+      "generated_at": "2026-06-30T22:18:53.833810"
+    },
+    {
+      "english": "Your confidence grows with speaking.",
+      "spanish": "Tu confianza crece al hablar.",
+      "category": "Success",
+      "generated_at": "2026-06-30T22:18:53.833825"
     }
   ],
-  "last_updated": "2026-06-30T20:51:27.421529",
+  "last_updated": "2026-06-30T22:18:53.833827",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12819,6 +12849,11 @@
     "this sound builds connections.",
     "wisdom: speak slow, learn fast.",
     "feel that comfort? that's progress.",
-    "one right word, more understanding."
+    "one right word, more understanding.",
+    "your brain craves this sound.",
+    "one word, new perspective.",
+    "feel that click? you're learning.",
+    "the magic? small, consistent steps.",
+    "your confidence grows with speaking."
   ]
 }
