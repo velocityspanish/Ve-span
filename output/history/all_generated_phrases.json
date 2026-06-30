@@ -10865,9 +10865,39 @@
       "spanish": "¿Por qué temer? Di 'hola'.",
       "category": "Confidence",
       "generated_at": "2026-06-29T22:15:16.071853"
+    },
+    {
+      "english": "Small phrase, big respect.",
+      "spanish": "Frase pequeña, gran respeto.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T15:33:24.171968"
+    },
+    {
+      "english": "Future you speaks Spanish.",
+      "spanish": "Tu yo futuro habla español.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T15:33:24.171996"
+    },
+    {
+      "english": "One 'gracias' changes moods.",
+      "spanish": "Un 'gracias' cambia humores.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T15:33:24.172014"
+    },
+    {
+      "english": "Wisdom: Speak to connect.",
+      "spanish": "Sabiduría: Habla para conectar.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T15:33:24.172031"
+    },
+    {
+      "english": "Tiny effort, huge reward.",
+      "spanish": "Pequeño esfuerzo, gran recompensa.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T15:33:24.172047"
     }
   ],
-  "last_updated": "2026-06-29T22:15:16.071855",
+  "last_updated": "2026-06-30T15:33:24.172049",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12679,6 +12709,11 @@
     "future you, speaking easily.",
     "did you know? you're learning.",
     "your effort sparks brilliance.",
-    "why fear? just say 'hola'."
+    "why fear? just say 'hola'.",
+    "small phrase, big respect.",
+    "future you speaks spanish.",
+    "one 'gracias' changes moods.",
+    "wisdom: speak to connect.",
+    "tiny effort, huge reward."
   ]
 }
