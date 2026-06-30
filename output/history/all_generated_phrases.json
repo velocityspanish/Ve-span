@@ -10895,9 +10895,39 @@
       "spanish": "Pequeño esfuerzo, gran recompensa.",
       "category": "Creativity",
       "generated_at": "2026-06-30T15:33:24.172047"
+    },
+    {
+      "english": "This sound connects worlds, wow!",
+      "spanish": "Este sonido conecta mundos, ¡wow!",
+      "category": "Positive Life",
+      "generated_at": "2026-06-30T17:07:42.769665"
+    },
+    {
+      "english": "Surprise! fluency whispers here.",
+      "spanish": "¡Sorpresa! la fluidez susurra aquí.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-30T17:07:42.769692"
+    },
+    {
+      "english": "What if speaking unlocks peace?",
+      "spanish": "¿Qué si hablar libera paz?",
+      "category": "Positive Life",
+      "generated_at": "2026-06-30T17:07:42.769709"
+    },
+    {
+      "english": "Tiny phrase, massive heart.",
+      "spanish": "Frase diminuta, corazón enorme.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-30T17:07:42.769726"
+    },
+    {
+      "english": "Wisdom: Patience unlocks progress.",
+      "spanish": "Sabiduría: Paciencia desbloquea progreso.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-30T17:07:42.769743"
     }
   ],
-  "last_updated": "2026-06-30T15:33:24.172049",
+  "last_updated": "2026-06-30T17:07:42.769745",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12714,6 +12744,11 @@
     "future you speaks spanish.",
     "one 'gracias' changes moods.",
     "wisdom: speak to connect.",
-    "tiny effort, huge reward."
+    "tiny effort, huge reward.",
+    "this sound connects worlds, wow!",
+    "surprise! fluency whispers here.",
+    "what if speaking unlocks peace?",
+    "tiny phrase, massive heart.",
+    "wisdom: patience unlocks progress."
   ]
 }
