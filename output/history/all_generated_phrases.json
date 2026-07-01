@@ -11105,9 +11105,39 @@
       "spanish": "Un 'lo siento', gran alivio.",
       "category": "Confidence",
       "generated_at": "2026-07-01T18:55:40.104725"
+    },
+    {
+      "english": "Curious? This unlocks joy.",
+      "spanish": "¿Curioso? Esto desata alegría.",
+      "category": "Joy",
+      "generated_at": "2026-07-01T20:45:45.435821"
+    },
+    {
+      "english": "Fact: You're already fluent.",
+      "spanish": "Hecho: Ya eres fluido.",
+      "category": "Joy",
+      "generated_at": "2026-07-01T20:45:45.435848"
+    },
+    {
+      "english": "Wisdom: Speak to be heard.",
+      "spanish": "Sabiduría: Habla para ser oído.",
+      "category": "Joy",
+      "generated_at": "2026-07-01T20:45:45.435865"
+    },
+    {
+      "english": "Small victories fuel momentum.",
+      "spanish": "Pequeñas victorias impulsan impulso.",
+      "category": "Joy",
+      "generated_at": "2026-07-01T20:45:45.435882"
+    },
+    {
+      "english": "Imagine: speaking, no fear.",
+      "spanish": "Imagina: hablando, sin miedo.",
+      "category": "Joy",
+      "generated_at": "2026-07-01T20:45:45.435899"
     }
   ],
-  "last_updated": "2026-07-01T18:55:40.104727",
+  "last_updated": "2026-07-01T20:45:45.435900",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12959,6 +12989,11 @@
     "fact: you're more capable.",
     "wisdom: patience speaks volumes.",
     "imagine speaking without fear.",
-    "one 'lo siento', big relief."
+    "one 'lo siento', big relief.",
+    "curious? this unlocks joy.",
+    "fact: you're already fluent.",
+    "wisdom: speak to be heard.",
+    "small victories fuel momentum.",
+    "imagine: speaking, no fear."
   ]
 }
