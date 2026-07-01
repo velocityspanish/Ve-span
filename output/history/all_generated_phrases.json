@@ -11015,9 +11015,39 @@
       "spanish": "Tu confianza crece al hablar.",
       "category": "Success",
       "generated_at": "2026-06-30T22:18:53.833825"
+    },
+    {
+      "english": "Speak 'aquí,' feel present.",
+      "spanish": "Di 'aquí,' siente el presente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T15:44:10.246258"
+    },
+    {
+      "english": "Never stop that 'por favor.'",
+      "spanish": "Nunca dejes ese 'por favor.'",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T15:44:10.246286"
+    },
+    {
+      "english": "This connection? Pure joy.",
+      "spanish": "Esta conexión, pura alegría.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T15:44:10.246304"
+    },
+    {
+      "english": "Small steps unlock fluency.",
+      "spanish": "Pasos pequeños desbloquean fluidez.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T15:44:10.246321"
+    },
+    {
+      "english": "This one word changes moods.",
+      "spanish": "Esta palabra cambia ánimos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T15:44:10.246338"
     }
   ],
-  "last_updated": "2026-06-30T22:18:53.833827",
+  "last_updated": "2026-07-01T15:44:10.246340",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12854,6 +12884,11 @@
     "one word, new perspective.",
     "feel that click? you're learning.",
     "the magic? small, consistent steps.",
-    "your confidence grows with speaking."
+    "your confidence grows with speaking.",
+    "speak 'aquí,' feel present.",
+    "never stop that 'por favor.'",
+    "this connection? pure joy.",
+    "small steps unlock fluency.",
+    "this one word changes moods."
   ]
 }
