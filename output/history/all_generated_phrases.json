@@ -11045,9 +11045,39 @@
       "spanish": "Esta palabra cambia ánimos.",
       "category": "Mindfulness",
       "generated_at": "2026-07-01T15:44:10.246338"
+    },
+    {
+      "english": "Curious? Try saying 'despacio'.",
+      "spanish": "¿Curioso? Intenta decir 'despacio'.",
+      "category": "Patience",
+      "generated_at": "2026-07-01T17:15:19.236538"
+    },
+    {
+      "english": "Your brain adapts, listen.",
+      "spanish": "Tu cerebro se adapta, escucha.",
+      "category": "Patience",
+      "generated_at": "2026-07-01T17:15:19.236567"
+    },
+    {
+      "english": "One 'poquito' softens hearts.",
+      "spanish": "Un 'poquito' suaviza corazones.",
+      "category": "Patience",
+      "generated_at": "2026-07-01T17:15:19.236586"
+    },
+    {
+      "english": "Wisdom: Slow wins the race.",
+      "spanish": "Sabiduría: Lento gana la carrera.",
+      "category": "Patience",
+      "generated_at": "2026-07-01T17:15:19.236603"
+    },
+    {
+      "english": "Feel that connection? Breathe.",
+      "spanish": "¿Sientes esa conexión? Respira.",
+      "category": "Patience",
+      "generated_at": "2026-07-01T17:15:19.236621"
     }
   ],
-  "last_updated": "2026-07-01T15:44:10.246340",
+  "last_updated": "2026-07-01T17:15:19.236623",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12889,6 +12919,11 @@
     "never stop that 'por favor.'",
     "this connection? pure joy.",
     "small steps unlock fluency.",
-    "this one word changes moods."
+    "this one word changes moods.",
+    "curious? try saying 'despacio'.",
+    "your brain adapts, listen.",
+    "one 'poquito' softens hearts.",
+    "wisdom: slow wins the race.",
+    "feel that connection? breathe."
   ]
 }
