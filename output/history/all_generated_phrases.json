@@ -11135,9 +11135,39 @@
       "spanish": "Imagina: hablando, sin miedo.",
       "category": "Joy",
       "generated_at": "2026-07-01T20:45:45.435899"
+    },
+    {
+      "english": "What if words feel effortless?",
+      "spanish": "¿Y si las palabras fluyen?",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T22:23:06.259803"
+    },
+    {
+      "english": "Your brain is wired for this.",
+      "spanish": "Tu cerebro está hecho para esto.",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T22:23:06.259828"
+    },
+    {
+      "english": "Surprise! You're already bilingual.",
+      "spanish": "¡Sorpresa! Ya eres bilingüe.",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T22:23:06.259841"
+    },
+    {
+      "english": "Future conversations are calling.",
+      "spanish": "Futuras conversaciones te llaman.",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T22:23:06.259855"
+    },
+    {
+      "english": "The secret? Speak it aloud.",
+      "spanish": "El secreto: dilo en voz alta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T22:23:06.259868"
     }
   ],
-  "last_updated": "2026-07-01T20:45:45.435900",
+  "last_updated": "2026-07-01T22:23:06.259870",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12994,6 +13024,11 @@
     "fact: you're already fluent.",
     "wisdom: speak to be heard.",
     "small victories fuel momentum.",
-    "imagine: speaking, no fear."
+    "imagine: speaking, no fear.",
+    "what if words feel effortless?",
+    "your brain is wired for this.",
+    "surprise! you're already bilingual.",
+    "future conversations are calling.",
+    "the secret? speak it aloud."
   ]
 }
