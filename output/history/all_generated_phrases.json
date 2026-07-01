@@ -11075,9 +11075,39 @@
       "spanish": "¿Sientes esa conexión? Respira.",
       "category": "Patience",
       "generated_at": "2026-07-01T17:15:19.236621"
+    },
+    {
+      "english": "What if words flow easily?",
+      "spanish": "¿Y si las palabras fluyen?",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T18:55:40.104647"
+    },
+    {
+      "english": "Fact: You're more capable.",
+      "spanish": "Hecho: Eres más capaz.",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T18:55:40.104672"
+    },
+    {
+      "english": "Wisdom: Patience speaks volumes.",
+      "spanish": "Sabiduría: La paciencia habla.",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T18:55:40.104690"
+    },
+    {
+      "english": "Imagine speaking without fear.",
+      "spanish": "Imagina hablar sin miedo.",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T18:55:40.104707"
+    },
+    {
+      "english": "One 'lo siento', big relief.",
+      "spanish": "Un 'lo siento', gran alivio.",
+      "category": "Confidence",
+      "generated_at": "2026-07-01T18:55:40.104725"
     }
   ],
-  "last_updated": "2026-07-01T17:15:19.236623",
+  "last_updated": "2026-07-01T18:55:40.104727",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -12924,6 +12954,11 @@
     "your brain adapts, listen.",
     "one 'poquito' softens hearts.",
     "wisdom: slow wins the race.",
-    "feel that connection? breathe."
+    "feel that connection? breathe.",
+    "what if words flow easily?",
+    "fact: you're more capable.",
+    "wisdom: patience speaks volumes.",
+    "imagine speaking without fear.",
+    "one 'lo siento', big relief."
   ]
 }
