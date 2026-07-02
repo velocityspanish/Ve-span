@@ -11195,9 +11195,39 @@
       "spanish": "¿Por qué esperar? Empieza a hablar ahora.",
       "category": "Happiness",
       "generated_at": "2026-07-02T15:18:15.595778"
+    },
+    {
+      "english": "Why wait to connect?",
+      "spanish": "¿Por qué esperar para conectar?",
+      "category": "Motivation",
+      "generated_at": "2026-07-02T16:50:26.329134"
+    },
+    {
+      "english": "Curious? What they hear.",
+      "spanish": "¿Curioso? Lo que oyen.",
+      "category": "Motivation",
+      "generated_at": "2026-07-02T16:50:26.329160"
+    },
+    {
+      "english": "Never miss a chance to speak.",
+      "spanish": "Nunca pierdas oportunidad de hablar.",
+      "category": "Motivation",
+      "generated_at": "2026-07-02T16:50:26.329179"
+    },
+    {
+      "english": "Fact: fluency comes from trying.",
+      "spanish": "Hecho: la fluidez viene de intentar.",
+      "category": "Motivation",
+      "generated_at": "2026-07-02T16:50:26.329195"
+    },
+    {
+      "english": "Small effort, massive confidence.",
+      "spanish": "Pequeño esfuerzo, confianza masiva.",
+      "category": "Motivation",
+      "generated_at": "2026-07-02T16:50:26.329212"
     }
   ],
-  "last_updated": "2026-07-02T15:18:15.595780",
+  "last_updated": "2026-07-02T16:50:26.329214",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13064,6 +13094,11 @@
     "curious? speak without fear.",
     "wisdom: listen to understand.",
     "imagine: fluent conversations flow.",
-    "why wait? start speaking now."
+    "why wait? start speaking now.",
+    "why wait to connect?",
+    "curious? what they hear.",
+    "never miss a chance to speak.",
+    "fact: fluency comes from trying.",
+    "small effort, massive confidence."
   ]
 }
