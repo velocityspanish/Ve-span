@@ -11285,9 +11285,39 @@
       "spanish": "Ese momento '¡ajá!', abrázalo.",
       "category": "Perseverance",
       "generated_at": "2026-07-02T18:22:45.621097"
+    },
+    {
+      "english": "This quiet hum, speaks volumes.",
+      "spanish": "Este zumbido, dice mucho.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-02T20:14:40.418454"
+    },
+    {
+      "english": "Your mind's new pathways, listen.",
+      "spanish": "Nuevas vías de tu mente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-02T20:14:40.418481"
+    },
+    {
+      "english": "Why fear the silence, speak.",
+      "spanish": "¿Por qué temer el silencio?",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-02T20:14:40.418499"
+    },
+    {
+      "english": "This flow feels natural, wow!",
+      "spanish": "Este fluir es natural.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-02T20:14:40.418517"
+    },
+    {
+      "english": "Breathe this pause, understand.",
+      "spanish": "Respira esta pausa, entiende.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-02T20:14:40.418534"
     }
   ],
-  "last_updated": "2026-07-02T18:22:45.621099",
+  "last_updated": "2026-07-02T20:14:40.418536",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13169,6 +13199,11 @@
     "your next word opens doors.",
     "patience yields fluent conversations.",
     "what if they understood you?",
-    "that 'aha!' moment, embrace it."
+    "that 'aha!' moment, embrace it.",
+    "this quiet hum, speaks volumes.",
+    "your mind's new pathways, listen.",
+    "why fear the silence, speak.",
+    "this flow feels natural, wow!",
+    "breathe this pause, understand."
   ]
 }
