@@ -11315,9 +11315,39 @@
       "spanish": "Respira esta pausa, entiende.",
       "category": "Mindfulness",
       "generated_at": "2026-07-02T20:14:40.418534"
+    },
+    {
+      "english": "This single word feels powerful.",
+      "spanish": "Esta sola palabra se siente poderosa.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-02T22:15:12.744780"
+    },
+    {
+      "english": "Curious? The rewards are vast.",
+      "spanish": "¿Curioso? Las recompensas son vastas.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-02T22:15:12.744808"
+    },
+    {
+      "english": "Imagine conversations flowing easily.",
+      "spanish": "Imagina conversaciones fluyendo fácilmente.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-02T22:15:12.744824"
+    },
+    {
+      "english": "One phrase, unlocked potential.",
+      "spanish": "Una frase, potencial desbloqueado.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-02T22:15:12.744842"
+    },
+    {
+      "english": "Trust your learning journey now.",
+      "spanish": "Confía en tu viaje de aprendizaje ahora.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-02T22:15:12.744858"
     }
   ],
-  "last_updated": "2026-07-02T20:14:40.418536",
+  "last_updated": "2026-07-02T22:15:12.744860",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13204,6 +13234,11 @@
     "your mind's new pathways, listen.",
     "why fear the silence, speak.",
     "this flow feels natural, wow!",
-    "breathe this pause, understand."
+    "breathe this pause, understand.",
+    "this single word feels powerful.",
+    "curious? the rewards are vast.",
+    "imagine conversations flowing easily.",
+    "one phrase, unlocked potential.",
+    "trust your learning journey now."
   ]
 }
