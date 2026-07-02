@@ -11225,9 +11225,39 @@
       "spanish": "Pequeño esfuerzo, confianza masiva.",
       "category": "Motivation",
       "generated_at": "2026-07-02T16:50:26.329212"
+    },
+    {
+      "english": "Wisdom: Connection starts with 'Hola'.",
+      "spanish": "Sabiduría: Conexión empieza con 'Hola'.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-02T17:26:48.212341"
+    },
+    {
+      "english": "Small 'gracias', big smiles.",
+      "spanish": "Pequeño 'gracias', grandes sonrisas.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-02T17:26:48.212369"
+    },
+    {
+      "english": "One word can change everything.",
+      "spanish": "Una palabra puede cambiarlo todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-02T17:26:48.212387"
+    },
+    {
+      "english": "Your brain loves this input.",
+      "spanish": "Tu cerebro ama esta entrada.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-02T17:26:48.212405"
+    },
+    {
+      "english": "Fact: progress is happening now.",
+      "spanish": "Hecho: el progreso ocurre ahora.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-02T17:26:48.212422"
     }
   ],
-  "last_updated": "2026-07-02T16:50:26.329214",
+  "last_updated": "2026-07-02T17:26:48.212424",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13099,6 +13129,11 @@
     "curious? what they hear.",
     "never miss a chance to speak.",
     "fact: fluency comes from trying.",
-    "small effort, massive confidence."
+    "small effort, massive confidence.",
+    "wisdom: connection starts with 'hola'.",
+    "small 'gracias', big smiles.",
+    "one word can change everything.",
+    "your brain loves this input.",
+    "fact: progress is happening now."
   ]
 }
