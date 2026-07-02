@@ -11165,9 +11165,39 @@
       "spanish": "El secreto: dilo en voz alta.",
       "category": "Confidence",
       "generated_at": "2026-07-01T22:23:06.259868"
+    },
+    {
+      "english": "This feeling? Effortless Spanish.",
+      "spanish": "¿Este sentimiento? Español sin esfuerzo.",
+      "category": "Happiness",
+      "generated_at": "2026-07-02T15:18:15.595697"
+    },
+    {
+      "english": "Curious? Speak without fear.",
+      "spanish": "¿Curioso? Habla sin miedo.",
+      "category": "Happiness",
+      "generated_at": "2026-07-02T15:18:15.595725"
+    },
+    {
+      "english": "Wisdom: Listen to understand.",
+      "spanish": "Sabiduría: Escucha para entender.",
+      "category": "Happiness",
+      "generated_at": "2026-07-02T15:18:15.595743"
+    },
+    {
+      "english": "Imagine: Fluent conversations flow.",
+      "spanish": "Imagina: Conversaciones fluidas fluyen.",
+      "category": "Happiness",
+      "generated_at": "2026-07-02T15:18:15.595760"
+    },
+    {
+      "english": "Why wait? Start speaking now.",
+      "spanish": "¿Por qué esperar? Empieza a hablar ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-07-02T15:18:15.595778"
     }
   ],
-  "last_updated": "2026-07-01T22:23:06.259870",
+  "last_updated": "2026-07-02T15:18:15.595780",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13029,6 +13059,11 @@
     "your brain is wired for this.",
     "surprise! you're already bilingual.",
     "future conversations are calling.",
-    "the secret? speak it aloud."
+    "the secret? speak it aloud.",
+    "this feeling? effortless spanish.",
+    "curious? speak without fear.",
+    "wisdom: listen to understand.",
+    "imagine: fluent conversations flow.",
+    "why wait? start speaking now."
   ]
 }
