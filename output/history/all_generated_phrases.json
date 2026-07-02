@@ -11255,9 +11255,39 @@
       "spanish": "Hecho: el progreso ocurre ahora.",
       "category": "Gratitude",
       "generated_at": "2026-07-02T17:26:48.212422"
+    },
+    {
+      "english": "This feeling? You're getting it.",
+      "spanish": "Esta sensación? La entiendes.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-02T18:22:45.621019"
+    },
+    {
+      "english": "Your next word opens doors.",
+      "spanish": "Tu próxima palabra abre puertas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-02T18:22:45.621045"
+    },
+    {
+      "english": "Patience yields fluent conversations.",
+      "spanish": "La paciencia da conversaciones fluidas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-02T18:22:45.621062"
+    },
+    {
+      "english": "What if they understood you?",
+      "spanish": "¿Qué si te entendieran?",
+      "category": "Perseverance",
+      "generated_at": "2026-07-02T18:22:45.621080"
+    },
+    {
+      "english": "That 'aha!' moment, embrace it.",
+      "spanish": "Ese momento '¡ajá!', abrázalo.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-02T18:22:45.621097"
     }
   ],
-  "last_updated": "2026-07-02T17:26:48.212424",
+  "last_updated": "2026-07-02T18:22:45.621099",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13134,6 +13164,11 @@
     "small 'gracias', big smiles.",
     "one word can change everything.",
     "your brain loves this input.",
-    "fact: progress is happening now."
+    "fact: progress is happening now.",
+    "this feeling? you're getting it.",
+    "your next word opens doors.",
+    "patience yields fluent conversations.",
+    "what if they understood you?",
+    "that 'aha!' moment, embrace it."
   ]
 }
