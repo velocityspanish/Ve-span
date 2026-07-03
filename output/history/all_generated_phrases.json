@@ -11375,9 +11375,39 @@
       "spanish": "Un tono suave, une puentes.",
       "category": "Kindness",
       "generated_at": "2026-07-03T15:13:18.625450"
+    },
+    {
+      "english": "This tiny pause, immense understanding.",
+      "spanish": "Esta pausa diminuta, inmensa comprensión.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T16:25:54.975416"
+    },
+    {
+      "english": "Why rush? Speak slowly, connect.",
+      "spanish": "¿Por qué apurarse? Habla despacio, conecta.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T16:25:54.975441"
+    },
+    {
+      "english": "The real secret? Speaking aloud.",
+      "spanish": "¿El secreto real? Hablar en voz alta.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T16:25:54.975458"
+    },
+    {
+      "english": "Future you: confident, speaking.",
+      "spanish": "Tu futuro: confiado, hablando.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T16:25:54.975478"
+    },
+    {
+      "english": "One 'por favor,' unlocks kindness.",
+      "spanish": "Un 'por favor,' desbloquea amabilidad.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T16:25:54.975495"
     }
   ],
-  "last_updated": "2026-07-03T15:13:18.625452",
+  "last_updated": "2026-07-03T16:25:54.975497",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13274,6 +13304,11 @@
     "this rhythm? it's progress.",
     "feel that kindness? so warm.",
     "why whisper? speak gently.",
-    "a soft tone, bridges gaps."
+    "a soft tone, bridges gaps.",
+    "this tiny pause, immense understanding.",
+    "why rush? speak slowly, connect.",
+    "the real secret? speaking aloud.",
+    "future you: confident, speaking.",
+    "one 'por favor,' unlocks kindness."
   ]
 }
