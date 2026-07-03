@@ -11405,9 +11405,39 @@
       "spanish": "Un 'por favor,' desbloquea amabilidad.",
       "category": "Perseverance",
       "generated_at": "2026-07-03T16:25:54.975495"
+    },
+    {
+      "english": "The joy? Speaking it aloud.",
+      "spanish": "La alegría? Hablarlo en voz alta.",
+      "category": "Motivation",
+      "generated_at": "2026-07-03T18:08:36.657152"
+    },
+    {
+      "english": "Why wait? Connect deeply, now.",
+      "spanish": "¿Por qué esperar? Conecta profundamente, ahora.",
+      "category": "Motivation",
+      "generated_at": "2026-07-03T18:08:36.657181"
+    },
+    {
+      "english": "Feeling lost? Listen closely.",
+      "spanish": "¿Te sientes perdido? Escucha atentamente.",
+      "category": "Motivation",
+      "generated_at": "2026-07-03T18:08:36.657199"
+    },
+    {
+      "english": "This sound builds real confidence.",
+      "spanish": "Este sonido construye confianza real.",
+      "category": "Motivation",
+      "generated_at": "2026-07-03T18:08:36.657216"
+    },
+    {
+      "english": "Stop saying, 'I can't.' Start.",
+      "spanish": "Deja de decir 'no puedo'. Empieza.",
+      "category": "Motivation",
+      "generated_at": "2026-07-03T18:08:36.657233"
     }
   ],
-  "last_updated": "2026-07-03T16:25:54.975497",
+  "last_updated": "2026-07-03T18:08:36.657235",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13309,6 +13339,11 @@
     "why rush? speak slowly, connect.",
     "the real secret? speaking aloud.",
     "future you: confident, speaking.",
-    "one 'por favor,' unlocks kindness."
+    "one 'por favor,' unlocks kindness.",
+    "the joy? speaking it aloud.",
+    "why wait? connect deeply, now.",
+    "feeling lost? listen closely.",
+    "this sound builds real confidence.",
+    "stop saying, 'i can't.' start."
   ]
 }
