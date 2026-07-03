@@ -11435,9 +11435,39 @@
       "spanish": "Deja de decir 'no puedo'. Empieza.",
       "category": "Motivation",
       "generated_at": "2026-07-03T18:08:36.657233"
+    },
+    {
+      "english": "Whisper 'gracias,' feel the warmth.",
+      "spanish": "Susurra 'gracias,' siente el calor.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T20:10:06.741078"
+    },
+    {
+      "english": "This simple 'perdón' heals.",
+      "spanish": "Este simple 'perdón' cura.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T20:10:06.741103"
+    },
+    {
+      "english": "One 'hola' opens every door.",
+      "spanish": "Un 'hola' abre todas las puertas.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T20:10:06.741122"
+    },
+    {
+      "english": "Try saying 'por favor' more.",
+      "spanish": "Intenta decir 'por favor' más.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T20:10:06.741158"
+    },
+    {
+      "english": "A gentle 'disculpe,' changes moods.",
+      "spanish": "Un suave 'disculpe,' cambia ánimos.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T20:10:06.741175"
     }
   ],
-  "last_updated": "2026-07-03T18:08:36.657235",
+  "last_updated": "2026-07-03T20:10:06.741178",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13344,6 +13374,11 @@
     "why wait? connect deeply, now.",
     "feeling lost? listen closely.",
     "this sound builds real confidence.",
-    "stop saying, 'i can't.' start."
+    "stop saying, 'i can't.' start.",
+    "whisper 'gracias,' feel the warmth.",
+    "this simple 'perdón' heals.",
+    "one 'hola' opens every door.",
+    "try saying 'por favor' more.",
+    "a gentle 'disculpe,' changes moods."
   ]
 }
