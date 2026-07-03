@@ -11345,9 +11345,39 @@
       "spanish": "Confía en tu viaje de aprendizaje ahora.",
       "category": "Inspiration",
       "generated_at": "2026-07-02T22:15:12.744858"
+    },
+    {
+      "english": "One simple word, true empathy.",
+      "spanish": "Una palabra simple, empatía real.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T15:13:18.625357"
+    },
+    {
+      "english": "This rhythm? It's progress.",
+      "spanish": "¿Este ritmo? Es progreso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T15:13:18.625398"
+    },
+    {
+      "english": "Feel that kindness? So warm.",
+      "spanish": "¿Sientes esa amabilidad? Tan cálida.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T15:13:18.625417"
+    },
+    {
+      "english": "Why whisper? Speak gently.",
+      "spanish": "¿Por qué susurrar? Habla suave.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T15:13:18.625434"
+    },
+    {
+      "english": "A soft tone, bridges gaps.",
+      "spanish": "Un tono suave, une puentes.",
+      "category": "Kindness",
+      "generated_at": "2026-07-03T15:13:18.625450"
     }
   ],
-  "last_updated": "2026-07-02T22:15:12.744860",
+  "last_updated": "2026-07-03T15:13:18.625452",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13239,6 +13269,11 @@
     "curious? the rewards are vast.",
     "imagine conversations flowing easily.",
     "one phrase, unlocked potential.",
-    "trust your learning journey now."
+    "trust your learning journey now.",
+    "one simple word, true empathy.",
+    "this rhythm? it's progress.",
+    "feel that kindness? so warm.",
+    "why whisper? speak gently.",
+    "a soft tone, bridges gaps."
   ]
 }
