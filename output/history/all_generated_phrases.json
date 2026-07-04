@@ -11615,9 +11615,39 @@
       "spanish": "Imagina: Entender hablado fácilmente.",
       "category": "Positive Life",
       "generated_at": "2026-07-04T20:05:29.886895"
+    },
+    {
+      "english": "What if words connect us deeply?",
+      "spanish": "¿Qué si palabras nos unen?",
+      "category": "Hope",
+      "generated_at": "2026-07-04T22:03:58.905352"
+    },
+    {
+      "english": "Future you, listening so well.",
+      "spanish": "Futuro tú, escuchando genial.",
+      "category": "Hope",
+      "generated_at": "2026-07-04T22:03:58.905383"
+    },
+    {
+      "english": "Feel the progress, you’re glowing.",
+      "spanish": "Siente el progreso, brillas.",
+      "category": "Hope",
+      "generated_at": "2026-07-04T22:03:58.905402"
+    },
+    {
+      "english": "This joy? Speaking it now.",
+      "spanish": "¿Esta alegría? Hablarla ahora.",
+      "category": "Hope",
+      "generated_at": "2026-07-04T22:03:58.905420"
+    },
+    {
+      "english": "Wisdom: Listen for connection.",
+      "spanish": "Sabiduría: Escucha para conectar.",
+      "category": "Hope",
+      "generated_at": "2026-07-04T22:03:58.905439"
     }
   ],
-  "last_updated": "2026-07-04T20:05:29.886897",
+  "last_updated": "2026-07-04T22:03:58.905441",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13554,6 +13584,11 @@
     "fact: you're fluent faster than you think.",
     "feel that ease? it's progress.",
     "wisdom: small talks build confidence.",
-    "imagine: understanding spoken easily."
+    "imagine: understanding spoken easily.",
+    "what if words connect us deeply?",
+    "future you, listening so well.",
+    "feel the progress, you’re glowing.",
+    "this joy? speaking it now.",
+    "wisdom: listen for connection."
   ]
 }
