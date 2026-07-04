@@ -11495,9 +11495,39 @@
       "spanish": "Un 'por favor', pura magia.",
       "category": "Joy",
       "generated_at": "2026-07-03T22:11:01.059740"
+    },
+    {
+      "english": "Breathe in this moment, amigo.",
+      "spanish": "Respira este momento, amigo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-04T14:39:32.181020"
+    },
+    {
+      "english": "Curious? What a quiet word does.",
+      "spanish": "¿Curioso? Lo que hace una palabra.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-04T14:39:32.181047"
+    },
+    {
+      "english": "Surprise! Your voice matters now.",
+      "spanish": "¡Sorpresa! Tu voz importa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-04T14:39:32.181067"
+    },
+    {
+      "english": "Wisdom: Gentleness calms the soul.",
+      "spanish": "Sabiduría: Suavidad calma alma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-04T14:39:32.181083"
+    },
+    {
+      "english": "You're not alone on this path.",
+      "spanish": "No estás solo en este camino.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-04T14:39:32.181101"
     }
   ],
-  "last_updated": "2026-07-03T22:11:01.059742",
+  "last_updated": "2026-07-04T14:39:32.181103",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13414,6 +13444,11 @@
     "feel that progress? yes!",
     "your voice, your world opens.",
     "small 'gracias' ripple outwards.",
-    "one 'por favor', pure magic."
+    "one 'por favor', pure magic.",
+    "breathe in this moment, amigo.",
+    "curious? what a quiet word does.",
+    "surprise! your voice matters now.",
+    "wisdom: gentleness calms the soul.",
+    "you're not alone on this path."
   ]
 }
