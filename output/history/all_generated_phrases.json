@@ -11585,9 +11585,39 @@
       "spanish": "Un sonido correcto, se siente bien.",
       "category": "Positive Life",
       "generated_at": "2026-07-04T17:56:52.095564"
+    },
+    {
+      "english": "Why wait? Speak joyfully now.",
+      "spanish": "¿Por qué esperar? Habla alegre ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T20:05:29.886817"
+    },
+    {
+      "english": "Fact: You're fluent faster than you think.",
+      "spanish": "Hecho: Eres fluido más rápido.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T20:05:29.886843"
+    },
+    {
+      "english": "Feel that ease? It's progress.",
+      "spanish": "¿Sientes esa facilidad? Es progreso.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T20:05:29.886862"
+    },
+    {
+      "english": "Wisdom: Small talks build confidence.",
+      "spanish": "Sabiduría: Charlas cortas dan confianza.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T20:05:29.886879"
+    },
+    {
+      "english": "Imagine: Understanding spoken easily.",
+      "spanish": "Imagina: Entender hablado fácilmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T20:05:29.886895"
     }
   ],
-  "last_updated": "2026-07-04T17:56:52.095566",
+  "last_updated": "2026-07-04T20:05:29.886897",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13519,6 +13549,11 @@
     "feel that flow? you're there.",
     "stop judging your accent, speak.",
     "the secret? small conversations.",
-    "one right sound, feels right."
+    "one right sound, feels right.",
+    "why wait? speak joyfully now.",
+    "fact: you're fluent faster than you think.",
+    "feel that ease? it's progress.",
+    "wisdom: small talks build confidence.",
+    "imagine: understanding spoken easily."
   ]
 }
