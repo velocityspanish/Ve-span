@@ -11555,9 +11555,39 @@
       "spanish": "Sabiduría: La amabilidad gana.",
       "category": "Happiness",
       "generated_at": "2026-07-04T16:04:17.761554"
+    },
+    {
+      "english": "That pause? Pure learning.",
+      "spanish": "Esa pausa, puro aprendizaje.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T17:56:52.095486"
+    },
+    {
+      "english": "Feel that flow? You're there.",
+      "spanish": "Siente ese fluir, estás ahí.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T17:56:52.095510"
+    },
+    {
+      "english": "Stop judging your accent, speak.",
+      "spanish": "Deja de juzgar tu acento, habla.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T17:56:52.095529"
+    },
+    {
+      "english": "The secret? Small conversations.",
+      "spanish": "El secreto: conversaciones pequeñas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T17:56:52.095546"
+    },
+    {
+      "english": "One right sound, feels right.",
+      "spanish": "Un sonido correcto, se siente bien.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-04T17:56:52.095564"
     }
   ],
-  "last_updated": "2026-07-04T16:04:17.761556",
+  "last_updated": "2026-07-04T17:56:52.095566",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13484,6 +13514,11 @@
     "why wait? learn this now.",
     "fact: you're learning fast.",
     "the reward? effortless speaking.",
-    "wisdom: gentleness wins hearts."
+    "wisdom: gentleness wins hearts.",
+    "that pause? pure learning.",
+    "feel that flow? you're there.",
+    "stop judging your accent, speak.",
+    "the secret? small conversations.",
+    "one right sound, feels right."
   ]
 }
