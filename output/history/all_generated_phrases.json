@@ -11525,9 +11525,39 @@
       "spanish": "No estás solo en este camino.",
       "category": "Inner Peace",
       "generated_at": "2026-07-04T14:39:32.181101"
+    },
+    {
+      "english": "This one word feels so kind.",
+      "spanish": "Esta palabra suena amable.",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T16:04:17.761477"
+    },
+    {
+      "english": "Why wait? Learn this now.",
+      "spanish": "¿Por qué esperar? Aprende esto ya.",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T16:04:17.761502"
+    },
+    {
+      "english": "Fact: You're learning fast.",
+      "spanish": "Hecho: Aprendes rápido.",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T16:04:17.761520"
+    },
+    {
+      "english": "The reward? Effortless speaking.",
+      "spanish": "¿La recompensa? Hablar sin esfuerzo.",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T16:04:17.761537"
+    },
+    {
+      "english": "Wisdom: Gentleness wins hearts.",
+      "spanish": "Sabiduría: La amabilidad gana.",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T16:04:17.761554"
     }
   ],
-  "last_updated": "2026-07-04T14:39:32.181103",
+  "last_updated": "2026-07-04T16:04:17.761556",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13449,6 +13479,11 @@
     "curious? what a quiet word does.",
     "surprise! your voice matters now.",
     "wisdom: gentleness calms the soul.",
-    "you're not alone on this path."
+    "you're not alone on this path.",
+    "this one word feels so kind.",
+    "why wait? learn this now.",
+    "fact: you're learning fast.",
+    "the reward? effortless speaking.",
+    "wisdom: gentleness wins hearts."
   ]
 }
