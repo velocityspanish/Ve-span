@@ -11705,9 +11705,39 @@
       "spanish": "Este fluir se siente placer.",
       "category": "Happiness",
       "generated_at": "2026-07-05T16:10:31.141334"
+    },
+    {
+      "english": "This pause holds so much.",
+      "spanish": "Esta pausa guarda mucho.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T17:56:30.929155"
+    },
+    {
+      "english": "Feel that confidence surge, yes!",
+      "spanish": "Siente esa confianza, ¡sí!",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T17:56:30.929186"
+    },
+    {
+      "english": "Future conversations, unwritten script.",
+      "spanish": "Futuras conversaciones, guion no escrito.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T17:56:30.929204"
+    },
+    {
+      "english": "The beauty: understanding shared joy.",
+      "spanish": "La belleza: entender alegría compartida.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T17:56:30.929221"
+    },
+    {
+      "english": "Never underestimate a small 'hola'.",
+      "spanish": "Nunca subestimes un pequeño 'hola'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T17:56:30.929238"
     }
   ],
-  "last_updated": "2026-07-05T16:10:31.141335",
+  "last_updated": "2026-07-05T17:56:30.929240",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13659,6 +13689,11 @@
     "curious? the feeling of connection.",
     "fact: your fluency grows now.",
     "imagine warm hellos everywhere.",
-    "this flow feels like pure bliss."
+    "this flow feels like pure bliss.",
+    "this pause holds so much.",
+    "feel that confidence surge, yes!",
+    "future conversations, unwritten script.",
+    "the beauty: understanding shared joy.",
+    "never underestimate a small 'hola'."
   ]
 }
