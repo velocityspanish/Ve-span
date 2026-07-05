@@ -11735,9 +11735,39 @@
       "spanish": "Nunca subestimes un pequeño 'hola'.",
       "category": "Forgiveness",
       "generated_at": "2026-07-05T17:56:30.929238"
+    },
+    {
+      "english": "Curious? The joy of understanding.",
+      "spanish": "¿Curioso? La alegría de entender.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T20:06:36.545828"
+    },
+    {
+      "english": "Feel that? Your brain is growing.",
+      "spanish": "¿Sientes eso? Tu cerebro crece.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T20:06:36.545854"
+    },
+    {
+      "english": "Imagine: Warm welcomes greet you.",
+      "spanish": "Imagina: Saludos cálidos te reciben.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T20:06:36.545872"
+    },
+    {
+      "english": "Never regret speaking kindly.",
+      "spanish": "Nunca lamentes hablar amablemente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T20:06:36.545891"
+    },
+    {
+      "english": "What if they loved it?",
+      "spanish": "¿Y si les encantó?",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T20:06:36.545907"
     }
   ],
-  "last_updated": "2026-07-05T17:56:30.929240",
+  "last_updated": "2026-07-05T20:06:36.545909",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13694,6 +13724,11 @@
     "feel that confidence surge, yes!",
     "future conversations, unwritten script.",
     "the beauty: understanding shared joy.",
-    "never underestimate a small 'hola'."
+    "never underestimate a small 'hola'.",
+    "curious? the joy of understanding.",
+    "feel that? your brain is growing.",
+    "imagine: warm welcomes greet you.",
+    "never regret speaking kindly.",
+    "what if they loved it?"
   ]
 }
