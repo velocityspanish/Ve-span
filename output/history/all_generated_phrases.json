@@ -11675,9 +11675,39 @@
       "spanish": "Hecho: Los errores te hacen más listo.",
       "category": "Motivation",
       "generated_at": "2026-07-05T14:45:49.074802"
+    },
+    {
+      "english": "Surprise! You're a language star.",
+      "spanish": "¡Sorpresa! Eres una estrella.",
+      "category": "Happiness",
+      "generated_at": "2026-07-05T16:10:31.141254"
+    },
+    {
+      "english": "Curious? The feeling of connection.",
+      "spanish": "¿Curioso? El sentir conexión.",
+      "category": "Happiness",
+      "generated_at": "2026-07-05T16:10:31.141279"
+    },
+    {
+      "english": "Fact: Your fluency grows now.",
+      "spanish": "Hecho: Tu fluidez crece ya.",
+      "category": "Happiness",
+      "generated_at": "2026-07-05T16:10:31.141298"
+    },
+    {
+      "english": "Imagine warm hellos everywhere.",
+      "spanish": "Imagina saludos cálidos siempre.",
+      "category": "Happiness",
+      "generated_at": "2026-07-05T16:10:31.141316"
+    },
+    {
+      "english": "This flow feels like pure bliss.",
+      "spanish": "Este fluir se siente placer.",
+      "category": "Happiness",
+      "generated_at": "2026-07-05T16:10:31.141334"
     }
   ],
-  "last_updated": "2026-07-05T14:45:49.074803",
+  "last_updated": "2026-07-05T16:10:31.141335",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13624,6 +13654,11 @@
     "wisdom: little progress adds up.",
     "surprise! you're already doing it.",
     "feel that click? keep going.",
-    "fact: mistakes make you smarter."
+    "fact: mistakes make you smarter.",
+    "surprise! you're a language star.",
+    "curious? the feeling of connection.",
+    "fact: your fluency grows now.",
+    "imagine warm hellos everywhere.",
+    "this flow feels like pure bliss."
   ]
 }
