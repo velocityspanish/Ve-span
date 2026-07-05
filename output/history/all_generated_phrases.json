@@ -11645,9 +11645,39 @@
       "spanish": "Sabiduría: Escucha para conectar.",
       "category": "Hope",
       "generated_at": "2026-07-04T22:03:58.905439"
+    },
+    {
+      "english": "Unlock your potential, speak.",
+      "spanish": "Desbloquea tu potencial, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T14:45:49.074718"
+    },
+    {
+      "english": "Wisdom: Little progress adds up.",
+      "spanish": "Sabiduría: Poco a poco suma.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T14:45:49.074747"
+    },
+    {
+      "english": "Surprise! You're already doing it.",
+      "spanish": "¡Sorpresa! Ya lo estás haciendo.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T14:45:49.074765"
+    },
+    {
+      "english": "Feel that click? Keep going.",
+      "spanish": "¿Sientes ese clic? Continúa.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T14:45:49.074784"
+    },
+    {
+      "english": "Fact: Mistakes make you smarter.",
+      "spanish": "Hecho: Los errores te hacen más listo.",
+      "category": "Motivation",
+      "generated_at": "2026-07-05T14:45:49.074802"
     }
   ],
-  "last_updated": "2026-07-04T22:03:58.905441",
+  "last_updated": "2026-07-05T14:45:49.074803",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13589,6 +13619,11 @@
     "future you, listening so well.",
     "feel the progress, you’re glowing.",
     "this joy? speaking it now.",
-    "wisdom: listen for connection."
+    "wisdom: listen for connection.",
+    "unlock your potential, speak.",
+    "wisdom: little progress adds up.",
+    "surprise! you're already doing it.",
+    "feel that click? keep going.",
+    "fact: mistakes make you smarter."
   ]
 }
