@@ -11765,9 +11765,39 @@
       "spanish": "¿Y si les encantó?",
       "category": "Gratitude",
       "generated_at": "2026-07-05T20:06:36.545907"
+    },
+    {
+      "english": "Surprise! Your fluency is growing.",
+      "spanish": "¡Sorpresa! Tu fluidez crece.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T22:07:56.962910"
+    },
+    {
+      "english": "Curious? The warmth of welcome.",
+      "spanish": "¿Curioso? La calidez de bienvenida.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T22:07:56.962933"
+    },
+    {
+      "english": "Your perspective now matters.",
+      "spanish": "Tu perspectiva ahora importa.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T22:07:56.962948"
+    },
+    {
+      "english": "Imagine: True understanding flows.",
+      "spanish": "Imagina: El entendimiento verdadero fluye.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T22:07:56.962962"
+    },
+    {
+      "english": "One kind word, huge impact.",
+      "spanish": "Una palabra amable, gran impacto.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T22:07:56.962976"
     }
   ],
-  "last_updated": "2026-07-05T20:06:36.545909",
+  "last_updated": "2026-07-05T22:07:56.962977",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13729,6 +13759,11 @@
     "feel that? your brain is growing.",
     "imagine: warm welcomes greet you.",
     "never regret speaking kindly.",
-    "what if they loved it?"
+    "what if they loved it?",
+    "surprise! your fluency is growing.",
+    "curious? the warmth of welcome.",
+    "your perspective now matters.",
+    "imagine: true understanding flows.",
+    "one kind word, huge impact."
   ]
 }
