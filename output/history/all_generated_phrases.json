@@ -11855,9 +11855,39 @@
       "spanish": "Sorpresa! Puedes decir eso.",
       "category": "Growth",
       "generated_at": "2026-07-06T17:45:02.199681"
+    },
+    {
+      "english": "Hear this? It's your voice.",
+      "spanish": "¿Oyes esto? Es tu voz.",
+      "category": "Friendship",
+      "generated_at": "2026-07-06T18:50:22.731098"
+    },
+    {
+      "english": "Why hide? Speak with warmth.",
+      "spanish": "¿Por qué esconderse? Habla con calidez.",
+      "category": "Friendship",
+      "generated_at": "2026-07-06T18:50:22.731129"
+    },
+    {
+      "english": "Your progress feels amazing.",
+      "spanish": "Tu progreso se siente increíble.",
+      "category": "Friendship",
+      "generated_at": "2026-07-06T18:50:22.731149"
+    },
+    {
+      "english": "Curious? Shared laughter is best.",
+      "spanish": "¿Curioso? La risa compartida es lo mejor.",
+      "category": "Friendship",
+      "generated_at": "2026-07-06T18:50:22.731167"
+    },
+    {
+      "english": "Feel that genuine welcome?",
+      "spanish": "¿Sientes esa bienvenida genuina?",
+      "category": "Friendship",
+      "generated_at": "2026-07-06T18:50:22.731185"
     }
   ],
-  "last_updated": "2026-07-06T17:45:02.199683",
+  "last_updated": "2026-07-06T18:50:22.731187",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13834,6 +13864,11 @@
     "one right accent, opens doors.",
     "curious? connect deeply, simply.",
     "your effort shapes understanding.",
-    "surprise! you can say that."
+    "surprise! you can say that.",
+    "hear this? it's your voice.",
+    "why hide? speak with warmth.",
+    "your progress feels amazing.",
+    "curious? shared laughter is best.",
+    "feel that genuine welcome?"
   ]
 }
