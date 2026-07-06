@@ -11825,9 +11825,39 @@
       "spanish": "¿Sientes esa paz? Abrázala.",
       "category": "Inner Peace",
       "generated_at": "2026-07-06T16:22:02.961960"
+    },
+    {
+      "english": "The feeling of understanding? Priceless.",
+      "spanish": "El sentir de entender? Invaluable.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T17:45:02.199595"
+    },
+    {
+      "english": "One right accent, opens doors.",
+      "spanish": "Un acento correcto, abre puertas.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T17:45:02.199626"
+    },
+    {
+      "english": "Curious? Connect deeply, simply.",
+      "spanish": "Curioso? Conecta profundo, simple.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T17:45:02.199645"
+    },
+    {
+      "english": "Your effort shapes understanding.",
+      "spanish": "Tu esfuerzo forma entendimiento.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T17:45:02.199663"
+    },
+    {
+      "english": "Surprise! You can say that.",
+      "spanish": "Sorpresa! Puedes decir eso.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T17:45:02.199681"
     }
   ],
-  "last_updated": "2026-07-06T16:22:02.961962",
+  "last_updated": "2026-07-06T17:45:02.199683",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13799,6 +13829,11 @@
     "listen: your mind is expanding.",
     "wisdom: kindness travels far.",
     "one phrase, true understanding.",
-    "feel that peace? embrace it."
+    "feel that peace? embrace it.",
+    "the feeling of understanding? priceless.",
+    "one right accent, opens doors.",
+    "curious? connect deeply, simply.",
+    "your effort shapes understanding.",
+    "surprise! you can say that."
   ]
 }
