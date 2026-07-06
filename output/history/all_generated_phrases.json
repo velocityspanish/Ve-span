@@ -11795,9 +11795,39 @@
       "spanish": "Una palabra amable, gran impacto.",
       "category": "Purpose",
       "generated_at": "2026-07-05T22:07:56.962976"
+    },
+    {
+      "english": "Your new skill, unlocked joy.",
+      "spanish": "Tu nueva habilidad, alegría desbloqueada.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T16:22:02.961855"
+    },
+    {
+      "english": "Listen: Your mind is expanding.",
+      "spanish": "Escucha: Tu mente se expande.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T16:22:02.961887"
+    },
+    {
+      "english": "Wisdom: Kindness travels far.",
+      "spanish": "Sabiduría: La amabilidad viaja lejos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T16:22:02.961911"
+    },
+    {
+      "english": "One phrase, true understanding.",
+      "spanish": "Una frase, entendimiento real.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T16:22:02.961937"
+    },
+    {
+      "english": "Feel that peace? Embrace it.",
+      "spanish": "¿Sientes esa paz? Abrázala.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T16:22:02.961960"
     }
   ],
-  "last_updated": "2026-07-05T22:07:56.962977",
+  "last_updated": "2026-07-06T16:22:02.961962",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13764,6 +13794,11 @@
     "curious? the warmth of welcome.",
     "your perspective now matters.",
     "imagine: true understanding flows.",
-    "one kind word, huge impact."
+    "one kind word, huge impact.",
+    "your new skill, unlocked joy.",
+    "listen: your mind is expanding.",
+    "wisdom: kindness travels far.",
+    "one phrase, true understanding.",
+    "feel that peace? embrace it."
   ]
 }
