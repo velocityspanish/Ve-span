@@ -11885,9 +11885,39 @@
       "spanish": "¿Sientes esa bienvenida genuina?",
       "category": "Friendship",
       "generated_at": "2026-07-06T18:50:22.731185"
+    },
+    {
+      "english": "This warmth? It's connection.",
+      "spanish": "Este calor? Es conexión.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T20:46:41.597977"
+    },
+    {
+      "english": "Surprise! Your fluency grows.",
+      "spanish": "¡Sorpresa! Tu fluidez crece.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T20:46:41.598006"
+    },
+    {
+      "english": "Curious? What this sound does.",
+      "spanish": "¿Curioso? Lo que este sonido hace.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T20:46:41.598025"
+    },
+    {
+      "english": "Fact: You're speaking more today.",
+      "spanish": "Hecho: Hablas más hoy.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T20:46:41.598043"
+    },
+    {
+      "english": "Imagine warm greetings, always.",
+      "spanish": "Imagina saludos cálidos, siempre.",
+      "category": "Growth",
+      "generated_at": "2026-07-06T20:46:41.598061"
     }
   ],
-  "last_updated": "2026-07-06T18:50:22.731187",
+  "last_updated": "2026-07-06T20:46:41.598062",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13869,6 +13899,11 @@
     "why hide? speak with warmth.",
     "your progress feels amazing.",
     "curious? shared laughter is best.",
-    "feel that genuine welcome?"
+    "feel that genuine welcome?",
+    "this warmth? it's connection.",
+    "surprise! your fluency grows.",
+    "curious? what this sound does.",
+    "fact: you're speaking more today.",
+    "imagine warm greetings, always."
   ]
 }
