@@ -11975,9 +11975,39 @@
       "spanish": "Hecho: Tu acento suena bien.",
       "category": "Gratitude",
       "generated_at": "2026-07-07T20:44:58.446805"
+    },
+    {
+      "english": "The courage to just speak.",
+      "spanish": "El coraje de hablar ya.",
+      "category": "Courage",
+      "generated_at": "2026-07-07T22:17:08.503159"
+    },
+    {
+      "english": "Small words, big confidence bloom.",
+      "spanish": "Palabras pequeñas, gran confianza florece.",
+      "category": "Courage",
+      "generated_at": "2026-07-07T22:17:08.503187"
+    },
+    {
+      "english": "Feel that learning magic now.",
+      "spanish": "Siente esa magia aprendiendo ya.",
+      "category": "Courage",
+      "generated_at": "2026-07-07T22:17:08.503207"
+    },
+    {
+      "english": "One 'claro,' opens understanding.",
+      "spanish": "Un 'claro,' abre el entendimiento.",
+      "category": "Courage",
+      "generated_at": "2026-07-07T22:17:08.503224"
+    },
+    {
+      "english": "Embrace the stumble, rise higher.",
+      "spanish": "Abraza el tropiezo, sube más.",
+      "category": "Courage",
+      "generated_at": "2026-07-07T22:17:08.503242"
     }
   ],
-  "last_updated": "2026-07-07T20:44:58.446807",
+  "last_updated": "2026-07-07T22:17:08.503244",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13974,6 +14004,11 @@
     "why not smile more?",
     "future you, so grateful.",
     "one 'muchas gracias' wins.",
-    "fact: your accent sounds nice."
+    "fact: your accent sounds nice.",
+    "the courage to just speak.",
+    "small words, big confidence bloom.",
+    "feel that learning magic now.",
+    "one 'claro,' opens understanding.",
+    "embrace the stumble, rise higher."
   ]
 }
