@@ -11945,9 +11945,39 @@
       "spanish": "¿Este ritmo? Es tu éxito.",
       "category": "Growth",
       "generated_at": "2026-07-06T22:19:31.811347"
+    },
+    {
+      "english": "Your warmth? It's understood.",
+      "spanish": "Tu calidez, se entiende.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-07T20:44:58.446727"
+    },
+    {
+      "english": "Why not smile more?",
+      "spanish": "¿Por qué no sonreír más?",
+      "category": "Gratitude",
+      "generated_at": "2026-07-07T20:44:58.446750"
+    },
+    {
+      "english": "Future you, so grateful.",
+      "spanish": "Tu futuro yo, muy agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-07T20:44:58.446769"
+    },
+    {
+      "english": "One 'muchas gracias' wins.",
+      "spanish": "Un 'muchas gracias' gana.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-07T20:44:58.446787"
+    },
+    {
+      "english": "Fact: Your accent sounds nice.",
+      "spanish": "Hecho: Tu acento suena bien.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-07T20:44:58.446805"
     }
   ],
-  "last_updated": "2026-07-06T22:19:31.811349",
+  "last_updated": "2026-07-07T20:44:58.446807",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -13939,6 +13969,11 @@
     "the real magic: listening well.",
     "small moments, huge connections.",
     "surprise! you're getting fluent.",
-    "this rhythm? it's your success."
+    "this rhythm? it's your success.",
+    "your warmth? it's understood.",
+    "why not smile more?",
+    "future you, so grateful.",
+    "one 'muchas gracias' wins.",
+    "fact: your accent sounds nice."
   ]
 }
