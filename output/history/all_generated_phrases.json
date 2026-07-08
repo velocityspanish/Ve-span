@@ -12125,9 +12125,39 @@
       "spanish": "Imagina, conversaciones fluidas.",
       "category": "Balance",
       "generated_at": "2026-07-08T20:16:29.727716"
+    },
+    {
+      "english": "Your accent sounds beautiful, truly.",
+      "spanish": "Tu acento suena hermoso, de verdad.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-08T22:13:09.228834"
+    },
+    {
+      "english": "One small step, huge leap.",
+      "spanish": "Un pequeño paso, gran salto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-08T22:13:09.228863"
+    },
+    {
+      "english": "Surprise! You're building worlds.",
+      "spanish": "¡Sorpresa! Estás creando mundos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-08T22:13:09.228882"
+    },
+    {
+      "english": "This joy? Understanding smiles.",
+      "spanish": "¿Esta alegría? Entender sonrisas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-08T22:13:09.228901"
+    },
+    {
+      "english": "You have a voice that matters.",
+      "spanish": "Tienes una voz que importa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-08T22:13:09.228920"
     }
   ],
-  "last_updated": "2026-07-08T20:16:29.727718",
+  "last_updated": "2026-07-08T22:13:09.228922",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14149,6 +14179,11 @@
     "surprise! your voice is heard.",
     "you're learning, feel the rhythm.",
     "fact: your words have power.",
-    "imagine, effortless conversations."
+    "imagine, effortless conversations.",
+    "your accent sounds beautiful, truly.",
+    "one small step, huge leap.",
+    "surprise! you're building worlds.",
+    "this joy? understanding smiles.",
+    "you have a voice that matters."
   ]
 }
