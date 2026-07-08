@@ -12095,9 +12095,39 @@
       "spanish": "Futuro tú, tan orgulloso hoy.",
       "category": "Purpose",
       "generated_at": "2026-07-08T18:13:45.895864"
+    },
+    {
+      "english": "This one phrase, unlocks connection.",
+      "spanish": "Esta frase, desbloquea conexión.",
+      "category": "Balance",
+      "generated_at": "2026-07-08T20:16:29.727631"
+    },
+    {
+      "english": "Surprise! Your voice is heard.",
+      "spanish": "¡Sorpresa! Tu voz se escucha.",
+      "category": "Balance",
+      "generated_at": "2026-07-08T20:16:29.727660"
+    },
+    {
+      "english": "You're learning, feel the rhythm.",
+      "spanish": "Estás aprendiendo, siente el ritmo.",
+      "category": "Balance",
+      "generated_at": "2026-07-08T20:16:29.727679"
+    },
+    {
+      "english": "Fact: Your words have power.",
+      "spanish": "Hecho: Tus palabras tienen poder.",
+      "category": "Balance",
+      "generated_at": "2026-07-08T20:16:29.727698"
+    },
+    {
+      "english": "Imagine, effortless conversations.",
+      "spanish": "Imagina, conversaciones fluidas.",
+      "category": "Balance",
+      "generated_at": "2026-07-08T20:16:29.727716"
     }
   ],
-  "last_updated": "2026-07-08T18:13:45.895867",
+  "last_updated": "2026-07-08T20:16:29.727718",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14114,6 +14144,11 @@
     "small 'hola', big heart opens.",
     "never fear saying it wrong.",
     "this word unlocks new friends.",
-    "future you, so proud today."
+    "future you, so proud today.",
+    "this one phrase, unlocks connection.",
+    "surprise! your voice is heard.",
+    "you're learning, feel the rhythm.",
+    "fact: your words have power.",
+    "imagine, effortless conversations."
   ]
 }
