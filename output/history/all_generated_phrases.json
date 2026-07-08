@@ -12065,9 +12065,39 @@
       "spanish": "¿Esta comodidad? Te la ganaste.",
       "category": "Confidence",
       "generated_at": "2026-07-08T16:41:22.514521"
+    },
+    {
+      "english": "Hear that? Your brain is lit!",
+      "spanish": "¿Oyes eso? ¡Tu cerebro está encendido!",
+      "category": "Purpose",
+      "generated_at": "2026-07-08T18:13:45.895765"
+    },
+    {
+      "english": "Small 'hola', big heart opens.",
+      "spanish": "Pequeño 'hola', gran corazón se abre.",
+      "category": "Purpose",
+      "generated_at": "2026-07-08T18:13:45.895794"
+    },
+    {
+      "english": "Never fear saying it wrong.",
+      "spanish": "Nunca temas decirlo mal.",
+      "category": "Purpose",
+      "generated_at": "2026-07-08T18:13:45.895813"
+    },
+    {
+      "english": "This word unlocks new friends.",
+      "spanish": "Esta palabra desbloquea nuevos amigos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-08T18:13:45.895832"
+    },
+    {
+      "english": "Future you, so proud today.",
+      "spanish": "Futuro tú, tan orgulloso hoy.",
+      "category": "Purpose",
+      "generated_at": "2026-07-08T18:13:45.895864"
     }
   ],
-  "last_updated": "2026-07-08T16:41:22.514523",
+  "last_updated": "2026-07-08T18:13:45.895867",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14079,6 +14109,11 @@
     "curious? what simple words do.",
     "embrace the mess, it's learning.",
     "imagine: conversations flow easily.",
-    "this comfort? you earned it."
+    "this comfort? you earned it.",
+    "hear that? your brain is lit!",
+    "small 'hola', big heart opens.",
+    "never fear saying it wrong.",
+    "this word unlocks new friends.",
+    "future you, so proud today."
   ]
 }
