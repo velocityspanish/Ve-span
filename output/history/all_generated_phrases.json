@@ -12035,9 +12035,39 @@
       "spanish": "Sabiduría: Perdonar te libera.",
       "category": "Forgiveness",
       "generated_at": "2026-07-08T16:27:33.527738"
+    },
+    {
+      "english": "Want a secret? Listen close.",
+      "spanish": "¿Quieres un secreto? Escucha.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T16:41:22.514437"
+    },
+    {
+      "english": "Curious? What simple words do.",
+      "spanish": "¿Curioso? Lo que hacen palabras.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T16:41:22.514466"
+    },
+    {
+      "english": "Embrace the mess, it's learning.",
+      "spanish": "Abraza el lío, es aprender.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T16:41:22.514485"
+    },
+    {
+      "english": "Imagine: Conversations flow easily.",
+      "spanish": "Imagina: Las charlas fluyen.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T16:41:22.514502"
+    },
+    {
+      "english": "This comfort? You earned it.",
+      "spanish": "¿Esta comodidad? Te la ganaste.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T16:41:22.514521"
     }
   ],
-  "last_updated": "2026-07-08T16:27:33.527740",
+  "last_updated": "2026-07-08T16:41:22.514523",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14044,6 +14074,11 @@
     "minds open with forgiveness.",
     "future you thanks you, now.",
     "let go, feel lighter, always.",
-    "wisdom: forgiveness frees you."
+    "wisdom: forgiveness frees you.",
+    "want a secret? listen close.",
+    "curious? what simple words do.",
+    "embrace the mess, it's learning.",
+    "imagine: conversations flow easily.",
+    "this comfort? you earned it."
   ]
 }
