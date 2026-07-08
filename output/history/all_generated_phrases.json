@@ -12005,9 +12005,39 @@
       "spanish": "Abraza el tropiezo, sube más.",
       "category": "Courage",
       "generated_at": "2026-07-07T22:17:08.503242"
+    },
+    {
+      "english": "Want peace? Choose forgiveness.",
+      "spanish": "¿Quieres paz? Elige perdonar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-08T16:27:33.527653"
+    },
+    {
+      "english": "Minds open with forgiveness.",
+      "spanish": "Mentes se abren al perdonar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-08T16:27:33.527682"
+    },
+    {
+      "english": "Future you thanks you, now.",
+      "spanish": "Tu futuro tú te lo agradece, ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-08T16:27:33.527701"
+    },
+    {
+      "english": "Let go, feel lighter, always.",
+      "spanish": "Suelta, siéntete más ligero, siempre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-08T16:27:33.527720"
+    },
+    {
+      "english": "Wisdom: Forgiveness frees you.",
+      "spanish": "Sabiduría: Perdonar te libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-08T16:27:33.527738"
     }
   ],
-  "last_updated": "2026-07-07T22:17:08.503244",
+  "last_updated": "2026-07-08T16:27:33.527740",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14009,6 +14039,11 @@
     "small words, big confidence bloom.",
     "feel that learning magic now.",
     "one 'claro,' opens understanding.",
-    "embrace the stumble, rise higher."
+    "embrace the stumble, rise higher.",
+    "want peace? choose forgiveness.",
+    "minds open with forgiveness.",
+    "future you thanks you, now.",
+    "let go, feel lighter, always.",
+    "wisdom: forgiveness frees you."
   ]
 }
