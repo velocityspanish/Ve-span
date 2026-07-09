@@ -12185,9 +12185,39 @@
       "spanish": "Hecho: estás haciendo amigos ahora.",
       "category": "Happiness",
       "generated_at": "2026-07-09T15:58:15.101451"
+    },
+    {
+      "english": "Want peace? Let go.",
+      "spanish": "Buscas paz? Suelta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-09T17:23:10.439326"
+    },
+    {
+      "english": "Regret nothing, forgive all.",
+      "spanish": "Nada de arrepentir, todo perdonar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-09T17:23:10.439355"
+    },
+    {
+      "english": "Surprise! Your heart is lighter.",
+      "spanish": "¡Sorpresa! Tu corazón más ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-09T17:23:10.439375"
+    },
+    {
+      "english": "What if hurt fades away?",
+      "spanish": "¿Qué si el dolor se va?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-09T17:23:10.439392"
+    },
+    {
+      "english": "Kindness is strength, embrace it.",
+      "spanish": "Bondad es fuerza, acéptala.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-09T17:23:10.439410"
     }
   ],
-  "last_updated": "2026-07-09T15:58:15.101453",
+  "last_updated": "2026-07-09T17:23:10.439413",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14219,6 +14249,11 @@
     "one word, big smiles ignite.",
     "feel that? connection happens.",
     "this joy, you’ve earned it.",
-    "fact: you're making friends now."
+    "fact: you're making friends now.",
+    "want peace? let go.",
+    "regret nothing, forgive all.",
+    "surprise! your heart is lighter.",
+    "what if hurt fades away?",
+    "kindness is strength, embrace it."
   ]
 }
