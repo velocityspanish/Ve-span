@@ -12245,9 +12245,39 @@
       "spanish": "Sabiduría: Escucha, oye de verdad.",
       "category": "Balance",
       "generated_at": "2026-07-09T18:46:34.300827"
+    },
+    {
+      "english": "This pause, feels like calm.",
+      "spanish": "Esta pausa, se siente calma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-09T20:41:59.839496"
+    },
+    {
+      "english": "Hear that? It's your spirit.",
+      "spanish": "¿Oyes eso? Es tu espíritu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-09T20:41:59.839523"
+    },
+    {
+      "english": "Breathe it in, you're ready.",
+      "spanish": "Inhala esto, estás listo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-09T20:41:59.839543"
+    },
+    {
+      "english": "Your mind finds peace now.",
+      "spanish": "Tu mente encuentra paz ahora.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-09T20:41:59.839561"
+    },
+    {
+      "english": "Surprise! True calm arrives.",
+      "spanish": "¡Sorpresa! La calma llega.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-09T20:41:59.839580"
     }
   ],
-  "last_updated": "2026-07-09T18:46:34.300829",
+  "last_updated": "2026-07-09T20:41:59.839582",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14289,6 +14319,11 @@
     "one word, a world opens.",
     "believe: you're speaking today.",
     "why wait? connect, express.",
-    "wisdom: listen, truly hear."
+    "wisdom: listen, truly hear.",
+    "this pause, feels like calm.",
+    "hear that? it's your spirit.",
+    "breathe it in, you're ready.",
+    "your mind finds peace now.",
+    "surprise! true calm arrives."
   ]
 }
