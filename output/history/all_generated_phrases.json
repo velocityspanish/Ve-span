@@ -12275,9 +12275,39 @@
       "spanish": "¡Sorpresa! La calma llega.",
       "category": "Inner Peace",
       "generated_at": "2026-07-09T20:41:59.839580"
+    },
+    {
+      "english": "You're not alone, learning.",
+      "spanish": "No estás solo, aprendiendo.",
+      "category": "Hope",
+      "generated_at": "2026-07-09T22:37:05.282326"
+    },
+    {
+      "english": "That feeling? Understanding wins.",
+      "spanish": "¿Esa sensación? El entendimiento gana.",
+      "category": "Hope",
+      "generated_at": "2026-07-09T22:37:05.282353"
+    },
+    {
+      "english": "Curious? The connection is real.",
+      "spanish": "¿Curioso? La conexión es real.",
+      "category": "Hope",
+      "generated_at": "2026-07-09T22:37:05.282372"
+    },
+    {
+      "english": "The reward: simple dialogue.",
+      "spanish": "La recompensa: diálogo simple.",
+      "category": "Hope",
+      "generated_at": "2026-07-09T22:37:05.282391"
+    },
+    {
+      "english": "Surprise! Your words now land.",
+      "spanish": "¡Sorpresa! Tus palabras ahora llegan.",
+      "category": "Hope",
+      "generated_at": "2026-07-09T22:37:05.282410"
     }
   ],
-  "last_updated": "2026-07-09T20:41:59.839582",
+  "last_updated": "2026-07-09T22:37:05.282412",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14324,6 +14354,11 @@
     "hear that? it's your spirit.",
     "breathe it in, you're ready.",
     "your mind finds peace now.",
-    "surprise! true calm arrives."
+    "surprise! true calm arrives.",
+    "you're not alone, learning.",
+    "that feeling? understanding wins.",
+    "curious? the connection is real.",
+    "the reward: simple dialogue.",
+    "surprise! your words now land."
   ]
 }
