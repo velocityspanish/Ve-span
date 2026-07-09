@@ -12215,9 +12215,39 @@
       "spanish": "Bondad es fuerza, acéptala.",
       "category": "Forgiveness",
       "generated_at": "2026-07-09T17:23:10.439410"
+    },
+    {
+      "english": "Imagine warmth, spoken freely.",
+      "spanish": "Imagina calidez, dicha libre.",
+      "category": "Balance",
+      "generated_at": "2026-07-09T18:46:34.300743"
+    },
+    {
+      "english": "One word, a world opens.",
+      "spanish": "Una palabra, un mundo se abre.",
+      "category": "Balance",
+      "generated_at": "2026-07-09T18:46:34.300770"
+    },
+    {
+      "english": "Believe: You're speaking today.",
+      "spanish": "Cree: Estás hablando hoy.",
+      "category": "Balance",
+      "generated_at": "2026-07-09T18:46:34.300790"
+    },
+    {
+      "english": "Why wait? Connect, express.",
+      "spanish": "¿Por qué esperar? Conecta, expresa.",
+      "category": "Balance",
+      "generated_at": "2026-07-09T18:46:34.300809"
+    },
+    {
+      "english": "Wisdom: Listen, truly hear.",
+      "spanish": "Sabiduría: Escucha, oye de verdad.",
+      "category": "Balance",
+      "generated_at": "2026-07-09T18:46:34.300827"
     }
   ],
-  "last_updated": "2026-07-09T17:23:10.439413",
+  "last_updated": "2026-07-09T18:46:34.300829",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14254,6 +14284,11 @@
     "regret nothing, forgive all.",
     "surprise! your heart is lighter.",
     "what if hurt fades away?",
-    "kindness is strength, embrace it."
+    "kindness is strength, embrace it.",
+    "imagine warmth, spoken freely.",
+    "one word, a world opens.",
+    "believe: you're speaking today.",
+    "why wait? connect, express.",
+    "wisdom: listen, truly hear."
   ]
 }
