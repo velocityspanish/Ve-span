@@ -12335,9 +12335,39 @@
       "spanish": "Una risa compartida, vínculo instantáneo.",
       "category": "Friendship",
       "generated_at": "2026-07-10T15:33:14.300262"
+    },
+    {
+      "english": "Feel that spark? It's you.",
+      "spanish": "¿Sientes esa chispa? Eres tú.",
+      "category": "Joy",
+      "generated_at": "2026-07-10T16:57:17.281132"
+    },
+    {
+      "english": "Unlock worlds with one 'hola'.",
+      "spanish": "Abre mundos con un 'hola'.",
+      "category": "Joy",
+      "generated_at": "2026-07-10T16:57:17.281164"
+    },
+    {
+      "english": "Your future welcomes this skill.",
+      "spanish": "Tu futuro agradece esta habilidad.",
+      "category": "Joy",
+      "generated_at": "2026-07-10T16:57:17.281184"
+    },
+    {
+      "english": "Imagine smiles in their eyes.",
+      "spanish": "Imagina sonrisas en sus ojos.",
+      "category": "Joy",
+      "generated_at": "2026-07-10T16:57:17.281205"
+    },
+    {
+      "english": "The joy? Pure connection now.",
+      "spanish": " ¿La alegría? Conexión pura ahora.",
+      "category": "Joy",
+      "generated_at": "2026-07-10T16:57:17.281225"
     }
   ],
-  "last_updated": "2026-07-10T15:33:14.300264",
+  "last_updated": "2026-07-10T16:57:17.281227",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14394,6 +14424,11 @@
     "imagine: true connection begins.",
     "fact: kindness travels further.",
     "feel that? understanding dawns.",
-    "one shared laugh, instant bond."
+    "one shared laugh, instant bond.",
+    "feel that spark? it's you.",
+    "unlock worlds with one 'hola'.",
+    "your future welcomes this skill.",
+    "imagine smiles in their eyes.",
+    "the joy? pure connection now."
   ]
 }
