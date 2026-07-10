@@ -12395,9 +12395,39 @@
       "spanish": "¿Esta alegría? Aprender es vibrante.",
       "category": "Positive Life",
       "generated_at": "2026-07-10T18:17:15.099212"
+    },
+    {
+      "english": "Why not try one phrase?",
+      "spanish": "¿Por qué no intentar una frase?",
+      "category": "Perseverance",
+      "generated_at": "2026-07-10T20:14:04.265151"
+    },
+    {
+      "english": "The real reward: connection.",
+      "spanish": "La recompensa real: conexión.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-10T20:14:04.265181"
+    },
+    {
+      "english": "One sentence, shared laughter.",
+      "spanish": "Una frase, risas compartidas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-10T20:14:04.265201"
+    },
+    {
+      "english": "Small victories build courage.",
+      "spanish": "Pequeñas victorias construyen coraje.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-10T20:14:04.265220"
+    },
+    {
+      "english": "Trust the journey, it blooms.",
+      "spanish": "Confía en el viaje, florece.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-10T20:14:04.265239"
     }
   ],
-  "last_updated": "2026-07-10T18:17:15.099214",
+  "last_updated": "2026-07-10T20:14:04.265241",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14464,6 +14494,11 @@
     "curious? the rhythm of fluency.",
     "imagine this connection, effortless.",
     "your brain is lighting up!",
-    "this joy? learning is vibrant."
+    "this joy? learning is vibrant.",
+    "why not try one phrase?",
+    "the real reward: connection.",
+    "one sentence, shared laughter.",
+    "small victories build courage.",
+    "trust the journey, it blooms."
   ]
 }
