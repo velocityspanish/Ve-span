@@ -12425,9 +12425,39 @@
       "spanish": "Confía en el viaje, florece.",
       "category": "Perseverance",
       "generated_at": "2026-07-10T20:14:04.265239"
+    },
+    {
+      "english": "Hear this? Fluency unlocked.",
+      "spanish": "Escucha esto, fluidez desbloqueada.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-10T22:11:19.465708"
+    },
+    {
+      "english": "One word, worlds open.",
+      "spanish": "Una palabra, mundos abren.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-10T22:11:19.465737"
+    },
+    {
+      "english": "This small sound? Powerful.",
+      "spanish": "¿Este pequeño sonido? Poderoso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-10T22:11:19.465756"
+    },
+    {
+      "english": "This wisdom changes learning.",
+      "spanish": "Esta sabiduría cambia el aprendizaje.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-10T22:11:19.465775"
+    },
+    {
+      "english": "Surprise! Your accent's unique.",
+      "spanish": "¡Sorpresa! Tu acento es único.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-10T22:11:19.465794"
     }
   ],
-  "last_updated": "2026-07-10T20:14:04.265241",
+  "last_updated": "2026-07-10T22:11:19.465796",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14499,6 +14529,11 @@
     "the real reward: connection.",
     "one sentence, shared laughter.",
     "small victories build courage.",
-    "trust the journey, it blooms."
+    "trust the journey, it blooms.",
+    "hear this? fluency unlocked.",
+    "one word, worlds open.",
+    "this small sound? powerful.",
+    "this wisdom changes learning.",
+    "surprise! your accent's unique."
   ]
 }
