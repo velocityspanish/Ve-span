@@ -12365,9 +12365,39 @@
       "spanish": " ¿La alegría? Conexión pura ahora.",
       "category": "Joy",
       "generated_at": "2026-07-10T16:57:17.281225"
+    },
+    {
+      "english": "Feel that power? You're speaking!",
+      "spanish": "Siente ese poder? ¡Estás hablando!",
+      "category": "Positive Life",
+      "generated_at": "2026-07-10T18:17:15.099123"
+    },
+    {
+      "english": "Curious? The rhythm of fluency.",
+      "spanish": "¿Curioso? El ritmo de fluidez.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-10T18:17:15.099154"
+    },
+    {
+      "english": "Imagine this connection, effortless.",
+      "spanish": "Imagina esta conexión, sin esfuerzo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-10T18:17:15.099173"
+    },
+    {
+      "english": "Your brain is lighting up!",
+      "spanish": "¡Tu cerebro se ilumina!",
+      "category": "Positive Life",
+      "generated_at": "2026-07-10T18:17:15.099192"
+    },
+    {
+      "english": "This joy? Learning is vibrant.",
+      "spanish": "¿Esta alegría? Aprender es vibrante.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-10T18:17:15.099212"
     }
   ],
-  "last_updated": "2026-07-10T16:57:17.281227",
+  "last_updated": "2026-07-10T18:17:15.099214",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14429,6 +14459,11 @@
     "unlock worlds with one 'hola'.",
     "your future welcomes this skill.",
     "imagine smiles in their eyes.",
-    "the joy? pure connection now."
+    "the joy? pure connection now.",
+    "feel that power? you're speaking!",
+    "curious? the rhythm of fluency.",
+    "imagine this connection, effortless.",
+    "your brain is lighting up!",
+    "this joy? learning is vibrant."
   ]
 }
