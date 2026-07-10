@@ -12305,9 +12305,39 @@
       "spanish": "¡Sorpresa! Tus palabras ahora llegan.",
       "category": "Hope",
       "generated_at": "2026-07-09T22:37:05.282410"
+    },
+    {
+      "english": "Surprise! Your new best friend waits.",
+      "spanish": "¡Sorpresa! Tu mejor amigo espera.",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T15:33:14.300175"
+    },
+    {
+      "english": "Imagine: true connection begins.",
+      "spanish": "Imagina: comienza la conexión.",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T15:33:14.300205"
+    },
+    {
+      "english": "Fact: kindness travels further.",
+      "spanish": "Hecho: la amabilidad viaja más.",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T15:33:14.300224"
+    },
+    {
+      "english": "Feel that? Understanding dawns.",
+      "spanish": "¿Sientes eso? Despierta la comprensión.",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T15:33:14.300243"
+    },
+    {
+      "english": "One shared laugh, instant bond.",
+      "spanish": "Una risa compartida, vínculo instantáneo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T15:33:14.300262"
     }
   ],
-  "last_updated": "2026-07-09T22:37:05.282412",
+  "last_updated": "2026-07-10T15:33:14.300264",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14359,6 +14389,11 @@
     "that feeling? understanding wins.",
     "curious? the connection is real.",
     "the reward: simple dialogue.",
-    "surprise! your words now land."
+    "surprise! your words now land.",
+    "surprise! your new best friend waits.",
+    "imagine: true connection begins.",
+    "fact: kindness travels further.",
+    "feel that? understanding dawns.",
+    "one shared laugh, instant bond."
   ]
 }
