@@ -12485,9 +12485,39 @@
       "spanish": "¿Curioso? Cómo suena la amistad.",
       "category": "Friendship",
       "generated_at": "2026-07-11T14:23:37.237057"
+    },
+    {
+      "english": "This single sound? Pure joy.",
+      "spanish": "Este sonido único? Pura alegría.",
+      "category": "Strength",
+      "generated_at": "2026-07-11T15:57:58.759090"
+    },
+    {
+      "english": "Want confidence? Speak it.",
+      "spanish": "¿Quieres confianza? Dilo.",
+      "category": "Strength",
+      "generated_at": "2026-07-11T15:57:58.759120"
+    },
+    {
+      "english": "Imagine, connections ignite instantly.",
+      "spanish": "Imagina, conexiones se encienden al instante.",
+      "category": "Strength",
+      "generated_at": "2026-07-11T15:57:58.759138"
+    },
+    {
+      "english": "Your progress is visible, friend.",
+      "spanish": "Tu progreso es visible, amigo.",
+      "category": "Strength",
+      "generated_at": "2026-07-11T15:57:58.759157"
+    },
+    {
+      "english": "Aspirations? They're within reach.",
+      "spanish": "¿Aspiraciones? Están al alcance.",
+      "category": "Strength",
+      "generated_at": "2026-07-11T15:57:58.759175"
     }
   ],
-  "last_updated": "2026-07-11T14:23:37.237059",
+  "last_updated": "2026-07-11T15:57:58.759177",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14569,6 +14599,11 @@
     "surprise! new friend awaits.",
     "this simple phrase connects.",
     "your kindness echoes far.",
-    "curious? what friendship sounds like."
+    "curious? what friendship sounds like.",
+    "this single sound? pure joy.",
+    "want confidence? speak it.",
+    "imagine, connections ignite instantly.",
+    "your progress is visible, friend.",
+    "aspirations? they're within reach."
   ]
 }
