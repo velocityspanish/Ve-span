@@ -12545,9 +12545,39 @@
       "spanish": "¿Por qué esperar? exprésate ahora.",
       "category": "Mindfulness",
       "generated_at": "2026-07-11T17:46:57.934487"
+    },
+    {
+      "english": "Unlock your world. Speak!",
+      "spanish": "Desbloquea tu mundo. ¡Habla!",
+      "category": "Purpose",
+      "generated_at": "2026-07-11T20:00:31.041764"
+    },
+    {
+      "english": "Curious? What words connect.",
+      "spanish": "¿Curioso? Qué palabras conectan.",
+      "category": "Purpose",
+      "generated_at": "2026-07-11T20:00:31.041811"
+    },
+    {
+      "english": "One 'gracias', brightens days.",
+      "spanish": "Un 'gracias', ilumina días.",
+      "category": "Purpose",
+      "generated_at": "2026-07-11T20:00:31.041832"
+    },
+    {
+      "english": "Surprise! Your voice resonates.",
+      "spanish": "¡Sorpresa! Tu voz resuena.",
+      "category": "Purpose",
+      "generated_at": "2026-07-11T20:00:31.041851"
+    },
+    {
+      "english": "Feel that? Confidence blooms.",
+      "spanish": "¿Sientes eso? La confianza florece.",
+      "category": "Purpose",
+      "generated_at": "2026-07-11T20:00:31.041870"
     }
   ],
-  "last_updated": "2026-07-11T17:46:57.934489",
+  "last_updated": "2026-07-11T20:00:31.041872",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14639,6 +14669,11 @@
     "curious? one 'por favor' wins.",
     "the joy is in trying.",
     "imagine their understanding smile.",
-    "why wait? express yourself now."
+    "why wait? express yourself now.",
+    "unlock your world. speak!",
+    "curious? what words connect.",
+    "one 'gracias', brightens days.",
+    "surprise! your voice resonates.",
+    "feel that? confidence blooms."
   ]
 }
