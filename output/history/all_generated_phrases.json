@@ -12515,9 +12515,39 @@
       "spanish": "¿Aspiraciones? Están al alcance.",
       "category": "Strength",
       "generated_at": "2026-07-11T15:57:58.759175"
+    },
+    {
+      "english": "Your warmth, understood instantly.",
+      "spanish": "Tu calidez, entendida al instante.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-11T17:46:57.934419"
+    },
+    {
+      "english": "Curious? one 'por favor' wins.",
+      "spanish": "¿Curioso? un 'por favor' gana.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-11T17:46:57.934443"
+    },
+    {
+      "english": "The joy is in trying.",
+      "spanish": "La alegría está en intentarlo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-11T17:46:57.934458"
+    },
+    {
+      "english": "Imagine their understanding smile.",
+      "spanish": "Imagina su sonrisa comprensiva.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-11T17:46:57.934472"
+    },
+    {
+      "english": "Why wait? express yourself now.",
+      "spanish": "¿Por qué esperar? exprésate ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-11T17:46:57.934487"
     }
   ],
-  "last_updated": "2026-07-11T15:57:58.759177",
+  "last_updated": "2026-07-11T17:46:57.934489",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14604,6 +14634,11 @@
     "want confidence? speak it.",
     "imagine, connections ignite instantly.",
     "your progress is visible, friend.",
-    "aspirations? they're within reach."
+    "aspirations? they're within reach.",
+    "your warmth, understood instantly.",
+    "curious? one 'por favor' wins.",
+    "the joy is in trying.",
+    "imagine their understanding smile.",
+    "why wait? express yourself now."
   ]
 }
