@@ -12455,9 +12455,39 @@
       "spanish": "¡Sorpresa! Tu acento es único.",
       "category": "Wisdom",
       "generated_at": "2026-07-10T22:11:19.465794"
+    },
+    {
+      "english": "Feeling lost? Say this.",
+      "spanish": "¿Te sientes perdido? Di esto.",
+      "category": "Friendship",
+      "generated_at": "2026-07-11T14:23:37.236972"
+    },
+    {
+      "english": "Surprise! New friend awaits.",
+      "spanish": "¡Sorpresa! Nuevo amigo espera.",
+      "category": "Friendship",
+      "generated_at": "2026-07-11T14:23:37.237001"
+    },
+    {
+      "english": "This simple phrase connects.",
+      "spanish": "Esta frase simple conecta.",
+      "category": "Friendship",
+      "generated_at": "2026-07-11T14:23:37.237021"
+    },
+    {
+      "english": "Your kindness echoes far.",
+      "spanish": "Tu amabilidad resuena lejos.",
+      "category": "Friendship",
+      "generated_at": "2026-07-11T14:23:37.237040"
+    },
+    {
+      "english": "Curious? What friendship sounds like.",
+      "spanish": "¿Curioso? Cómo suena la amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-07-11T14:23:37.237057"
     }
   ],
-  "last_updated": "2026-07-10T22:11:19.465796",
+  "last_updated": "2026-07-11T14:23:37.237059",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14534,6 +14564,11 @@
     "one word, worlds open.",
     "this small sound? powerful.",
     "this wisdom changes learning.",
-    "surprise! your accent's unique."
+    "surprise! your accent's unique.",
+    "feeling lost? say this.",
+    "surprise! new friend awaits.",
+    "this simple phrase connects.",
+    "your kindness echoes far.",
+    "curious? what friendship sounds like."
   ]
 }
