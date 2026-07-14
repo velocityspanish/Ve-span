@@ -12575,9 +12575,39 @@
       "spanish": "¿Sientes eso? La confianza florece.",
       "category": "Purpose",
       "generated_at": "2026-07-11T20:00:31.041870"
+    },
+    {
+      "english": "Your journey, embrace the flow.",
+      "spanish": "Tu viaje, abraza el fluir.",
+      "category": "Purpose",
+      "generated_at": "2026-07-14T05:24:44.825849"
+    },
+    {
+      "english": "Hear that? Your fluency grows.",
+      "spanish": "¿Oyes eso? Tu fluidez crece.",
+      "category": "Purpose",
+      "generated_at": "2026-07-14T05:24:44.825890"
+    },
+    {
+      "english": "Future you is already proud.",
+      "spanish": "Tu yo futuro ya orgulloso.",
+      "category": "Purpose",
+      "generated_at": "2026-07-14T05:24:44.825919"
+    },
+    {
+      "english": "Your effort blooms beautifully.",
+      "spanish": "Tu esfuerzo florece hermoso.",
+      "category": "Purpose",
+      "generated_at": "2026-07-14T05:24:44.825947"
+    },
+    {
+      "english": "Curious? What stories await?",
+      "spanish": "¿Curioso? ¿Qué historias esperan?",
+      "category": "Purpose",
+      "generated_at": "2026-07-14T05:24:44.825974"
     }
   ],
-  "last_updated": "2026-07-11T20:00:31.041872",
+  "last_updated": "2026-07-14T05:24:44.825976",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14674,6 +14704,11 @@
     "curious? what words connect.",
     "one 'gracias', brightens days.",
     "surprise! your voice resonates.",
-    "feel that? confidence blooms."
+    "feel that? confidence blooms.",
+    "your journey, embrace the flow.",
+    "hear that? your fluency grows.",
+    "future you is already proud.",
+    "your effort blooms beautifully.",
+    "curious? what stories await?"
   ]
 }
