@@ -151,6 +151,8 @@ jobs:
           echo "✅ If phrase count increased, history is working correctly!"
 
       - name: 📤 Upload to All Social Media Platforms
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "🚀 Starting multi-platform upload..."
           export PYTHONPATH="${{ github.workspace }}:${{ github.workspace }}/upload:$PYTHONPATH"
