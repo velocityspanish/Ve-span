@@ -12635,9 +12635,39 @@
       "spanish": "Imagina, conversaciones fluyen libremente.",
       "category": "Gratitude",
       "generated_at": "2026-07-15T14:53:02.004411"
+    },
+    {
+      "english": "Forgive them, find peace.",
+      "spanish": "Perdónalos, encuentra paz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T16:24:10.932836"
+    },
+    {
+      "english": "Letting go frees your spirit.",
+      "spanish": "Soltar libera tu espíritu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T16:24:10.932867"
+    },
+    {
+      "english": "What if hurt simply vanishes?",
+      "spanish": "¿Y si el dolor se desvanece?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T16:24:10.932887"
+    },
+    {
+      "english": "Your heart can heal, truly.",
+      "spanish": "Tu corazón puede sanar, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T16:24:10.932907"
+    },
+    {
+      "english": "Imagine: no more anger.",
+      "spanish": "Imagina: no más enfado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T16:24:10.932924"
     }
   ],
-  "last_updated": "2026-07-15T14:53:02.004414",
+  "last_updated": "2026-07-15T16:24:10.932926",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14744,6 +14774,11 @@
     "this word brings warmth, listen.",
     "you can do this, believe.",
     "kindness echoes, always returns.",
-    "imagine, conversations flow freely."
+    "imagine, conversations flow freely.",
+    "forgive them, find peace.",
+    "letting go frees your spirit.",
+    "what if hurt simply vanishes?",
+    "your heart can heal, truly.",
+    "imagine: no more anger."
   ]
 }
