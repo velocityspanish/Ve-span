@@ -12665,9 +12665,39 @@
       "spanish": "Imagina: no más enfado.",
       "category": "Forgiveness",
       "generated_at": "2026-07-15T16:24:10.932924"
+    },
+    {
+      "english": "Hear that rhythm? Fluency calls.",
+      "spanish": "Oye ese ritmo? La fluidez llama.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-15T18:01:07.572392"
+    },
+    {
+      "english": "This feeling? Connection blooms.",
+      "spanish": "¿Este sentimiento? La conexión florece.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-15T18:01:07.572423"
+    },
+    {
+      "english": "Imagine: effortless dialogue.",
+      "spanish": "Imagina: diálogo sin esfuerzo.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-15T18:01:07.572445"
+    },
+    {
+      "english": "That smile? You earned it.",
+      "spanish": "¿Esa sonrisa? Te la ganaste.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-15T18:01:07.572465"
+    },
+    {
+      "english": "Curious? Friendship awaits.",
+      "spanish": "¿Curioso? La amistad espera.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-15T18:01:07.572485"
     }
   ],
-  "last_updated": "2026-07-15T16:24:10.932926",
+  "last_updated": "2026-07-15T18:01:07.572487",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14779,6 +14809,11 @@
     "letting go frees your spirit.",
     "what if hurt simply vanishes?",
     "your heart can heal, truly.",
-    "imagine: no more anger."
+    "imagine: no more anger.",
+    "hear that rhythm? fluency calls.",
+    "this feeling? connection blooms.",
+    "imagine: effortless dialogue.",
+    "that smile? you earned it.",
+    "curious? friendship awaits."
   ]
 }
