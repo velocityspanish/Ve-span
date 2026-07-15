@@ -12725,9 +12725,39 @@
       "spanish": "Este momento: Tu aprendizaje se despliega.",
       "category": "Positive Life",
       "generated_at": "2026-07-15T20:02:58.032485"
+    },
+    {
+      "english": "Future you is thankful, try.",
+      "spanish": "Tu futuro yo agradece, intenta.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T22:07:56.670792"
+    },
+    {
+      "english": "Curious? What connection feels like.",
+      "spanish": "¿Curioso? Cómo se siente la conexión.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T22:07:56.670821"
+    },
+    {
+      "english": "Don't quit. Your breakthrough awaits.",
+      "spanish": "No renuncies. Tu avance espera.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T22:07:56.670840"
+    },
+    {
+      "english": "Imagine pure, warm appreciation.",
+      "spanish": "Imagina apreciación pura, cálida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T22:07:56.670860"
+    },
+    {
+      "english": "What if this unlocks smiles?",
+      "spanish": "¿Qué tal si esto desbloquea sonrisas?",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T22:07:56.670881"
     }
   ],
-  "last_updated": "2026-07-15T20:02:58.032486",
+  "last_updated": "2026-07-15T22:07:56.670883",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14849,6 +14879,11 @@
     "your bravery shines, keep going.",
     "one sentence, instant understanding.",
     "curious? what connections await.",
-    "this moment: your learning unfolds."
+    "this moment: your learning unfolds.",
+    "future you is thankful, try.",
+    "curious? what connection feels like.",
+    "don't quit. your breakthrough awaits.",
+    "imagine pure, warm appreciation.",
+    "what if this unlocks smiles?"
   ]
 }
