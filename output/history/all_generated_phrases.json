@@ -12605,9 +12605,39 @@
       "spanish": "¿Curioso? ¿Qué historias esperan?",
       "category": "Purpose",
       "generated_at": "2026-07-14T05:24:44.825974"
+    },
+    {
+      "english": "Future smiles, all for you.",
+      "spanish": "Sonrisas futuras, todas tuyas.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T14:53:02.004321"
+    },
+    {
+      "english": "This word brings warmth, listen.",
+      "spanish": "Esta palabra trae calidez, escucha.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T14:53:02.004353"
+    },
+    {
+      "english": "You can do this, believe.",
+      "spanish": "Puedes hacer esto, cree.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T14:53:02.004373"
+    },
+    {
+      "english": "Kindness echoes, always returns.",
+      "spanish": "La amabilidad resuena, siempre regresa.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T14:53:02.004393"
+    },
+    {
+      "english": "Imagine, conversations flow freely.",
+      "spanish": "Imagina, conversaciones fluyen libremente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-15T14:53:02.004411"
     }
   ],
-  "last_updated": "2026-07-14T05:24:44.825976",
+  "last_updated": "2026-07-15T14:53:02.004414",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14709,6 +14739,11 @@
     "hear that? your fluency grows.",
     "future you is already proud.",
     "your effort blooms beautifully.",
-    "curious? what stories await?"
+    "curious? what stories await?",
+    "future smiles, all for you.",
+    "this word brings warmth, listen.",
+    "you can do this, believe.",
+    "kindness echoes, always returns.",
+    "imagine, conversations flow freely."
   ]
 }
