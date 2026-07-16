@@ -12755,9 +12755,39 @@
       "spanish": "¿Qué tal si esto desbloquea sonrisas?",
       "category": "Gratitude",
       "generated_at": "2026-07-15T22:07:56.670881"
+    },
+    {
+      "english": "Your first real conversation awaits.",
+      "spanish": "Tu primera conversación real espera.",
+      "category": "Success",
+      "generated_at": "2026-07-16T15:04:07.047694"
+    },
+    {
+      "english": "Curious? What happens next.",
+      "spanish": "¿Curioso? Qué pasa después.",
+      "category": "Success",
+      "generated_at": "2026-07-16T15:04:07.047726"
+    },
+    {
+      "english": "Feel that connection? It's real.",
+      "spanish": "¿Sientes esa conexión? Es real.",
+      "category": "Success",
+      "generated_at": "2026-07-16T15:04:07.047747"
+    },
+    {
+      "english": "The real win? Speaking.",
+      "spanish": "¿La victoria real? Hablar.",
+      "category": "Success",
+      "generated_at": "2026-07-16T15:04:07.047765"
+    },
+    {
+      "english": "Why this feels easy.",
+      "spanish": "¿Por qué esto se siente fácil?",
+      "category": "Success",
+      "generated_at": "2026-07-16T15:04:07.047783"
     }
   ],
-  "last_updated": "2026-07-15T22:07:56.670883",
+  "last_updated": "2026-07-16T15:04:07.047785",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14884,6 +14914,11 @@
     "curious? what connection feels like.",
     "don't quit. your breakthrough awaits.",
     "imagine pure, warm appreciation.",
-    "what if this unlocks smiles?"
+    "what if this unlocks smiles?",
+    "your first real conversation awaits.",
+    "curious? what happens next.",
+    "feel that connection? it's real.",
+    "the real win? speaking.",
+    "why this feels easy."
   ]
 }
