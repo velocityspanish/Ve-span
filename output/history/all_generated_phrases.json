@@ -12845,9 +12845,39 @@
       "spanish": "Cree: estás hablando hoy.",
       "category": "Growth",
       "generated_at": "2026-07-16T17:58:57.776505"
+    },
+    {
+      "english": "This little word, unlocks doors.",
+      "spanish": "Esta palabrita, abre puertas.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T19:57:14.970217"
+    },
+    {
+      "english": "Want smiles? Try this phrase.",
+      "spanish": "¿Quieres sonrisas? Prueba esto.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T19:57:14.970253"
+    },
+    {
+      "english": "Future connection, starts now.",
+      "spanish": "Conexión futura, empieza ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T19:57:14.970275"
+    },
+    {
+      "english": "This sounds awkward? Relax.",
+      "spanish": "¿Suena raro? Relájate.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T19:57:14.970297"
+    },
+    {
+      "english": "One shared phrase, instant friends.",
+      "spanish": "Una frase, amigos al instante.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T19:57:14.970317"
     }
   ],
-  "last_updated": "2026-07-16T17:58:57.776507",
+  "last_updated": "2026-07-16T19:57:14.970319",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14989,6 +15019,11 @@
     "this wisdom: listen, understand.",
     "curious? friendship waits, listen.",
     "feel this spark? you're speaking!",
-    "believe: you are speaking today."
+    "believe: you are speaking today.",
+    "this little word, unlocks doors.",
+    "want smiles? try this phrase.",
+    "future connection, starts now.",
+    "this sounds awkward? relax.",
+    "one shared phrase, instant friends."
   ]
 }
