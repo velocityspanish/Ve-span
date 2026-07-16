@@ -12875,9 +12875,39 @@
       "spanish": "Una frase, amigos al instante.",
       "category": "Confidence",
       "generated_at": "2026-07-16T19:57:14.970317"
+    },
+    {
+      "english": "Did you know this sound?",
+      "spanish": "¿Sabías este sonido?",
+      "category": "Growth",
+      "generated_at": "2026-07-16T22:08:39.773994"
+    },
+    {
+      "english": "One question, brightens smiles.",
+      "spanish": "Una pregunta, alegra sonrisas.",
+      "category": "Growth",
+      "generated_at": "2026-07-16T22:08:39.774025"
+    },
+    {
+      "english": "Imagine, new friendships forming.",
+      "spanish": "Imagina, nuevas amistades formándose.",
+      "category": "Growth",
+      "generated_at": "2026-07-16T22:08:39.774046"
+    },
+    {
+      "english": "This surprise, truly connects.",
+      "spanish": "Esta sorpresa, conecta de verdad.",
+      "category": "Growth",
+      "generated_at": "2026-07-16T22:08:39.774066"
+    },
+    {
+      "english": "Hear that? fluency's magic.",
+      "spanish": "¿Oyes eso? la magia de la fluidez.",
+      "category": "Growth",
+      "generated_at": "2026-07-16T22:08:39.774086"
     }
   ],
-  "last_updated": "2026-07-16T19:57:14.970319",
+  "last_updated": "2026-07-16T22:08:39.774088",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15024,6 +15054,11 @@
     "want smiles? try this phrase.",
     "future connection, starts now.",
     "this sounds awkward? relax.",
-    "one shared phrase, instant friends."
+    "one shared phrase, instant friends.",
+    "did you know this sound?",
+    "one question, brightens smiles.",
+    "imagine, new friendships forming.",
+    "this surprise, truly connects.",
+    "hear that? fluency's magic."
   ]
 }
