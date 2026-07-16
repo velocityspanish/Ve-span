@@ -12785,9 +12785,39 @@
       "spanish": "¿Por qué esto se siente fácil?",
       "category": "Success",
       "generated_at": "2026-07-16T15:04:07.047783"
+    },
+    {
+      "english": "One phrase, shared joy.",
+      "spanish": "Una frase, alegría compartida.",
+      "category": "Creativity",
+      "generated_at": "2026-07-16T16:18:55.191769"
+    },
+    {
+      "english": "Don't stop trying. Ever.",
+      "spanish": "No dejes de intentar. Nunca.",
+      "category": "Creativity",
+      "generated_at": "2026-07-16T16:18:55.191811"
+    },
+    {
+      "english": "This rhythm? Pure flow.",
+      "spanish": "¿Este ritmo? Flujo puro.",
+      "category": "Creativity",
+      "generated_at": "2026-07-16T16:18:55.191831"
+    },
+    {
+      "english": "Your new words, welcomed.",
+      "spanish": "Tus nuevas palabras, bienvenidas.",
+      "category": "Creativity",
+      "generated_at": "2026-07-16T16:18:55.191851"
+    },
+    {
+      "english": "This quiet moment, powerful.",
+      "spanish": "Este momento quieto, poderoso.",
+      "category": "Creativity",
+      "generated_at": "2026-07-16T16:18:55.191871"
     }
   ],
-  "last_updated": "2026-07-16T15:04:07.047785",
+  "last_updated": "2026-07-16T16:18:55.191874",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14919,6 +14949,11 @@
     "curious? what happens next.",
     "feel that connection? it's real.",
     "the real win? speaking.",
-    "why this feels easy."
+    "why this feels easy.",
+    "one phrase, shared joy.",
+    "don't stop trying. ever.",
+    "this rhythm? pure flow.",
+    "your new words, welcomed.",
+    "this quiet moment, powerful."
   ]
 }
