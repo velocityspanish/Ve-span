@@ -12815,9 +12815,39 @@
       "spanish": "Este momento quieto, poderoso.",
       "category": "Creativity",
       "generated_at": "2026-07-16T16:18:55.191871"
+    },
+    {
+      "english": "Hear this? Fluency feels this.",
+      "spanish": "¿Oyes esto? Fluidez se siente así.",
+      "category": "Growth",
+      "generated_at": "2026-07-16T17:58:57.776419"
+    },
+    {
+      "english": "This wisdom: listen, understand.",
+      "spanish": "Esta sabiduría: escucha, comprende.",
+      "category": "Growth",
+      "generated_at": "2026-07-16T17:58:57.776448"
+    },
+    {
+      "english": "Curious? Friendship waits, listen.",
+      "spanish": "¿Curioso? Amistad espera, escucha.",
+      "category": "Growth",
+      "generated_at": "2026-07-16T17:58:57.776467"
+    },
+    {
+      "english": "Feel this spark? You're speaking!",
+      "spanish": "¿Sientes esta chispa? ¡Estás hablando!",
+      "category": "Growth",
+      "generated_at": "2026-07-16T17:58:57.776486"
+    },
+    {
+      "english": "Believe: you are speaking today.",
+      "spanish": "Cree: estás hablando hoy.",
+      "category": "Growth",
+      "generated_at": "2026-07-16T17:58:57.776505"
     }
   ],
-  "last_updated": "2026-07-16T16:18:55.191874",
+  "last_updated": "2026-07-16T17:58:57.776507",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -14954,6 +14984,11 @@
     "don't stop trying. ever.",
     "this rhythm? pure flow.",
     "your new words, welcomed.",
-    "this quiet moment, powerful."
+    "this quiet moment, powerful.",
+    "hear this? fluency feels this.",
+    "this wisdom: listen, understand.",
+    "curious? friendship waits, listen.",
+    "feel this spark? you're speaking!",
+    "believe: you are speaking today."
   ]
 }
