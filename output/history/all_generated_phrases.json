@@ -12995,9 +12995,39 @@
       "spanish": "No renuncies, un avance espera.",
       "category": "Courage",
       "generated_at": "2026-07-17T17:57:56.694790"
+    },
+    {
+      "english": "That Spanish sound? It matters.",
+      "spanish": "Ese sonido español? Importa.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-17T21:59:09.742213"
+    },
+    {
+      "english": "Curious? Your accent is yours.",
+      "spanish": "¿Curioso? Tu acento es tuyo.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-17T21:59:09.742246"
+    },
+    {
+      "english": "This rhythm, unlocks real talk.",
+      "spanish": "Este ritmo, desbloquea hablar real.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-17T21:59:09.742267"
+    },
+    {
+      "english": "Did you say it? Bravo!",
+      "spanish": "¿Lo dijiste? ¡Bravo!",
+      "category": "Perseverance",
+      "generated_at": "2026-07-17T21:59:09.742285"
+    },
+    {
+      "english": "One phrase at a time.",
+      "spanish": "Una frase a la vez.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-17T21:59:09.742303"
     }
   ],
-  "last_updated": "2026-07-17T17:57:56.694792",
+  "last_updated": "2026-07-17T21:59:09.742306",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15164,6 +15194,11 @@
     "curious? it unlocks friendship.",
     "imagine, they understand you.",
     "this new sound feels right.",
-    "don't quit, a breakthrough waits."
+    "don't quit, a breakthrough waits.",
+    "that spanish sound? it matters.",
+    "curious? your accent is yours.",
+    "this rhythm, unlocks real talk.",
+    "did you say it? bravo!",
+    "one phrase at a time."
   ]
 }
