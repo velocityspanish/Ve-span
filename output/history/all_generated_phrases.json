@@ -12965,9 +12965,39 @@
       "spanish": "La alegría simple es ser.",
       "category": "Inner Peace",
       "generated_at": "2026-07-17T16:16:40.956029"
+    },
+    {
+      "english": "That tiny sound? Power.",
+      "spanish": "Ese sonido diminuto? Poder.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T17:57:56.694703"
+    },
+    {
+      "english": "Curious? It unlocks friendship.",
+      "spanish": "¿Curioso? Desbloquea amistad.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T17:57:56.694731"
+    },
+    {
+      "english": "Imagine, they understand you.",
+      "spanish": "Imagina, te entienden.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T17:57:56.694752"
+    },
+    {
+      "english": "This new sound feels right.",
+      "spanish": "Este nuevo sonido se siente bien.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T17:57:56.694772"
+    },
+    {
+      "english": "Don't quit, a breakthrough waits.",
+      "spanish": "No renuncies, un avance espera.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T17:57:56.694790"
     }
   ],
-  "last_updated": "2026-07-17T16:16:40.956031",
+  "last_updated": "2026-07-17T17:57:56.694792",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15129,6 +15159,11 @@
     "your silence has wisdom too.",
     "this feeling? inner quiet.",
     "let go of what's heavy.",
-    "the simplest joy is being."
+    "the simplest joy is being.",
+    "that tiny sound? power.",
+    "curious? it unlocks friendship.",
+    "imagine, they understand you.",
+    "this new sound feels right.",
+    "don't quit, a breakthrough waits."
   ]
 }
