@@ -12905,9 +12905,39 @@
       "spanish": "¿Oyes eso? la magia de la fluidez.",
       "category": "Growth",
       "generated_at": "2026-07-16T22:08:39.774086"
+    },
+    {
+      "english": "What if one word?",
+      "spanish": "¿Y si una palabra?",
+      "category": "Kindness",
+      "generated_at": "2026-07-17T14:44:56.498250"
+    },
+    {
+      "english": "Curious? This feels good.",
+      "spanish": "¿Curioso? Esto se siente bien.",
+      "category": "Kindness",
+      "generated_at": "2026-07-17T14:44:56.498282"
+    },
+    {
+      "english": "The kindness ripple starts.",
+      "spanish": "La onda bondadosa empieza.",
+      "category": "Kindness",
+      "generated_at": "2026-07-17T14:44:56.498308"
+    },
+    {
+      "english": "Imagine their warm welcome.",
+      "spanish": "Imagina su cálida bienvenida.",
+      "category": "Kindness",
+      "generated_at": "2026-07-17T14:44:56.498329"
+    },
+    {
+      "english": "One shared smile connects.",
+      "spanish": "Una sonrisa compartida conecta.",
+      "category": "Kindness",
+      "generated_at": "2026-07-17T14:44:56.498348"
     }
   ],
-  "last_updated": "2026-07-16T22:08:39.774088",
+  "last_updated": "2026-07-17T14:44:56.498350",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15059,6 +15089,11 @@
     "one question, brightens smiles.",
     "imagine, new friendships forming.",
     "this surprise, truly connects.",
-    "hear that? fluency's magic."
+    "hear that? fluency's magic.",
+    "what if one word?",
+    "curious? this feels good.",
+    "the kindness ripple starts.",
+    "imagine their warm welcome.",
+    "one shared smile connects."
   ]
 }
