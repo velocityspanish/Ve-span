@@ -12935,9 +12935,39 @@
       "spanish": "Una sonrisa compartida conecta.",
       "category": "Kindness",
       "generated_at": "2026-07-17T14:44:56.498348"
+    },
+    {
+      "english": "Breathe in calm, exhale doubt.",
+      "spanish": "Respira calma, exhala duda.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T16:16:40.955938"
+    },
+    {
+      "english": "Your silence has wisdom too.",
+      "spanish": "Tu silencio tiene sabiduría.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T16:16:40.955971"
+    },
+    {
+      "english": "This feeling? Inner quiet.",
+      "spanish": "¿Este sentimiento? Quietud interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T16:16:40.955991"
+    },
+    {
+      "english": "Let go of what's heavy.",
+      "spanish": "Suelta lo que pesa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T16:16:40.956010"
+    },
+    {
+      "english": "The simplest joy is being.",
+      "spanish": "La alegría simple es ser.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T16:16:40.956029"
     }
   ],
-  "last_updated": "2026-07-17T14:44:56.498350",
+  "last_updated": "2026-07-17T16:16:40.956031",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15094,6 +15124,11 @@
     "curious? this feels good.",
     "the kindness ripple starts.",
     "imagine their warm welcome.",
-    "one shared smile connects."
+    "one shared smile connects.",
+    "breathe in calm, exhale doubt.",
+    "your silence has wisdom too.",
+    "this feeling? inner quiet.",
+    "let go of what's heavy.",
+    "the simplest joy is being."
   ]
 }
