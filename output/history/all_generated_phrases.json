@@ -13025,9 +13025,39 @@
       "spanish": "Una frase a la vez.",
       "category": "Perseverance",
       "generated_at": "2026-07-17T21:59:09.742303"
+    },
+    {
+      "english": "This quiet moment, understanding dawns.",
+      "spanish": "Este momento callado, la comprensión amanece.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-18T14:20:51.084846"
+    },
+    {
+      "english": "Your inner peace speaks volumes.",
+      "spanish": "Tu paz interior habla mucho.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-18T14:20:51.084879"
+    },
+    {
+      "english": "Listen closely, clarity unfolds.",
+      "spanish": "Escucha atentamente, la claridad se despliega.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-18T14:20:51.084899"
+    },
+    {
+      "english": "Surprise! Your own rhythm heals.",
+      "spanish": "¡Sorpresa! Tu propio ritmo sana.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-18T14:20:51.084917"
+    },
+    {
+      "english": "Breathe deeply, inner strength found.",
+      "spanish": "Respira profundo, se encuentra fuerza interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-18T14:20:51.084935"
     }
   ],
-  "last_updated": "2026-07-17T21:59:09.742306",
+  "last_updated": "2026-07-18T14:20:51.084937",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15199,6 +15229,11 @@
     "curious? your accent is yours.",
     "this rhythm, unlocks real talk.",
     "did you say it? bravo!",
-    "one phrase at a time."
+    "one phrase at a time.",
+    "this quiet moment, understanding dawns.",
+    "your inner peace speaks volumes.",
+    "listen closely, clarity unfolds.",
+    "surprise! your own rhythm heals.",
+    "breathe deeply, inner strength found."
   ]
 }
