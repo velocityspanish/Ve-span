@@ -13085,9 +13085,39 @@
       "spanish": "¿Oyes tu progreso? ¡Celebra!",
       "category": "Joy",
       "generated_at": "2026-07-18T15:58:56.993439"
+    },
+    {
+      "english": "The real magic? Effortless flow.",
+      "spanish": "¿La magia real? Fluir sin esfuerzo.",
+      "category": "Strength",
+      "generated_at": "2026-07-18T17:48:07.627500"
+    },
+    {
+      "english": "You belong here. ¡Bienvenido!",
+      "spanish": "Perteneces aquí. ¡Bienvenido!",
+      "category": "Strength",
+      "generated_at": "2026-07-18T17:48:07.627529"
+    },
+    {
+      "english": "One phrase: your confidence grows.",
+      "spanish": "Una frase: tu confianza crece.",
+      "category": "Strength",
+      "generated_at": "2026-07-18T17:48:07.627549"
+    },
+    {
+      "english": "Small wins build huge strength.",
+      "spanish": "Pequeñas victorias construyen gran fuerza.",
+      "category": "Strength",
+      "generated_at": "2026-07-18T17:48:07.627570"
+    },
+    {
+      "english": "Your pronunciation? Beautifully unique.",
+      "spanish": "¿Tu pronunciación? Hermosamente única.",
+      "category": "Strength",
+      "generated_at": "2026-07-18T17:48:07.627588"
     }
   ],
-  "last_updated": "2026-07-18T15:58:56.993441",
+  "last_updated": "2026-07-18T17:48:07.627590",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15269,6 +15299,11 @@
     "feel this connection? speak!",
     "new words, new world.",
     "your smile is contagious, ¡hola!",
-    "hear your progress? celebrate!"
+    "hear your progress? celebrate!",
+    "the real magic? effortless flow.",
+    "you belong here. ¡bienvenido!",
+    "one phrase: your confidence grows.",
+    "small wins build huge strength.",
+    "your pronunciation? beautifully unique."
   ]
 }
