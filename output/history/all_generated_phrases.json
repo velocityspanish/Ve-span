@@ -13115,9 +13115,39 @@
       "spanish": "¿Tu pronunciación? Hermosamente única.",
       "category": "Strength",
       "generated_at": "2026-07-18T17:48:07.627588"
+    },
+    {
+      "english": "One 'lo siento' changes moods.",
+      "spanish": "Un 'lo siento' cambia ánimos.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T19:59:11.249227"
+    },
+    {
+      "english": "Curious? A new door opens.",
+      "spanish": "¿Curioso? Una puerta nueva se abre.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T19:59:11.249248"
+    },
+    {
+      "english": "This phrase brings warm smiles.",
+      "spanish": "Esta frase trae sonrisas cálidas.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T19:59:11.249261"
+    },
+    {
+      "english": "Imagine their happy response.",
+      "spanish": "Imagina su respuesta feliz.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T19:59:11.249274"
+    },
+    {
+      "english": "Hear that confidence building?",
+      "spanish": "¿Oyes esa confianza creciendo?",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T19:59:11.249287"
     }
   ],
-  "last_updated": "2026-07-18T17:48:07.627590",
+  "last_updated": "2026-07-18T19:59:11.249288",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15304,6 +15334,11 @@
     "you belong here. ¡bienvenido!",
     "one phrase: your confidence grows.",
     "small wins build huge strength.",
-    "your pronunciation? beautifully unique."
+    "your pronunciation? beautifully unique.",
+    "one 'lo siento' changes moods.",
+    "curious? a new door opens.",
+    "this phrase brings warm smiles.",
+    "imagine their happy response.",
+    "hear that confidence building?"
   ]
 }
