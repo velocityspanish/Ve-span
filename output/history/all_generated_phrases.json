@@ -13145,9 +13145,39 @@
       "spanish": "¿Oyes esa confianza creciendo?",
       "category": "Confidence",
       "generated_at": "2026-07-18T19:59:11.249287"
+    },
+    {
+      "english": "Hear that accent? Yours.",
+      "spanish": "¿Oyes ese acento? El tuyo.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-18T21:56:41.727137"
+    },
+    {
+      "english": "Imagine their understanding. Try.",
+      "spanish": "Imagina su entendimiento. Intenta.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-18T21:56:41.727167"
+    },
+    {
+      "english": "That feeling? It's fluency.",
+      "spanish": "¿Esa sensación? Es fluidez.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-18T21:56:41.727189"
+    },
+    {
+      "english": "Don't overthink it. Speak.",
+      "spanish": "No lo pienses mucho. Habla.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-18T21:56:41.727209"
+    },
+    {
+      "english": "What if this leads to friends?",
+      "spanish": "¿Qué si esto lleva amigos?",
+      "category": "Inspiration",
+      "generated_at": "2026-07-18T21:56:41.727230"
     }
   ],
-  "last_updated": "2026-07-18T19:59:11.249288",
+  "last_updated": "2026-07-18T21:56:41.727231",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15339,6 +15369,11 @@
     "curious? a new door opens.",
     "this phrase brings warm smiles.",
     "imagine their happy response.",
-    "hear that confidence building?"
+    "hear that confidence building?",
+    "hear that accent? yours.",
+    "imagine their understanding. try.",
+    "that feeling? it's fluency.",
+    "don't overthink it. speak.",
+    "what if this leads to friends?"
   ]
 }
