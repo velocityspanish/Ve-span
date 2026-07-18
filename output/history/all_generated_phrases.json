@@ -13055,9 +13055,39 @@
       "spanish": "Respira profundo, se encuentra fuerza interior.",
       "category": "Inner Peace",
       "generated_at": "2026-07-18T14:20:51.084935"
+    },
+    {
+      "english": "Your Spanish? It's beautiful.",
+      "spanish": "Tu español es hermoso.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T15:58:56.993344"
+    },
+    {
+      "english": "Feel this connection? Speak!",
+      "spanish": "¿Sientes esta conexión? ¡Habla!",
+      "category": "Joy",
+      "generated_at": "2026-07-18T15:58:56.993377"
+    },
+    {
+      "english": "New words, new world.",
+      "spanish": "Nuevas palabras, nuevo mundo.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T15:58:56.993397"
+    },
+    {
+      "english": "Your smile is contagious, ¡hola!",
+      "spanish": "Tu sonrisa es contagiosa, ¡hola!",
+      "category": "Joy",
+      "generated_at": "2026-07-18T15:58:56.993418"
+    },
+    {
+      "english": "Hear your progress? Celebrate!",
+      "spanish": "¿Oyes tu progreso? ¡Celebra!",
+      "category": "Joy",
+      "generated_at": "2026-07-18T15:58:56.993439"
     }
   ],
-  "last_updated": "2026-07-18T14:20:51.084937",
+  "last_updated": "2026-07-18T15:58:56.993441",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15234,6 +15264,11 @@
     "your inner peace speaks volumes.",
     "listen closely, clarity unfolds.",
     "surprise! your own rhythm heals.",
-    "breathe deeply, inner strength found."
+    "breathe deeply, inner strength found.",
+    "your spanish? it's beautiful.",
+    "feel this connection? speak!",
+    "new words, new world.",
+    "your smile is contagious, ¡hola!",
+    "hear your progress? celebrate!"
   ]
 }
