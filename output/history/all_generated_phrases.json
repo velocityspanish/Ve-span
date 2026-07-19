@@ -13295,9 +13295,39 @@
       "spanish": "Imagina la calidez, habla.",
       "category": "Mindfulness",
       "generated_at": "2026-07-19T20:02:31.476332"
+    },
+    {
+      "english": "That awkward moment? Normal.",
+      "spanish": "¿Ese momento incómodo? Normal.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T21:59:23.131648"
+    },
+    {
+      "english": "One sentence: Big connection.",
+      "spanish": "Una frase: Gran conexión.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T21:59:23.131672"
+    },
+    {
+      "english": "Believe in this sound.",
+      "spanish": "Cree en este sonido.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T21:59:23.131688"
+    },
+    {
+      "english": "Your patience? It pays.",
+      "spanish": "Tu paciencia? Paga.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T21:59:23.131702"
+    },
+    {
+      "english": "Hear this? New comfort zone.",
+      "spanish": "¿Oyes esto? Nueva zona.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T21:59:23.131728"
     }
   ],
-  "last_updated": "2026-07-19T20:02:31.476334",
+  "last_updated": "2026-07-19T21:59:23.131731",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15514,6 +15544,11 @@
     "your breath, your anchor now.",
     "hear this? it clicks.",
     "just be. listen closely.",
-    "imagine the warmth, speak."
+    "imagine the warmth, speak.",
+    "that awkward moment? normal.",
+    "one sentence: big connection.",
+    "believe in this sound.",
+    "your patience? it pays.",
+    "hear this? new comfort zone."
   ]
 }
