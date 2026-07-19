@@ -13265,9 +13265,39 @@
       "spanish": "Esta frase: Bienvenida cálida instantánea.",
       "category": "Inspiration",
       "generated_at": "2026-07-19T17:50:43.452543"
+    },
+    {
+      "english": "That quiet moment, understand.",
+      "spanish": "Ese momento quieto, entiende.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T20:02:31.476234"
+    },
+    {
+      "english": "Your breath, your anchor now.",
+      "spanish": "Tu aliento, tu ancla ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T20:02:31.476261"
+    },
+    {
+      "english": "Hear this? It clicks.",
+      "spanish": "¿Oyes esto? Hace clic.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T20:02:31.476280"
+    },
+    {
+      "english": "Just be. Listen closely.",
+      "spanish": "Solo sé. Escucha atentamente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T20:02:31.476312"
+    },
+    {
+      "english": "Imagine the warmth, speak.",
+      "spanish": "Imagina la calidez, habla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T20:02:31.476332"
     }
   ],
-  "last_updated": "2026-07-19T17:50:43.452545",
+  "last_updated": "2026-07-19T20:02:31.476334",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15479,6 +15509,11 @@
     "your first word, a spark.",
     "what if it clicks today?",
     "feel that rhythm? you're speaking.",
-    "this phrase? instant warm welcome."
+    "this phrase? instant warm welcome.",
+    "that quiet moment, understand.",
+    "your breath, your anchor now.",
+    "hear this? it clicks.",
+    "just be. listen closely.",
+    "imagine the warmth, speak."
   ]
 }
