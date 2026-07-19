@@ -13235,9 +13235,39 @@
       "spanish": "¿Curioso? Un nuevo mundo espera.",
       "category": "Joy",
       "generated_at": "2026-07-19T15:59:12.027732"
+    },
+    {
+      "english": "That tiny sound? Pure connection.",
+      "spanish": "Ese sonido diminuto? Conexión pura.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T17:50:43.452455"
+    },
+    {
+      "english": "Your first word, a spark.",
+      "spanish": "Tu primera palabra, una chispa.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T17:50:43.452483"
+    },
+    {
+      "english": "What if it clicks today?",
+      "spanish": "¿Qué tal si hoy funciona?",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T17:50:43.452503"
+    },
+    {
+      "english": "Feel that rhythm? You're speaking.",
+      "spanish": "¿Sientes ese ritmo? Estás hablando.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T17:50:43.452523"
+    },
+    {
+      "english": "This phrase? Instant warm welcome.",
+      "spanish": "Esta frase: Bienvenida cálida instantánea.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T17:50:43.452543"
     }
   ],
-  "last_updated": "2026-07-19T15:59:12.027733",
+  "last_updated": "2026-07-19T17:50:43.452545",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15444,6 +15474,11 @@
     "imagine shared laughter, today.",
     "that quiet moment, your spanish blooms.",
     "one 'gracias' spreads kindness.",
-    "curious? a new world awaits."
+    "curious? a new world awaits.",
+    "that tiny sound? pure connection.",
+    "your first word, a spark.",
+    "what if it clicks today?",
+    "feel that rhythm? you're speaking.",
+    "this phrase? instant warm welcome."
   ]
 }
