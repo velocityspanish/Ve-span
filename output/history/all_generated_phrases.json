@@ -13175,9 +13175,39 @@
       "spanish": "¿Qué si esto lleva amigos?",
       "category": "Inspiration",
       "generated_at": "2026-07-18T21:56:41.727230"
+    },
+    {
+      "english": "Hear that echo? Friendship calls.",
+      "spanish": "¿Oyes ese eco? Amistad llama.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T14:24:54.340718"
+    },
+    {
+      "english": "What if one phrase? Connection.",
+      "spanish": "¿Y si una frase? Conexión.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T14:24:54.340742"
+    },
+    {
+      "english": "Your kindness, a lovely ripple.",
+      "spanish": "Tu amabilidad, una onda lovely.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T14:24:54.340756"
+    },
+    {
+      "english": "One shared 'hola,' instant smiles.",
+      "spanish": "Un 'hola' compartido, sonrisas instantáneas.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T14:24:54.340769"
+    },
+    {
+      "english": "Curious? What joy awaits.",
+      "spanish": "¿Curioso? Qué alegría espera.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T14:24:54.340782"
     }
   ],
-  "last_updated": "2026-07-18T21:56:41.727231",
+  "last_updated": "2026-07-19T14:24:54.340784",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15374,6 +15404,11 @@
     "imagine their understanding. try.",
     "that feeling? it's fluency.",
     "don't overthink it. speak.",
-    "what if this leads to friends?"
+    "what if this leads to friends?",
+    "hear that echo? friendship calls.",
+    "what if one phrase? connection.",
+    "your kindness, a lovely ripple.",
+    "one shared 'hola,' instant smiles.",
+    "curious? what joy awaits."
   ]
 }
