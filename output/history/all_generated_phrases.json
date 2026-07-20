@@ -13415,9 +13415,39 @@
       "spanish": "Este susurro, enciende valor.",
       "category": "Positive Life",
       "generated_at": "2026-07-20T18:49:15.098224"
+    },
+    {
+      "english": "The smallest word, unlocks.",
+      "spanish": "La palabra más pequeña, abre.",
+      "category": "Motivation",
+      "generated_at": "2026-07-20T20:16:10.947837"
+    },
+    {
+      "english": "Momentum starts with this.",
+      "spanish": "El impulso empieza con esto.",
+      "category": "Motivation",
+      "generated_at": "2026-07-20T20:16:10.947868"
+    },
+    {
+      "english": "Listen: this feeling is fluency.",
+      "spanish": "Escucha: esta sensación es fluidez.",
+      "category": "Motivation",
+      "generated_at": "2026-07-20T20:16:10.947890"
+    },
+    {
+      "english": "Don't stop, a new sound awaits.",
+      "spanish": "No te detengas, un nuevo sonido espera.",
+      "category": "Motivation",
+      "generated_at": "2026-07-20T20:16:10.947911"
+    },
+    {
+      "english": "Your patience creates bridges.",
+      "spanish": "Tu paciencia crea puentes.",
+      "category": "Motivation",
+      "generated_at": "2026-07-20T20:16:10.947932"
     }
   ],
-  "last_updated": "2026-07-20T18:49:15.098226",
+  "last_updated": "2026-07-20T20:16:10.947934",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15654,6 +15684,11 @@
     "that one sound? unlocks.",
     "curious? joy awaits you.",
     "believe this connection happens.",
-    "this whisper, ignites courage."
+    "this whisper, ignites courage.",
+    "the smallest word, unlocks.",
+    "momentum starts with this.",
+    "listen: this feeling is fluency.",
+    "don't stop, a new sound awaits.",
+    "your patience creates bridges."
   ]
 }
