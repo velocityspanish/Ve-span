@@ -13385,9 +13385,39 @@
       "spanish": "¿Este nuevo sonido? Tu voz.",
       "category": "Growth",
       "generated_at": "2026-07-20T16:24:56.833444"
+    },
+    {
+      "english": "Feel this, speak freely.",
+      "spanish": "Siente esto, habla libre.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T18:49:15.098136"
+    },
+    {
+      "english": "That one sound? unlocks.",
+      "spanish": "Ese sonido, desbloquea.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T18:49:15.098164"
+    },
+    {
+      "english": "Curious? joy awaits you.",
+      "spanish": "¿Curioso? la alegría te espera.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T18:49:15.098184"
+    },
+    {
+      "english": "Believe this connection happens.",
+      "spanish": "Cree esta conexión sucede.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T18:49:15.098204"
+    },
+    {
+      "english": "This whisper, ignites courage.",
+      "spanish": "Este susurro, enciende valor.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T18:49:15.098224"
     }
   ],
-  "last_updated": "2026-07-20T16:24:56.833446",
+  "last_updated": "2026-07-20T18:49:15.098226",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15619,6 +15649,11 @@
     "your confidence is building.",
     "did you catch that sound?",
     "listen: fluency feels like this.",
-    "this new sound? your voice."
+    "this new sound? your voice.",
+    "feel this, speak freely.",
+    "that one sound? unlocks.",
+    "curious? joy awaits you.",
+    "believe this connection happens.",
+    "this whisper, ignites courage."
   ]
 }
