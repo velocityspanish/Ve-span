@@ -13355,9 +13355,39 @@
       "spanish": "Tu quietud, un estado poderoso.",
       "category": "Inner Peace",
       "generated_at": "2026-07-20T15:14:22.853244"
+    },
+    {
+      "english": "This one word? Huge impact.",
+      "spanish": "Esta palabra, ¿gran impacto?",
+      "category": "Growth",
+      "generated_at": "2026-07-20T16:24:56.833350"
+    },
+    {
+      "english": "Your confidence is building.",
+      "spanish": "Tu confianza está creciendo.",
+      "category": "Growth",
+      "generated_at": "2026-07-20T16:24:56.833383"
+    },
+    {
+      "english": "Did you catch that sound?",
+      "spanish": "¿Captaste ese sonido?",
+      "category": "Growth",
+      "generated_at": "2026-07-20T16:24:56.833404"
+    },
+    {
+      "english": "Listen: fluency feels like this.",
+      "spanish": "Escucha: fluidez se siente así.",
+      "category": "Growth",
+      "generated_at": "2026-07-20T16:24:56.833424"
+    },
+    {
+      "english": "This new sound? Your voice.",
+      "spanish": "¿Este nuevo sonido? Tu voz.",
+      "category": "Growth",
+      "generated_at": "2026-07-20T16:24:56.833444"
     }
   ],
-  "last_updated": "2026-07-20T15:14:22.853246",
+  "last_updated": "2026-07-20T16:24:56.833446",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15584,6 +15614,11 @@
     "this calm, your new strength.",
     "feel the peace, speak it.",
     "breathe out stress, breathe in.",
-    "your stillness, a powerful state."
+    "your stillness, a powerful state.",
+    "this one word? huge impact.",
+    "your confidence is building.",
+    "did you catch that sound?",
+    "listen: fluency feels like this.",
+    "this new sound? your voice."
   ]
 }
