@@ -13325,9 +13325,39 @@
       "spanish": "¿Oyes esto? Nueva zona.",
       "category": "Courage",
       "generated_at": "2026-07-19T21:59:23.131728"
+    },
+    {
+      "english": "Your quiet moments matter.",
+      "spanish": "Tus momentos de calma importan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T15:14:22.853155"
+    },
+    {
+      "english": "This calm, your new strength.",
+      "spanish": "Esta calma, tu nueva fuerza.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T15:14:22.853185"
+    },
+    {
+      "english": "Feel the peace, speak it.",
+      "spanish": "Siente la paz, dilo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T15:14:22.853205"
+    },
+    {
+      "english": "Breathe out stress, breathe in.",
+      "spanish": "Exhala estrés, inhala paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T15:14:22.853225"
+    },
+    {
+      "english": "Your stillness, a powerful state.",
+      "spanish": "Tu quietud, un estado poderoso.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T15:14:22.853244"
     }
   ],
-  "last_updated": "2026-07-19T21:59:23.131731",
+  "last_updated": "2026-07-20T15:14:22.853246",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15549,6 +15579,11 @@
     "one sentence: big connection.",
     "believe in this sound.",
     "your patience? it pays.",
-    "hear this? new comfort zone."
+    "hear this? new comfort zone.",
+    "your quiet moments matter.",
+    "this calm, your new strength.",
+    "feel the peace, speak it.",
+    "breathe out stress, breathe in.",
+    "your stillness, a powerful state."
   ]
 }
