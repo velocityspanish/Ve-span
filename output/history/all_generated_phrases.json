@@ -13445,9 +13445,39 @@
       "spanish": "Tu paciencia crea puentes.",
       "category": "Motivation",
       "generated_at": "2026-07-20T20:16:10.947932"
+    },
+    {
+      "english": "Hear that? Fluency whispers.",
+      "spanish": "¿Oyes eso? La fluidez susurra.",
+      "category": "Growth",
+      "generated_at": "2026-07-20T22:06:55.605852"
+    },
+    {
+      "english": "Curious? New conversations bloom.",
+      "spanish": "¿Curioso? Nuevas charlas florecen.",
+      "category": "Growth",
+      "generated_at": "2026-07-20T22:06:55.605883"
+    },
+    {
+      "english": "That quiet moment? Progress.",
+      "spanish": "¿Ese momento tranquilo? Progreso.",
+      "category": "Growth",
+      "generated_at": "2026-07-20T22:06:55.605905"
+    },
+    {
+      "english": "Wisdom: Patience brings reward.",
+      "spanish": "Sabiduría: Paciencia trae recompensa.",
+      "category": "Growth",
+      "generated_at": "2026-07-20T22:06:55.605926"
+    },
+    {
+      "english": "Believe this journey is yours.",
+      "spanish": "Cree que este viaje es tuyo.",
+      "category": "Growth",
+      "generated_at": "2026-07-20T22:06:55.605947"
     }
   ],
-  "last_updated": "2026-07-20T20:16:10.947934",
+  "last_updated": "2026-07-20T22:06:55.605949",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15689,6 +15719,11 @@
     "momentum starts with this.",
     "listen: this feeling is fluency.",
     "don't stop, a new sound awaits.",
-    "your patience creates bridges."
+    "your patience creates bridges.",
+    "hear that? fluency whispers.",
+    "curious? new conversations bloom.",
+    "that quiet moment? progress.",
+    "wisdom: patience brings reward.",
+    "believe this journey is yours."
   ]
 }
