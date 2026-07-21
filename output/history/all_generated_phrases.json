@@ -13535,9 +13535,39 @@
       "spanish": "¿Este ritmo? Es libertad.",
       "category": "Inspiration",
       "generated_at": "2026-07-21T16:23:44.448020"
+    },
+    {
+      "english": "This quiet breath? Pure power.",
+      "spanish": "Esta calma respiración? Pura potencia.",
+      "category": "Strength",
+      "generated_at": "2026-07-21T18:11:18.223436"
+    },
+    {
+      "english": "Your patience builds fluency bridges.",
+      "spanish": "Tu paciencia construye puentes de fluidez.",
+      "category": "Strength",
+      "generated_at": "2026-07-21T18:11:18.223464"
+    },
+    {
+      "english": "Never stop, progress whispers.",
+      "spanish": "Nunca te detengas, el progreso susurra.",
+      "category": "Strength",
+      "generated_at": "2026-07-21T18:11:18.223485"
+    },
+    {
+      "english": "This tiny word, unlocks connection.",
+      "spanish": "Esta pequeña palabra, abre conexión.",
+      "category": "Strength",
+      "generated_at": "2026-07-21T18:11:18.223505"
+    },
+    {
+      "english": "Your first 'hola,' it matters.",
+      "spanish": "Tu primer 'hola', importa mucho.",
+      "category": "Strength",
+      "generated_at": "2026-07-21T18:11:18.223525"
     }
   ],
-  "last_updated": "2026-07-21T16:23:44.448023",
+  "last_updated": "2026-07-21T18:11:18.223527",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15794,6 +15824,11 @@
     "trust this tiny voice.",
     "feel that fluency emerging?",
     "your quiet voice is powerful.",
-    "this rhythm? it’s freedom."
+    "this rhythm? it’s freedom.",
+    "this quiet breath? pure power.",
+    "your patience builds fluency bridges.",
+    "never stop, progress whispers.",
+    "this tiny word, unlocks connection.",
+    "your first 'hola,' it matters."
   ]
 }
