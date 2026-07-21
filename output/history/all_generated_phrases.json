@@ -13595,9 +13595,39 @@
       "spanish": "Sabiduría: Soltar te libera.",
       "category": "Forgiveness",
       "generated_at": "2026-07-21T20:13:45.696329"
+    },
+    {
+      "english": "This sound is your superpower.",
+      "spanish": "Este sonido es tu superpoder.",
+      "category": "Confidence",
+      "generated_at": "2026-07-21T22:08:10.045785"
+    },
+    {
+      "english": "Surprise! fluency feels this.",
+      "spanish": "¡Sorpresa! fluidez se siente así.",
+      "category": "Confidence",
+      "generated_at": "2026-07-21T22:08:10.045813"
+    },
+    {
+      "english": "That small word? Immense power.",
+      "spanish": "¿Esa palabra pequeña? Poder inmenso.",
+      "category": "Confidence",
+      "generated_at": "2026-07-21T22:08:10.045834"
+    },
+    {
+      "english": "Feel that rhythm? Speak it.",
+      "spanish": "¿Sientes ese ritmo? Dilo.",
+      "category": "Confidence",
+      "generated_at": "2026-07-21T22:08:10.045855"
+    },
+    {
+      "english": "The real secret? Showing up.",
+      "spanish": "El secreto real? Presentarse.",
+      "category": "Confidence",
+      "generated_at": "2026-07-21T22:08:10.045876"
     }
   ],
-  "last_updated": "2026-07-21T20:13:45.696331",
+  "last_updated": "2026-07-21T22:08:10.045878",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15864,6 +15894,11 @@
     "believe this: apology heals.",
     "their heart softens. try now.",
     "forgive, release your own burden.",
-    "wisdom: letting go frees you."
+    "wisdom: letting go frees you.",
+    "this sound is your superpower.",
+    "surprise! fluency feels this.",
+    "that small word? immense power.",
+    "feel that rhythm? speak it.",
+    "the real secret? showing up."
   ]
 }
