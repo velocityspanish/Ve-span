@@ -13475,9 +13475,39 @@
       "spanish": "Cree que este viaje es tuyo.",
       "category": "Growth",
       "generated_at": "2026-07-20T22:06:55.605947"
+    },
+    {
+      "english": "Hear that rhythm? Your flow.",
+      "spanish": "Oye ese ritmo? Tu fluir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-21T15:05:13.413787"
+    },
+    {
+      "english": "One 'lo siento,' more peace.",
+      "spanish": "Un 'lo siento,' más paz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-21T15:05:13.413809"
+    },
+    {
+      "english": "Breathe deeply, your wisdom grows.",
+      "spanish": "Respira hondo, tu sabiduría crece.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-21T15:05:13.413823"
+    },
+    {
+      "english": "Your quiet moment, understands.",
+      "spanish": "Tu momento callado, entiende.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-21T15:05:13.413836"
+    },
+    {
+      "english": "Never stop learning, feel it.",
+      "spanish": "Nunca dejes de aprender, siéntelo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-21T15:05:13.413850"
     }
   ],
-  "last_updated": "2026-07-20T22:06:55.605949",
+  "last_updated": "2026-07-21T15:05:13.413852",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15724,6 +15754,11 @@
     "curious? new conversations bloom.",
     "that quiet moment? progress.",
     "wisdom: patience brings reward.",
-    "believe this journey is yours."
+    "believe this journey is yours.",
+    "hear that rhythm? your flow.",
+    "one 'lo siento,' more peace.",
+    "breathe deeply, your wisdom grows.",
+    "your quiet moment, understands.",
+    "never stop learning, feel it."
   ]
 }
