@@ -13505,9 +13505,39 @@
       "spanish": "Nunca dejes de aprender, siéntelo.",
       "category": "Mindfulness",
       "generated_at": "2026-07-21T15:05:13.413850"
+    },
+    {
+      "english": "Your Spanish is blooming now.",
+      "spanish": "Tu español florece ahora.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-21T16:23:44.447932"
+    },
+    {
+      "english": "Trust this tiny voice.",
+      "spanish": "Confía en esta voz.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-21T16:23:44.447959"
+    },
+    {
+      "english": "Feel that fluency emerging?",
+      "spanish": "¿Sientes la fluidez emergiendo?",
+      "category": "Inspiration",
+      "generated_at": "2026-07-21T16:23:44.447980"
+    },
+    {
+      "english": "Your quiet voice is powerful.",
+      "spanish": "Tu voz callada es poderosa.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-21T16:23:44.448000"
+    },
+    {
+      "english": "This rhythm? It’s freedom.",
+      "spanish": "¿Este ritmo? Es libertad.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-21T16:23:44.448020"
     }
   ],
-  "last_updated": "2026-07-21T15:05:13.413852",
+  "last_updated": "2026-07-21T16:23:44.448023",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15759,6 +15789,11 @@
     "one 'lo siento,' more peace.",
     "breathe deeply, your wisdom grows.",
     "your quiet moment, understands.",
-    "never stop learning, feel it."
+    "never stop learning, feel it.",
+    "your spanish is blooming now.",
+    "trust this tiny voice.",
+    "feel that fluency emerging?",
+    "your quiet voice is powerful.",
+    "this rhythm? it’s freedom."
   ]
 }
