@@ -13565,9 +13565,39 @@
       "spanish": "Tu primer 'hola', importa mucho.",
       "category": "Strength",
       "generated_at": "2026-07-21T18:11:18.223525"
+    },
+    {
+      "english": "One 'lo siento,' instantly better.",
+      "spanish": "Un 'lo siento,' al instante mejor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-21T20:13:45.696224"
+    },
+    {
+      "english": "Believe this: apology heals.",
+      "spanish": "Cree esto: la disculpa sana.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-21T20:13:45.696253"
+    },
+    {
+      "english": "Their heart softens. Try now.",
+      "spanish": "Su corazón se ablanda. Intenta hoy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-21T20:13:45.696275"
+    },
+    {
+      "english": "Forgive, release your own burden.",
+      "spanish": "Perdona, libera tu carga.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-21T20:13:45.696308"
+    },
+    {
+      "english": "Wisdom: Letting go frees you.",
+      "spanish": "Sabiduría: Soltar te libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-21T20:13:45.696329"
     }
   ],
-  "last_updated": "2026-07-21T18:11:18.223527",
+  "last_updated": "2026-07-21T20:13:45.696331",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15829,6 +15859,11 @@
     "your patience builds fluency bridges.",
     "never stop, progress whispers.",
     "this tiny word, unlocks connection.",
-    "your first 'hola,' it matters."
+    "your first 'hola,' it matters.",
+    "one 'lo siento,' instantly better.",
+    "believe this: apology heals.",
+    "their heart softens. try now.",
+    "forgive, release your own burden.",
+    "wisdom: letting go frees you."
   ]
 }
