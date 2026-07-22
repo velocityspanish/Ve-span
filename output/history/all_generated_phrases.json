@@ -13745,9 +13745,39 @@
       "spanish": "Tu voz, escuchada, importa.",
       "category": "Creativity",
       "generated_at": "2026-07-22T20:06:56.653935"
+    },
+    {
+      "english": "That mistake? Future wisdom.",
+      "spanish": "Ese error? Sabiduría futura.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T22:10:59.041592"
+    },
+    {
+      "english": "What if today is it?",
+      "spanish": "¿Y si hoy es?",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T22:10:59.041622"
+    },
+    {
+      "english": "This happens in your brain.",
+      "spanish": "Esto pasa en tu cerebro.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T22:10:59.041643"
+    },
+    {
+      "english": "Listen: progress is gentle.",
+      "spanish": "Escucha: el progreso es suave.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T22:10:59.041663"
+    },
+    {
+      "english": "Your persistence is magic.",
+      "spanish": "Tu persistencia es magia.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T22:10:59.041683"
     }
   ],
-  "last_updated": "2026-07-22T20:06:56.653936",
+  "last_updated": "2026-07-22T22:10:59.041686",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16039,6 +16069,11 @@
     "this small sound, big power.",
     "start speaking, feel the ease.",
     "that feeling? pure understanding.",
-    "your voice, heard, matters."
+    "your voice, heard, matters.",
+    "that mistake? future wisdom.",
+    "what if today is it?",
+    "this happens in your brain.",
+    "listen: progress is gentle.",
+    "your persistence is magic."
   ]
 }
