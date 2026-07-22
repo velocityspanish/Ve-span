@@ -13655,9 +13655,39 @@
       "spanish": "¿Tu acento único? Hermoso.",
       "category": "Success",
       "generated_at": "2026-07-22T15:05:53.926730"
+    },
+    {
+      "english": "Small words, big connection.",
+      "spanish": "Palabras pequeñas, gran conexión.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-22T16:23:33.145509"
+    },
+    {
+      "english": "What if today clicks?",
+      "spanish": "¿Y si hoy hace clic?",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-22T16:23:33.145537"
+    },
+    {
+      "english": "Here's your peaceful moment.",
+      "spanish": "Aquí tu momento de paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-22T16:23:33.145556"
+    },
+    {
+      "english": "Believe in your voice.",
+      "spanish": "Cree en tu voz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-22T16:23:33.145572"
+    },
+    {
+      "english": "Curious? This is peace.",
+      "spanish": "¿Curioso? Esto es paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-22T16:23:33.145587"
     }
   ],
-  "last_updated": "2026-07-22T15:05:53.926732",
+  "last_updated": "2026-07-22T16:23:33.145589",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15934,6 +15964,11 @@
     "never forget, you are capable.",
     "that sound? it's progress.",
     "believe this moment, it matters.",
-    "your unique accent? beautiful."
+    "your unique accent? beautiful.",
+    "small words, big connection.",
+    "what if today clicks?",
+    "here's your peaceful moment.",
+    "believe in your voice.",
+    "curious? this is peace."
   ]
 }
