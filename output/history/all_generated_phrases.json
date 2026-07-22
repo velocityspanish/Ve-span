@@ -13625,9 +13625,39 @@
       "spanish": "El secreto real? Presentarse.",
       "category": "Confidence",
       "generated_at": "2026-07-21T22:08:10.045876"
+    },
+    {
+      "english": "This word? Unlocks their smiles.",
+      "spanish": "Esta palabra? Abre sonrisas.",
+      "category": "Success",
+      "generated_at": "2026-07-22T15:05:53.926634"
+    },
+    {
+      "english": "Never forget, you are capable.",
+      "spanish": "Nunca olvides, eres capaz.",
+      "category": "Success",
+      "generated_at": "2026-07-22T15:05:53.926666"
+    },
+    {
+      "english": "That sound? It's progress.",
+      "spanish": "¿Ese sonido? Es progreso.",
+      "category": "Success",
+      "generated_at": "2026-07-22T15:05:53.926688"
+    },
+    {
+      "english": "Believe this moment, it matters.",
+      "spanish": "Cree en este momento, importa.",
+      "category": "Success",
+      "generated_at": "2026-07-22T15:05:53.926708"
+    },
+    {
+      "english": "Your unique accent? Beautiful.",
+      "spanish": "¿Tu acento único? Hermoso.",
+      "category": "Success",
+      "generated_at": "2026-07-22T15:05:53.926730"
     }
   ],
-  "last_updated": "2026-07-21T22:08:10.045878",
+  "last_updated": "2026-07-22T15:05:53.926732",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15899,6 +15929,11 @@
     "surprise! fluency feels this.",
     "that small word? immense power.",
     "feel that rhythm? speak it.",
-    "the real secret? showing up."
+    "the real secret? showing up.",
+    "this word? unlocks their smiles.",
+    "never forget, you are capable.",
+    "that sound? it's progress.",
+    "believe this moment, it matters.",
+    "your unique accent? beautiful."
   ]
 }
