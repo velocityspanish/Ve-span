@@ -13685,9 +13685,39 @@
       "spanish": "¿Curioso? Esto es paz.",
       "category": "Inner Peace",
       "generated_at": "2026-07-22T16:23:33.145587"
+    },
+    {
+      "english": "Hear that? Your confidence.",
+      "spanish": "¿Oyes eso? Tu confianza.",
+      "category": "Growth",
+      "generated_at": "2026-07-22T18:03:13.258387"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "spanish": "No pienses demasiado, solo habla.",
+      "category": "Growth",
+      "generated_at": "2026-07-22T18:03:13.258417"
+    },
+    {
+      "english": "Hear friendship's echo? Try.",
+      "spanish": "¿Oyes el eco de amistad? Intenta.",
+      "category": "Growth",
+      "generated_at": "2026-07-22T18:03:13.258439"
+    },
+    {
+      "english": "One 'gracias,' kindness ripples.",
+      "spanish": "Un 'gracias,' bondad se propaga.",
+      "category": "Growth",
+      "generated_at": "2026-07-22T18:03:13.258460"
+    },
+    {
+      "english": "Curious? New worlds await.",
+      "spanish": "¿Curioso? Nuevos mundos esperan.",
+      "category": "Growth",
+      "generated_at": "2026-07-22T18:03:13.258480"
     }
   ],
-  "last_updated": "2026-07-22T16:23:33.145589",
+  "last_updated": "2026-07-22T18:03:13.258483",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -15969,6 +15999,11 @@
     "what if today clicks?",
     "here's your peaceful moment.",
     "believe in your voice.",
-    "curious? this is peace."
+    "curious? this is peace.",
+    "hear that? your confidence.",
+    "don't overthink, just speak.",
+    "hear friendship's echo? try.",
+    "one 'gracias,' kindness ripples.",
+    "curious? new worlds await."
   ]
 }
