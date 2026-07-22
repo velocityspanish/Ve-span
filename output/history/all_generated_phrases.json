@@ -13715,9 +13715,39 @@
       "spanish": "¿Curioso? Nuevos mundos esperan.",
       "category": "Growth",
       "generated_at": "2026-07-22T18:03:13.258480"
+    },
+    {
+      "english": "Your next word connects deeply.",
+      "spanish": "Tu próxima palabra conecta profundo.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T20:06:56.653844"
+    },
+    {
+      "english": "This small sound, big power.",
+      "spanish": "Este sonido pequeño, gran poder.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T20:06:56.653873"
+    },
+    {
+      "english": "Start speaking, feel the ease.",
+      "spanish": "Empieza a hablar, siente la facilidad.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T20:06:56.653894"
+    },
+    {
+      "english": "That feeling? pure understanding.",
+      "spanish": "¿Esa sensación? Comprensión pura.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T20:06:56.653914"
+    },
+    {
+      "english": "Your voice, heard, matters.",
+      "spanish": "Tu voz, escuchada, importa.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T20:06:56.653935"
     }
   ],
-  "last_updated": "2026-07-22T18:03:13.258483",
+  "last_updated": "2026-07-22T20:06:56.653936",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16004,6 +16034,11 @@
     "don't overthink, just speak.",
     "hear friendship's echo? try.",
     "one 'gracias,' kindness ripples.",
-    "curious? new worlds await."
+    "curious? new worlds await.",
+    "your next word connects deeply.",
+    "this small sound, big power.",
+    "start speaking, feel the ease.",
+    "that feeling? pure understanding.",
+    "your voice, heard, matters."
   ]
 }
