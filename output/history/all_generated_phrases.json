@@ -13805,9 +13805,39 @@
       "spanish": "Esta conexión se siente tan natural.",
       "category": "Purpose",
       "generated_at": "2026-07-23T13:29:23.873878"
+    },
+    {
+      "english": "Your next word? Priceless conversation.",
+      "spanish": "Tu próxima palabra, ¿conversación invaluable?",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:36:34.891759"
+    },
+    {
+      "english": "This sound? Instant warm feeling.",
+      "spanish": "Este sonido, ¿sensación cálida instantánea?",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:36:34.891788"
+    },
+    {
+      "english": "Mistake? That's actually genius.",
+      "spanish": "¿Error? Eso es genial.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:36:34.891810"
+    },
+    {
+      "english": "The biggest leap? Just asking.",
+      "spanish": "¿El salto más grande? Solo preguntar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:36:34.891832"
+    },
+    {
+      "english": "Never stop; joy awaits.",
+      "spanish": "Nunca te detengas; la alegría espera.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:36:34.891852"
     }
   ],
-  "last_updated": "2026-07-23T13:29:23.873880",
+  "last_updated": "2026-07-23T13:36:34.891854",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16109,6 +16139,11 @@
     "momentum feels like this, yes?",
     "wisdom: your accent is your voice.",
     "never doubt this speaking power.",
-    "this connection feels so natural."
+    "this connection feels so natural.",
+    "your next word? priceless conversation.",
+    "this sound? instant warm feeling.",
+    "mistake? that's actually genius.",
+    "the biggest leap? just asking.",
+    "never stop; joy awaits."
   ]
 }
