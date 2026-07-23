@@ -13865,9 +13865,39 @@
       "spanish": "Un 'Por favor,' lo cambia todo.",
       "category": "Positive Life",
       "generated_at": "2026-07-23T15:10:30.477382"
+    },
+    {
+      "english": "Never force it, just flow.",
+      "spanish": "Nunca fuerces, solo fluye.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T16:27:56.983698"
+    },
+    {
+      "english": "Feel this comfort, then speak.",
+      "spanish": "Siente este consuelo, luego habla.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T16:27:56.983728"
+    },
+    {
+      "english": "This small word? Big impact.",
+      "spanish": "¿Esta palabra pequeña? Gran impacto.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T16:27:56.983751"
+    },
+    {
+      "english": "Listen: your progress is showing.",
+      "spanish": "Escucha: tu progreso se muestra.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T16:27:56.983771"
+    },
+    {
+      "english": "Believe this connection is real.",
+      "spanish": "Cree que esta conexión es real.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T16:27:56.983791"
     }
   ],
-  "last_updated": "2026-07-23T15:10:30.477384",
+  "last_updated": "2026-07-23T16:27:56.983793",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16179,6 +16209,11 @@
     "the universe is listening. speak.",
     "this tiny phrase? huge comfort.",
     "unlock this feeling. try it.",
-    "one 'por favor,' changes everything."
+    "one 'por favor,' changes everything.",
+    "never force it, just flow.",
+    "feel this comfort, then speak.",
+    "this small word? big impact.",
+    "listen: your progress is showing.",
+    "believe this connection is real."
   ]
 }
