@@ -13835,9 +13835,39 @@
       "spanish": "Nunca te detengas; la alegría espera.",
       "category": "Purpose",
       "generated_at": "2026-07-23T13:36:34.891852"
+    },
+    {
+      "english": "Feel that spark? New word!",
+      "spanish": "Siente esa chispa? Palabra nueva!",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T15:10:30.477291"
+    },
+    {
+      "english": "The universe is listening. Speak.",
+      "spanish": "El universo escucha. Habla.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T15:10:30.477320"
+    },
+    {
+      "english": "This tiny phrase? Huge comfort.",
+      "spanish": "Esta frasecita? Gran consuelo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T15:10:30.477342"
+    },
+    {
+      "english": "Unlock THIS feeling. Try it.",
+      "spanish": "Desbloquea ESTE sentimiento. Inténtalo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T15:10:30.477363"
+    },
+    {
+      "english": "One 'Por favor,' changes everything.",
+      "spanish": "Un 'Por favor,' lo cambia todo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T15:10:30.477382"
     }
   ],
-  "last_updated": "2026-07-23T13:36:34.891854",
+  "last_updated": "2026-07-23T15:10:30.477384",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16144,6 +16174,11 @@
     "this sound? instant warm feeling.",
     "mistake? that's actually genius.",
     "the biggest leap? just asking.",
-    "never stop; joy awaits."
+    "never stop; joy awaits.",
+    "feel that spark? new word!",
+    "the universe is listening. speak.",
+    "this tiny phrase? huge comfort.",
+    "unlock this feeling. try it.",
+    "one 'por favor,' changes everything."
   ]
 }
