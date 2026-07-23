@@ -13775,9 +13775,39 @@
       "spanish": "Tu persistencia es magia.",
       "category": "Perseverance",
       "generated_at": "2026-07-22T22:10:59.041683"
+    },
+    {
+      "english": "This tiny word changes minds.",
+      "spanish": "Esta palabra diminuta cambia mentes.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:29:23.873787"
+    },
+    {
+      "english": "Momentum feels like this, yes?",
+      "spanish": "El impulso se siente así, ¿verdad?",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:29:23.873817"
+    },
+    {
+      "english": "Wisdom: Your accent is your voice.",
+      "spanish": "Sabiduría: Tu acento es tu voz.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:29:23.873838"
+    },
+    {
+      "english": "Never doubt this speaking power.",
+      "spanish": "Nunca dudes de este poder de hablar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:29:23.873858"
+    },
+    {
+      "english": "This connection feels so natural.",
+      "spanish": "Esta conexión se siente tan natural.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T13:29:23.873878"
     }
   ],
-  "last_updated": "2026-07-22T22:10:59.041686",
+  "last_updated": "2026-07-23T13:29:23.873880",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16074,6 +16104,11 @@
     "what if today is it?",
     "this happens in your brain.",
     "listen: progress is gentle.",
-    "your persistence is magic."
+    "your persistence is magic.",
+    "this tiny word changes minds.",
+    "momentum feels like this, yes?",
+    "wisdom: your accent is your voice.",
+    "never doubt this speaking power.",
+    "this connection feels so natural."
   ]
 }
