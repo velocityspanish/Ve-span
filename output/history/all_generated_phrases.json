@@ -13895,9 +13895,39 @@
       "spanish": "Cree que esta conexión es real.",
       "category": "Positive Life",
       "generated_at": "2026-07-23T16:27:56.983791"
+    },
+    {
+      "english": "Mistakes? That's brilliant learning.",
+      "spanish": "¿Errores? Eso es aprendizaje brillante.",
+      "category": "Motivation",
+      "generated_at": "2026-07-23T17:10:24.103424"
+    },
+    {
+      "english": "One 'hola,' big hello.",
+      "spanish": "Un 'hola,' un gran saludo.",
+      "category": "Motivation",
+      "generated_at": "2026-07-23T17:10:24.103456"
+    },
+    {
+      "english": "This quiet practice works.",
+      "spanish": "Esta práctica tranquila funciona.",
+      "category": "Motivation",
+      "generated_at": "2026-07-23T17:10:24.103478"
+    },
+    {
+      "english": "Believe connection happens easily.",
+      "spanish": "Cree que la conexión ocurre fácilmente.",
+      "category": "Motivation",
+      "generated_at": "2026-07-23T17:10:24.103499"
+    },
+    {
+      "english": "Feel the progress, it's real.",
+      "spanish": "Siente el progreso, es real.",
+      "category": "Motivation",
+      "generated_at": "2026-07-23T17:10:24.103521"
     }
   ],
-  "last_updated": "2026-07-23T16:27:56.983793",
+  "last_updated": "2026-07-23T17:10:24.103523",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16214,6 +16244,11 @@
     "feel this comfort, then speak.",
     "this small word? big impact.",
     "listen: your progress is showing.",
-    "believe this connection is real."
+    "believe this connection is real.",
+    "mistakes? that's brilliant learning.",
+    "one 'hola,' big hello.",
+    "this quiet practice works.",
+    "believe connection happens easily.",
+    "feel the progress, it's real."
   ]
 }
