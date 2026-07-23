@@ -13925,9 +13925,39 @@
       "spanish": "Siente el progreso, es real.",
       "category": "Motivation",
       "generated_at": "2026-07-23T17:10:24.103521"
+    },
+    {
+      "english": "Your Spanish journey, this helps.",
+      "spanish": "Tu viaje en español, esto ayuda.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:16:17.848763"
+    },
+    {
+      "english": "One word, big connection. Try it.",
+      "spanish": "Una palabra, gran conexión. Pruébalo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:16:17.848792"
+    },
+    {
+      "english": "This feeling? It's fluency starting.",
+      "spanish": "¿Este sentimiento? Es fluidez empezando.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:16:17.848813"
+    },
+    {
+      "english": "Surprise! Friendship in Spanish.",
+      "spanish": "¡Sorpresa! Amistad en español.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:16:17.848833"
+    },
+    {
+      "english": "Hear that? Your accent shines.",
+      "spanish": "¿Oyes eso? Tu acento brilla.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:16:17.848854"
     }
   ],
-  "last_updated": "2026-07-23T17:10:24.103523",
+  "last_updated": "2026-07-23T18:16:17.848856",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16249,6 +16279,11 @@
     "one 'hola,' big hello.",
     "this quiet practice works.",
     "believe connection happens easily.",
-    "feel the progress, it's real."
+    "feel the progress, it's real.",
+    "your spanish journey, this helps.",
+    "one word, big connection. try it.",
+    "this feeling? it's fluency starting.",
+    "surprise! friendship in spanish.",
+    "hear that? your accent shines."
   ]
 }
