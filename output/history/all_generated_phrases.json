@@ -13985,9 +13985,39 @@
       "spanish": "¿Tu práctica silenciosa? Muy poderosa.",
       "category": "Mindfulness",
       "generated_at": "2026-07-23T20:08:00.603857"
+    },
+    {
+      "english": "Curious? Your fluency's path.",
+      "spanish": "¿Curioso? Tu camino de fluidez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T22:09:48.225107"
+    },
+    {
+      "english": "Believe this feeling right now.",
+      "spanish": "Cree en esta sensación ahora.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T22:09:48.225139"
+    },
+    {
+      "english": "This quiet practice works wonders.",
+      "spanish": "Esta práctica tranquila hace maravillas.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T22:09:48.225161"
+    },
+    {
+      "english": "Surprise! Fluency feels so good.",
+      "spanish": "¡Sorpresa! La fluidez se siente bien.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T22:09:48.225182"
+    },
+    {
+      "english": "Don't pause, embrace the sound.",
+      "spanish": "No pausas, abraza el sonido.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T22:09:48.225202"
     }
   ],
-  "last_updated": "2026-07-23T20:08:00.603860",
+  "last_updated": "2026-07-23T22:09:48.225204",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16319,6 +16349,11 @@
     "feel this new joy. speak!",
     "curious? a world awaits you.",
     "believe this: small words matter.",
-    "your quiet practice? so powerful."
+    "your quiet practice? so powerful.",
+    "curious? your fluency's path.",
+    "believe this feeling right now.",
+    "this quiet practice works wonders.",
+    "surprise! fluency feels so good.",
+    "don't pause, embrace the sound."
   ]
 }
