@@ -13955,9 +13955,39 @@
       "spanish": "¿Oyes eso? Tu acento brilla.",
       "category": "Friendship",
       "generated_at": "2026-07-23T18:16:17.848854"
+    },
+    {
+      "english": "Today's struggle, tomorrow's strength.",
+      "spanish": "El esfuerzo de hoy, fuerza de mañana.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:08:00.603752"
+    },
+    {
+      "english": "Feel this new joy. Speak!",
+      "spanish": "Siente esta nueva alegría. ¡Habla!",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:08:00.603786"
+    },
+    {
+      "english": "Curious? A world awaits you.",
+      "spanish": "¿Curioso? Un mundo te espera.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:08:00.603807"
+    },
+    {
+      "english": "Believe this: small words matter.",
+      "spanish": "Cree esto: palabras cortas importan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:08:00.603834"
+    },
+    {
+      "english": "Your quiet practice? So powerful.",
+      "spanish": "¿Tu práctica silenciosa? Muy poderosa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:08:00.603857"
     }
   ],
-  "last_updated": "2026-07-23T18:16:17.848856",
+  "last_updated": "2026-07-23T20:08:00.603860",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16284,6 +16314,11 @@
     "one word, big connection. try it.",
     "this feeling? it's fluency starting.",
     "surprise! friendship in spanish.",
-    "hear that? your accent shines."
+    "hear that? your accent shines.",
+    "today's struggle, tomorrow's strength.",
+    "feel this new joy. speak!",
+    "curious? a world awaits you.",
+    "believe this: small words matter.",
+    "your quiet practice? so powerful."
   ]
 }
