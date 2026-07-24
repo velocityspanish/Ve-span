@@ -14105,9 +14105,39 @@
       "spanish": "Sabiduría: Agradece más, estresa menos.",
       "category": "Gratitude",
       "generated_at": "2026-07-24T16:44:15.593024"
+    },
+    {
+      "english": "Curious? Your voice gets louder.",
+      "spanish": "¿Curioso? Tu voz se oye.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T18:11:44.781671"
+    },
+    {
+      "english": "One smile, a thousand welcomes.",
+      "spanish": "Una sonrisa, mil bienvenidas.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T18:11:44.781703"
+    },
+    {
+      "english": "Feel this connection? It's working.",
+      "spanish": "¿Sientes esta conexión? Funciona.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T18:11:44.781724"
+    },
+    {
+      "english": "Your Spanish heart beats louder.",
+      "spanish": "Tu corazón español late fuerte.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T18:11:44.781746"
+    },
+    {
+      "english": "Mistake moment? Beautiful learning.",
+      "spanish": "¿Momento de error? Aprendizaje hermoso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T18:11:44.781765"
     }
   ],
-  "last_updated": "2026-07-24T16:44:15.593026",
+  "last_updated": "2026-07-24T18:11:44.781768",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16459,6 +16489,11 @@
     "hear this: appreciation connects.",
     "surprise! you're so blessed.",
     "your biggest joy starts here.",
-    "wisdom: thank more, stress less."
+    "wisdom: thank more, stress less.",
+    "curious? your voice gets louder.",
+    "one smile, a thousand welcomes.",
+    "feel this connection? it's working.",
+    "your spanish heart beats louder.",
+    "mistake moment? beautiful learning."
   ]
 }
