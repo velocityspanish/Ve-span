@@ -14015,9 +14015,39 @@
       "spanish": "No pausas, abraza el sonido.",
       "category": "Balance",
       "generated_at": "2026-07-23T22:09:48.225202"
+    },
+    {
+      "english": "This one word? Your superpower.",
+      "spanish": "Esta palabra? Tu superpoder.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T07:18:23.969998"
+    },
+    {
+      "english": "Confidence is your next sound.",
+      "spanish": "La confianza es tu siguiente sonido.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T07:18:23.970033"
+    },
+    {
+      "english": "Curious? This is your breakthrough.",
+      "spanish": "¿Curioso? Este es tu gran avance.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T07:18:23.970055"
+    },
+    {
+      "english": "Don't stop, amazing words await.",
+      "spanish": "No te detengas, palabras geniales esperan.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T07:18:23.970076"
+    },
+    {
+      "english": "Feel this: you are understood.",
+      "spanish": "Siente esto: eres comprendido.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T07:18:23.970098"
     }
   ],
-  "last_updated": "2026-07-23T22:09:48.225204",
+  "last_updated": "2026-07-24T07:18:23.970100",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16354,6 +16384,11 @@
     "believe this feeling right now.",
     "this quiet practice works wonders.",
     "surprise! fluency feels so good.",
-    "don't pause, embrace the sound."
+    "don't pause, embrace the sound.",
+    "this one word? your superpower.",
+    "confidence is your next sound.",
+    "curious? this is your breakthrough.",
+    "don't stop, amazing words await.",
+    "feel this: you are understood."
   ]
 }
