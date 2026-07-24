@@ -14045,9 +14045,39 @@
       "spanish": "Siente esto: eres comprendido.",
       "category": "Confidence",
       "generated_at": "2026-07-24T07:18:23.970098"
+    },
+    {
+      "english": "Your brain rewires itself now.",
+      "spanish": "Tu cerebro se recablea ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-24T15:43:10.258833"
+    },
+    {
+      "english": "That quiet practice? Pure gold.",
+      "spanish": "¿Esa práctica tranquila? Oro puro.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-24T15:43:10.258864"
+    },
+    {
+      "english": "One 'perdón,' instantly lighter.",
+      "spanish": "Un 'perdón,' al instante más ligero.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-24T15:43:10.258887"
+    },
+    {
+      "english": "This journey? Pure discovery.",
+      "spanish": "¿Este viaje? Descubrimiento puro.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-24T15:43:10.258908"
+    },
+    {
+      "english": "Hear that confidence? It's yours.",
+      "spanish": "¿Escuchas esa confianza? Es tuya.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-24T15:43:10.258929"
     }
   ],
-  "last_updated": "2026-07-24T07:18:23.970100",
+  "last_updated": "2026-07-24T15:43:10.258931",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16389,6 +16419,11 @@
     "confidence is your next sound.",
     "curious? this is your breakthrough.",
     "don't stop, amazing words await.",
-    "feel this: you are understood."
+    "feel this: you are understood.",
+    "your brain rewires itself now.",
+    "that quiet practice? pure gold.",
+    "one 'perdón,' instantly lighter.",
+    "this journey? pure discovery.",
+    "hear that confidence? it's yours."
   ]
 }
