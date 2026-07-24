@@ -14075,9 +14075,39 @@
       "spanish": "¿Escuchas esa confianza? Es tuya.",
       "category": "Positive Life",
       "generated_at": "2026-07-24T15:43:10.258929"
+    },
+    {
+      "english": "What if gratitude unlocked courage?",
+      "spanish": "¿Qué si la gratitud desbloquea coraje?",
+      "category": "Gratitude",
+      "generated_at": "2026-07-24T16:44:15.592924"
+    },
+    {
+      "english": "Hear this: appreciation connects.",
+      "spanish": "Oye esto: la apreciación conecta.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-24T16:44:15.592956"
+    },
+    {
+      "english": "Surprise! You're so blessed.",
+      "spanish": "¡Sorpresa! Tienes tanta suerte.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-24T16:44:15.592980"
+    },
+    {
+      "english": "Your biggest joy starts here.",
+      "spanish": "Tu mayor alegría empieza aquí.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-24T16:44:15.593003"
+    },
+    {
+      "english": "Wisdom: Thank more, stress less.",
+      "spanish": "Sabiduría: Agradece más, estresa menos.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-24T16:44:15.593024"
     }
   ],
-  "last_updated": "2026-07-24T15:43:10.258931",
+  "last_updated": "2026-07-24T16:44:15.593026",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16424,6 +16454,11 @@
     "that quiet practice? pure gold.",
     "one 'perdón,' instantly lighter.",
     "this journey? pure discovery.",
-    "hear that confidence? it's yours."
+    "hear that confidence? it's yours.",
+    "what if gratitude unlocked courage?",
+    "hear this: appreciation connects.",
+    "surprise! you're so blessed.",
+    "your biggest joy starts here.",
+    "wisdom: thank more, stress less."
   ]
 }
