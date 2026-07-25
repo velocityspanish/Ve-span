@@ -14195,9 +14195,39 @@
       "spanish": "Sabiduría: Agradece todo.",
       "category": "Gratitude",
       "generated_at": "2026-07-25T16:05:19.209099"
+    },
+    {
+      "english": "Curious? New worlds open up.",
+      "spanish": "¿Curioso? Nuevos mundos se abren.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T17:52:11.557290"
+    },
+    {
+      "english": "Just try one sentence first.",
+      "spanish": "Solo intenta una frase.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T17:52:11.557322"
+    },
+    {
+      "english": "That tiny pause? Embrace it.",
+      "spanish": "Esa pausa pequeña? Abrázala.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T17:52:11.557344"
+    },
+    {
+      "english": "What if joy unlocked fluency?",
+      "spanish": "¿Y si la alegría desbloquea fluidez?",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T17:52:11.557366"
+    },
+    {
+      "english": "Never fear awkward moments.",
+      "spanish": "Nunca temas momentos raros.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T17:52:11.557388"
     }
   ],
-  "last_updated": "2026-07-25T16:05:19.209101",
+  "last_updated": "2026-07-25T17:52:11.557389",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16564,6 +16594,11 @@
     "feel this warmth? thank you.",
     "surprise! kindness is free.",
     "that one word? huge peace.",
-    "wisdom: appreciate everything."
+    "wisdom: appreciate everything.",
+    "curious? new worlds open up.",
+    "just try one sentence first.",
+    "that tiny pause? embrace it.",
+    "what if joy unlocked fluency?",
+    "never fear awkward moments."
   ]
 }
