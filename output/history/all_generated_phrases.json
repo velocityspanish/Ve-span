@@ -14225,9 +14225,39 @@
       "spanish": "Nunca temas momentos raros.",
       "category": "Inspiration",
       "generated_at": "2026-07-25T17:52:11.557388"
+    },
+    {
+      "english": "That sound? True connection.",
+      "spanish": "Ese sonido? Conexión real.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T20:06:06.782184"
+    },
+    {
+      "english": "Feel this? Pure understanding.",
+      "spanish": "¿Sientes esto? Comprensión pura.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T20:06:06.782219"
+    },
+    {
+      "english": "Just try speaking, feel peace.",
+      "spanish": "Solo intenta hablar, siente paz.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T20:06:06.782240"
+    },
+    {
+      "english": "Unlock this feeling. You can.",
+      "spanish": "Desbloquea este sentimiento. Puedes.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T20:06:06.782263"
+    },
+    {
+      "english": "One 'por favor,' kindness matters.",
+      "spanish": "Un 'por favor,' amable importa.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T20:06:06.782284"
     }
   ],
-  "last_updated": "2026-07-25T17:52:11.557389",
+  "last_updated": "2026-07-25T20:06:06.782286",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16599,6 +16629,11 @@
     "just try one sentence first.",
     "that tiny pause? embrace it.",
     "what if joy unlocked fluency?",
-    "never fear awkward moments."
+    "never fear awkward moments.",
+    "that sound? true connection.",
+    "feel this? pure understanding.",
+    "just try speaking, feel peace.",
+    "unlock this feeling. you can.",
+    "one 'por favor,' kindness matters."
   ]
 }
