@@ -14165,9 +14165,39 @@
       "spanish": "La práctica de hoy, la facilidad de mañana.",
       "category": "Gratitude",
       "generated_at": "2026-07-25T14:38:54.050114"
+    },
+    {
+      "english": "Your heart speaks volumes. Try.",
+      "spanish": "Tu corazón dice mucho. Intenta.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T16:05:19.208998"
+    },
+    {
+      "english": "Feel this warmth? Thank you.",
+      "spanish": "Sientes este calor? Gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T16:05:19.209033"
+    },
+    {
+      "english": "Surprise! Kindness is free.",
+      "spanish": "Sorpresa! Amabilidad es gratis.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T16:05:19.209056"
+    },
+    {
+      "english": "That one word? Huge peace.",
+      "spanish": "Esa palabra? Paz enorme.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T16:05:19.209077"
+    },
+    {
+      "english": "Wisdom: Appreciate everything.",
+      "spanish": "Sabiduría: Agradece todo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T16:05:19.209099"
     }
   ],
-  "last_updated": "2026-07-25T14:38:54.050116",
+  "last_updated": "2026-07-25T16:05:19.209101",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16529,6 +16559,11 @@
     "surprise! your mind is a sponge.",
     "this one word? massive connection.",
     "that small effort, huge payoff.",
-    "today's practice, tomorrow's ease."
+    "today's practice, tomorrow's ease.",
+    "your heart speaks volumes. try.",
+    "feel this warmth? thank you.",
+    "surprise! kindness is free.",
+    "that one word? huge peace.",
+    "wisdom: appreciate everything."
   ]
 }
