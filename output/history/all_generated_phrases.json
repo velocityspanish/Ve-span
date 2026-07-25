@@ -14135,9 +14135,39 @@
       "spanish": "¿Momento de error? Aprendizaje hermoso.",
       "category": "Wisdom",
       "generated_at": "2026-07-24T18:11:44.781765"
+    },
+    {
+      "english": "Hear this? Your comfort zone is calling.",
+      "spanish": "¿Oyes esto? Tu zona de confort llama.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T14:38:54.050021"
+    },
+    {
+      "english": "Surprise! Your mind is a sponge.",
+      "spanish": "¡Sorpresa! Tu mente es una esponja.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T14:38:54.050051"
+    },
+    {
+      "english": "This one word? Massive connection.",
+      "spanish": "¿Esta palabra? Conexión masiva.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T14:38:54.050072"
+    },
+    {
+      "english": "That small effort, huge payoff.",
+      "spanish": "Ese pequeño esfuerzo, gran recompensa.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T14:38:54.050094"
+    },
+    {
+      "english": "Today's practice, tomorrow's ease.",
+      "spanish": "La práctica de hoy, la facilidad de mañana.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T14:38:54.050114"
     }
   ],
-  "last_updated": "2026-07-24T18:11:44.781768",
+  "last_updated": "2026-07-25T14:38:54.050116",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16494,6 +16524,11 @@
     "one smile, a thousand welcomes.",
     "feel this connection? it's working.",
     "your spanish heart beats louder.",
-    "mistake moment? beautiful learning."
+    "mistake moment? beautiful learning.",
+    "hear this? your comfort zone is calling.",
+    "surprise! your mind is a sponge.",
+    "this one word? massive connection.",
+    "that small effort, huge payoff.",
+    "today's practice, tomorrow's ease."
   ]
 }
