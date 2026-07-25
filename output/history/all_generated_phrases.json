@@ -14255,9 +14255,39 @@
       "spanish": "Un 'por favor,' amable importa.",
       "category": "Gratitude",
       "generated_at": "2026-07-25T20:06:06.782284"
+    },
+    {
+      "english": "One 'gracias,' brightens your day.",
+      "spanish": "Un 'gracias,' ilumina tu día.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T22:01:09.226180"
+    },
+    {
+      "english": "Wisdom: Thank more, live more.",
+      "spanish": "Sabiduría: Agradece más, vive más.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T22:01:09.226213"
+    },
+    {
+      "english": "Start with 'por favor,' please.",
+      "spanish": "Empieza con 'por favor,' por favor.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T22:01:09.226235"
+    },
+    {
+      "english": "Hear that? Your confidence speaks.",
+      "spanish": "¿Oyes eso? Tu confianza habla.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T22:01:09.226256"
+    },
+    {
+      "english": "That small effort? Huge reward.",
+      "spanish": "¿Ese pequeño esfuerzo? Gran recompensa.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T22:01:09.226277"
     }
   ],
-  "last_updated": "2026-07-25T20:06:06.782286",
+  "last_updated": "2026-07-25T22:01:09.226279",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16634,6 +16664,11 @@
     "feel this? pure understanding.",
     "just try speaking, feel peace.",
     "unlock this feeling. you can.",
-    "one 'por favor,' kindness matters."
+    "one 'por favor,' kindness matters.",
+    "one 'gracias,' brightens your day.",
+    "wisdom: thank more, live more.",
+    "start with 'por favor,' please.",
+    "hear that? your confidence speaks.",
+    "that small effort? huge reward."
   ]
 }
