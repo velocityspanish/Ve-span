@@ -14315,9 +14315,39 @@
       "spanish": "Sigue practicando, la alegría espera.",
       "category": "Inspiration",
       "generated_at": "2026-07-26T14:38:32.099644"
+    },
+    {
+      "english": "That little sound? Freedom.",
+      "spanish": "Ese sonido pequeño? Libertad.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-26T16:02:30.692308"
+    },
+    {
+      "english": "Curious? Your world expands.",
+      "spanish": "¿Curioso? Tu mundo se expande.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-26T16:02:30.692342"
+    },
+    {
+      "english": "Hear your progress now.",
+      "spanish": "Escucha tu progreso ahora.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-26T16:02:30.692362"
+    },
+    {
+      "english": "This confidence is real.",
+      "spanish": "Esta confianza es real.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-26T16:02:30.692383"
+    },
+    {
+      "english": "Joy comes with speaking.",
+      "spanish": "La alegría viene al hablar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-26T16:02:30.692403"
     }
   ],
-  "last_updated": "2026-07-26T14:38:32.099646",
+  "last_updated": "2026-07-26T16:02:30.692406",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16704,6 +16734,11 @@
     "believe this: fluency feels amazing.",
     "one simple sentence, big ripple.",
     "wisdom: embrace every small win.",
-    "keep practicing, joy awaits."
+    "keep practicing, joy awaits.",
+    "that little sound? freedom.",
+    "curious? your world expands.",
+    "hear your progress now.",
+    "this confidence is real.",
+    "joy comes with speaking."
   ]
 }
