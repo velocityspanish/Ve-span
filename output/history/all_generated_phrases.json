@@ -14405,9 +14405,39 @@
       "spanish": "Deja de temer los silencios.",
       "category": "Growth",
       "generated_at": "2026-07-26T20:04:44.845576"
+    },
+    {
+      "english": "Your voice gets louder, listen.",
+      "spanish": "Tu voz se hace más fuerte, escucha.",
+      "category": "Joy",
+      "generated_at": "2026-07-26T22:04:31.479135"
+    },
+    {
+      "english": "This warmth? From your words.",
+      "spanish": "¿Este calor? De tus palabras.",
+      "category": "Joy",
+      "generated_at": "2026-07-26T22:04:31.479170"
+    },
+    {
+      "english": "One 'gracias,' unlocks happiness.",
+      "spanish": "Un 'gracias,' desbloquea felicidad.",
+      "category": "Joy",
+      "generated_at": "2026-07-26T22:04:31.479193"
+    },
+    {
+      "english": "Curious? Your story unfolds.",
+      "spanish": "¿Curioso? Tu historia se revela.",
+      "category": "Joy",
+      "generated_at": "2026-07-26T22:04:31.479216"
+    },
+    {
+      "english": "Your progress? Visible now.",
+      "spanish": "¿Tu progreso? Visible ahora.",
+      "category": "Joy",
+      "generated_at": "2026-07-26T22:04:31.479238"
     }
   ],
-  "last_updated": "2026-07-26T20:04:44.845579",
+  "last_updated": "2026-07-26T22:04:31.479240",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16809,6 +16839,11 @@
     "this one phrase, powerful comfort.",
     "what if 'please' unlocks doors?",
     "your kindness is heard loudest.",
-    "stop fearing silent moments."
+    "stop fearing silent moments.",
+    "your voice gets louder, listen.",
+    "this warmth? from your words.",
+    "one 'gracias,' unlocks happiness.",
+    "curious? your story unfolds.",
+    "your progress? visible now."
   ]
 }
