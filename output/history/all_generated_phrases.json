@@ -14285,9 +14285,39 @@
       "spanish": "¿Ese pequeño esfuerzo? Gran recompensa.",
       "category": "Gratitude",
       "generated_at": "2026-07-25T22:01:09.226277"
+    },
+    {
+      "english": "Curious? Your journey begins now.",
+      "spanish": "¿Curioso? Tu viaje empieza ahora.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-26T14:38:32.099545"
+    },
+    {
+      "english": "Believe this: fluency feels amazing.",
+      "spanish": "Cree esto: fluidez se siente increíble.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-26T14:38:32.099577"
+    },
+    {
+      "english": "One simple sentence, big ripple.",
+      "spanish": "Una frase sencilla, gran onda.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-26T14:38:32.099600"
+    },
+    {
+      "english": "Wisdom: Embrace every small win.",
+      "spanish": "Sabiduría: Abraza cada pequeña victoria.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-26T14:38:32.099620"
+    },
+    {
+      "english": "Keep practicing, joy awaits.",
+      "spanish": "Sigue practicando, la alegría espera.",
+      "category": "Inspiration",
+      "generated_at": "2026-07-26T14:38:32.099644"
     }
   ],
-  "last_updated": "2026-07-25T22:01:09.226279",
+  "last_updated": "2026-07-26T14:38:32.099646",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16669,6 +16699,11 @@
     "wisdom: thank more, live more.",
     "start with 'por favor,' please.",
     "hear that? your confidence speaks.",
-    "that small effort? huge reward."
+    "that small effort? huge reward.",
+    "curious? your journey begins now.",
+    "believe this: fluency feels amazing.",
+    "one simple sentence, big ripple.",
+    "wisdom: embrace every small win.",
+    "keep practicing, joy awaits."
   ]
 }
