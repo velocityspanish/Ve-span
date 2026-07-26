@@ -14345,9 +14345,39 @@
       "spanish": "La alegría viene al hablar.",
       "category": "Self Improvement",
       "generated_at": "2026-07-26T16:02:30.692403"
+    },
+    {
+      "english": "Pause: Your thanks echo.",
+      "spanish": "Pausa: Tus gracias resuenan.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-26T17:55:28.002168"
+    },
+    {
+      "english": "What if joy unlocks words?",
+      "spanish": "¿Y si la alegría desbloquea palabras?",
+      "category": "Gratitude",
+      "generated_at": "2026-07-26T17:55:28.002213"
+    },
+    {
+      "english": "Surprise! Your kindness sparks.",
+      "spanish": "¡Sorpresa! Tu amabilidad chispea.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-26T17:55:28.002236"
+    },
+    {
+      "english": "Hear THIS gratitude feeling.",
+      "spanish": "Oye ESTE sentimiento de gratitud.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-26T17:55:28.002259"
+    },
+    {
+      "english": "One 'gracias,' massive connection.",
+      "spanish": "Un 'gracias,' conexión masiva.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-26T17:55:28.002280"
     }
   ],
-  "last_updated": "2026-07-26T16:02:30.692406",
+  "last_updated": "2026-07-26T17:55:28.002282",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16739,6 +16769,11 @@
     "curious? your world expands.",
     "hear your progress now.",
     "this confidence is real.",
-    "joy comes with speaking."
+    "joy comes with speaking.",
+    "pause: your thanks echo.",
+    "what if joy unlocks words?",
+    "surprise! your kindness sparks.",
+    "hear this gratitude feeling.",
+    "one 'gracias,' massive connection."
   ]
 }
