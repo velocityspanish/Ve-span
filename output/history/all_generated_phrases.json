@@ -14375,9 +14375,39 @@
       "spanish": "Un 'gracias,' conexión masiva.",
       "category": "Gratitude",
       "generated_at": "2026-07-26T17:55:28.002280"
+    },
+    {
+      "english": "Future you sending thanks,",
+      "spanish": "Tu yo futuro te agradece,",
+      "category": "Growth",
+      "generated_at": "2026-07-26T20:04:44.845456"
+    },
+    {
+      "english": "This one phrase, powerful comfort.",
+      "spanish": "Esta frase, consuelo poderoso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T20:04:44.845487"
+    },
+    {
+      "english": "What if 'please' unlocks doors?",
+      "spanish": "¿Y si 'por favor' abre puertas?",
+      "category": "Growth",
+      "generated_at": "2026-07-26T20:04:44.845511"
+    },
+    {
+      "english": "Your kindness is heard loudest.",
+      "spanish": "Tu amabilidad se oye más fuerte.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T20:04:44.845552"
+    },
+    {
+      "english": "Stop fearing silent moments.",
+      "spanish": "Deja de temer los silencios.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T20:04:44.845576"
     }
   ],
-  "last_updated": "2026-07-26T17:55:28.002282",
+  "last_updated": "2026-07-26T20:04:44.845579",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16774,6 +16804,11 @@
     "what if joy unlocks words?",
     "surprise! your kindness sparks.",
     "hear this gratitude feeling.",
-    "one 'gracias,' massive connection."
+    "one 'gracias,' massive connection.",
+    "future you sending thanks,",
+    "this one phrase, powerful comfort.",
+    "what if 'please' unlocks doors?",
+    "your kindness is heard loudest.",
+    "stop fearing silent moments."
   ]
 }
