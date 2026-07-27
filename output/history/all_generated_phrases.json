@@ -14435,9 +14435,39 @@
       "spanish": "¿Tu progreso? Visible ahora.",
       "category": "Joy",
       "generated_at": "2026-07-26T22:04:31.479238"
+    },
+    {
+      "english": "Your Spanish echoes beautifully.",
+      "spanish": "Tu español resuena hermoso.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-27T15:44:05.962207"
+    },
+    {
+      "english": "Start small, speak big.",
+      "spanish": "Empieza pequeño, habla grande.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-27T15:44:05.962238"
+    },
+    {
+      "english": "One correct sound, huge impact.",
+      "spanish": "Un sonido correcto, gran impacto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-27T15:44:05.962259"
+    },
+    {
+      "english": "This moment: you are thriving.",
+      "spanish": "Este momento: estás prosperando.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-27T15:44:05.962280"
+    },
+    {
+      "english": "Your courage shines brightly.",
+      "spanish": "Tu coraje brilla intensamente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-27T15:44:05.962314"
     }
   ],
-  "last_updated": "2026-07-26T22:04:31.479240",
+  "last_updated": "2026-07-27T15:44:05.962317",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16844,6 +16874,11 @@
     "this warmth? from your words.",
     "one 'gracias,' unlocks happiness.",
     "curious? your story unfolds.",
-    "your progress? visible now."
+    "your progress? visible now.",
+    "your spanish echoes beautifully.",
+    "start small, speak big.",
+    "one correct sound, huge impact.",
+    "this moment: you are thriving.",
+    "your courage shines brightly."
   ]
 }
