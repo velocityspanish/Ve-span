@@ -14465,9 +14465,39 @@
       "spanish": "Tu coraje brilla intensamente.",
       "category": "Self Improvement",
       "generated_at": "2026-07-27T15:44:05.962314"
+    },
+    {
+      "english": "Your accent? It's unique magic.",
+      "spanish": "Tu acento, ¡es magia única!",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T16:59:58.238601"
+    },
+    {
+      "english": "This small phrase, speaks volumes.",
+      "spanish": "Esta frase pequeña, dice mucho.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T16:59:58.238633"
+    },
+    {
+      "english": "Stop fearing the silence.",
+      "spanish": "Deja de temer al silencio.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T16:59:58.238655"
+    },
+    {
+      "english": "Your progress is visible now.",
+      "spanish": "Tu progreso es visible ahora.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T16:59:58.238678"
+    },
+    {
+      "english": "Listen: your voice echoes beautifully.",
+      "spanish": "Escucha: tu voz resuena bellamente.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T16:59:58.238698"
     }
   ],
-  "last_updated": "2026-07-27T15:44:05.962317",
+  "last_updated": "2026-07-27T16:59:58.238700",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16879,6 +16909,11 @@
     "start small, speak big.",
     "one correct sound, huge impact.",
     "this moment: you are thriving.",
-    "your courage shines brightly."
+    "your courage shines brightly.",
+    "your accent? it's unique magic.",
+    "this small phrase, speaks volumes.",
+    "stop fearing the silence.",
+    "your progress is visible now.",
+    "listen: your voice echoes beautifully."
   ]
 }
