@@ -14525,9 +14525,39 @@
       "spanish": "Tu paz interior, tu poder.",
       "category": "Inner Peace",
       "generated_at": "2026-07-28T20:12:10.655382"
+    },
+    {
+      "english": "Hear this? Your calm is growing.",
+      "spanish": "Escucha esto? Tu calma crece.",
+      "category": "Balance",
+      "generated_at": "2026-07-28T22:11:42.484601"
+    },
+    {
+      "english": "What if patience unlocks fluency?",
+      "spanish": "¿Y si la paciencia libera el español?",
+      "category": "Balance",
+      "generated_at": "2026-07-28T22:11:42.484629"
+    },
+    {
+      "english": "Your pauses breathe understanding.",
+      "spanish": "Tus pausas respiran entendimiento.",
+      "category": "Balance",
+      "generated_at": "2026-07-28T22:11:42.484651"
+    },
+    {
+      "english": "Surprise! Your learning is brilliant.",
+      "spanish": "¡Sorpresa! Tu aprendizaje es brillante.",
+      "category": "Balance",
+      "generated_at": "2026-07-28T22:11:42.484671"
+    },
+    {
+      "english": "Stop fearing the quiet moments.",
+      "spanish": "Deja de temer los silencios.",
+      "category": "Balance",
+      "generated_at": "2026-07-28T22:11:42.484693"
     }
   ],
-  "last_updated": "2026-07-28T20:12:10.655384",
+  "last_updated": "2026-07-28T22:11:42.484695",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16949,6 +16979,11 @@
     "one breath, immense calm.",
     "feel doubt fade away.",
     "wisdom: peace lives within.",
-    "your inner peace, your power."
+    "your inner peace, your power.",
+    "hear this? your calm is growing.",
+    "what if patience unlocks fluency?",
+    "your pauses breathe understanding.",
+    "surprise! your learning is brilliant.",
+    "stop fearing the quiet moments."
   ]
 }
