@@ -14495,9 +14495,39 @@
       "spanish": "Escucha: tu voz resuena bellamente.",
       "category": "Creativity",
       "generated_at": "2026-07-27T16:59:58.238698"
+    },
+    {
+      "english": "This silence is your strength.",
+      "spanish": "Este silencio es tu fuerza.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-28T20:12:10.655314"
+    },
+    {
+      "english": "One breath, immense calm.",
+      "spanish": "Una respiración, calma inmensa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-28T20:12:10.655340"
+    },
+    {
+      "english": "Feel doubt fade away.",
+      "spanish": "Siente la duda desvanecerse.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-28T20:12:10.655353"
+    },
+    {
+      "english": "Wisdom: Peace lives within.",
+      "spanish": "Sabiduría: La paz vive dentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-28T20:12:10.655367"
+    },
+    {
+      "english": "Your inner peace, your power.",
+      "spanish": "Tu paz interior, tu poder.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-28T20:12:10.655382"
     }
   ],
-  "last_updated": "2026-07-27T16:59:58.238700",
+  "last_updated": "2026-07-28T20:12:10.655384",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16914,6 +16944,11 @@
     "this small phrase, speaks volumes.",
     "stop fearing the silence.",
     "your progress is visible now.",
-    "listen: your voice echoes beautifully."
+    "listen: your voice echoes beautifully.",
+    "this silence is your strength.",
+    "one breath, immense calm.",
+    "feel doubt fade away.",
+    "wisdom: peace lives within.",
+    "your inner peace, your power."
   ]
 }
