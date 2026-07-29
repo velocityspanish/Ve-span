@@ -14585,9 +14585,39 @@
       "spanish": "La duda se va con práctica. Intenta.",
       "category": "Motivation",
       "generated_at": "2026-07-29T15:09:36.246783"
+    },
+    {
+      "english": "What if practice felt like play?",
+      "spanish": "¿Y si practicar fuera juego?",
+      "category": "Happiness",
+      "generated_at": "2026-07-29T16:22:23.719159"
+    },
+    {
+      "english": "Stop fearing the awkward pause.",
+      "spanish": "Deja de temer la pausa incómoda.",
+      "category": "Happiness",
+      "generated_at": "2026-07-29T16:22:23.719195"
+    },
+    {
+      "english": "Feel that growing confidence?",
+      "spanish": "¿Sientes esa confianza creciendo?",
+      "category": "Happiness",
+      "generated_at": "2026-07-29T16:22:23.719219"
+    },
+    {
+      "english": "Your kindness words shine.",
+      "spanish": "Tus palabras amables brillan.",
+      "category": "Happiness",
+      "generated_at": "2026-07-29T16:22:23.719241"
+    },
+    {
+      "english": "What if 'hola' meant everything?",
+      "spanish": "¿Y si 'hola' significara todo?",
+      "category": "Happiness",
+      "generated_at": "2026-07-29T16:22:23.719263"
     }
   ],
-  "last_updated": "2026-07-29T15:09:36.246786",
+  "last_updated": "2026-07-29T16:22:23.719265",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17019,6 +17049,11 @@
     "surprise! fluency is within reach.",
     "hear this: your effort shines.",
     "what if 'hola' connects you?",
-    "doubt fades with practice. try."
+    "doubt fades with practice. try.",
+    "what if practice felt like play?",
+    "stop fearing the awkward pause.",
+    "feel that growing confidence?",
+    "your kindness words shine.",
+    "what if 'hola' meant everything?"
   ]
 }
