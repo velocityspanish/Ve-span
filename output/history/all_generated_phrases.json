@@ -14555,9 +14555,39 @@
       "spanish": "Deja de temer los silencios.",
       "category": "Balance",
       "generated_at": "2026-07-28T22:11:42.484693"
+    },
+    {
+      "english": "This simple phrase unlocks doors.",
+      "spanish": "Esta frase simple abre puertas.",
+      "category": "Motivation",
+      "generated_at": "2026-07-29T15:09:36.246688"
+    },
+    {
+      "english": "Surprise! fluency is within reach.",
+      "spanish": "¡Sorpresa! fluidez está cerca.",
+      "category": "Motivation",
+      "generated_at": "2026-07-29T15:09:36.246716"
+    },
+    {
+      "english": "Hear this: Your effort shines.",
+      "spanish": "Oye esto: Tu esfuerzo brilla.",
+      "category": "Motivation",
+      "generated_at": "2026-07-29T15:09:36.246739"
+    },
+    {
+      "english": "What if 'hola' connects you?",
+      "spanish": "¿Y si 'hola' te conecta?",
+      "category": "Motivation",
+      "generated_at": "2026-07-29T15:09:36.246762"
+    },
+    {
+      "english": "Doubt fades with practice. Try.",
+      "spanish": "La duda se va con práctica. Intenta.",
+      "category": "Motivation",
+      "generated_at": "2026-07-29T15:09:36.246783"
     }
   ],
-  "last_updated": "2026-07-28T22:11:42.484695",
+  "last_updated": "2026-07-29T15:09:36.246786",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -16984,6 +17014,11 @@
     "what if patience unlocks fluency?",
     "your pauses breathe understanding.",
     "surprise! your learning is brilliant.",
-    "stop fearing the quiet moments."
+    "stop fearing the quiet moments.",
+    "this simple phrase unlocks doors.",
+    "surprise! fluency is within reach.",
+    "hear this: your effort shines.",
+    "what if 'hola' connects you?",
+    "doubt fades with practice. try."
   ]
 }
