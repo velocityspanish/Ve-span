@@ -14645,9 +14645,39 @@
       "spanish": "Sabiduría: Sigue intentando, florecerás.",
       "category": "Positive Life",
       "generated_at": "2026-07-29T18:01:40.570668"
+    },
+    {
+      "english": "That quiet moment? Embrace it.",
+      "spanish": "Ese momento callado? Abrázalo.",
+      "category": "Patience",
+      "generated_at": "2026-07-29T20:08:26.073997"
+    },
+    {
+      "english": "Curious? Every word connects.",
+      "spanish": "¿Curioso? Cada palabra conecta.",
+      "category": "Patience",
+      "generated_at": "2026-07-29T20:08:26.074028"
+    },
+    {
+      "english": "What if patience equals power?",
+      "spanish": "¿Y si paciencia trae poder?",
+      "category": "Patience",
+      "generated_at": "2026-07-29T20:08:26.074052"
+    },
+    {
+      "english": "Wisdom: Small progress, big confidence.",
+      "spanish": "Sabiduría: Pequeño avance, gran fe.",
+      "category": "Patience",
+      "generated_at": "2026-07-29T20:08:26.074072"
+    },
+    {
+      "english": "Hear that subtle progress?",
+      "spanish": "¿Escuchas ese progreso sutil?",
+      "category": "Patience",
+      "generated_at": "2026-07-29T20:08:26.074093"
     }
   ],
-  "last_updated": "2026-07-29T18:01:40.570670",
+  "last_updated": "2026-07-29T20:08:26.074095",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17089,6 +17119,11 @@
     "stop fearing mistakes, you win.",
     "that one word, huge comfort.",
     "hear this joy? it's growing.",
-    "wisdom: keep trying, you'll bloom."
+    "wisdom: keep trying, you'll bloom.",
+    "that quiet moment? embrace it.",
+    "curious? every word connects.",
+    "what if patience equals power?",
+    "wisdom: small progress, big confidence.",
+    "hear that subtle progress?"
   ]
 }
