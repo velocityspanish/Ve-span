@@ -14675,9 +14675,39 @@
       "spanish": "¿Escuchas ese progreso sutil?",
       "category": "Patience",
       "generated_at": "2026-07-29T20:08:26.074093"
+    },
+    {
+      "english": "Curious? Your fluency blooms.",
+      "spanish": "Curioso? Tu fluidez florece.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-29T22:05:42.155361"
+    },
+    {
+      "english": "Your tiny progress, massive.",
+      "spanish": "Tu pequeño progreso, masivo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-29T22:05:42.155397"
+    },
+    {
+      "english": "Hear this wisdom: breathe.",
+      "spanish": "Oye esto sabiduría: respira.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-29T22:05:42.155420"
+    },
+    {
+      "english": "This voice? It's yours.",
+      "spanish": "Esta voz? Es tuya.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-29T22:05:42.155441"
+    },
+    {
+      "english": "Never, ever stop trying.",
+      "spanish": "Nunca, jamás deja de intentar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-29T22:05:42.155463"
     }
   ],
-  "last_updated": "2026-07-29T20:08:26.074095",
+  "last_updated": "2026-07-29T22:05:42.155465",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17124,6 +17154,11 @@
     "curious? every word connects.",
     "what if patience equals power?",
     "wisdom: small progress, big confidence.",
-    "hear that subtle progress?"
+    "hear that subtle progress?",
+    "curious? your fluency blooms.",
+    "your tiny progress, massive.",
+    "hear this wisdom: breathe.",
+    "this voice? it's yours.",
+    "never, ever stop trying."
   ]
 }
