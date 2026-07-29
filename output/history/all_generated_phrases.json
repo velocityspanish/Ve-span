@@ -14615,9 +14615,39 @@
       "spanish": "¿Y si 'hola' significara todo?",
       "category": "Happiness",
       "generated_at": "2026-07-29T16:22:23.719263"
+    },
+    {
+      "english": "Your patience blossoms, beautiful.",
+      "spanish": "Tu paciencia florece, hermosa.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T18:01:40.570565"
+    },
+    {
+      "english": "Stop fearing mistakes, you win.",
+      "spanish": "Deja de temer errores, ganas.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T18:01:40.570599"
+    },
+    {
+      "english": "That one word, huge comfort.",
+      "spanish": "Esa palabra, gran consuelo.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T18:01:40.570623"
+    },
+    {
+      "english": "Hear this joy? It's growing.",
+      "spanish": "¿Oyes esta alegría? Crece.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T18:01:40.570646"
+    },
+    {
+      "english": "Wisdom: Keep trying, you'll bloom.",
+      "spanish": "Sabiduría: Sigue intentando, florecerás.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T18:01:40.570668"
     }
   ],
-  "last_updated": "2026-07-29T16:22:23.719265",
+  "last_updated": "2026-07-29T18:01:40.570670",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17054,6 +17084,11 @@
     "stop fearing the awkward pause.",
     "feel that growing confidence?",
     "your kindness words shine.",
-    "what if 'hola' meant everything?"
+    "what if 'hola' meant everything?",
+    "your patience blossoms, beautiful.",
+    "stop fearing mistakes, you win.",
+    "that one word, huge comfort.",
+    "hear this joy? it's growing.",
+    "wisdom: keep trying, you'll bloom."
   ]
 }
