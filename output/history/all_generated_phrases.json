@@ -14825,9 +14825,39 @@
       "spanish": "¿Sientes este calor? es contagioso.",
       "category": "Kindness",
       "generated_at": "2026-07-30T20:11:03.644797"
+    },
+    {
+      "english": "This one sound, unlocks worlds.",
+      "spanish": "Un sonido, abre mundos.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T22:13:17.104598"
+    },
+    {
+      "english": "This gesture, speaks volumes.",
+      "spanish": "Este gesto, dice mucho.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T22:13:17.104630"
+    },
+    {
+      "english": "Your patience unlocks miracles.",
+      "spanish": "Tu paciencia desbloquea milagros.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T22:13:17.104653"
+    },
+    {
+      "english": "What if learning feels like play?",
+      "spanish": "¿Y si aprender es como jugar?",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T22:13:17.104675"
+    },
+    {
+      "english": "This journey is yours, embrace.",
+      "spanish": "Este viaje es tuyo, abraza.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T22:13:17.104698"
     }
   ],
-  "last_updated": "2026-07-30T20:11:03.644798",
+  "last_updated": "2026-07-30T22:13:17.104700",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17299,6 +17329,11 @@
     "what if 'gracias' opens hearts?",
     "hear that? pure human connection.",
     "one gentle gesture, big impact.",
-    "feel this warmth? it's contagious."
+    "feel this warmth? it's contagious.",
+    "this one sound, unlocks worlds.",
+    "this gesture, speaks volumes.",
+    "your patience unlocks miracles.",
+    "what if learning feels like play?",
+    "this journey is yours, embrace."
   ]
 }
