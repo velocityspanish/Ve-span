@@ -14765,9 +14765,39 @@
       "spanish": "Tu voz importa, déjala volar.",
       "category": "Wisdom",
       "generated_at": "2026-07-30T16:27:39.793952"
+    },
+    {
+      "english": "That simple phrase? Pure magic.",
+      "spanish": "Esa frase simple? Pura magia.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T18:09:47.204055"
+    },
+    {
+      "english": "Curious? Your connections begin.",
+      "spanish": "Curioso? Tus conexiones empiezan.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T18:09:47.204087"
+    },
+    {
+      "english": "Feel the welcome? You're ready.",
+      "spanish": "¿Sientes la bienvenida? Estás listo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T18:09:47.204111"
+    },
+    {
+      "english": "This one word? So powerful.",
+      "spanish": "Esta palabra? Tan poderosa.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T18:09:47.204134"
+    },
+    {
+      "english": "That warm hello? Changes everything.",
+      "spanish": "Ese saludo cálido? Cambia todo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T18:09:47.204155"
     }
   ],
-  "last_updated": "2026-07-30T16:27:39.793954",
+  "last_updated": "2026-07-30T18:09:47.204158",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17229,6 +17259,11 @@
     "your patience pays off, trust.",
     "curious? the journey starts today.",
     "one 'lo siento,' means a lot.",
-    "your voice matters, let it rip."
+    "your voice matters, let it rip.",
+    "that simple phrase? pure magic.",
+    "curious? your connections begin.",
+    "feel the welcome? you're ready.",
+    "this one word? so powerful.",
+    "that warm hello? changes everything."
   ]
 }
