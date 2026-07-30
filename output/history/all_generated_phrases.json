@@ -14735,9 +14735,39 @@
       "spanish": "Un 'por favor,' abre puertas.",
       "category": "Inner Peace",
       "generated_at": "2026-07-30T15:12:10.972598"
+    },
+    {
+      "english": "This one sound unlocks doors.",
+      "spanish": "Este sonido abre puertas.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T16:27:39.793847"
+    },
+    {
+      "english": "Your patience pays off, trust.",
+      "spanish": "Tu paciencia vale, confía.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T16:27:39.793883"
+    },
+    {
+      "english": "Curious? The journey starts today.",
+      "spanish": "¿Curioso? El viaje empieza hoy.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T16:27:39.793906"
+    },
+    {
+      "english": "One 'lo siento,' means a lot.",
+      "spanish": "Un 'lo siento,' significa mucho.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T16:27:39.793929"
+    },
+    {
+      "english": "Your voice matters, let it rip.",
+      "spanish": "Tu voz importa, déjala volar.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T16:27:39.793952"
     }
   ],
-  "last_updated": "2026-07-30T15:12:10.972600",
+  "last_updated": "2026-07-30T16:27:39.793954",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17194,6 +17224,11 @@
     "wisdom: patience unlocks fluent whispers.",
     "this tiny pause? breathe peace.",
     "your kindness echoes, beautifully.",
-    "one 'por favor,' opens doors."
+    "one 'por favor,' opens doors.",
+    "this one sound unlocks doors.",
+    "your patience pays off, trust.",
+    "curious? the journey starts today.",
+    "one 'lo siento,' means a lot.",
+    "your voice matters, let it rip."
   ]
 }
