@@ -14795,9 +14795,39 @@
       "spanish": "Ese saludo cálido? Cambia todo.",
       "category": "Friendship",
       "generated_at": "2026-07-30T18:09:47.204155"
+    },
+    {
+      "english": "Your kindness echoes loudest here.",
+      "spanish": "Tu amabilidad resuena más fuerte aquí.",
+      "category": "Kindness",
+      "generated_at": "2026-07-30T20:11:03.644697"
+    },
+    {
+      "english": "What if 'gracias' opens hearts?",
+      "spanish": "¿Qué si 'gracias' abre corazones?",
+      "category": "Kindness",
+      "generated_at": "2026-07-30T20:11:03.644730"
+    },
+    {
+      "english": "Hear that? pure human connection.",
+      "spanish": "¿Oyes eso? pura conexión humana.",
+      "category": "Kindness",
+      "generated_at": "2026-07-30T20:11:03.644752"
+    },
+    {
+      "english": "One gentle gesture, big impact.",
+      "spanish": "Un gesto amable, gran impacto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-30T20:11:03.644775"
+    },
+    {
+      "english": "Feel this warmth? it's contagious.",
+      "spanish": "¿Sientes este calor? es contagioso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-30T20:11:03.644797"
     }
   ],
-  "last_updated": "2026-07-30T18:09:47.204158",
+  "last_updated": "2026-07-30T20:11:03.644798",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17264,6 +17294,11 @@
     "curious? your connections begin.",
     "feel the welcome? you're ready.",
     "this one word? so powerful.",
-    "that warm hello? changes everything."
+    "that warm hello? changes everything.",
+    "your kindness echoes loudest here.",
+    "what if 'gracias' opens hearts?",
+    "hear that? pure human connection.",
+    "one gentle gesture, big impact.",
+    "feel this warmth? it's contagious."
   ]
 }
