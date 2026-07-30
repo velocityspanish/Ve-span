@@ -14705,9 +14705,39 @@
       "spanish": "Nunca, jamás deja de intentar.",
       "category": "Self Improvement",
       "generated_at": "2026-07-29T22:05:42.155463"
+    },
+    {
+      "english": "Feel this inner peace growing.",
+      "spanish": "Siente esta paz interior creciendo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T15:12:10.972499"
+    },
+    {
+      "english": "Wisdom: Patience unlocks fluent whispers.",
+      "spanish": "Sabiduría: La paciencia desbloquea susurros fluidos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T15:12:10.972530"
+    },
+    {
+      "english": "This tiny pause? Breathe peace.",
+      "spanish": "¿Esta pausa pequeña? Respira paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T15:12:10.972553"
+    },
+    {
+      "english": "Your kindness echoes, beautifully.",
+      "spanish": "Tu amabilidad resuena, bellamente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T15:12:10.972575"
+    },
+    {
+      "english": "One 'por favor,' opens doors.",
+      "spanish": "Un 'por favor,' abre puertas.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T15:12:10.972598"
     }
   ],
-  "last_updated": "2026-07-29T22:05:42.155465",
+  "last_updated": "2026-07-30T15:12:10.972600",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17159,6 +17189,11 @@
     "your tiny progress, massive.",
     "hear this wisdom: breathe.",
     "this voice? it's yours.",
-    "never, ever stop trying."
+    "never, ever stop trying.",
+    "feel this inner peace growing.",
+    "wisdom: patience unlocks fluent whispers.",
+    "this tiny pause? breathe peace.",
+    "your kindness echoes, beautifully.",
+    "one 'por favor,' opens doors."
   ]
 }
