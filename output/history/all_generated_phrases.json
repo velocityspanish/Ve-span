@@ -14915,9 +14915,39 @@
       "spanish": "¿Tu primer paso? Enorme.",
       "category": "Mindfulness",
       "generated_at": "2026-07-31T18:15:21.954582"
+    },
+    {
+      "english": "Hear your voice blooming?",
+      "spanish": "¿Oyes tu voz florecer?",
+      "category": "Happiness",
+      "generated_at": "2026-07-31T20:14:48.156834"
+    },
+    {
+      "english": "Wisdom: Your patience wins.",
+      "spanish": "Sabiduría: Tu paciencia gana.",
+      "category": "Happiness",
+      "generated_at": "2026-07-31T20:14:48.156868"
+    },
+    {
+      "english": "Your small wins, massive.",
+      "spanish": "Tus pequeñas victorias, masivas.",
+      "category": "Happiness",
+      "generated_at": "2026-07-31T20:14:48.156891"
+    },
+    {
+      "english": "What if 'hello' makes friends?",
+      "spanish": "¿Y si 'hola' crea amigos?",
+      "category": "Happiness",
+      "generated_at": "2026-07-31T20:14:48.156915"
+    },
+    {
+      "english": "Encouragement: Keep speaking joyfully.",
+      "spanish": "Ánimo: Sigue hablando alegremente.",
+      "category": "Happiness",
+      "generated_at": "2026-07-31T20:14:48.156935"
     }
   ],
-  "last_updated": "2026-07-31T18:15:21.954583",
+  "last_updated": "2026-07-31T20:14:48.156937",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17404,6 +17434,11 @@
     "hear this tiny triumph?",
     "this breath, more confidence.",
     "your questions unlock answers.",
-    "your first step? huge."
+    "your first step? huge.",
+    "hear your voice blooming?",
+    "wisdom: your patience wins.",
+    "your small wins, massive.",
+    "what if 'hello' makes friends?",
+    "encouragement: keep speaking joyfully."
   ]
 }
