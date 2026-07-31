@@ -14885,9 +14885,39 @@
       "spanish": "Respira. Tú puedes con esto.",
       "category": "Courage",
       "generated_at": "2026-07-31T16:46:38.216134"
+    },
+    {
+      "english": "Your voice is already growing.",
+      "spanish": "Tu voz ya está creciendo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:15:21.954487"
+    },
+    {
+      "english": "Hear this tiny triumph?",
+      "spanish": "¿Oyes este pequeño triunfo?",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:15:21.954515"
+    },
+    {
+      "english": "This breath, more confidence.",
+      "spanish": "Esta respiración, más confianza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:15:21.954538"
+    },
+    {
+      "english": "Your questions unlock answers.",
+      "spanish": "Tus preguntas desbloquean respuestas.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:15:21.954561"
+    },
+    {
+      "english": "Your first step? Huge.",
+      "spanish": "¿Tu primer paso? Enorme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:15:21.954582"
     }
   ],
-  "last_updated": "2026-07-31T16:46:38.216136",
+  "last_updated": "2026-07-31T18:15:21.954583",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17369,6 +17399,11 @@
     "curious? your first step.",
     "wisdom: speak less, hear more.",
     "feel that? it's progress.",
-    "breathe. you've got this."
+    "breathe. you've got this.",
+    "your voice is already growing.",
+    "hear this tiny triumph?",
+    "this breath, more confidence.",
+    "your questions unlock answers.",
+    "your first step? huge."
   ]
 }
