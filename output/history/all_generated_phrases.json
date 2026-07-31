@@ -14855,9 +14855,39 @@
       "spanish": "Este viaje es tuyo, abraza.",
       "category": "Wisdom",
       "generated_at": "2026-07-30T22:13:17.104698"
+    },
+    {
+      "english": "That pause? It's your power.",
+      "spanish": "Esa pausa, es tu poder.",
+      "category": "Courage",
+      "generated_at": "2026-07-31T16:46:38.216038"
+    },
+    {
+      "english": "Curious? Your first step.",
+      "spanish": "¿Curioso? Tu primer paso.",
+      "category": "Courage",
+      "generated_at": "2026-07-31T16:46:38.216068"
+    },
+    {
+      "english": "Wisdom: Speak less, hear more.",
+      "spanish": "Sabiduría: Habla menos, escucha más.",
+      "category": "Courage",
+      "generated_at": "2026-07-31T16:46:38.216092"
+    },
+    {
+      "english": "Feel that? It's progress.",
+      "spanish": "¿Sientes eso? Es progreso.",
+      "category": "Courage",
+      "generated_at": "2026-07-31T16:46:38.216113"
+    },
+    {
+      "english": "Breathe. You've got this.",
+      "spanish": "Respira. Tú puedes con esto.",
+      "category": "Courage",
+      "generated_at": "2026-07-31T16:46:38.216134"
     }
   ],
-  "last_updated": "2026-07-30T22:13:17.104700",
+  "last_updated": "2026-07-31T16:46:38.216136",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17334,6 +17364,11 @@
     "this gesture, speaks volumes.",
     "your patience unlocks miracles.",
     "what if learning feels like play?",
-    "this journey is yours, embrace."
+    "this journey is yours, embrace.",
+    "that pause? it's your power.",
+    "curious? your first step.",
+    "wisdom: speak less, hear more.",
+    "feel that? it's progress.",
+    "breathe. you've got this."
   ]
 }
