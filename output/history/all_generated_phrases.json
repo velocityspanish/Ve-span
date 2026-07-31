@@ -14945,9 +14945,39 @@
       "spanish": "Ánimo: Sigue hablando alegremente.",
       "category": "Happiness",
       "generated_at": "2026-07-31T20:14:48.156935"
+    },
+    {
+      "english": "Your courage is growing, feel it.",
+      "spanish": "Tu coraje está creciendo, siéntelo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-31T22:11:26.208573"
+    },
+    {
+      "english": "Your effort today, fluency tomorrow.",
+      "spanish": "Tu esfuerzo hoy, fluidez mañana.",
+      "category": "Purpose",
+      "generated_at": "2026-07-31T22:11:26.208602"
+    },
+    {
+      "english": "Feel that tiny win? Celebrate.",
+      "spanish": "¿Sientes esa pequeña victoria? Celebra.",
+      "category": "Purpose",
+      "generated_at": "2026-07-31T22:11:26.208626"
+    },
+    {
+      "english": "This moment is your turning point.",
+      "spanish": "Este momento es tu punto de inflexión.",
+      "category": "Purpose",
+      "generated_at": "2026-07-31T22:11:26.208661"
+    },
+    {
+      "english": "Curious? Your voice unlocks doors.",
+      "spanish": "¿Curioso? Tu voz abre puertas.",
+      "category": "Purpose",
+      "generated_at": "2026-07-31T22:11:26.208683"
     }
   ],
-  "last_updated": "2026-07-31T20:14:48.156937",
+  "last_updated": "2026-07-31T22:11:26.208686",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17439,6 +17469,11 @@
     "wisdom: your patience wins.",
     "your small wins, massive.",
     "what if 'hello' makes friends?",
-    "encouragement: keep speaking joyfully."
+    "encouragement: keep speaking joyfully.",
+    "your courage is growing, feel it.",
+    "your effort today, fluency tomorrow.",
+    "feel that tiny win? celebrate.",
+    "this moment is your turning point.",
+    "curious? your voice unlocks doors."
   ]
 }
