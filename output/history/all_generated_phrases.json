@@ -15065,9 +15065,39 @@
       "spanish": "Aquí un truco de pronunciación.",
       "category": "Creativity",
       "generated_at": "2026-08-01T17:53:41.263339"
+    },
+    {
+      "english": "Whispers of progress, louder now.",
+      "spanish": "Susurros de progreso, más fuertes ahora.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T20:05:48.733568"
+    },
+    {
+      "english": "That one word, pure connection.",
+      "spanish": "Esa palabra, pura conexión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T20:05:48.733606"
+    },
+    {
+      "english": "Feeling lost? Look up, smile.",
+      "spanish": "¿Sintiéndote perdido? Mira arriba, sonríe.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T20:05:48.733632"
+    },
+    {
+      "english": "Encouragement: Your efforts, recognized.",
+      "spanish": "Ánimo: Tus esfuerzos, reconocidos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T20:05:48.733653"
+    },
+    {
+      "english": "This simple sound unlocks joy.",
+      "spanish": "Este sonido simple desbloquea la alegría.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T20:05:48.733677"
     }
   ],
-  "last_updated": "2026-08-01T17:53:41.263341",
+  "last_updated": "2026-08-01T20:05:48.733679",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17579,6 +17609,11 @@
     "small attempts, huge leaps.",
     "one phrase can spark joy.",
     "trust your intuition, speak.",
-    "here's a pronunciation trick."
+    "here's a pronunciation trick.",
+    "whispers of progress, louder now.",
+    "that one word, pure connection.",
+    "feeling lost? look up, smile.",
+    "encouragement: your efforts, recognized.",
+    "this simple sound unlocks joy."
   ]
 }
