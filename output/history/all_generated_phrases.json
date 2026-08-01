@@ -15005,9 +15005,39 @@
       "spanish": "¿Sientes esa chispa de entendimiento?",
       "category": "Joy",
       "generated_at": "2026-08-01T14:28:17.235401"
+    },
+    {
+      "english": "Hear your progress? Listen close.",
+      "spanish": "¿Oyes tu progreso? Escucha bien.",
+      "category": "Growth",
+      "generated_at": "2026-08-01T16:01:50.416387"
+    },
+    {
+      "english": "Surprise! Fluency whispers to you.",
+      "spanish": "¡Sorpresa! La fluidez te susurra.",
+      "category": "Growth",
+      "generated_at": "2026-08-01T16:01:50.416423"
+    },
+    {
+      "english": "Your effort, heard everywhere.",
+      "spanish": "Tu esfuerzo, escuchado en todas partes.",
+      "category": "Growth",
+      "generated_at": "2026-08-01T16:01:50.416449"
+    },
+    {
+      "english": "Feel that confidence blooming?",
+      "spanish": "¿Sientes esa confianza floreciendo?",
+      "category": "Growth",
+      "generated_at": "2026-08-01T16:01:50.416472"
+    },
+    {
+      "english": "This connection? Pure Spanish magic.",
+      "spanish": "¿Esta conexión? Pura magia española.",
+      "category": "Growth",
+      "generated_at": "2026-08-01T16:01:50.416494"
     }
   ],
-  "last_updated": "2026-08-01T14:28:17.235403",
+  "last_updated": "2026-08-01T16:01:50.416496",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17509,6 +17539,11 @@
     "this one phrase? pure connection.",
     "your effort blooms, beautiful.",
     "never underestimate simple greetings.",
-    "feel that spark of understanding?"
+    "feel that spark of understanding?",
+    "hear your progress? listen close.",
+    "surprise! fluency whispers to you.",
+    "your effort, heard everywhere.",
+    "feel that confidence blooming?",
+    "this connection? pure spanish magic."
   ]
 }
