@@ -14975,9 +14975,39 @@
       "spanish": "¿Curioso? Tu voz abre puertas.",
       "category": "Purpose",
       "generated_at": "2026-07-31T22:11:26.208683"
+    },
+    {
+      "english": "Hear that inner voice?",
+      "spanish": "¿Oyes esa voz interior?",
+      "category": "Joy",
+      "generated_at": "2026-08-01T14:28:17.235297"
+    },
+    {
+      "english": "This one phrase? Pure connection.",
+      "spanish": "¿Esta frase? Pura conexión.",
+      "category": "Joy",
+      "generated_at": "2026-08-01T14:28:17.235331"
+    },
+    {
+      "english": "Your effort blooms, beautiful.",
+      "spanish": "Tu esfuerzo florece, hermoso.",
+      "category": "Joy",
+      "generated_at": "2026-08-01T14:28:17.235357"
+    },
+    {
+      "english": "Never underestimate simple greetings.",
+      "spanish": "Nunca subestimes saludos simples.",
+      "category": "Joy",
+      "generated_at": "2026-08-01T14:28:17.235378"
+    },
+    {
+      "english": "Feel that spark of understanding?",
+      "spanish": "¿Sientes esa chispa de entendimiento?",
+      "category": "Joy",
+      "generated_at": "2026-08-01T14:28:17.235401"
     }
   ],
-  "last_updated": "2026-07-31T22:11:26.208686",
+  "last_updated": "2026-08-01T14:28:17.235403",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17474,6 +17504,11 @@
     "your effort today, fluency tomorrow.",
     "feel that tiny win? celebrate.",
     "this moment is your turning point.",
-    "curious? your voice unlocks doors."
+    "curious? your voice unlocks doors.",
+    "hear that inner voice?",
+    "this one phrase? pure connection.",
+    "your effort blooms, beautiful.",
+    "never underestimate simple greetings.",
+    "feel that spark of understanding?"
   ]
 }
