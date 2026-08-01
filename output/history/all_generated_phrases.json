@@ -15035,9 +15035,39 @@
       "spanish": "¿Esta conexión? Pura magia española.",
       "category": "Growth",
       "generated_at": "2026-08-01T16:01:50.416494"
+    },
+    {
+      "english": "The secret? Listening deeply.",
+      "spanish": "El secreto? Escuchar profundo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T17:53:41.263236"
+    },
+    {
+      "english": "Small attempts, huge leaps.",
+      "spanish": "Pequeños intentos, grandes saltos.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T17:53:41.263268"
+    },
+    {
+      "english": "One phrase can spark joy.",
+      "spanish": "Una frase puede inspirar alegría.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T17:53:41.263290"
+    },
+    {
+      "english": "Trust your intuition, speak.",
+      "spanish": "Confía en tu intuición, habla.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T17:53:41.263316"
+    },
+    {
+      "english": "Here's a pronunciation trick.",
+      "spanish": "Aquí un truco de pronunciación.",
+      "category": "Creativity",
+      "generated_at": "2026-08-01T17:53:41.263339"
     }
   ],
-  "last_updated": "2026-08-01T16:01:50.416496",
+  "last_updated": "2026-08-01T17:53:41.263341",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17544,6 +17574,11 @@
     "surprise! fluency whispers to you.",
     "your effort, heard everywhere.",
     "feel that confidence blooming?",
-    "this connection? pure spanish magic."
+    "this connection? pure spanish magic.",
+    "the secret? listening deeply.",
+    "small attempts, huge leaps.",
+    "one phrase can spark joy.",
+    "trust your intuition, speak.",
+    "here's a pronunciation trick."
   ]
 }
