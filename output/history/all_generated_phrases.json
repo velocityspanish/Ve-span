@@ -15095,9 +15095,39 @@
       "spanish": "Este sonido simple desbloquea la alegría.",
       "category": "Creativity",
       "generated_at": "2026-08-01T20:05:48.733677"
+    },
+    {
+      "english": "What if vowels were your superpower?",
+      "spanish": "¿Y si las vocales fueran tu superpoder?",
+      "category": "Growth",
+      "generated_at": "2026-08-01T22:01:28.523619"
+    },
+    {
+      "english": "Curious? This phrase is key.",
+      "spanish": "¿Curioso? Esta frase es clave.",
+      "category": "Growth",
+      "generated_at": "2026-08-01T22:01:28.523657"
+    },
+    {
+      "english": "Whisper this, gain confidence.",
+      "spanish": "Susurra esto, gana confianza.",
+      "category": "Growth",
+      "generated_at": "2026-08-01T22:01:28.523682"
+    },
+    {
+      "english": "This common mistake? Avoid it.",
+      "spanish": "¿Este error común? Evítalo.",
+      "category": "Growth",
+      "generated_at": "2026-08-01T22:01:28.523706"
+    },
+    {
+      "english": "Your accent is unique, own it.",
+      "spanish": "Tu acento es único, es tuyo.",
+      "category": "Growth",
+      "generated_at": "2026-08-01T22:01:28.523728"
     }
   ],
-  "last_updated": "2026-08-01T20:05:48.733679",
+  "last_updated": "2026-08-01T22:01:28.523730",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17614,6 +17644,11 @@
     "that one word, pure connection.",
     "feeling lost? look up, smile.",
     "encouragement: your efforts, recognized.",
-    "this simple sound unlocks joy."
+    "this simple sound unlocks joy.",
+    "what if vowels were your superpower?",
+    "curious? this phrase is key.",
+    "whisper this, gain confidence.",
+    "this common mistake? avoid it.",
+    "your accent is unique, own it."
   ]
 }
