@@ -15125,9 +15125,39 @@
       "spanish": "Tu acento es único, es tuyo.",
       "category": "Growth",
       "generated_at": "2026-08-01T22:01:28.523728"
+    },
+    {
+      "english": "This rhythm connects you.",
+      "spanish": "Este ritmo te conecta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-02T14:37:23.161474"
+    },
+    {
+      "english": "One breath, new understanding.",
+      "spanish": "Una respiración, nueva comprensión.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-02T14:37:23.161508"
+    },
+    {
+      "english": "Stop judging your progress.",
+      "spanish": "Deja de juzgar tu progreso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-02T14:37:23.161532"
+    },
+    {
+      "english": "This silence holds wisdom.",
+      "spanish": "Este silencio contiene sabiduría.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-02T14:37:23.161555"
+    },
+    {
+      "english": "Your kindness is heard.",
+      "spanish": "Tu amabilidad es escuchada.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-02T14:37:23.161576"
     }
   ],
-  "last_updated": "2026-08-01T22:01:28.523730",
+  "last_updated": "2026-08-02T14:37:23.161579",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17649,6 +17679,11 @@
     "curious? this phrase is key.",
     "whisper this, gain confidence.",
     "this common mistake? avoid it.",
-    "your accent is unique, own it."
+    "your accent is unique, own it.",
+    "this rhythm connects you.",
+    "one breath, new understanding.",
+    "stop judging your progress.",
+    "this silence holds wisdom.",
+    "your kindness is heard."
   ]
 }
