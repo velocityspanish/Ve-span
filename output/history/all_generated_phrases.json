@@ -15155,9 +15155,39 @@
       "spanish": "Tu amabilidad es escuchada.",
       "category": "Mindfulness",
       "generated_at": "2026-08-02T14:37:23.161576"
+    },
+    {
+      "english": "Your effort shines, always.",
+      "spanish": "Tu esfuerzo brilla, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T16:02:44.872850"
+    },
+    {
+      "english": "Never fear the quiet moments.",
+      "spanish": "Nunca temas los momentos quietos.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T16:02:44.872879"
+    },
+    {
+      "english": "Hear that progress? Celebrate it.",
+      "spanish": "¿Oyes ese progreso? Celébralo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T16:02:44.872924"
+    },
+    {
+      "english": "Wisdom: small wins build bridges.",
+      "spanish": "Sabiduría: pequeñas victorias construyen puentes.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T16:02:44.872942"
+    },
+    {
+      "english": "That warm 'buenos días' resonates.",
+      "spanish": "Ese cálido 'buenos días' resuena.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T16:02:44.872960"
     }
   ],
-  "last_updated": "2026-08-02T14:37:23.161579",
+  "last_updated": "2026-08-02T16:02:44.872962",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17684,6 +17714,11 @@
     "one breath, new understanding.",
     "stop judging your progress.",
     "this silence holds wisdom.",
-    "your kindness is heard."
+    "your kindness is heard.",
+    "your effort shines, always.",
+    "never fear the quiet moments.",
+    "hear that progress? celebrate it.",
+    "wisdom: small wins build bridges.",
+    "that warm 'buenos días' resonates."
   ]
 }
