@@ -15185,9 +15185,39 @@
       "spanish": "Ese cálido 'buenos días' resuena.",
       "category": "Purpose",
       "generated_at": "2026-08-02T16:02:44.872960"
+    },
+    {
+      "english": "Feel that inner peace?",
+      "spanish": "¿Sientes esa paz interior?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-02T17:54:33.082728"
+    },
+    {
+      "english": "That gentle word opens doors.",
+      "spanish": "Esa palabra suave abre puertas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-02T17:54:33.082764"
+    },
+    {
+      "english": "What if 'hola' was magic?",
+      "spanish": "¿Y si 'hola' fuera magia?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-02T17:54:33.082787"
+    },
+    {
+      "english": "That warm 'gracias' resonates.",
+      "spanish": "Ese 'gracias' cálido resuena.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-02T17:54:33.082811"
+    },
+    {
+      "english": "Feel that understanding bloom?",
+      "spanish": "¿Sientes florecer esa comprensión?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-02T17:54:33.082835"
     }
   ],
-  "last_updated": "2026-08-02T16:02:44.872962",
+  "last_updated": "2026-08-02T17:54:33.082837",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17719,6 +17749,11 @@
     "never fear the quiet moments.",
     "hear that progress? celebrate it.",
     "wisdom: small wins build bridges.",
-    "that warm 'buenos días' resonates."
+    "that warm 'buenos días' resonates.",
+    "feel that inner peace?",
+    "that gentle word opens doors.",
+    "what if 'hola' was magic?",
+    "that warm 'gracias' resonates.",
+    "feel that understanding bloom?"
   ]
 }
