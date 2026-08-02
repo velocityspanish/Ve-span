@@ -15215,9 +15215,39 @@
       "spanish": "¿Sientes florecer esa comprensión?",
       "category": "Self Improvement",
       "generated_at": "2026-08-02T17:54:33.082835"
+    },
+    {
+      "english": "Curious? Your courage grows now.",
+      "spanish": "¿Curioso? Tu coraje crece ahora.",
+      "category": "Courage",
+      "generated_at": "2026-08-02T22:01:13.318123"
+    },
+    {
+      "english": "That silent moment? Speak.",
+      "spanish": "¿Ese momento silencioso? Habla.",
+      "category": "Courage",
+      "generated_at": "2026-08-02T22:01:13.318157"
+    },
+    {
+      "english": "One small sentence, big bravery.",
+      "spanish": "Una frase pequeña, gran valentía.",
+      "category": "Courage",
+      "generated_at": "2026-08-02T22:01:13.318181"
+    },
+    {
+      "english": "Feel that spark? Ignite it.",
+      "spanish": "¿Sientes esa chispa? Enciéndela.",
+      "category": "Courage",
+      "generated_at": "2026-08-02T22:01:13.318204"
+    },
+    {
+      "english": "Hesitate less, live more.",
+      "spanish": "Duda menos, vive más.",
+      "category": "Courage",
+      "generated_at": "2026-08-02T22:01:13.318227"
     }
   ],
-  "last_updated": "2026-08-02T17:54:33.082837",
+  "last_updated": "2026-08-02T22:01:13.318229",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17754,6 +17784,11 @@
     "that gentle word opens doors.",
     "what if 'hola' was magic?",
     "that warm 'gracias' resonates.",
-    "feel that understanding bloom?"
+    "feel that understanding bloom?",
+    "curious? your courage grows now.",
+    "that silent moment? speak.",
+    "one small sentence, big bravery.",
+    "feel that spark? ignite it.",
+    "hesitate less, live more."
   ]
 }
