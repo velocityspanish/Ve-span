@@ -15275,9 +15275,39 @@
       "spanish": "Ese sonido único te desbloquea.",
       "category": "Wisdom",
       "generated_at": "2026-08-03T15:44:38.150636"
+    },
+    {
+      "english": "That inner pause? Pure genius.",
+      "spanish": "Esa pausa interior? Pura genialidad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:10:34.506828"
+    },
+    {
+      "english": "Curious? Your first phrase awaits.",
+      "spanish": "¿Curioso? Tu primera frase espera.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:10:34.506857"
+    },
+    {
+      "english": "Hear that? Connection is blooming.",
+      "spanish": "¿Oyes eso? La conexión florece.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:10:34.506877"
+    },
+    {
+      "english": "This simple 'sí' changes.",
+      "spanish": "Este simple 'sí' cambia.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:10:34.506897"
+    },
+    {
+      "english": "What if calm is key?",
+      "spanish": "¿Y si la calma es clave?",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:10:34.506914"
     }
   ],
-  "last_updated": "2026-08-03T15:44:38.150638",
+  "last_updated": "2026-08-03T17:10:34.506916",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17824,6 +17854,11 @@
     "what if courage speaks spanish?",
     "this fluency journey? your story.",
     "feel the connection? it's yours.",
-    "that single sound unlocks you."
+    "that single sound unlocks you.",
+    "that inner pause? pure genius.",
+    "curious? your first phrase awaits.",
+    "hear that? connection is blooming.",
+    "this simple 'sí' changes.",
+    "what if calm is key?"
   ]
 }
