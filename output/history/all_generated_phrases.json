@@ -15365,9 +15365,39 @@
       "spanish": "Tu sonrisa, su bienvenida.",
       "category": "Friendship",
       "generated_at": "2026-08-03T20:20:41.231927"
+    },
+    {
+      "english": "Unsaid words, still hurt. Forgive.",
+      "spanish": "Palabras no dichas, aún hieren. Perdona.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-03T22:13:15.676469"
+    },
+    {
+      "english": "Letting go feels like freedom. Try.",
+      "spanish": "Soltar se siente como libertad. Intenta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-03T22:13:15.676497"
+    },
+    {
+      "english": "Holding grudges? Energy drain. Release.",
+      "spanish": "¿Guardar rencor? Drena energía. Libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-03T22:13:15.676524"
+    },
+    {
+      "english": "Wounds heal faster with forgiveness. See?",
+      "spanish": "Las heridas sanan más con perdón. ¿Ves?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-03T22:13:15.676543"
+    },
+    {
+      "english": "Did they deserve it? Doesn't matter.",
+      "spanish": "¿Lo merecían? No importa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-03T22:13:15.676561"
     }
   ],
-  "last_updated": "2026-08-03T20:20:41.231932",
+  "last_updated": "2026-08-03T22:13:15.676564",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17929,6 +17959,11 @@
     "surprise! your friends await you.",
     "wisdom: true friends listen always.",
     "feeling lonely? connect deeper now.",
-    "your smile, their warmest welcome."
+    "your smile, their warmest welcome.",
+    "unsaid words, still hurt. forgive.",
+    "letting go feels like freedom. try.",
+    "holding grudges? energy drain. release.",
+    "wounds heal faster with forgiveness. see?",
+    "did they deserve it? doesn't matter."
   ]
 }
