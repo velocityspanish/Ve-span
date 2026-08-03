@@ -15245,9 +15245,39 @@
       "spanish": "Duda menos, vive más.",
       "category": "Courage",
       "generated_at": "2026-08-02T22:01:13.318227"
+    },
+    {
+      "english": "Hear your progress, whisper it.",
+      "spanish": "Escucha tu progreso, susúrralo.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-03T15:44:38.150514"
+    },
+    {
+      "english": "What if courage speaks Spanish?",
+      "spanish": "¿Y si el coraje habla español?",
+      "category": "Wisdom",
+      "generated_at": "2026-08-03T15:44:38.150549"
+    },
+    {
+      "english": "This fluency journey? Your story.",
+      "spanish": "Este viaje de fluidez? Tu historia.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-03T15:44:38.150587"
+    },
+    {
+      "english": "Feel the connection? It's yours.",
+      "spanish": "¿Sientes la conexión? Es tuya.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-03T15:44:38.150611"
+    },
+    {
+      "english": "That single sound unlocks you.",
+      "spanish": "Ese sonido único te desbloquea.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-03T15:44:38.150636"
     }
   ],
-  "last_updated": "2026-08-02T22:01:13.318229",
+  "last_updated": "2026-08-03T15:44:38.150638",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17789,6 +17819,11 @@
     "that silent moment? speak.",
     "one small sentence, big bravery.",
     "feel that spark? ignite it.",
-    "hesitate less, live more."
+    "hesitate less, live more.",
+    "hear your progress, whisper it.",
+    "what if courage speaks spanish?",
+    "this fluency journey? your story.",
+    "feel the connection? it's yours.",
+    "that single sound unlocks you."
   ]
 }
