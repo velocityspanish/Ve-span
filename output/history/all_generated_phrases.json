@@ -15305,9 +15305,39 @@
       "spanish": "¿Y si la calma es clave?",
       "category": "Mindfulness",
       "generated_at": "2026-08-03T17:10:34.506914"
+    },
+    {
+      "english": "Surprise! Connection is simple.",
+      "spanish": "¡Sorpresa! La conexión es simple.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-03T18:43:54.166703"
+    },
+    {
+      "english": "Wisdom: Embrace imperfection's beauty.",
+      "spanish": "Sabiduría: Abraza la belleza imperfecta.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-03T18:43:54.166733"
+    },
+    {
+      "english": "This one sound, transforms you.",
+      "spanish": "Este sonido, te transforma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-03T18:43:54.166758"
+    },
+    {
+      "english": "Curious? Your heart speaks truth.",
+      "spanish": "¿Curioso? Tu corazón dice verdad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-03T18:43:54.166780"
+    },
+    {
+      "english": "Encouragement: Your voice is enough.",
+      "spanish": "Ánimo: Tu voz es suficiente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-03T18:43:54.166801"
     }
   ],
-  "last_updated": "2026-08-03T17:10:34.506916",
+  "last_updated": "2026-08-03T18:43:54.166803",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17859,6 +17889,11 @@
     "curious? your first phrase awaits.",
     "hear that? connection is blooming.",
     "this simple 'sí' changes.",
-    "what if calm is key?"
+    "what if calm is key?",
+    "surprise! connection is simple.",
+    "wisdom: embrace imperfection's beauty.",
+    "this one sound, transforms you.",
+    "curious? your heart speaks truth.",
+    "encouragement: your voice is enough."
   ]
 }
