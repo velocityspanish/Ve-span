@@ -15335,9 +15335,39 @@
       "spanish": "Ánimo: Tu voz es suficiente.",
       "category": "Inner Peace",
       "generated_at": "2026-08-03T18:43:54.166801"
+    },
+    {
+      "english": "This one word, means friendship.",
+      "spanish": "Esta palabra, significa amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-08-03T20:20:41.231815"
+    },
+    {
+      "english": "Surprise! Your friends await you.",
+      "spanish": "¡Sorpresa! Tus amigos te esperan.",
+      "category": "Friendship",
+      "generated_at": "2026-08-03T20:20:41.231845"
+    },
+    {
+      "english": "Wisdom: True friends listen always.",
+      "spanish": "Sabiduría: Amigos de verdad escuchan.",
+      "category": "Friendship",
+      "generated_at": "2026-08-03T20:20:41.231868"
+    },
+    {
+      "english": "Feeling lonely? Connect deeper now.",
+      "spanish": "¿Te sientes solo? Conecta más.",
+      "category": "Friendship",
+      "generated_at": "2026-08-03T20:20:41.231889"
+    },
+    {
+      "english": "Your smile, their warmest welcome.",
+      "spanish": "Tu sonrisa, su bienvenida.",
+      "category": "Friendship",
+      "generated_at": "2026-08-03T20:20:41.231927"
     }
   ],
-  "last_updated": "2026-08-03T18:43:54.166803",
+  "last_updated": "2026-08-03T20:20:41.231932",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17894,6 +17924,11 @@
     "wisdom: embrace imperfection's beauty.",
     "this one sound, transforms you.",
     "curious? your heart speaks truth.",
-    "encouragement: your voice is enough."
+    "encouragement: your voice is enough.",
+    "this one word, means friendship.",
+    "surprise! your friends await you.",
+    "wisdom: true friends listen always.",
+    "feeling lonely? connect deeper now.",
+    "your smile, their warmest welcome."
   ]
 }
