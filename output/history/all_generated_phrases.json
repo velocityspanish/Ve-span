@@ -15485,9 +15485,39 @@
       "spanish": "¿Puedes soltar la herida?",
       "category": "Forgiveness",
       "generated_at": "2026-08-04T18:23:34.377407"
+    },
+    {
+      "english": "Feel that connection growing?",
+      "spanish": "¿Sientes crecer esa conexión?",
+      "category": "Patience",
+      "generated_at": "2026-08-04T20:18:39.258248"
+    },
+    {
+      "english": "Don't rush fluency, enjoy it.",
+      "spanish": "No apresures la fluidez, disfrútala.",
+      "category": "Patience",
+      "generated_at": "2026-08-04T20:18:39.258280"
+    },
+    {
+      "english": "What if 'hola' is enough?",
+      "spanish": "¿Y si 'hola' es suficiente?",
+      "category": "Patience",
+      "generated_at": "2026-08-04T20:18:39.258303"
+    },
+    {
+      "english": "Hear that? Progress is subtle.",
+      "spanish": "¿Oyes eso? El progreso es sutil.",
+      "category": "Patience",
+      "generated_at": "2026-08-04T20:18:39.258327"
+    },
+    {
+      "english": "Never compare your chapter one.",
+      "spanish": "Nunca compares tu primer capítulo.",
+      "category": "Patience",
+      "generated_at": "2026-08-04T20:18:39.258351"
     }
   ],
-  "last_updated": "2026-08-04T18:23:34.377409",
+  "last_updated": "2026-08-04T20:18:39.258353",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18069,6 +18099,11 @@
     "forgive to heal yourself.",
     "wisdom: peace begins with you.",
     "their mistake, your freedom.",
-    "can you release the hurt?"
+    "can you release the hurt?",
+    "feel that connection growing?",
+    "don't rush fluency, enjoy it.",
+    "what if 'hola' is enough?",
+    "hear that? progress is subtle.",
+    "never compare your chapter one."
   ]
 }
