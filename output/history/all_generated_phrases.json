@@ -15425,9 +15425,39 @@
       "spanish": "Una mirada, el mundo desaparece.",
       "category": "Love",
       "generated_at": "2026-08-04T15:25:40.513412"
+    },
+    {
+      "english": "Hear that accent? Own it.",
+      "spanish": "Escucha ese acento? Adopta.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-04T16:53:13.633088"
+    },
+    {
+      "english": "One simple question, unlocks connection.",
+      "spanish": "Una pregunta simple, abre conexión.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-04T16:53:13.633118"
+    },
+    {
+      "english": "Feel that confidence building, yes?",
+      "spanish": "Siente esa confianza creciendo, ¿sí?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-04T16:53:13.633141"
+    },
+    {
+      "english": "This pause? It's your genius.",
+      "spanish": "Esta pausa? Es tu genio.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-04T16:53:13.633166"
+    },
+    {
+      "english": "Curious? This phrase changes everything.",
+      "spanish": "¿Curioso? Esta frase lo cambia todo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-04T16:53:13.633187"
     }
   ],
-  "last_updated": "2026-08-04T15:25:40.513414",
+  "last_updated": "2026-08-04T16:53:13.633189",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17999,6 +18029,11 @@
     "your smile? my favorite song.",
     "what if 'te amo' is magic?",
     "never doubt your heart's compass.",
-    "one look, world disappears."
+    "one look, world disappears.",
+    "hear that accent? own it.",
+    "one simple question, unlocks connection.",
+    "feel that confidence building, yes?",
+    "this pause? it's your genius.",
+    "curious? this phrase changes everything."
   ]
 }
