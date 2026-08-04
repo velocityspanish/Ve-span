@@ -15455,9 +15455,39 @@
       "spanish": "¿Curioso? Esta frase lo cambia todo.",
       "category": "Self Improvement",
       "generated_at": "2026-08-04T16:53:13.633187"
+    },
+    {
+      "english": "This pain? Let it go.",
+      "spanish": "Este dolor, déjalo ir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-04T18:23:34.377345"
+    },
+    {
+      "english": "Forgive to heal yourself.",
+      "spanish": "Perdona para sanarte.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-04T18:23:34.377368"
+    },
+    {
+      "english": "Wisdom: Peace begins with you.",
+      "spanish": "Sabiduría: Paz empieza contigo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-04T18:23:34.377382"
+    },
+    {
+      "english": "Their mistake, your freedom.",
+      "spanish": "Su error, tu libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-04T18:23:34.377395"
+    },
+    {
+      "english": "Can you release the hurt?",
+      "spanish": "¿Puedes soltar la herida?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-04T18:23:34.377407"
     }
   ],
-  "last_updated": "2026-08-04T16:53:13.633189",
+  "last_updated": "2026-08-04T18:23:34.377409",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18034,6 +18064,11 @@
     "one simple question, unlocks connection.",
     "feel that confidence building, yes?",
     "this pause? it's your genius.",
-    "curious? this phrase changes everything."
+    "curious? this phrase changes everything.",
+    "this pain? let it go.",
+    "forgive to heal yourself.",
+    "wisdom: peace begins with you.",
+    "their mistake, your freedom.",
+    "can you release the hurt?"
   ]
 }
