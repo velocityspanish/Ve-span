@@ -15395,9 +15395,39 @@
       "spanish": "¿Lo merecían? No importa.",
       "category": "Forgiveness",
       "generated_at": "2026-08-03T22:13:15.676561"
+    },
+    {
+      "english": "Hear that whisper? Love speaks.",
+      "spanish": "Oye ese susurro? El amor habla.",
+      "category": "Love",
+      "generated_at": "2026-08-04T15:25:40.513306"
+    },
+    {
+      "english": "Your smile? My favorite song.",
+      "spanish": "Tu sonrisa? Mi canción favorita.",
+      "category": "Love",
+      "generated_at": "2026-08-04T15:25:40.513342"
+    },
+    {
+      "english": "What if 'te amo' is magic?",
+      "spanish": "¿Qué si 'te amo' es magia?",
+      "category": "Love",
+      "generated_at": "2026-08-04T15:25:40.513366"
+    },
+    {
+      "english": "Never doubt your heart's compass.",
+      "spanish": "Nunca dudes la brújula de tu corazón.",
+      "category": "Love",
+      "generated_at": "2026-08-04T15:25:40.513389"
+    },
+    {
+      "english": "One look, world disappears.",
+      "spanish": "Una mirada, el mundo desaparece.",
+      "category": "Love",
+      "generated_at": "2026-08-04T15:25:40.513412"
     }
   ],
-  "last_updated": "2026-08-03T22:13:15.676564",
+  "last_updated": "2026-08-04T15:25:40.513414",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -17964,6 +17994,11 @@
     "letting go feels like freedom. try.",
     "holding grudges? energy drain. release.",
     "wounds heal faster with forgiveness. see?",
-    "did they deserve it? doesn't matter."
+    "did they deserve it? doesn't matter.",
+    "hear that whisper? love speaks.",
+    "your smile? my favorite song.",
+    "what if 'te amo' is magic?",
+    "never doubt your heart's compass.",
+    "one look, world disappears."
   ]
 }
