@@ -15515,9 +15515,39 @@
       "spanish": "Nunca compares tu primer capítulo.",
       "category": "Patience",
       "generated_at": "2026-08-04T20:18:39.258351"
+    },
+    {
+      "english": "That one phrase unlocks doors.",
+      "spanish": "Esa frase abre puertas.",
+      "category": "Purpose",
+      "generated_at": "2026-08-04T22:17:55.798795"
+    },
+    {
+      "english": "Wisdom: Listen more than speak.",
+      "spanish": "Sabiduría: Escucha más, habla menos.",
+      "category": "Purpose",
+      "generated_at": "2026-08-04T22:17:55.798831"
+    },
+    {
+      "english": "What if grammar wasn't scary?",
+      "spanish": "¿Y si la gramática no asusta?",
+      "category": "Purpose",
+      "generated_at": "2026-08-04T22:17:55.798857"
+    },
+    {
+      "english": "Your quiet effort is heard.",
+      "spanish": "Tu esfuerzo silencioso se oye.",
+      "category": "Purpose",
+      "generated_at": "2026-08-04T22:17:55.798886"
+    },
+    {
+      "english": "Don't wait, just try speaking.",
+      "spanish": "No esperes, solo intenta hablar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-04T22:17:55.798911"
     }
   ],
-  "last_updated": "2026-08-04T20:18:39.258353",
+  "last_updated": "2026-08-04T22:17:55.798913",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18104,6 +18134,11 @@
     "don't rush fluency, enjoy it.",
     "what if 'hola' is enough?",
     "hear that? progress is subtle.",
-    "never compare your chapter one."
+    "never compare your chapter one.",
+    "that one phrase unlocks doors.",
+    "wisdom: listen more than speak.",
+    "what if grammar wasn't scary?",
+    "your quiet effort is heard.",
+    "don't wait, just try speaking."
   ]
 }
