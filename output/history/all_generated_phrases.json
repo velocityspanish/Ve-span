@@ -15635,9 +15635,39 @@
       "spanish": "Tus pequeños esfuerzos, florecen bellamente.",
       "category": "Perseverance",
       "generated_at": "2026-08-05T18:15:31.177060"
+    },
+    {
+      "english": "That small word, huge power.",
+      "spanish": "Esa palabra pequeña, gran poder.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T20:20:50.093488"
+    },
+    {
+      "english": "Curious? This sound connects.",
+      "spanish": "¿Curioso? Este sonido conecta.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T20:20:50.093536"
+    },
+    {
+      "english": "Start speaking, find your flow.",
+      "spanish": "Empieza a hablar, encuentra tu flujo.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T20:20:50.093561"
+    },
+    {
+      "english": "This pause is golden, breathe.",
+      "spanish": "Esta pausa es oro, respira.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T20:20:50.093585"
+    },
+    {
+      "english": "One sentence, real connection.",
+      "spanish": "Una frase, conexión real.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T20:20:50.093609"
     }
   ],
-  "last_updated": "2026-08-05T18:15:31.177062",
+  "last_updated": "2026-08-05T20:20:50.093611",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18244,6 +18274,11 @@
     "that grammar rule? it's simple.",
     "curious? spanish waits for you.",
     "this accent? it's your power.",
-    "your small efforts, bloom beautifully."
+    "your small efforts, bloom beautifully.",
+    "that small word, huge power.",
+    "curious? this sound connects.",
+    "start speaking, find your flow.",
+    "this pause is golden, breathe.",
+    "one sentence, real connection."
   ]
 }
