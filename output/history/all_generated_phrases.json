@@ -15575,9 +15575,39 @@
       "spanish": "Empieza ahora, siente el cambio.",
       "category": "Mindfulness",
       "generated_at": "2026-08-05T15:15:31.905879"
+    },
+    {
+      "english": "Curious? Listen closer now.",
+      "spanish": "¿Curioso? Escucha más cerca.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:43:31.196851"
+    },
+    {
+      "english": "Never miss this subtle nuance.",
+      "spanish": "Nunca pierdas este matiz.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:43:31.196887"
+    },
+    {
+      "english": "What if 'gracias' felt warmer?",
+      "spanish": "¿Y si 'gracias' se sintiera más cálido?",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:43:31.196911"
+    },
+    {
+      "english": "This greeting? Pure warmth.",
+      "spanish": "¿Este saludo? Pura calidez.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:43:31.196935"
+    },
+    {
+      "english": "Surprise! You can understand.",
+      "spanish": "¡Sorpresa! Puedes entender.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:43:31.196959"
     }
   ],
-  "last_updated": "2026-08-05T15:15:31.905881",
+  "last_updated": "2026-08-05T16:43:31.196961",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18174,6 +18204,11 @@
     "one word can unlock doors.",
     "trust the journey, breathe deep.",
     "here's a sound that surprises.",
-    "start now, feel the shift."
+    "start now, feel the shift.",
+    "curious? listen closer now.",
+    "never miss this subtle nuance.",
+    "what if 'gracias' felt warmer?",
+    "this greeting? pure warmth.",
+    "surprise! you can understand."
   ]
 }
