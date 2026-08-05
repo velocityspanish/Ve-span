@@ -15545,9 +15545,39 @@
       "spanish": "No esperes, solo intenta hablar.",
       "category": "Purpose",
       "generated_at": "2026-08-04T22:17:55.798911"
+    },
+    {
+      "english": "The secret? Speaking it.",
+      "spanish": " ¿El secreto? Hablarlo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:15:31.905771"
+    },
+    {
+      "english": "One word can unlock doors.",
+      "spanish": "Una palabra abre puertas.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:15:31.905807"
+    },
+    {
+      "english": "Trust the journey, breathe deep.",
+      "spanish": "Confía en el viaje, respira hondo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:15:31.905831"
+    },
+    {
+      "english": "Here's a sound that surprises.",
+      "spanish": "Aquí un sonido que sorprende.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:15:31.905856"
+    },
+    {
+      "english": "Start now, feel the shift.",
+      "spanish": "Empieza ahora, siente el cambio.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:15:31.905879"
     }
   ],
-  "last_updated": "2026-08-04T22:17:55.798913",
+  "last_updated": "2026-08-05T15:15:31.905881",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18139,6 +18169,11 @@
     "wisdom: listen more than speak.",
     "what if grammar wasn't scary?",
     "your quiet effort is heard.",
-    "don't wait, just try speaking."
+    "don't wait, just try speaking.",
+    "the secret? speaking it.",
+    "one word can unlock doors.",
+    "trust the journey, breathe deep.",
+    "here's a sound that surprises.",
+    "start now, feel the shift."
   ]
 }
