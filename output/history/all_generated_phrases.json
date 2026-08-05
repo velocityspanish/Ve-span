@@ -15605,9 +15605,39 @@
       "spanish": "¡Sorpresa! Puedes entender.",
       "category": "Balance",
       "generated_at": "2026-08-05T16:43:31.196959"
+    },
+    {
+      "english": "Your patience, rewarded now.",
+      "spanish": "Tu paciencia, recompensada ahora.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T18:15:31.176952"
+    },
+    {
+      "english": "That grammar rule? It's simple.",
+      "spanish": "¿Esa regla gramatical? Es simple.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T18:15:31.176989"
+    },
+    {
+      "english": "Curious? Spanish waits for you.",
+      "spanish": "¿Curioso? El español te espera.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T18:15:31.177014"
+    },
+    {
+      "english": "This accent? It's your power.",
+      "spanish": "¿Este acento? Es tu poder.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T18:15:31.177039"
+    },
+    {
+      "english": "Your small efforts, bloom beautifully.",
+      "spanish": "Tus pequeños esfuerzos, florecen bellamente.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-05T18:15:31.177060"
     }
   ],
-  "last_updated": "2026-08-05T16:43:31.196961",
+  "last_updated": "2026-08-05T18:15:31.177062",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18209,6 +18239,11 @@
     "never miss this subtle nuance.",
     "what if 'gracias' felt warmer?",
     "this greeting? pure warmth.",
-    "surprise! you can understand."
+    "surprise! you can understand.",
+    "your patience, rewarded now.",
+    "that grammar rule? it's simple.",
+    "curious? spanish waits for you.",
+    "this accent? it's your power.",
+    "your small efforts, bloom beautifully."
   ]
 }
