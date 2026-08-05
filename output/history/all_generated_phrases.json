@@ -15665,9 +15665,39 @@
       "spanish": "Una frase, conexión real.",
       "category": "Perseverance",
       "generated_at": "2026-08-05T20:20:50.093609"
+    },
+    {
+      "english": "That one sound? Pure magic.",
+      "spanish": "Ese sonido? Pura magia.",
+      "category": "Joy",
+      "generated_at": "2026-08-05T22:16:34.147512"
+    },
+    {
+      "english": "Curious? This phrase ignites joy.",
+      "spanish": "¿Curioso? Esta frase enciende alegría.",
+      "category": "Joy",
+      "generated_at": "2026-08-05T22:16:34.147541"
+    },
+    {
+      "english": "Your voice? It matters here.",
+      "spanish": "Tu voz? Importa aquí.",
+      "category": "Joy",
+      "generated_at": "2026-08-05T22:16:34.147564"
+    },
+    {
+      "english": "One word, new confidence blooms.",
+      "spanish": "Una palabra, nueva confianza florece.",
+      "category": "Joy",
+      "generated_at": "2026-08-05T22:16:34.147582"
+    },
+    {
+      "english": "Surprise! Fluency starts now.",
+      "spanish": "¡Sorpresa! La fluidez empieza ahora.",
+      "category": "Joy",
+      "generated_at": "2026-08-05T22:16:34.147601"
     }
   ],
-  "last_updated": "2026-08-05T20:20:50.093611",
+  "last_updated": "2026-08-05T22:16:34.147603",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18279,6 +18309,11 @@
     "curious? this sound connects.",
     "start speaking, find your flow.",
     "this pause is golden, breathe.",
-    "one sentence, real connection."
+    "one sentence, real connection.",
+    "that one sound? pure magic.",
+    "curious? this phrase ignites joy.",
+    "your voice? it matters here.",
+    "one word, new confidence blooms.",
+    "surprise! fluency starts now."
   ]
 }
