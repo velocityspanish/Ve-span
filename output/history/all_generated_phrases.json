@@ -15845,9 +15845,39 @@
       "spanish": "Aquí está tu motivación real.",
       "category": "Motivation",
       "generated_at": "2026-08-07T17:40:51.803795"
+    },
+    {
+      "english": "Your next phrase? It's this.",
+      "spanish": "Tu próxima frase? Es esta.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T19:44:25.741538"
+    },
+    {
+      "english": "Curious? Spanish feels like home.",
+      "spanish": "¿Curioso? El español se siente hogar.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T19:44:25.741565"
+    },
+    {
+      "english": "This single word, your superpower.",
+      "spanish": "Esta palabra, tu superpoder.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T19:44:25.741584"
+    },
+    {
+      "english": "Can you feel the connection growing?",
+      "spanish": "¿Sientes crecer la conexión?",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T19:44:25.741601"
+    },
+    {
+      "english": "Don't wait, speak one word.",
+      "spanish": "No esperes, di una palabra.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T19:44:25.741620"
     }
   ],
-  "last_updated": "2026-08-07T17:40:51.803798",
+  "last_updated": "2026-08-07T19:44:25.741622",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18489,6 +18519,11 @@
     "what if you are fluent?",
     "don't wait, speak that phrase.",
     "one shared smile, priceless.",
-    "here's your real motivation."
+    "here's your real motivation.",
+    "your next phrase? it's this.",
+    "curious? spanish feels like home.",
+    "this single word, your superpower.",
+    "can you feel the connection growing?",
+    "don't wait, speak one word."
   ]
 }
