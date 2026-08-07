@@ -15875,9 +15875,39 @@
       "spanish": "No esperes, di una palabra.",
       "category": "Motivation",
       "generated_at": "2026-08-07T19:44:25.741620"
+    },
+    {
+      "english": "Your first Spanish word, powerful.",
+      "spanish": "Tu primera palabra, poderosa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-07T21:46:26.129943"
+    },
+    {
+      "english": "Curious? Your fluency starts now.",
+      "spanish": "¿Curioso? Tu fluidez empieza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-07T21:46:26.129972"
+    },
+    {
+      "english": "Surprise! Spanish is easier.",
+      "spanish": "¡Sorpresa! El español es fácil.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-07T21:46:26.129998"
+    },
+    {
+      "english": "Wisdom: Listen more, learn more.",
+      "spanish": "Sabiduría: Escucha más, aprende más.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-07T21:46:26.130021"
+    },
+    {
+      "english": "One question, sparks conversation.",
+      "spanish": "Una pregunta, inicia charla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-07T21:46:26.130044"
     }
   ],
-  "last_updated": "2026-08-07T19:44:25.741622",
+  "last_updated": "2026-08-07T21:46:26.130046",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18524,6 +18554,11 @@
     "curious? spanish feels like home.",
     "this single word, your superpower.",
     "can you feel the connection growing?",
-    "don't wait, speak one word."
+    "don't wait, speak one word.",
+    "your first spanish word, powerful.",
+    "curious? your fluency starts now.",
+    "surprise! spanish is easier.",
+    "wisdom: listen more, learn more.",
+    "one question, sparks conversation."
   ]
 }
