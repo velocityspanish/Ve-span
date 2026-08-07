@@ -15785,9 +15785,39 @@
       "spanish": "Tu primera frase, pura magia.",
       "category": "Purpose",
       "generated_at": "2026-08-07T14:14:21.518049"
+    },
+    {
+      "english": "That sound unlocks connection.",
+      "spanish": "Ese sonido desbloquea conexión.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T15:57:03.534876"
+    },
+    {
+      "english": "This single phrase feels warm.",
+      "spanish": "Esta frase simple se siente cálida.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T15:57:03.534927"
+    },
+    {
+      "english": "Feel that small victory?",
+      "spanish": "¿Sientes esa pequeña victoria?",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T15:57:03.534951"
+    },
+    {
+      "english": "This pause? Pure language magic.",
+      "spanish": "¿Esta pausa? Pura magia lingüística.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T15:57:03.534995"
+    },
+    {
+      "english": "Your first sentence? Pure joy.",
+      "spanish": "¿Tu primera frase? Pura alegría.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T15:57:03.535022"
     }
   ],
-  "last_updated": "2026-08-07T14:14:21.518051",
+  "last_updated": "2026-08-07T15:57:03.535024",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18419,6 +18449,11 @@
     "what if 'hola' feels warmer?",
     "hear that? your progress whispers.",
     "this simple 'sí' means courage.",
-    "your first sentence, pure magic."
+    "your first sentence, pure magic.",
+    "that sound unlocks connection.",
+    "this single phrase feels warm.",
+    "feel that small victory?",
+    "this pause? pure language magic.",
+    "your first sentence? pure joy."
   ]
 }
