@@ -15755,9 +15755,39 @@
       "spanish": "¿Oyes ese 'gracias' profundo?",
       "category": "Kindness",
       "generated_at": "2026-08-07T01:01:51.057128"
+    },
+    {
+      "english": "Curious? Your voice is ready.",
+      "spanish": "¿Curioso? Tu voz está lista.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T14:14:21.517957"
+    },
+    {
+      "english": "What if 'hola' feels warmer?",
+      "spanish": "¿Y si 'hola' se siente más cálido?",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T14:14:21.517988"
+    },
+    {
+      "english": "Hear that? Your progress whispers.",
+      "spanish": "¿Oyes eso? Tu progreso susurra.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T14:14:21.518008"
+    },
+    {
+      "english": "This simple 'sí' means courage.",
+      "spanish": "Este simple 'sí' significa coraje.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T14:14:21.518029"
+    },
+    {
+      "english": "Your first sentence, pure magic.",
+      "spanish": "Tu primera frase, pura magia.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T14:14:21.518049"
     }
   ],
-  "last_updated": "2026-08-07T01:01:51.057130",
+  "last_updated": "2026-08-07T14:14:21.518051",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18384,6 +18414,11 @@
     "feel that shared moment?",
     "this word brings warmth.",
     "curious? kindness changes lives.",
-    "hear that 'gracias' deeply?"
+    "hear that 'gracias' deeply?",
+    "curious? your voice is ready.",
+    "what if 'hola' feels warmer?",
+    "hear that? your progress whispers.",
+    "this simple 'sí' means courage.",
+    "your first sentence, pure magic."
   ]
 }
