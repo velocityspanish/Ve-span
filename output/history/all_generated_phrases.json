@@ -15695,9 +15695,39 @@
       "spanish": "¡Sorpresa! La fluidez empieza ahora.",
       "category": "Joy",
       "generated_at": "2026-08-05T22:16:34.147601"
+    },
+    {
+      "english": "Small wins build big confidence.",
+      "spanish": "Pequeñas victorias dan confianza.",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:36:45.998433"
+    },
+    {
+      "english": "Never fear imperfect phrases.",
+      "spanish": "Nunca temas frases imperfectas.",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:36:45.998460"
+    },
+    {
+      "english": "That pause? It’s your strength.",
+      "spanish": "¿Esa pausa? Es tu fuerza.",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:36:45.998480"
+    },
+    {
+      "english": "Stop letting doubt win.",
+      "spanish": "Deja de dejar que gane la duda.",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:36:45.998498"
+    },
+    {
+      "english": "That single sound changes everything.",
+      "spanish": "Ese sonido único cambia todo.",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:36:45.998515"
     }
   ],
-  "last_updated": "2026-08-05T22:16:34.147603",
+  "last_updated": "2026-08-07T00:36:45.998516",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18314,6 +18344,11 @@
     "curious? this phrase ignites joy.",
     "your voice? it matters here.",
     "one word, new confidence blooms.",
-    "surprise! fluency starts now."
+    "surprise! fluency starts now.",
+    "small wins build big confidence.",
+    "never fear imperfect phrases.",
+    "that pause? it’s your strength.",
+    "stop letting doubt win.",
+    "that single sound changes everything."
   ]
 }
