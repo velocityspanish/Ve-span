@@ -15725,9 +15725,39 @@
       "spanish": "Ese sonido único cambia todo.",
       "category": "Strength",
       "generated_at": "2026-08-07T00:36:45.998515"
+    },
+    {
+      "english": "Wisdom: Compassion bridges gaps.",
+      "spanish": "Sabiduría: Compasión une huecos.",
+      "category": "Kindness",
+      "generated_at": "2026-08-07T01:01:51.057031"
+    },
+    {
+      "english": "Feel that shared moment?",
+      "spanish": "¿Sientes ese momento compartido?",
+      "category": "Kindness",
+      "generated_at": "2026-08-07T01:01:51.057069"
+    },
+    {
+      "english": "This word brings warmth.",
+      "spanish": "Esta palabra trae calor.",
+      "category": "Kindness",
+      "generated_at": "2026-08-07T01:01:51.057086"
+    },
+    {
+      "english": "Curious? Kindness changes lives.",
+      "spanish": "¿Curioso? La bondad cambia vidas.",
+      "category": "Kindness",
+      "generated_at": "2026-08-07T01:01:51.057110"
+    },
+    {
+      "english": "Hear that 'gracias' deeply?",
+      "spanish": "¿Oyes ese 'gracias' profundo?",
+      "category": "Kindness",
+      "generated_at": "2026-08-07T01:01:51.057128"
     }
   ],
-  "last_updated": "2026-08-07T00:36:45.998516",
+  "last_updated": "2026-08-07T01:01:51.057130",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18349,6 +18379,11 @@
     "never fear imperfect phrases.",
     "that pause? it’s your strength.",
     "stop letting doubt win.",
-    "that single sound changes everything."
+    "that single sound changes everything.",
+    "wisdom: compassion bridges gaps.",
+    "feel that shared moment?",
+    "this word brings warmth.",
+    "curious? kindness changes lives.",
+    "hear that 'gracias' deeply?"
   ]
 }
