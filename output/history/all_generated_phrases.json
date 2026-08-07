@@ -15815,9 +15815,39 @@
       "spanish": "¿Tu primera frase? Pura alegría.",
       "category": "Motivation",
       "generated_at": "2026-08-07T15:57:03.535022"
+    },
+    {
+      "english": "This tiny word unlocks doors.",
+      "spanish": "Esta palabra abre puertas.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T17:40:51.803689"
+    },
+    {
+      "english": "What if you are fluent?",
+      "spanish": "¿Y si eres fluido?",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T17:40:51.803718"
+    },
+    {
+      "english": "Don't wait, speak that phrase.",
+      "spanish": "No esperes, di esa frase.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T17:40:51.803743"
+    },
+    {
+      "english": "One shared smile, priceless.",
+      "spanish": "Una sonrisa compartida, invaluable.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T17:40:51.803771"
+    },
+    {
+      "english": "Here's your real motivation.",
+      "spanish": "Aquí está tu motivación real.",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T17:40:51.803795"
     }
   ],
-  "last_updated": "2026-08-07T15:57:03.535024",
+  "last_updated": "2026-08-07T17:40:51.803798",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18454,6 +18484,11 @@
     "this single phrase feels warm.",
     "feel that small victory?",
     "this pause? pure language magic.",
-    "your first sentence? pure joy."
+    "your first sentence? pure joy.",
+    "this tiny word unlocks doors.",
+    "what if you are fluent?",
+    "don't wait, speak that phrase.",
+    "one shared smile, priceless.",
+    "here's your real motivation."
   ]
 }
