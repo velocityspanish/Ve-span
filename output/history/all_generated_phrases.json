@@ -15905,9 +15905,39 @@
       "spanish": "Una pregunta, inicia charla.",
       "category": "Self Improvement",
       "generated_at": "2026-08-07T21:46:26.130044"
+    },
+    {
+      "english": "This pause? Your brilliant mind.",
+      "spanish": "Esta pausa? Tu mente brillante.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T13:48:37.599975"
+    },
+    {
+      "english": "Here's your next brave word.",
+      "spanish": "Aquí está tu próxima palabra valiente.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T13:48:37.600010"
+    },
+    {
+      "english": "That tiny 'sí' means courage.",
+      "spanish": "Ese pequeño 'sí' significa coraje.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T13:48:37.600035"
+    },
+    {
+      "english": "Your effort is heard deeply.",
+      "spanish": "Tu esfuerzo se escucha profundamente.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T13:48:37.600058"
+    },
+    {
+      "english": "Never fear an imperfect phrase.",
+      "spanish": "Nunca temas una frase imperfecta.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T13:48:37.600080"
     }
   ],
-  "last_updated": "2026-08-07T21:46:26.130046",
+  "last_updated": "2026-08-08T13:48:37.600082",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18559,6 +18589,11 @@
     "curious? your fluency starts now.",
     "surprise! spanish is easier.",
     "wisdom: listen more, learn more.",
-    "one question, sparks conversation."
+    "one question, sparks conversation.",
+    "this pause? your brilliant mind.",
+    "here's your next brave word.",
+    "that tiny 'sí' means courage.",
+    "your effort is heard deeply.",
+    "never fear an imperfect phrase."
   ]
 }
