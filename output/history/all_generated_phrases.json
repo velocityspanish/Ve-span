@@ -16025,9 +16025,39 @@
       "spanish": "Ese pequeño 'sí'? Poder enorme.",
       "category": "Happiness",
       "generated_at": "2026-08-08T19:21:55.026351"
+    },
+    {
+      "english": "Can you feel that progress?",
+      "spanish": "¿Sientes ese progreso?",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T21:37:12.127555"
+    },
+    {
+      "english": "Start speaking, unlock joy.",
+      "spanish": "Empieza a hablar, desbloquea alegría.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T21:37:12.127590"
+    },
+    {
+      "english": "Your patience? Truly rewarded.",
+      "spanish": "¿Tu paciencia? Recompensada de verdad.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T21:37:12.127616"
+    },
+    {
+      "english": "This whisper? Your fluency grows.",
+      "spanish": "¿Este susurro? Tu fluidez crece.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T21:37:12.127640"
+    },
+    {
+      "english": "Believe it: You belong here.",
+      "spanish": "Créelo: Perteneces aquí.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T21:37:12.127666"
     }
   ],
-  "last_updated": "2026-08-08T19:21:55.026353",
+  "last_updated": "2026-08-08T21:37:12.127668",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18699,6 +18729,11 @@
     "wisdom: happiness finds you.",
     "this moment? choose joy.",
     "your heart's rhythm? pure joy.",
-    "that tiny 'sí'? huge power."
+    "that tiny 'sí'? huge power.",
+    "can you feel that progress?",
+    "start speaking, unlock joy.",
+    "your patience? truly rewarded.",
+    "this whisper? your fluency grows.",
+    "believe it: you belong here."
   ]
 }
