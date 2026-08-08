@@ -15935,9 +15935,39 @@
       "spanish": "Nunca temas una frase imperfecta.",
       "category": "Wisdom",
       "generated_at": "2026-08-08T13:48:37.600080"
+    },
+    {
+      "english": "Friends share everything, right?",
+      "spanish": "Los amigos comparten todo, ¿verdad?",
+      "category": "Friendship",
+      "generated_at": "2026-08-08T15:30:52.467531"
+    },
+    {
+      "english": "This word means 'together forever'.",
+      "spanish": "Esta palabra significa 'juntos siempre'.",
+      "category": "Friendship",
+      "generated_at": "2026-08-08T15:30:52.467562"
+    },
+    {
+      "english": "Surprise! Your buddy's here.",
+      "spanish": "¡Sorpresa! Tu colega está aquí.",
+      "category": "Friendship",
+      "generated_at": "2026-08-08T15:30:52.467588"
+    },
+    {
+      "english": "Wisdom: Friends are family you choose.",
+      "spanish": "Sabiduría: Amigos son familia que eliges.",
+      "category": "Friendship",
+      "generated_at": "2026-08-08T15:30:52.467610"
+    },
+    {
+      "english": "Feeling alone? Connect instantly.",
+      "spanish": "¿Sentirse solo? Conecta al instante.",
+      "category": "Friendship",
+      "generated_at": "2026-08-08T15:30:52.467635"
     }
   ],
-  "last_updated": "2026-08-08T13:48:37.600082",
+  "last_updated": "2026-08-08T15:30:52.467637",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18594,6 +18624,11 @@
     "here's your next brave word.",
     "that tiny 'sí' means courage.",
     "your effort is heard deeply.",
-    "never fear an imperfect phrase."
+    "never fear an imperfect phrase.",
+    "friends share everything, right?",
+    "this word means 'together forever'.",
+    "surprise! your buddy's here.",
+    "wisdom: friends are family you choose.",
+    "feeling alone? connect instantly."
   ]
 }
