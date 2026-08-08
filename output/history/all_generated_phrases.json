@@ -15995,9 +15995,39 @@
       "spanish": "¿Qué si puedes hablar?",
       "category": "Self Improvement",
       "generated_at": "2026-08-08T17:21:11.391100"
+    },
+    {
+      "english": "Your smile? Contagious happiness.",
+      "spanish": "Tu sonrisa? Felicidad contagiosa.",
+      "category": "Happiness",
+      "generated_at": "2026-08-08T19:21:55.026265"
+    },
+    {
+      "english": "Wisdom: Happiness finds you.",
+      "spanish": "Sabiduría: La felicidad te encuentra.",
+      "category": "Happiness",
+      "generated_at": "2026-08-08T19:21:55.026296"
+    },
+    {
+      "english": "This moment? Choose joy.",
+      "spanish": "Este momento? Elige la alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-08-08T19:21:55.026313"
+    },
+    {
+      "english": "Your heart's rhythm? Pure joy.",
+      "spanish": "¿El ritmo de tu corazón? Pura alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-08-08T19:21:55.026332"
+    },
+    {
+      "english": "That tiny 'sí'? Huge power.",
+      "spanish": "Ese pequeño 'sí'? Poder enorme.",
+      "category": "Happiness",
+      "generated_at": "2026-08-08T19:21:55.026351"
     }
   ],
-  "last_updated": "2026-08-08T17:21:11.391102",
+  "last_updated": "2026-08-08T19:21:55.026353",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18664,6 +18694,11 @@
     "curious? listen to this.",
     "progress feels amazing, yes?",
     "stop fearing small mistakes.",
-    "what if you can speak?"
+    "what if you can speak?",
+    "your smile? contagious happiness.",
+    "wisdom: happiness finds you.",
+    "this moment? choose joy.",
+    "your heart's rhythm? pure joy.",
+    "that tiny 'sí'? huge power."
   ]
 }
