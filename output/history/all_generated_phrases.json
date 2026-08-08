@@ -15965,9 +15965,39 @@
       "spanish": "¿Sentirse solo? Conecta al instante.",
       "category": "Friendship",
       "generated_at": "2026-08-08T15:30:52.467635"
+    },
+    {
+      "english": "Your accent? Pure beauty.",
+      "spanish": "Tu acento? Pura belleza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-08T17:21:11.390998"
+    },
+    {
+      "english": "Curious? Listen to this.",
+      "spanish": "Curioso? Escucha esto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-08T17:21:11.391028"
+    },
+    {
+      "english": "Progress feels amazing, yes?",
+      "spanish": "Progreso se siente increíble, ¿sí?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-08T17:21:11.391054"
+    },
+    {
+      "english": "Stop fearing small mistakes.",
+      "spanish": "Deja de temer pequeños errores.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-08T17:21:11.391078"
+    },
+    {
+      "english": "What if you can speak?",
+      "spanish": "¿Qué si puedes hablar?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-08T17:21:11.391100"
     }
   ],
-  "last_updated": "2026-08-08T15:30:52.467637",
+  "last_updated": "2026-08-08T17:21:11.391102",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18629,6 +18659,11 @@
     "this word means 'together forever'.",
     "surprise! your buddy's here.",
     "wisdom: friends are family you choose.",
-    "feeling alone? connect instantly."
+    "feeling alone? connect instantly.",
+    "your accent? pure beauty.",
+    "curious? listen to this.",
+    "progress feels amazing, yes?",
+    "stop fearing small mistakes.",
+    "what if you can speak?"
   ]
 }
