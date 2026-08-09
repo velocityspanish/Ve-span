@@ -16085,9 +16085,39 @@
       "spanish": "¿Y si 'hola' provoca alegría?",
       "category": "Strength",
       "generated_at": "2026-08-09T13:51:24.480105"
+    },
+    {
+      "english": "Start speaking, feel alive.",
+      "spanish": "Empieza a hablar, siéntete vivo.",
+      "category": "Motivation",
+      "generated_at": "2026-08-09T15:32:58.287871"
+    },
+    {
+      "english": "One phrase, more confidence.",
+      "spanish": "Una frase, más confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-08-09T15:32:58.287904"
+    },
+    {
+      "english": "Don't wait, just try.",
+      "spanish": "No esperes, solo intenta.",
+      "category": "Motivation",
+      "generated_at": "2026-08-09T15:32:58.287927"
+    },
+    {
+      "english": "That subtle sound connects.",
+      "spanish": "Ese sonido sutil conecta.",
+      "category": "Motivation",
+      "generated_at": "2026-08-09T15:32:58.287951"
+    },
+    {
+      "english": "Feel the rhythm of Spanish?",
+      "spanish": "¿Sientes el ritmo del español?",
+      "category": "Motivation",
+      "generated_at": "2026-08-09T15:32:58.287974"
     }
   ],
-  "last_updated": "2026-08-09T13:51:24.480107",
+  "last_updated": "2026-08-09T15:32:58.287976",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18769,6 +18799,11 @@
     "can you hear the rhythm?",
     "your small progress, immense.",
     "here's your moment of clarity.",
-    "what if 'hola' sparks joy?"
+    "what if 'hola' sparks joy?",
+    "start speaking, feel alive.",
+    "one phrase, more confidence.",
+    "don't wait, just try.",
+    "that subtle sound connects.",
+    "feel the rhythm of spanish?"
   ]
 }
