@@ -16145,9 +16145,39 @@
       "spanish": "¿Curioso? Esta palabra alegra.",
       "category": "Joy",
       "generated_at": "2026-08-09T17:22:52.380905"
+    },
+    {
+      "english": "Your buddy’s always there, ¿verdad?",
+      "spanish": "Tu amigo/a siempre está, ¿verdad?",
+      "category": "Friendship",
+      "generated_at": "2026-08-09T19:26:02.651568"
+    },
+    {
+      "english": "This word means 'forever friends'.",
+      "spanish": "Esta palabra significa 'amigos para siempre'.",
+      "category": "Friendship",
+      "generated_at": "2026-08-09T19:26:02.651604"
+    },
+    {
+      "english": "Surprise! Your friend is here.",
+      "spanish": "¡Sorpresa! Tu amigo/a está aquí.",
+      "category": "Friendship",
+      "generated_at": "2026-08-09T19:26:02.651625"
+    },
+    {
+      "english": "Wisdom: Friends choose you, always.",
+      "spanish": "Sabiduría: Los amigos te eligen, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-08-09T19:26:02.651642"
+    },
+    {
+      "english": "Curious? Listen to this sound.",
+      "spanish": "¿Curioso/a? Escucha este sonido.",
+      "category": "Friendship",
+      "generated_at": "2026-08-09T19:26:02.651658"
     }
   ],
-  "last_updated": "2026-08-09T17:22:52.380907",
+  "last_updated": "2026-08-09T19:26:02.651660",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18839,6 +18869,11 @@
     "this greeting warms hearts.",
     "keep speaking, keep growing.",
     "your smile says 'welcome'.",
-    "curious? this word sparks joy."
+    "curious? this word sparks joy.",
+    "your buddy’s always there, ¿verdad?",
+    "this word means 'forever friends'.",
+    "surprise! your friend is here.",
+    "wisdom: friends choose you, always.",
+    "curious? listen to this sound."
   ]
 }
