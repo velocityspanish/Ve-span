@@ -16055,9 +16055,39 @@
       "spanish": "Créelo: Perteneces aquí.",
       "category": "Wisdom",
       "generated_at": "2026-08-08T21:37:12.127666"
+    },
+    {
+      "english": "That humble 'gracias' matters.",
+      "spanish": "Ese humilde 'gracias' importa.",
+      "category": "Strength",
+      "generated_at": "2026-08-09T13:51:24.479996"
+    },
+    {
+      "english": "Can you hear the rhythm?",
+      "spanish": "¿Puedes oír el ritmo?",
+      "category": "Strength",
+      "generated_at": "2026-08-09T13:51:24.480027"
+    },
+    {
+      "english": "Your small progress, immense.",
+      "spanish": "Tu pequeño progreso, inmenso.",
+      "category": "Strength",
+      "generated_at": "2026-08-09T13:51:24.480053"
+    },
+    {
+      "english": "Here's your moment of clarity.",
+      "spanish": "Aquí está tu momento de claridad.",
+      "category": "Strength",
+      "generated_at": "2026-08-09T13:51:24.480078"
+    },
+    {
+      "english": "What if 'hola' sparks joy?",
+      "spanish": "¿Y si 'hola' provoca alegría?",
+      "category": "Strength",
+      "generated_at": "2026-08-09T13:51:24.480105"
     }
   ],
-  "last_updated": "2026-08-08T21:37:12.127668",
+  "last_updated": "2026-08-09T13:51:24.480107",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18734,6 +18764,11 @@
     "start speaking, unlock joy.",
     "your patience? truly rewarded.",
     "this whisper? your fluency grows.",
-    "believe it: you belong here."
+    "believe it: you belong here.",
+    "that humble 'gracias' matters.",
+    "can you hear the rhythm?",
+    "your small progress, immense.",
+    "here's your moment of clarity.",
+    "what if 'hola' sparks joy?"
   ]
 }
