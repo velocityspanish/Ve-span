@@ -16205,9 +16205,39 @@
       "spanish": "¿Sientes ese clic de pronunciación?",
       "category": "Inspiration",
       "generated_at": "2026-08-10T14:20:39.891079"
+    },
+    {
+      "english": "This sound? unlocks continents.",
+      "spanish": "¿Este sonido? abre continentes.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T16:02:00.459902"
+    },
+    {
+      "english": "Small whispers, huge understanding.",
+      "spanish": "Susurros pequeños, gran entendimiento.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T16:02:00.459935"
+    },
+    {
+      "english": "You are ready, welcome.",
+      "spanish": "Tú estás listo/a, bienvenido/a.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T16:02:00.459958"
+    },
+    {
+      "english": "One question, endless discovery.",
+      "spanish": "Una pregunta, descubrimiento sin fin.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T16:02:00.459982"
+    },
+    {
+      "english": "Trust your voice, keep going.",
+      "spanish": "Confía en tu voz, sigue adelante.",
+      "category": "Strength",
+      "generated_at": "2026-08-10T16:02:00.460007"
     }
   ],
-  "last_updated": "2026-08-10T14:20:39.891081",
+  "last_updated": "2026-08-10T16:02:00.460009",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18909,6 +18939,11 @@
     "curious? this phrase works.",
     "here's a beautiful connection.",
     "your mind is learning fast.",
-    "feel that pronunciation click?"
+    "feel that pronunciation click?",
+    "this sound? unlocks continents.",
+    "small whispers, huge understanding.",
+    "you are ready, welcome.",
+    "one question, endless discovery.",
+    "trust your voice, keep going."
   ]
 }
