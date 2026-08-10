@@ -16235,9 +16235,39 @@
       "spanish": "Confía en tu voz, sigue adelante.",
       "category": "Strength",
       "generated_at": "2026-08-10T16:02:00.460007"
+    },
+    {
+      "english": "That single sound, pure magic.",
+      "spanish": "Ese sonido, pura magia.",
+      "category": "Hope",
+      "generated_at": "2026-08-10T17:44:20.692852"
+    },
+    {
+      "english": "Your next word is waiting.",
+      "spanish": "Tu próxima palabra te espera.",
+      "category": "Hope",
+      "generated_at": "2026-08-10T17:44:20.692889"
+    },
+    {
+      "english": "Wisdom: Patience, big rewards.",
+      "spanish": "Sabiduría: Paciencia, grandes recompensas.",
+      "category": "Hope",
+      "generated_at": "2026-08-10T17:44:20.692934"
+    },
+    {
+      "english": "Your effort is heard, truly.",
+      "spanish": "Tu esfuerzo se oye, de verdad.",
+      "category": "Hope",
+      "generated_at": "2026-08-10T17:44:20.692980"
+    },
+    {
+      "english": "One simple word, immense joy.",
+      "spanish": "Una palabra simple, inmensa alegría.",
+      "category": "Hope",
+      "generated_at": "2026-08-10T17:44:20.693030"
     }
   ],
-  "last_updated": "2026-08-10T16:02:00.460009",
+  "last_updated": "2026-08-10T17:44:20.693034",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18944,6 +18974,11 @@
     "small whispers, huge understanding.",
     "you are ready, welcome.",
     "one question, endless discovery.",
-    "trust your voice, keep going."
+    "trust your voice, keep going.",
+    "that single sound, pure magic.",
+    "your next word is waiting.",
+    "wisdom: patience, big rewards.",
+    "your effort is heard, truly.",
+    "one simple word, immense joy."
   ]
 }
