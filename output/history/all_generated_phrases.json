@@ -16295,9 +16295,39 @@
       "spanish": "Este momento tranquilo? Tu triunfo.",
       "category": "Inner Peace",
       "generated_at": "2026-08-10T19:47:55.362454"
+    },
+    {
+      "english": "What if 'good' feels better?",
+      "spanish": "¿Y si 'bueno' se siente mejor?",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:49:57.067960"
+    },
+    {
+      "english": "That little 'sí' blooms.",
+      "spanish": "Ese pequeño 'sí' florece.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:49:57.067992"
+    },
+    {
+      "english": "Curious? Your spanish heart beats.",
+      "spanish": "¿Curioso? Tu corazón español late.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:49:57.068017"
+    },
+    {
+      "english": "One word, big thanks.",
+      "spanish": "Una palabra, mucho gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:49:57.068039"
+    },
+    {
+      "english": "Here's your encouraging word.",
+      "spanish": "Aquí está tu palabra alentadora.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:49:57.068064"
     }
   ],
-  "last_updated": "2026-08-10T19:47:55.362456",
+  "last_updated": "2026-08-10T21:49:57.068066",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19014,6 +19044,11 @@
     "this simple phrase? magic awaits.",
     "one word, immense gratitude blooms.",
     "your mind is expanding now.",
-    "this quiet moment? your triumph."
+    "this quiet moment? your triumph.",
+    "what if 'good' feels better?",
+    "that little 'sí' blooms.",
+    "curious? your spanish heart beats.",
+    "one word, big thanks.",
+    "here's your encouraging word."
   ]
 }
