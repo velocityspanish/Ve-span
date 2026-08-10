@@ -16175,9 +16175,39 @@
       "spanish": "¿Curioso/a? Escucha este sonido.",
       "category": "Friendship",
       "generated_at": "2026-08-09T19:26:02.651658"
+    },
+    {
+      "english": "That subtle 'r' matters.",
+      "spanish": "Esa 'r' sutil importa.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T14:20:39.890972"
+    },
+    {
+      "english": "Curious? This phrase works.",
+      "spanish": "¿Curioso? Esta frase funciona.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T14:20:39.891005"
+    },
+    {
+      "english": "Here's a beautiful connection.",
+      "spanish": "Aquí hay una hermosa conexión.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T14:20:39.891031"
+    },
+    {
+      "english": "Your mind is learning fast.",
+      "spanish": "Tu mente aprende rápido.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T14:20:39.891054"
+    },
+    {
+      "english": "Feel that pronunciation click?",
+      "spanish": "¿Sientes ese clic de pronunciación?",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T14:20:39.891079"
     }
   ],
-  "last_updated": "2026-08-09T19:26:02.651660",
+  "last_updated": "2026-08-10T14:20:39.891081",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -18874,6 +18904,11 @@
     "this word means 'forever friends'.",
     "surprise! your friend is here.",
     "wisdom: friends choose you, always.",
-    "curious? listen to this sound."
+    "curious? listen to this sound.",
+    "that subtle 'r' matters.",
+    "curious? this phrase works.",
+    "here's a beautiful connection.",
+    "your mind is learning fast.",
+    "feel that pronunciation click?"
   ]
 }
