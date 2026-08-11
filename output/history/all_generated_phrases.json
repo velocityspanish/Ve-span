@@ -16325,9 +16325,39 @@
       "spanish": "Aquí está tu palabra alentadora.",
       "category": "Gratitude",
       "generated_at": "2026-08-10T21:49:57.068064"
+    },
+    {
+      "english": "That awkward pause? It's progress.",
+      "spanish": "Esa pausa incómoda? Es progreso.",
+      "category": "Courage",
+      "generated_at": "2026-08-11T14:20:24.768759"
+    },
+    {
+      "english": "This tiny word, your passport.",
+      "spanish": "Esta palabra pequeña, tu pasaporte.",
+      "category": "Courage",
+      "generated_at": "2026-08-11T14:20:24.768793"
+    },
+    {
+      "english": "Your first 'entonces'? Pure genius.",
+      "spanish": "Tu primer 'entonces'? Genialidad pura.",
+      "category": "Courage",
+      "generated_at": "2026-08-11T14:20:24.768817"
+    },
+    {
+      "english": "Feel that fluency growing now?",
+      "spanish": "¿Sientes crecer la fluidez ahora?",
+      "category": "Courage",
+      "generated_at": "2026-08-11T14:20:24.768841"
+    },
+    {
+      "english": "Don't fear speaking, just try.",
+      "spanish": "No temas hablar, solo intenta.",
+      "category": "Courage",
+      "generated_at": "2026-08-11T14:20:24.768866"
     }
   ],
-  "last_updated": "2026-08-10T21:49:57.068066",
+  "last_updated": "2026-08-11T14:20:24.768867",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19049,6 +19079,11 @@
     "that little 'sí' blooms.",
     "curious? your spanish heart beats.",
     "one word, big thanks.",
-    "here's your encouraging word."
+    "here's your encouraging word.",
+    "that awkward pause? it's progress.",
+    "this tiny word, your passport.",
+    "your first 'entonces'? pure genius.",
+    "feel that fluency growing now?",
+    "don't fear speaking, just try."
   ]
 }
