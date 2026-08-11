@@ -16385,9 +16385,39 @@
       "spanish": "Aquí está tu próxima joya conversacional.",
       "category": "Purpose",
       "generated_at": "2026-08-11T16:02:17.739591"
+    },
+    {
+      "english": "Wisdom: Speak it, don't fear.",
+      "spanish": "Sabiduría: Dilo, no temas.",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T17:50:10.200765"
+    },
+    {
+      "english": "Your next word? It's simple.",
+      "spanish": "Tu próxima palabra? Es simple.",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T17:50:10.200797"
+    },
+    {
+      "english": "That small talk? Connects you.",
+      "spanish": "Esa charla? Te conecta.",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T17:50:10.200823"
+    },
+    {
+      "english": "Question: What's your favorite word?",
+      "spanish": "Pregunta: ¿Tu palabra favorita?",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T17:50:10.200846"
+    },
+    {
+      "english": "Encouragement: Keep that momentum.",
+      "spanish": "Ánimo: Mantén el impulso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T17:50:10.200869"
     }
   ],
-  "last_updated": "2026-08-11T16:02:17.739593",
+  "last_updated": "2026-08-11T17:50:10.200871",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19119,6 +19149,11 @@
     "that tiny pause? pure thought.",
     "your fluency journey, amazing.",
     "feel that confidence growing inside?",
-    "here's your next conversational gem."
+    "here's your next conversational gem.",
+    "wisdom: speak it, don't fear.",
+    "your next word? it's simple.",
+    "that small talk? connects you.",
+    "question: what's your favorite word?",
+    "encouragement: keep that momentum."
   ]
 }
