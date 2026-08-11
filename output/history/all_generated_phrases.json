@@ -16355,9 +16355,39 @@
       "spanish": "No temas hablar, solo intenta.",
       "category": "Courage",
       "generated_at": "2026-08-11T14:20:24.768866"
+    },
+    {
+      "english": "Your pronunciation feels authentic.",
+      "spanish": "Tu pronunciación suena auténtica.",
+      "category": "Purpose",
+      "generated_at": "2026-08-11T16:02:17.739469"
+    },
+    {
+      "english": "That tiny pause? pure thought.",
+      "spanish": "Esa pausa pequeña? pensamiento puro.",
+      "category": "Purpose",
+      "generated_at": "2026-08-11T16:02:17.739509"
+    },
+    {
+      "english": "Your fluency journey, amazing.",
+      "spanish": "Tu viaje de fluidez, asombroso.",
+      "category": "Purpose",
+      "generated_at": "2026-08-11T16:02:17.739538"
+    },
+    {
+      "english": "Feel that confidence growing inside?",
+      "spanish": "¿Sientes esa confianza creciendo dentro?",
+      "category": "Purpose",
+      "generated_at": "2026-08-11T16:02:17.739565"
+    },
+    {
+      "english": "Here's your next conversational gem.",
+      "spanish": "Aquí está tu próxima joya conversacional.",
+      "category": "Purpose",
+      "generated_at": "2026-08-11T16:02:17.739591"
     }
   ],
-  "last_updated": "2026-08-11T14:20:24.768867",
+  "last_updated": "2026-08-11T16:02:17.739593",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19084,6 +19114,11 @@
     "this tiny word, your passport.",
     "your first 'entonces'? pure genius.",
     "feel that fluency growing now?",
-    "don't fear speaking, just try."
+    "don't fear speaking, just try.",
+    "your pronunciation feels authentic.",
+    "that tiny pause? pure thought.",
+    "your fluency journey, amazing.",
+    "feel that confidence growing inside?",
+    "here's your next conversational gem."
   ]
 }
