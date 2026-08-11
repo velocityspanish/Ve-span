@@ -16445,9 +16445,39 @@
       "spanish": "Tu voz se escucha ahora.",
       "category": "Strength",
       "generated_at": "2026-08-11T19:55:00.635311"
+    },
+    {
+      "english": "This silence? Your growing calm.",
+      "spanish": "Este silencio? Tu calma crece.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-11T21:56:00.176292"
+    },
+    {
+      "english": "One breath, pure connection.",
+      "spanish": "Una respiración, conexión pura.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-11T21:56:00.176331"
+    },
+    {
+      "english": "Curious? Spanish opens your mind.",
+      "spanish": "¿Curioso? El español abre tu mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-11T21:56:00.176357"
+    },
+    {
+      "english": "Your quiet moments? Powerful.",
+      "spanish": "Tus momentos tranquilos? Poderosos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-11T21:56:00.176383"
+    },
+    {
+      "english": "This pause? Your inner voice.",
+      "spanish": "Esta pausa? Tu voz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-11T21:56:00.176408"
     }
   ],
-  "last_updated": "2026-08-11T19:55:00.635313",
+  "last_updated": "2026-08-11T21:56:00.176410",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19189,6 +19219,11 @@
     "momentum builds, keep going.",
     "one phrase, brightens day.",
     "curious? spanish opens worlds.",
-    "your voice is heard now."
+    "your voice is heard now.",
+    "this silence? your growing calm.",
+    "one breath, pure connection.",
+    "curious? spanish opens your mind.",
+    "your quiet moments? powerful.",
+    "this pause? your inner voice."
   ]
 }
