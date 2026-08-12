@@ -16475,9 +16475,39 @@
       "spanish": "Esta pausa? Tu voz interior.",
       "category": "Inner Peace",
       "generated_at": "2026-08-11T21:56:00.176408"
+    },
+    {
+      "english": "Your first 'hola', a triumph.",
+      "spanish": "Tu primer 'hola', un triunfo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T14:21:15.240228"
+    },
+    {
+      "english": "This pause? Your confidence builds.",
+      "spanish": "Esta pausa? Tu confianza crece.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T14:21:15.240264"
+    },
+    {
+      "english": "This whisper? Fluent progress.",
+      "spanish": "Este susurro? Progreso fluido.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T14:21:15.240291"
+    },
+    {
+      "english": "Small mistakes? Learning curves.",
+      "spanish": "¿Pequeños errores? Curvas de aprendizaje.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T14:21:15.240335"
+    },
+    {
+      "english": "This simple phrase, magic.",
+      "spanish": "Esta frase sencilla, magia.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T14:21:15.240361"
     }
   ],
-  "last_updated": "2026-08-11T21:56:00.176410",
+  "last_updated": "2026-08-12T14:21:15.240364",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19224,6 +19254,11 @@
     "one breath, pure connection.",
     "curious? spanish opens your mind.",
     "your quiet moments? powerful.",
-    "this pause? your inner voice."
+    "this pause? your inner voice.",
+    "your first 'hola', a triumph.",
+    "this pause? your confidence builds.",
+    "this whisper? fluent progress.",
+    "small mistakes? learning curves.",
+    "this simple phrase, magic."
   ]
 }
