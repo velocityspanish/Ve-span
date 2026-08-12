@@ -16535,9 +16535,39 @@
       "spanish": "Puedes con esto, de verdad.",
       "category": "Positive Life",
       "generated_at": "2026-08-12T17:52:20.462938"
+    },
+    {
+      "english": "Your patience blossoms now.",
+      "spanish": "Tu paciencia florece ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-12T19:56:06.838821"
+    },
+    {
+      "english": "Here's your confident hello.",
+      "spanish": "Aquí, tu hola seguro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-12T19:56:06.838858"
+    },
+    {
+      "english": "Your progress, undeniable warmth.",
+      "spanish": "Tu progreso, calidez innegable.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-12T19:56:06.838884"
+    },
+    {
+      "english": "Wisdom: Embrace every 'sí'.",
+      "spanish": "Sabiduría: Abraza cada 'sí'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-12T19:56:06.838910"
+    },
+    {
+      "english": "Your first 'hola'? You did it!",
+      "spanish": "¿Tu primer 'hola'? ¡Lo lograste!",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-12T19:56:06.838936"
     }
   ],
-  "last_updated": "2026-08-12T17:52:20.462940",
+  "last_updated": "2026-08-12T19:56:06.838938",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19294,6 +19324,11 @@
     "don't stop learning, grow now.",
     "your voice? powerful connection.",
     "that rhythm? it's spanish fluency.",
-    "you've got this, genuinely."
+    "you've got this, genuinely.",
+    "your patience blossoms now.",
+    "here's your confident hello.",
+    "your progress, undeniable warmth.",
+    "wisdom: embrace every 'sí'.",
+    "your first 'hola'? you did it!"
   ]
 }
