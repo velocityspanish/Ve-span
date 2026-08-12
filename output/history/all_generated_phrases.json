@@ -16505,9 +16505,39 @@
       "spanish": "Esta frase sencilla, magia.",
       "category": "Confidence",
       "generated_at": "2026-08-12T14:21:15.240361"
+    },
+    {
+      "english": "One tiny word, big doors.",
+      "spanish": "Una palabra pequeña, puertas grandes.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-12T17:52:20.462824"
+    },
+    {
+      "english": "Don't stop learning, grow now.",
+      "spanish": "No dejes de aprender, crece ya.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-12T17:52:20.462862"
+    },
+    {
+      "english": "Your voice? Powerful connection.",
+      "spanish": "¿Tu voz? Conexión poderosa.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-12T17:52:20.462889"
+    },
+    {
+      "english": "That rhythm? It's Spanish fluency.",
+      "spanish": "¿Ese ritmo? Es fluidez española.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-12T17:52:20.462913"
+    },
+    {
+      "english": "You've got this, genuinely.",
+      "spanish": "Puedes con esto, de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-12T17:52:20.462938"
     }
   ],
-  "last_updated": "2026-08-12T14:21:15.240364",
+  "last_updated": "2026-08-12T17:52:20.462940",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19259,6 +19289,11 @@
     "this pause? your confidence builds.",
     "this whisper? fluent progress.",
     "small mistakes? learning curves.",
-    "this simple phrase, magic."
+    "this simple phrase, magic.",
+    "one tiny word, big doors.",
+    "don't stop learning, grow now.",
+    "your voice? powerful connection.",
+    "that rhythm? it's spanish fluency.",
+    "you've got this, genuinely."
   ]
 }
