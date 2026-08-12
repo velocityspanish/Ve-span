@@ -16565,9 +16565,39 @@
       "spanish": "¿Tu primer 'hola'? ¡Lo lograste!",
       "category": "Mindfulness",
       "generated_at": "2026-08-12T19:56:06.838936"
+    },
+    {
+      "english": "Can you hear this?",
+      "spanish": "¿Puedes oír esto?",
+      "category": "Inspiration",
+      "generated_at": "2026-08-12T21:54:12.416935"
+    },
+    {
+      "english": "Your next word? Easy.",
+      "spanish": "¿Tu próxima palabra? Fácil.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-12T21:54:12.416966"
+    },
+    {
+      "english": "Momentum is your friend.",
+      "spanish": "El impulso es tu amigo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-12T21:54:12.416989"
+    },
+    {
+      "english": "You're ready for this.",
+      "spanish": "Estás listo para esto.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-12T21:54:12.417011"
+    },
+    {
+      "english": "What if 'sí' unlocks joy?",
+      "spanish": "¿Y si el 'sí' abre alegría?",
+      "category": "Inspiration",
+      "generated_at": "2026-08-12T21:54:12.417035"
     }
   ],
-  "last_updated": "2026-08-12T19:56:06.838938",
+  "last_updated": "2026-08-12T21:54:12.417037",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19329,6 +19359,11 @@
     "here's your confident hello.",
     "your progress, undeniable warmth.",
     "wisdom: embrace every 'sí'.",
-    "your first 'hola'? you did it!"
+    "your first 'hola'? you did it!",
+    "can you hear this?",
+    "your next word? easy.",
+    "momentum is your friend.",
+    "you're ready for this.",
+    "what if 'sí' unlocks joy?"
   ]
 }
