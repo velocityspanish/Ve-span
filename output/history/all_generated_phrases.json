@@ -16715,9 +16715,39 @@
       "spanish": "Abraza la lucha, encuentra fuerza.",
       "category": "Courage",
       "generated_at": "2026-08-13T19:51:48.608960"
+    },
+    {
+      "english": "What if saying 'yes' changes everything?",
+      "spanish": "¿Y si decir 'sí' cambia todo?",
+      "category": "Purpose",
+      "generated_at": "2026-08-13T21:53:47.159701"
+    },
+    {
+      "english": "Feel that 'okay' moment.",
+      "spanish": "Siente ese momento 'vale'.",
+      "category": "Purpose",
+      "generated_at": "2026-08-13T21:53:47.159739"
+    },
+    {
+      "english": "Curious? This helps connection.",
+      "spanish": "¿Curioso? Esto ayuda a conectar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-13T21:53:47.159782"
+    },
+    {
+      "english": "Your effort? Seen, truly.",
+      "spanish": "¿Tu esfuerzo? Visto, de verdad.",
+      "category": "Purpose",
+      "generated_at": "2026-08-13T21:53:47.159809"
+    },
+    {
+      "english": "Encouragement: You're understood.",
+      "spanish": "Ánimo: Te entienden.",
+      "category": "Purpose",
+      "generated_at": "2026-08-13T21:53:47.159836"
     }
   ],
-  "last_updated": "2026-08-13T19:51:48.608961",
+  "last_updated": "2026-08-13T21:53:47.159838",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19504,6 +19534,11 @@
     "dare to speak, unlock yourself.",
     "small brave steps, huge progress.",
     "this sound? your courage speaking.",
-    "embrace the struggle, find strength."
+    "embrace the struggle, find strength.",
+    "what if saying 'yes' changes everything?",
+    "feel that 'okay' moment.",
+    "curious? this helps connection.",
+    "your effort? seen, truly.",
+    "encouragement: you're understood."
   ]
 }
