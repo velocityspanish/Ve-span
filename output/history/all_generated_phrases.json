@@ -16625,9 +16625,39 @@
       "spanish": "Ánimo: Eres comprendido.",
       "category": "Success",
       "generated_at": "2026-08-13T14:23:10.468014"
+    },
+    {
+      "english": "This sound? Your fluency unlocks.",
+      "spanish": "Este sonido? Tu fluidez desbloquea.",
+      "category": "Motivation",
+      "generated_at": "2026-08-13T16:00:09.249473"
+    },
+    {
+      "english": "What if 'sí' means progress?",
+      "spanish": "¿Qué si 'sí' significa progreso?",
+      "category": "Motivation",
+      "generated_at": "2026-08-13T16:00:09.249510"
+    },
+    {
+      "english": "Your effort? Truly heard.",
+      "spanish": "¿Tu esfuerzo? Verdaderamente oído.",
+      "category": "Motivation",
+      "generated_at": "2026-08-13T16:00:09.249536"
+    },
+    {
+      "english": "Don't delay, your fluency waits.",
+      "spanish": "No demores, tu fluidez espera.",
+      "category": "Motivation",
+      "generated_at": "2026-08-13T16:00:09.249561"
+    },
+    {
+      "english": "Here's your quick Spanish win.",
+      "spanish": "Aquí tu victoria rápida en español.",
+      "category": "Motivation",
+      "generated_at": "2026-08-13T16:00:09.249587"
     }
   ],
-  "last_updated": "2026-08-13T14:23:10.468016",
+  "last_updated": "2026-08-13T16:00:09.249589",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19399,6 +19429,11 @@
     "curious? this sound makes friends.",
     "your effort, beautifully heard.",
     "this pause? it's thinking, not stopping.",
-    "encouragement: you are understood."
+    "encouragement: you are understood.",
+    "this sound? your fluency unlocks.",
+    "what if 'sí' means progress?",
+    "your effort? truly heard.",
+    "don't delay, your fluency waits.",
+    "here's your quick spanish win."
   ]
 }
