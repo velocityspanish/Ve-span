@@ -16685,9 +16685,39 @@
       "spanish": "Ánimo: Eres escuchado, de verdad.",
       "category": "Self Improvement",
       "generated_at": "2026-08-13T17:51:03.125395"
+    },
+    {
+      "english": "Whispers of courage, loud victories.",
+      "spanish": "Susurros de valor, victorias fuertes.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:51:48.608863"
+    },
+    {
+      "english": "Dare to speak, unlock yourself.",
+      "spanish": "Atrévete a hablar, libérate.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:51:48.608897"
+    },
+    {
+      "english": "Small brave steps, huge progress.",
+      "spanish": "Pequeños pasos valientes, gran avance.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:51:48.608919"
+    },
+    {
+      "english": "This sound? Your courage speaking.",
+      "spanish": "¿Este sonido? Tu coraje hablando.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:51:48.608940"
+    },
+    {
+      "english": "Embrace the struggle, find strength.",
+      "spanish": "Abraza la lucha, encuentra fuerza.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:51:48.608960"
     }
   ],
-  "last_updated": "2026-08-13T17:51:03.125397",
+  "last_updated": "2026-08-13T19:51:48.608961",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19469,6 +19499,11 @@
     "that pause? your growing confidence.",
     "curious? hear this melody.",
     "this simple question unlocks.",
-    "encouragement: you're heard, truly."
+    "encouragement: you're heard, truly.",
+    "whispers of courage, loud victories.",
+    "dare to speak, unlock yourself.",
+    "small brave steps, huge progress.",
+    "this sound? your courage speaking.",
+    "embrace the struggle, find strength."
   ]
 }
