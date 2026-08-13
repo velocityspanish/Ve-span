@@ -16595,9 +16595,39 @@
       "spanish": "¿Y si el 'sí' abre alegría?",
       "category": "Inspiration",
       "generated_at": "2026-08-12T21:54:12.417035"
+    },
+    {
+      "english": "This tiny 'sí' unlocks so much.",
+      "spanish": "Este pequeño 'sí' abre tanto.",
+      "category": "Success",
+      "generated_at": "2026-08-13T14:23:10.467896"
+    },
+    {
+      "english": "Curious? This sound makes friends.",
+      "spanish": "¿Curioso? Este sonido hace amigos.",
+      "category": "Success",
+      "generated_at": "2026-08-13T14:23:10.467933"
+    },
+    {
+      "english": "Your effort, beautifully heard.",
+      "spanish": "Tu esfuerzo, bellamente escuchado.",
+      "category": "Success",
+      "generated_at": "2026-08-13T14:23:10.467962"
+    },
+    {
+      "english": "This pause? It's thinking, not stopping.",
+      "spanish": "¿Esta pausa? Es pensar, no parar.",
+      "category": "Success",
+      "generated_at": "2026-08-13T14:23:10.467987"
+    },
+    {
+      "english": "Encouragement: You are understood.",
+      "spanish": "Ánimo: Eres comprendido.",
+      "category": "Success",
+      "generated_at": "2026-08-13T14:23:10.468014"
     }
   ],
-  "last_updated": "2026-08-12T21:54:12.417037",
+  "last_updated": "2026-08-13T14:23:10.468016",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19364,6 +19394,11 @@
     "your next word? easy.",
     "momentum is your friend.",
     "you're ready for this.",
-    "what if 'sí' unlocks joy?"
+    "what if 'sí' unlocks joy?",
+    "this tiny 'sí' unlocks so much.",
+    "curious? this sound makes friends.",
+    "your effort, beautifully heard.",
+    "this pause? it's thinking, not stopping.",
+    "encouragement: you are understood."
   ]
 }
