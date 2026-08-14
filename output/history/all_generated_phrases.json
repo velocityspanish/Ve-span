@@ -16745,9 +16745,39 @@
       "spanish": "Ánimo: Te entienden.",
       "category": "Purpose",
       "generated_at": "2026-08-13T21:53:47.159836"
+    },
+    {
+      "english": "Friends make life brighter, always.",
+      "spanish": "Amigos alegran la vida, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:16:28.389529"
+    },
+    {
+      "english": "Wisdom: Friends are chosen family.",
+      "spanish": "Sabiduría: Amigos son familia elegida.",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:16:28.389565"
+    },
+    {
+      "english": "Curious? Hear this friendship sound.",
+      "spanish": "¿Curioso? Escucha este sonido de amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:16:28.389586"
+    },
+    {
+      "english": "That soft 'j' sound?",
+      "spanish": "¿Ese sonido suave de 'j'?",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:16:28.389606"
+    },
+    {
+      "english": "A beautiful connection, right?",
+      "spanish": "Una conexión hermosa, ¿verdad?",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:16:28.389631"
     }
   ],
-  "last_updated": "2026-08-13T21:53:47.159838",
+  "last_updated": "2026-08-14T14:16:28.389633",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19539,6 +19569,11 @@
     "feel that 'okay' moment.",
     "curious? this helps connection.",
     "your effort? seen, truly.",
-    "encouragement: you're understood."
+    "encouragement: you're understood.",
+    "friends make life brighter, always.",
+    "wisdom: friends are chosen family.",
+    "curious? hear this friendship sound.",
+    "that soft 'j' sound?",
+    "a beautiful connection, right?"
   ]
 }
