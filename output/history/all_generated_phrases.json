@@ -16775,9 +16775,39 @@
       "spanish": "Una conexión hermosa, ¿verdad?",
       "category": "Friendship",
       "generated_at": "2026-08-14T14:16:28.389631"
+    },
+    {
+      "english": "That hesitation? It's thinking.",
+      "spanish": "Esa duda, es pensar.",
+      "category": "Patience",
+      "generated_at": "2026-08-14T15:54:16.438223"
+    },
+    {
+      "english": "One correct conjugation, wins.",
+      "spanish": "Una conjugación correcta, gana.",
+      "category": "Patience",
+      "generated_at": "2026-08-14T15:54:16.438263"
+    },
+    {
+      "english": "The 'ñ' sound? Pure magic.",
+      "spanish": "El sonido 'ñ', pura magia.",
+      "category": "Patience",
+      "generated_at": "2026-08-14T15:54:16.438289"
+    },
+    {
+      "english": "Your first 'por qué' matters.",
+      "spanish": "Tu primer 'por qué' importa.",
+      "category": "Patience",
+      "generated_at": "2026-08-14T15:54:16.438313"
+    },
+    {
+      "english": "This tiny word connects worlds.",
+      "spanish": "Esta palabra une mundos.",
+      "category": "Patience",
+      "generated_at": "2026-08-14T15:54:16.438337"
     }
   ],
-  "last_updated": "2026-08-14T14:16:28.389633",
+  "last_updated": "2026-08-14T15:54:16.438339",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19574,6 +19604,11 @@
     "wisdom: friends are chosen family.",
     "curious? hear this friendship sound.",
     "that soft 'j' sound?",
-    "a beautiful connection, right?"
+    "a beautiful connection, right?",
+    "that hesitation? it's thinking.",
+    "one correct conjugation, wins.",
+    "the 'ñ' sound? pure magic.",
+    "your first 'por qué' matters.",
+    "this tiny word connects worlds."
   ]
 }
