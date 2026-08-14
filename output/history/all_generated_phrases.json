@@ -16835,9 +16835,39 @@
       "spanish": "Estás listo/a para este momento.",
       "category": "Inner Peace",
       "generated_at": "2026-08-14T17:45:09.857827"
+    },
+    {
+      "english": "Unlock Spanish fluency now.",
+      "spanish": "Desbloquea fluidez en español ahora.",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:41:57.678690"
+    },
+    {
+      "english": "That one word? Game changer.",
+      "spanish": "¿Esa palabra? Cambia el juego.",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:41:57.678727"
+    },
+    {
+      "english": "Whispers of progress, hear them.",
+      "spanish": "Susurros de progreso, escúchalos.",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:41:57.678753"
+    },
+    {
+      "english": "Curious? Spanish brings connections.",
+      "spanish": "¿Curioso? El español trae conexiones.",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:41:57.678777"
+    },
+    {
+      "english": "Dare to speak; unlock your voice.",
+      "spanish": "Atrévete a hablar; libera tu voz.",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:41:57.678802"
     }
   ],
-  "last_updated": "2026-08-14T17:45:09.857830",
+  "last_updated": "2026-08-14T19:41:57.678804",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19644,6 +19674,11 @@
     "that quiet hum? confidence.",
     "your first 'gracias' blooms.",
     "this phrase? your passport.",
-    "you're ready for this moment."
+    "you're ready for this moment.",
+    "unlock spanish fluency now.",
+    "that one word? game changer.",
+    "whispers of progress, hear them.",
+    "curious? spanish brings connections.",
+    "dare to speak; unlock your voice."
   ]
 }
