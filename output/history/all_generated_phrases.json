@@ -16805,9 +16805,39 @@
       "spanish": "Esta palabra une mundos.",
       "category": "Patience",
       "generated_at": "2026-08-14T15:54:16.438337"
+    },
+    {
+      "english": "One small 'sí', big doors.",
+      "spanish": "Un pequeño 'sí', puertas grandes.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-14T17:45:09.857597"
+    },
+    {
+      "english": "That quiet hum? Confidence.",
+      "spanish": "¿Ese zumbido suave? Confianza.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-14T17:45:09.857677"
+    },
+    {
+      "english": "Your first 'gracias' blooms.",
+      "spanish": "Tu primer 'gracias' florece.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-14T17:45:09.857724"
+    },
+    {
+      "english": "This phrase? Your passport.",
+      "spanish": "¿Esta frase? Tu pasaporte.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-14T17:45:09.857756"
+    },
+    {
+      "english": "You're ready for this moment.",
+      "spanish": "Estás listo/a para este momento.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-14T17:45:09.857827"
     }
   ],
-  "last_updated": "2026-08-14T15:54:16.438339",
+  "last_updated": "2026-08-14T17:45:09.857830",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19609,6 +19639,11 @@
     "one correct conjugation, wins.",
     "the 'ñ' sound? pure magic.",
     "your first 'por qué' matters.",
-    "this tiny word connects worlds."
+    "this tiny word connects worlds.",
+    "one small 'sí', big doors.",
+    "that quiet hum? confidence.",
+    "your first 'gracias' blooms.",
+    "this phrase? your passport.",
+    "you're ready for this moment."
   ]
 }
