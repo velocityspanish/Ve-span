@@ -16865,9 +16865,39 @@
       "spanish": "Atrévete a hablar; libera tu voz.",
       "category": "Growth",
       "generated_at": "2026-08-14T19:41:57.678802"
+    },
+    {
+      "english": "Your hesitation? It's wisdom.",
+      "spanish": "Tu duda? Es sabiduría.",
+      "category": "Success",
+      "generated_at": "2026-08-14T21:32:06.259509"
+    },
+    {
+      "english": "Unlock your spanish voice now.",
+      "spanish": "Desbloquea tu voz española ahora.",
+      "category": "Success",
+      "generated_at": "2026-08-14T21:32:06.259546"
+    },
+    {
+      "english": "Speak like a native, soon.",
+      "spanish": "Habla como nativo, pronto.",
+      "category": "Success",
+      "generated_at": "2026-08-14T21:32:06.259567"
+    },
+    {
+      "english": "This rhythm connects you deeper.",
+      "spanish": "Este ritmo te conecta más profundo.",
+      "category": "Success",
+      "generated_at": "2026-08-14T21:32:06.259588"
+    },
+    {
+      "english": "Your brain loves new languages.",
+      "spanish": "Tu cerebro ama idiomas nuevos.",
+      "category": "Success",
+      "generated_at": "2026-08-14T21:32:06.259610"
     }
   ],
-  "last_updated": "2026-08-14T19:41:57.678804",
+  "last_updated": "2026-08-14T21:32:06.259612",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19679,6 +19709,11 @@
     "that one word? game changer.",
     "whispers of progress, hear them.",
     "curious? spanish brings connections.",
-    "dare to speak; unlock your voice."
+    "dare to speak; unlock your voice.",
+    "your hesitation? it's wisdom.",
+    "unlock your spanish voice now.",
+    "speak like a native, soon.",
+    "this rhythm connects you deeper.",
+    "your brain loves new languages."
   ]
 }
