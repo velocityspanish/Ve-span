@@ -16895,9 +16895,39 @@
       "spanish": "Tu cerebro ama idiomas nuevos.",
       "category": "Success",
       "generated_at": "2026-08-14T21:32:06.259610"
+    },
+    {
+      "english": "Curious? Spanish sounds like music.",
+      "spanish": "¿Curioso? El español suena a música.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T13:31:57.524162"
+    },
+    {
+      "english": "Your 'what if' is your gateway.",
+      "spanish": "Tu 'qué pasaría' es tu puerta.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T13:31:57.524199"
+    },
+    {
+      "english": "Embrace the pause, it's powerful.",
+      "spanish": "Abraza la pausa, es poderosa.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T13:31:57.524224"
+    },
+    {
+      "english": "Joy in a tiny 'bueno'.",
+      "spanish": "Alegría en un pequeño 'bueno'.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T13:31:57.524245"
+    },
+    {
+      "english": "Your confidence is blooming, watch.",
+      "spanish": "Tu confianza florece, mira.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T13:31:57.524270"
     }
   ],
-  "last_updated": "2026-08-14T21:32:06.259612",
+  "last_updated": "2026-08-15T13:31:57.524272",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19714,6 +19744,11 @@
     "unlock your spanish voice now.",
     "speak like a native, soon.",
     "this rhythm connects you deeper.",
-    "your brain loves new languages."
+    "your brain loves new languages.",
+    "curious? spanish sounds like music.",
+    "your 'what if' is your gateway.",
+    "embrace the pause, it's powerful.",
+    "joy in a tiny 'bueno'.",
+    "your confidence is blooming, watch."
   ]
 }
