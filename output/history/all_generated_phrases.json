@@ -16955,9 +16955,39 @@
       "spanish": "¿Curioso? El español conecta almas.",
       "category": "Joy",
       "generated_at": "2026-08-15T15:21:52.851285"
+    },
+    {
+      "english": "One 'claro' changes perspective.",
+      "spanish": "Un 'claro' cambia perspectiva.",
+      "category": "Creativity",
+      "generated_at": "2026-08-15T17:12:52.680249"
+    },
+    {
+      "english": "Hear the rhythm of Spanish.",
+      "spanish": "Escucha el ritmo español.",
+      "category": "Creativity",
+      "generated_at": "2026-08-15T17:12:52.680287"
+    },
+    {
+      "english": "Whispers of 'por favor'?",
+      "spanish": "¿Susurros de 'por favor'?",
+      "category": "Creativity",
+      "generated_at": "2026-08-15T17:12:52.680313"
+    },
+    {
+      "english": "That simple question opens doors.",
+      "spanish": "Esa pregunta simple abre puertas.",
+      "category": "Creativity",
+      "generated_at": "2026-08-15T17:12:52.680338"
+    },
+    {
+      "english": "Embrace the 'oye' moment.",
+      "spanish": "Abraza el momento 'oye'.",
+      "category": "Creativity",
+      "generated_at": "2026-08-15T17:12:52.680367"
     }
   ],
-  "last_updated": "2026-08-15T15:21:52.851287",
+  "last_updated": "2026-08-15T17:12:52.680370",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19784,6 +19814,11 @@
     "this word builds friendships.",
     "your effort resonates warmly.",
     "the magic of 'claro'.",
-    "curious? spanish connects souls."
+    "curious? spanish connects souls.",
+    "one 'claro' changes perspective.",
+    "hear the rhythm of spanish.",
+    "whispers of 'por favor'?",
+    "that simple question opens doors.",
+    "embrace the 'oye' moment."
   ]
 }
