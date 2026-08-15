@@ -16985,9 +16985,39 @@
       "spanish": "Abraza el momento 'oye'.",
       "category": "Creativity",
       "generated_at": "2026-08-15T17:12:52.680367"
+    },
+    {
+      "english": "That accent? Beautiful progress.",
+      "spanish": "Ese acento? Progreso hermoso.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T19:14:46.004692"
+    },
+    {
+      "english": "Why hesitate? Speak now.",
+      "spanish": "¿Por qué dudar? Habla ahora.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T19:14:46.004724"
+    },
+    {
+      "english": "Curious? This sounds like friends.",
+      "spanish": "¿Curioso? Suena a amigos.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T19:14:46.004750"
+    },
+    {
+      "english": "Learn a phrase, expand worlds.",
+      "spanish": "Aprende una frase, expande mundos.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T19:14:46.004776"
+    },
+    {
+      "english": "You are understood, truly.",
+      "spanish": "Eres comprendido, de verdad.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T19:14:46.004801"
     }
   ],
-  "last_updated": "2026-08-15T17:12:52.680370",
+  "last_updated": "2026-08-15T19:14:46.004803",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19819,6 +19849,11 @@
     "hear the rhythm of spanish.",
     "whispers of 'por favor'?",
     "that simple question opens doors.",
-    "embrace the 'oye' moment."
+    "embrace the 'oye' moment.",
+    "that accent? beautiful progress.",
+    "why hesitate? speak now.",
+    "curious? this sounds like friends.",
+    "learn a phrase, expand worlds.",
+    "you are understood, truly."
   ]
 }
