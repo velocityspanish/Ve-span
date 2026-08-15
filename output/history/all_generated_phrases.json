@@ -16925,9 +16925,39 @@
       "spanish": "Tu confianza florece, mira.",
       "category": "Joy",
       "generated_at": "2026-08-15T13:31:57.524270"
+    },
+    {
+      "english": "Unlock joy with 'qué bueno'!",
+      "spanish": "¡Desbloquea la alegría con 'qué bueno'!",
+      "category": "Joy",
+      "generated_at": "2026-08-15T15:21:52.851168"
+    },
+    {
+      "english": "This word builds friendships.",
+      "spanish": "Esta palabra construye amistades.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T15:21:52.851206"
+    },
+    {
+      "english": "Your effort resonates warmly.",
+      "spanish": "Tu esfuerzo resuena cálidamente.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T15:21:52.851235"
+    },
+    {
+      "english": "The magic of 'claro'.",
+      "spanish": "La magia del 'claro'.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T15:21:52.851258"
+    },
+    {
+      "english": "Curious? Spanish connects souls.",
+      "spanish": "¿Curioso? El español conecta almas.",
+      "category": "Joy",
+      "generated_at": "2026-08-15T15:21:52.851285"
     }
   ],
-  "last_updated": "2026-08-15T13:31:57.524272",
+  "last_updated": "2026-08-15T15:21:52.851287",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19749,6 +19779,11 @@
     "your 'what if' is your gateway.",
     "embrace the pause, it's powerful.",
     "joy in a tiny 'bueno'.",
-    "your confidence is blooming, watch."
+    "your confidence is blooming, watch.",
+    "unlock joy with 'qué bueno'!",
+    "this word builds friendships.",
+    "your effort resonates warmly.",
+    "the magic of 'claro'.",
+    "curious? spanish connects souls."
   ]
 }
