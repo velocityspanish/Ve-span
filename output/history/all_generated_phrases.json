@@ -17075,9 +17075,39 @@
       "spanish": "Ésa 'erre'? Puro poder.",
       "category": "Balance",
       "generated_at": "2026-08-16T13:33:11.826112"
+    },
+    {
+      "english": "This sound? Your peace starts.",
+      "spanish": "Este sonido? Tu paz empieza.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-16T15:22:42.770934"
+    },
+    {
+      "english": "Why rush? Enjoy the quiet.",
+      "spanish": "¿Por qué apresurarse? Disfruta el silencio.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-16T15:22:42.770969"
+    },
+    {
+      "english": "Inner strength, one word.",
+      "spanish": "Fuerza interior, una palabra.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-16T15:22:42.770994"
+    },
+    {
+      "english": "This pause? Your mind clears.",
+      "spanish": "Esta pausa? Tu mente se aclara.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-16T15:22:42.771021"
+    },
+    {
+      "english": "Breathe in this feeling.",
+      "spanish": "Respira este sentimiento.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-16T15:22:42.771045"
     }
   ],
-  "last_updated": "2026-08-16T13:33:11.826114",
+  "last_updated": "2026-08-16T15:22:42.771047",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19924,6 +19954,11 @@
     "feeling lost? it's normal.",
     "this rhythm? your confidence grows.",
     "curious? this sound builds friendships.",
-    "that 'r' sound? pure power."
+    "that 'r' sound? pure power.",
+    "this sound? your peace starts.",
+    "why rush? enjoy the quiet.",
+    "inner strength, one word.",
+    "this pause? your mind clears.",
+    "breathe in this feeling."
   ]
 }
