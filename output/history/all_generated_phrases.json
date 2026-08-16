@@ -17165,9 +17165,39 @@
       "spanish": "Siente el poder de esta palabra.",
       "category": "Motivation",
       "generated_at": "2026-08-16T19:13:47.169985"
+    },
+    {
+      "english": "Your dream language life awaits.",
+      "spanish": "Tu vida soñada, en idiomas.",
+      "category": "Success",
+      "generated_at": "2026-08-16T21:26:53.074744"
+    },
+    {
+      "english": "One phrase, new friends.",
+      "spanish": "Una frase, nuevos amigos.",
+      "category": "Success",
+      "generated_at": "2026-08-16T21:26:53.074775"
+    },
+    {
+      "english": "This word bridges cultures.",
+      "spanish": "Esta palabra une culturas.",
+      "category": "Success",
+      "generated_at": "2026-08-16T21:26:53.074802"
+    },
+    {
+      "english": "Embrace the 'no entiendo'.",
+      "spanish": "Abraza el 'no entiendo'.",
+      "category": "Success",
+      "generated_at": "2026-08-16T21:26:53.074827"
+    },
+    {
+      "english": "Your courage, your spanish.",
+      "spanish": "Tu coraje, tu español.",
+      "category": "Success",
+      "generated_at": "2026-08-16T21:26:53.074852"
     }
   ],
-  "last_updated": "2026-08-16T19:13:47.169987",
+  "last_updated": "2026-08-16T21:26:53.074854",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20029,6 +20059,11 @@
     "your first 'adiós' feels huge.",
     "what if 'quizás' means possibility?",
     "don't rush, savour the process.",
-    "feel this tiny word's power."
+    "feel this tiny word's power.",
+    "your dream language life awaits.",
+    "one phrase, new friends.",
+    "this word bridges cultures.",
+    "embrace the 'no entiendo'.",
+    "your courage, your spanish."
   ]
 }
