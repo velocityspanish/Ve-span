@@ -17105,9 +17105,39 @@
       "spanish": "Respira este sentimiento.",
       "category": "Inner Peace",
       "generated_at": "2026-08-16T15:22:42.771045"
+    },
+    {
+      "english": "That pause? Your understanding.",
+      "spanish": "Esa pausa, ¿tu entendimiento?",
+      "category": "Creativity",
+      "generated_at": "2026-08-16T17:12:21.348686"
+    },
+    {
+      "english": "Hear this, unlock connection.",
+      "spanish": "Escucha esto, abre conexión.",
+      "category": "Creativity",
+      "generated_at": "2026-08-16T17:12:21.348726"
+    },
+    {
+      "english": "Your 'qué tal' invites smiles.",
+      "spanish": "Tu '¿qué tal?' invita sonrisas.",
+      "category": "Creativity",
+      "generated_at": "2026-08-16T17:12:21.348757"
+    },
+    {
+      "english": "Don't fear 'lo siento'.",
+      "spanish": "No temas al 'lo siento'.",
+      "category": "Creativity",
+      "generated_at": "2026-08-16T17:12:21.348782"
+    },
+    {
+      "english": "Your rhythm is unlocking.",
+      "spanish": "Tu ritmo se está desbloqueando.",
+      "category": "Creativity",
+      "generated_at": "2026-08-16T17:12:21.348820"
     }
   ],
-  "last_updated": "2026-08-16T15:22:42.771047",
+  "last_updated": "2026-08-16T17:12:21.348821",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19959,6 +19989,11 @@
     "why rush? enjoy the quiet.",
     "inner strength, one word.",
     "this pause? your mind clears.",
-    "breathe in this feeling."
+    "breathe in this feeling.",
+    "that pause? your understanding.",
+    "hear this, unlock connection.",
+    "your 'qué tal' invites smiles.",
+    "don't fear 'lo siento'.",
+    "your rhythm is unlocking."
   ]
 }
