@@ -17135,9 +17135,39 @@
       "spanish": "Tu ritmo se está desbloqueando.",
       "category": "Creativity",
       "generated_at": "2026-08-16T17:12:21.348820"
+    },
+    {
+      "english": "Curious? This sound connects worlds.",
+      "spanish": "¿Curioso? Este sonido conecta mundos.",
+      "category": "Motivation",
+      "generated_at": "2026-08-16T19:13:47.169843"
+    },
+    {
+      "english": "Your first 'adiós' feels huge.",
+      "spanish": "Tu primer 'adiós' se siente enorme.",
+      "category": "Motivation",
+      "generated_at": "2026-08-16T19:13:47.169887"
+    },
+    {
+      "english": "What if 'quizás' means possibility?",
+      "spanish": "¿Y si 'quizás' significa posibilidad?",
+      "category": "Motivation",
+      "generated_at": "2026-08-16T19:13:47.169919"
+    },
+    {
+      "english": "Don't rush, savour the process.",
+      "spanish": "No te apresures, saborea el proceso.",
+      "category": "Motivation",
+      "generated_at": "2026-08-16T19:13:47.169952"
+    },
+    {
+      "english": "Feel this tiny word's power.",
+      "spanish": "Siente el poder de esta palabra.",
+      "category": "Motivation",
+      "generated_at": "2026-08-16T19:13:47.169985"
     }
   ],
-  "last_updated": "2026-08-16T17:12:21.348821",
+  "last_updated": "2026-08-16T19:13:47.169987",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19994,6 +20024,11 @@
     "hear this, unlock connection.",
     "your 'qué tal' invites smiles.",
     "don't fear 'lo siento'.",
-    "your rhythm is unlocking."
+    "your rhythm is unlocking.",
+    "curious? this sound connects worlds.",
+    "your first 'adiós' feels huge.",
+    "what if 'quizás' means possibility?",
+    "don't rush, savour the process.",
+    "feel this tiny word's power."
   ]
 }
