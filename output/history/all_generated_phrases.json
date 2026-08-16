@@ -17045,9 +17045,39 @@
       "spanish": "¡Sorpresa! Entendiste eso.",
       "category": "Joy",
       "generated_at": "2026-08-15T21:27:09.278469"
+    },
+    {
+      "english": "One 'sí', genuine connection.",
+      "spanish": "Un 'sí', conexión genuina.",
+      "category": "Balance",
+      "generated_at": "2026-08-16T13:33:11.825998"
+    },
+    {
+      "english": "Feeling lost? It's normal.",
+      "spanish": "¿Te sientes perdido? Es normal.",
+      "category": "Balance",
+      "generated_at": "2026-08-16T13:33:11.826037"
+    },
+    {
+      "english": "This rhythm? Your confidence grows.",
+      "spanish": "Este ritmo? Tu confianza crece.",
+      "category": "Balance",
+      "generated_at": "2026-08-16T13:33:11.826063"
+    },
+    {
+      "english": "Curious? This sound builds friendships.",
+      "spanish": "¿Curioso? Este sonido crea amigos.",
+      "category": "Balance",
+      "generated_at": "2026-08-16T13:33:11.826086"
+    },
+    {
+      "english": "That 'r' sound? Pure power.",
+      "spanish": "Ésa 'erre'? Puro poder.",
+      "category": "Balance",
+      "generated_at": "2026-08-16T13:33:11.826112"
     }
   ],
-  "last_updated": "2026-08-15T21:27:09.278471",
+  "last_updated": "2026-08-16T13:33:11.826114",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -19889,6 +19919,11 @@
     "one word unlocks a smile.",
     "your pronunciation, improving daily.",
     "this pause? deep understanding.",
-    "surprise! you understood that."
+    "surprise! you understood that.",
+    "one 'sí', genuine connection.",
+    "feeling lost? it's normal.",
+    "this rhythm? your confidence grows.",
+    "curious? this sound builds friendships.",
+    "that 'r' sound? pure power."
   ]
 }
