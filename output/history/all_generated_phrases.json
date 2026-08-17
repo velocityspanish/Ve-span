@@ -17195,9 +17195,39 @@
       "spanish": "Tu coraje, tu español.",
       "category": "Success",
       "generated_at": "2026-08-16T21:26:53.074852"
+    },
+    {
+      "english": "This accent? Your unique voice.",
+      "spanish": "Este acento? Tu voz única.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T13:40:45.633301"
+    },
+    {
+      "english": "Curious? Hear this gentle 'll'.",
+      "spanish": "¿Curioso? Escucha esta 'll' suave.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T13:40:45.633334"
+    },
+    {
+      "english": "One 'gracias', warm connection.",
+      "spanish": "Un 'gracias', conexión cálida.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T13:40:45.633360"
+    },
+    {
+      "english": "Don't overthink the 'r'.",
+      "spanish": "No pienses demasiado la 'r'.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T13:40:45.633385"
+    },
+    {
+      "english": "What if 'tal vez' means hope?",
+      "spanish": "¿Qué si 'tal vez' significa esperanza?",
+      "category": "Balance",
+      "generated_at": "2026-08-17T13:40:45.633411"
     }
   ],
-  "last_updated": "2026-08-16T21:26:53.074854",
+  "last_updated": "2026-08-17T13:40:45.633413",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20064,6 +20094,11 @@
     "one phrase, new friends.",
     "this word bridges cultures.",
     "embrace the 'no entiendo'.",
-    "your courage, your spanish."
+    "your courage, your spanish.",
+    "this accent? your unique voice.",
+    "curious? hear this gentle 'll'.",
+    "one 'gracias', warm connection.",
+    "don't overthink the 'r'.",
+    "what if 'tal vez' means hope?"
   ]
 }
