@@ -17315,9 +17315,39 @@
       "spanish": "¿El susurro de 'por favor'?",
       "category": "Success",
       "generated_at": "2026-08-17T19:21:38.450973"
+    },
+    {
+      "english": "That quiet 'q' intrigue?",
+      "spanish": "¿Esa intriga silenciosa de 'q'?",
+      "category": "Courage",
+      "generated_at": "2026-08-17T22:22:33.731311"
+    },
+    {
+      "english": "One 'l' sound, unlock clarity.",
+      "spanish": "Un sonido 'l', desbloquea claridad.",
+      "category": "Courage",
+      "generated_at": "2026-08-17T22:22:33.731348"
+    },
+    {
+      "english": "Wisdom: Gentle persistence wins.",
+      "spanish": "Sabiduría: La persistencia suave gana.",
+      "category": "Courage",
+      "generated_at": "2026-08-17T22:22:33.731375"
+    },
+    {
+      "english": "Feel this 'v' vibration.",
+      "spanish": "Siente esta vibración de 'v'.",
+      "category": "Courage",
+      "generated_at": "2026-08-17T22:22:33.731399"
+    },
+    {
+      "english": "Your 'y' sound matters.",
+      "spanish": "Tu sonido 'y' importa.",
+      "category": "Courage",
+      "generated_at": "2026-08-17T22:22:33.731423"
     }
   ],
-  "last_updated": "2026-08-17T19:21:38.450975",
+  "last_updated": "2026-08-17T22:22:33.731425",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20204,6 +20234,11 @@
     "one 'sí', powerful impact.",
     "listen, your progress is audible.",
     "that 'qué tal' invites friendship.",
-    "the whisper of 'por favor'?"
+    "the whisper of 'por favor'?",
+    "that quiet 'q' intrigue?",
+    "one 'l' sound, unlock clarity.",
+    "wisdom: gentle persistence wins.",
+    "feel this 'v' vibration.",
+    "your 'y' sound matters."
   ]
 }
