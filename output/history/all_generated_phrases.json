@@ -17225,9 +17225,39 @@
       "spanish": "¿Qué si 'tal vez' significa esperanza?",
       "category": "Balance",
       "generated_at": "2026-08-17T13:40:45.633411"
+    },
+    {
+      "english": "Hear this whisper, feel power.",
+      "spanish": "Oye este susurro, siente poder.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T15:26:21.590945"
+    },
+    {
+      "english": "Embrace the 'no entiendo' moment.",
+      "spanish": "Abraza el momento 'no entiendo'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T15:26:21.590972"
+    },
+    {
+      "english": "This sound? Your inner peace.",
+      "spanish": "¿Este sonido? Tu paz interior.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T15:26:21.590991"
+    },
+    {
+      "english": "What if 'quizás' sparks hope?",
+      "spanish": "¿Qué si 'quizás' enciende esperanza?",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T15:26:21.591011"
+    },
+    {
+      "english": "Feel this word's quiet strength.",
+      "spanish": "Siente la fuerza silenciosa de esta palabra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T15:26:21.591029"
     }
   ],
-  "last_updated": "2026-08-17T13:40:45.633413",
+  "last_updated": "2026-08-17T15:26:21.591030",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20099,6 +20129,11 @@
     "curious? hear this gentle 'll'.",
     "one 'gracias', warm connection.",
     "don't overthink the 'r'.",
-    "what if 'tal vez' means hope?"
+    "what if 'tal vez' means hope?",
+    "hear this whisper, feel power.",
+    "embrace the 'no entiendo' moment.",
+    "this sound? your inner peace.",
+    "what if 'quizás' sparks hope?",
+    "feel this word's quiet strength."
   ]
 }
