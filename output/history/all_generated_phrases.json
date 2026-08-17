@@ -17285,9 +17285,39 @@
       "spanish": "Tu futuro pregunta esto.",
       "category": "Success",
       "generated_at": "2026-08-17T17:18:56.220654"
+    },
+    {
+      "english": "Your brain is re-wiring, wow!",
+      "spanish": "¡Tu cerebro se está reconfigurando, wow!",
+      "category": "Success",
+      "generated_at": "2026-08-17T19:21:38.450873"
+    },
+    {
+      "english": "One 'sí', powerful impact.",
+      "spanish": "Un 'sí', impacto poderoso.",
+      "category": "Success",
+      "generated_at": "2026-08-17T19:21:38.450906"
+    },
+    {
+      "english": "Listen, your progress is audible.",
+      "spanish": "Escucha, tu progreso es audible.",
+      "category": "Success",
+      "generated_at": "2026-08-17T19:21:38.450929"
+    },
+    {
+      "english": "That 'qué tal' invites friendship.",
+      "spanish": "Ese 'qué tal' invita amistad.",
+      "category": "Success",
+      "generated_at": "2026-08-17T19:21:38.450949"
+    },
+    {
+      "english": "The whisper of 'por favor'?",
+      "spanish": "¿El susurro de 'por favor'?",
+      "category": "Success",
+      "generated_at": "2026-08-17T19:21:38.450973"
     }
   ],
-  "last_updated": "2026-08-17T17:18:56.220655",
+  "last_updated": "2026-08-17T19:21:38.450975",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20169,6 +20199,11 @@
     "your first mistake? learning.",
     "what if 'ahora' means now?",
     "embrace the stutter, you'll soar.",
-    "your future asks this question."
+    "your future asks this question.",
+    "your brain is re-wiring, wow!",
+    "one 'sí', powerful impact.",
+    "listen, your progress is audible.",
+    "that 'qué tal' invites friendship.",
+    "the whisper of 'por favor'?"
   ]
 }
