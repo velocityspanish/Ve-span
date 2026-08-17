@@ -17255,9 +17255,39 @@
       "spanish": "Siente la fuerza silenciosa de esta palabra.",
       "category": "Mindfulness",
       "generated_at": "2026-08-17T15:26:21.591029"
+    },
+    {
+      "english": "Hear this, new world opens.",
+      "spanish": "Escucha esto, nuevo mundo se abre.",
+      "category": "Success",
+      "generated_at": "2026-08-17T17:18:56.220560"
+    },
+    {
+      "english": "Your first mistake? Learning.",
+      "spanish": "¿Tu primer error? Aprender.",
+      "category": "Success",
+      "generated_at": "2026-08-17T17:18:56.220591"
+    },
+    {
+      "english": "What if 'ahora' means now?",
+      "spanish": "¿Y si 'ahora' significa ahora?",
+      "category": "Success",
+      "generated_at": "2026-08-17T17:18:56.220612"
+    },
+    {
+      "english": "Embrace the stutter, you'll soar.",
+      "spanish": "Abraza el tartamudeo, volarás.",
+      "category": "Success",
+      "generated_at": "2026-08-17T17:18:56.220633"
+    },
+    {
+      "english": "Your future asks this question.",
+      "spanish": "Tu futuro pregunta esto.",
+      "category": "Success",
+      "generated_at": "2026-08-17T17:18:56.220654"
     }
   ],
-  "last_updated": "2026-08-17T15:26:21.591030",
+  "last_updated": "2026-08-17T17:18:56.220655",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20134,6 +20164,11 @@
     "embrace the 'no entiendo' moment.",
     "this sound? your inner peace.",
     "what if 'quizás' sparks hope?",
-    "feel this word's quiet strength."
+    "feel this word's quiet strength.",
+    "hear this, new world opens.",
+    "your first mistake? learning.",
+    "what if 'ahora' means now?",
+    "embrace the stutter, you'll soar.",
+    "your future asks this question."
   ]
 }
