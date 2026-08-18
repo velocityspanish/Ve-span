@@ -17405,9 +17405,39 @@
       "spanish": "¿Susurros de 'qué pasa'?",
       "category": "Joy",
       "generated_at": "2026-08-18T15:32:52.102467"
+    },
+    {
+      "english": "Your 'why' fuels progress.",
+      "spanish": "Tu 'por qué' impulsa progreso.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-18T17:37:11.234974"
+    },
+    {
+      "english": "One tiny error? learning.",
+      "spanish": "Un pequeño error? aprendizaje.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-18T17:37:11.235007"
+    },
+    {
+      "english": "Hear this: progress IS audible.",
+      "spanish": "Oye esto: ¡el progreso es audible!",
+      "category": "Perseverance",
+      "generated_at": "2026-08-18T17:37:11.235035"
+    },
+    {
+      "english": "Don't fear 'lo siento' moments.",
+      "spanish": "No temas momentos de 'lo siento'.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-18T17:37:11.235061"
+    },
+    {
+      "english": "Curious? This sound bridges cultures.",
+      "spanish": "¿Curioso? Este sonido une culturas.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-18T17:37:11.235085"
     }
   ],
-  "last_updated": "2026-08-18T15:32:52.102469",
+  "last_updated": "2026-08-18T17:37:11.235086",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20309,6 +20339,11 @@
     "the 'j' sound? so cool.",
     "curious? spanish flows like water.",
     "one 'vale' saves arguments.",
-    "whispers of 'qué pasa'?"
+    "whispers of 'qué pasa'?",
+    "your 'why' fuels progress.",
+    "one tiny error? learning.",
+    "hear this: progress is audible.",
+    "don't fear 'lo siento' moments.",
+    "curious? this sound bridges cultures."
   ]
 }
