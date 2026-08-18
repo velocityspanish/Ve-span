@@ -17375,9 +17375,39 @@
       "spanish": "Un 'entonces' genera claridad.",
       "category": "Mindfulness",
       "generated_at": "2026-08-18T13:44:20.726683"
+    },
+    {
+      "english": "Your first 'buenos días'!",
+      "spanish": "¡Tu primer 'buenos días'!",
+      "category": "Joy",
+      "generated_at": "2026-08-18T15:32:52.102349"
+    },
+    {
+      "english": "The 'j' sound? So cool.",
+      "spanish": "El sonido de la 'j', ¿genial?",
+      "category": "Joy",
+      "generated_at": "2026-08-18T15:32:52.102385"
+    },
+    {
+      "english": "Curious? Spanish flows like water.",
+      "spanish": "¿Curioso? El español fluye.",
+      "category": "Joy",
+      "generated_at": "2026-08-18T15:32:52.102413"
+    },
+    {
+      "english": "One 'vale' saves arguments.",
+      "spanish": "Un 'vale' evita discusiones.",
+      "category": "Joy",
+      "generated_at": "2026-08-18T15:32:52.102441"
+    },
+    {
+      "english": "Whispers of 'qué pasa'?",
+      "spanish": "¿Susurros de 'qué pasa'?",
+      "category": "Joy",
+      "generated_at": "2026-08-18T15:32:52.102467"
     }
   ],
-  "last_updated": "2026-08-18T13:44:20.726685",
+  "last_updated": "2026-08-18T15:32:52.102469",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20274,6 +20304,11 @@
     "breathe in this new sound.",
     "this tiny 'y' connects.",
     "dare to say 'por favor'.",
-    "one 'entonces' sparks clarity."
+    "one 'entonces' sparks clarity.",
+    "your first 'buenos días'!",
+    "the 'j' sound? so cool.",
+    "curious? spanish flows like water.",
+    "one 'vale' saves arguments.",
+    "whispers of 'qué pasa'?"
   ]
 }
