@@ -17435,9 +17435,39 @@
       "spanish": "¿Curioso? Este sonido une culturas.",
       "category": "Perseverance",
       "generated_at": "2026-08-18T17:37:11.235085"
+    },
+    {
+      "english": "Why pause? Just speak.",
+      "spanish": "¿Por qué pausar? Solo habla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T19:39:12.671965"
+    },
+    {
+      "english": "Feel this quiet power.",
+      "spanish": "Siente este poder silencioso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T19:39:12.671999"
+    },
+    {
+      "english": "That tiny 'y' connection.",
+      "spanish": "Esa pequeña conexión 'y'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T19:39:12.672025"
+    },
+    {
+      "english": "Curious? Spanish unfolds.",
+      "spanish": "¿Curioso? El español se despliega.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T19:39:12.672050"
+    },
+    {
+      "english": "Hear the rhythm, you're in.",
+      "spanish": "Oye el ritmo, estás dentro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T19:39:12.672076"
     }
   ],
-  "last_updated": "2026-08-18T17:37:11.235086",
+  "last_updated": "2026-08-18T19:39:12.672078",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20344,6 +20374,11 @@
     "one tiny error? learning.",
     "hear this: progress is audible.",
     "don't fear 'lo siento' moments.",
-    "curious? this sound bridges cultures."
+    "curious? this sound bridges cultures.",
+    "why pause? just speak.",
+    "feel this quiet power.",
+    "that tiny 'y' connection.",
+    "curious? spanish unfolds.",
+    "hear the rhythm, you're in."
   ]
 }
