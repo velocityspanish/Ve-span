@@ -17465,9 +17465,39 @@
       "spanish": "Oye el ritmo, estás dentro.",
       "category": "Mindfulness",
       "generated_at": "2026-08-18T19:39:12.672076"
+    },
+    {
+      "english": "Your patience? It's progress.",
+      "spanish": "Tu paciencia, es progreso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T21:31:11.083475"
+    },
+    {
+      "english": "One 'quizás' sparks wonder.",
+      "spanish": "Un 'quizás' inspira asombro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T21:31:11.083510"
+    },
+    {
+      "english": "Don't fear the 'b' sound.",
+      "spanish": "No temas el sonido 'b'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T21:31:11.083536"
+    },
+    {
+      "english": "Unlock stories with 'entonces'.",
+      "spanish": "Desbloquea historias con 'entonces'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T21:31:11.083562"
+    },
+    {
+      "english": "Curious? Spanish whispers secrets.",
+      "spanish": "¿Curioso? El español susurra secretos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T21:31:11.083587"
     }
   ],
-  "last_updated": "2026-08-18T19:39:12.672078",
+  "last_updated": "2026-08-18T21:31:11.083589",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20379,6 +20409,11 @@
     "feel this quiet power.",
     "that tiny 'y' connection.",
     "curious? spanish unfolds.",
-    "hear the rhythm, you're in."
+    "hear the rhythm, you're in.",
+    "your patience? it's progress.",
+    "one 'quizás' sparks wonder.",
+    "don't fear the 'b' sound.",
+    "unlock stories with 'entonces'.",
+    "curious? spanish whispers secrets."
   ]
 }
