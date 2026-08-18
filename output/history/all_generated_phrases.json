@@ -17345,9 +17345,39 @@
       "spanish": "Tu sonido 'y' importa.",
       "category": "Courage",
       "generated_at": "2026-08-17T22:22:33.731423"
+    },
+    {
+      "english": "Your first 'lo siento' matters.",
+      "spanish": "Tu primer 'lo siento' importa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T13:44:20.726590"
+    },
+    {
+      "english": "Breathe in this new sound.",
+      "spanish": "Respira este nuevo sonido.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T13:44:20.726622"
+    },
+    {
+      "english": "This tiny 'y' connects.",
+      "spanish": "Esta pequeña 'y' conecta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T13:44:20.726642"
+    },
+    {
+      "english": "Dare to say 'por favor'.",
+      "spanish": "Atrévete a decir 'por favor'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T13:44:20.726661"
+    },
+    {
+      "english": "One 'entonces' sparks clarity.",
+      "spanish": "Un 'entonces' genera claridad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-18T13:44:20.726683"
     }
   ],
-  "last_updated": "2026-08-17T22:22:33.731425",
+  "last_updated": "2026-08-18T13:44:20.726685",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20239,6 +20269,11 @@
     "one 'l' sound, unlock clarity.",
     "wisdom: gentle persistence wins.",
     "feel this 'v' vibration.",
-    "your 'y' sound matters."
+    "your 'y' sound matters.",
+    "your first 'lo siento' matters.",
+    "breathe in this new sound.",
+    "this tiny 'y' connects.",
+    "dare to say 'por favor'.",
+    "one 'entonces' sparks clarity."
   ]
 }
