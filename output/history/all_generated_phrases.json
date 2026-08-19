@@ -17555,9 +17555,39 @@
       "spanish": "Nunca te pierdas este ritmo feliz.",
       "category": "Joy",
       "generated_at": "2026-08-19T17:18:43.038110"
+    },
+    {
+      "english": "Want instant connection? Say this.",
+      "spanish": "¿Conexión instantánea? Di esto.",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T20:21:48.166825"
+    },
+    {
+      "english": "The secret to sounding native?",
+      "spanish": "¿El secreto para sonar nativo?",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T20:21:48.166877"
+    },
+    {
+      "english": "This feeling? You're truly speaking.",
+      "spanish": "Esta sensación? Hablas de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T20:21:48.166904"
+    },
+    {
+      "english": "Your Spanish journey? Beautiful progress.",
+      "spanish": "¿Tu viaje español? Hermoso progreso.",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T20:21:48.166928"
+    },
+    {
+      "english": "Tiny word, huge impact. Wow!",
+      "spanish": "Palabra pequeña, impacto enorme. ¡Wow!",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T20:21:48.166956"
     }
   ],
-  "last_updated": "2026-08-19T17:18:43.038112",
+  "last_updated": "2026-08-19T20:21:48.166958",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20484,6 +20514,11 @@
     "hear this sound: pure sunshine.",
     "your first '¡qué bien!' wins.",
     "this feeling? your spanish fluency.",
-    "never miss this happy rhythm."
+    "never miss this happy rhythm.",
+    "want instant connection? say this.",
+    "the secret to sounding native?",
+    "this feeling? you're truly speaking.",
+    "your spanish journey? beautiful progress.",
+    "tiny word, huge impact. wow!"
   ]
 }
