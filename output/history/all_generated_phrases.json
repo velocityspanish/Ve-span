@@ -17495,9 +17495,39 @@
       "spanish": "¿Curioso? El español susurra secretos.",
       "category": "Mindfulness",
       "generated_at": "2026-08-18T21:31:11.083587"
+    },
+    {
+      "english": "Your patience is progress.",
+      "spanish": "Tu paciencia es progreso.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T13:46:32.045529"
+    },
+    {
+      "english": "Feel this tiny 'va'.",
+      "spanish": "Siente esta pequeña 'va'.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T13:46:32.045563"
+    },
+    {
+      "english": "One 'tal vez', more possibilities.",
+      "spanish": "Un 'tal vez', más posibilidades.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T13:46:32.045589"
+    },
+    {
+      "english": "This quiet 'j' sound?",
+      "spanish": "Este suave sonido 'j'?",
+      "category": "Hope",
+      "generated_at": "2026-08-19T13:46:32.045613"
+    },
+    {
+      "english": "One 'vale' settles everything.",
+      "spanish": "Un 'vale' lo arregla todo.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T13:46:32.045640"
     }
   ],
-  "last_updated": "2026-08-18T21:31:11.083589",
+  "last_updated": "2026-08-19T13:46:32.045643",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20414,6 +20444,11 @@
     "one 'quizás' sparks wonder.",
     "don't fear the 'b' sound.",
     "unlock stories with 'entonces'.",
-    "curious? spanish whispers secrets."
+    "curious? spanish whispers secrets.",
+    "your patience is progress.",
+    "feel this tiny 'va'.",
+    "one 'tal vez', more possibilities.",
+    "this quiet 'j' sound?",
+    "one 'vale' settles everything."
   ]
 }
