@@ -17525,9 +17525,39 @@
       "spanish": "Un 'vale' lo arregla todo.",
       "category": "Hope",
       "generated_at": "2026-08-19T13:46:32.045640"
+    },
+    {
+      "english": "One word brings instant joy.",
+      "spanish": "Una palabra trae alegría instantánea.",
+      "category": "Joy",
+      "generated_at": "2026-08-19T17:18:43.037989"
+    },
+    {
+      "english": "Hear this sound: pure sunshine.",
+      "spanish": "Escucha este sonido: puro sol.",
+      "category": "Joy",
+      "generated_at": "2026-08-19T17:18:43.038027"
+    },
+    {
+      "english": "Your first '¡Qué bien!' wins.",
+      "spanish": "Tu primer '¡Qué bien!' gana.",
+      "category": "Joy",
+      "generated_at": "2026-08-19T17:18:43.038057"
+    },
+    {
+      "english": "This feeling? Your spanish fluency.",
+      "spanish": "Este sentimiento: tu fluidez.",
+      "category": "Joy",
+      "generated_at": "2026-08-19T17:18:43.038082"
+    },
+    {
+      "english": "Never miss this happy rhythm.",
+      "spanish": "Nunca te pierdas este ritmo feliz.",
+      "category": "Joy",
+      "generated_at": "2026-08-19T17:18:43.038110"
     }
   ],
-  "last_updated": "2026-08-19T13:46:32.045643",
+  "last_updated": "2026-08-19T17:18:43.038112",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20449,6 +20479,11 @@
     "feel this tiny 'va'.",
     "one 'tal vez', more possibilities.",
     "this quiet 'j' sound?",
-    "one 'vale' settles everything."
+    "one 'vale' settles everything.",
+    "one word brings instant joy.",
+    "hear this sound: pure sunshine.",
+    "your first '¡qué bien!' wins.",
+    "this feeling? your spanish fluency.",
+    "never miss this happy rhythm."
   ]
 }
