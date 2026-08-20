@@ -17705,9 +17705,39 @@
       "spanish": "Esa pequeña 'e' significa todo.",
       "category": "Motivation",
       "generated_at": "2026-08-20T19:23:32.385044"
+    },
+    {
+      "english": "One tiny sound, big connection.",
+      "spanish": "Un sonido diminuto, gran conexión.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-20T21:34:30.578396"
+    },
+    {
+      "english": "Feel this, your fluency grows.",
+      "spanish": "Siente esto, tu fluidez crece.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-20T21:34:30.578436"
+    },
+    {
+      "english": "Your rhythm, your unique voice.",
+      "spanish": "Tu ritmo, tu voz única.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-20T21:34:30.578465"
+    },
+    {
+      "english": "Embrace the pause, understand more.",
+      "spanish": "Abraza la pausa, entiende más.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-20T21:34:30.578492"
+    },
+    {
+      "english": "One 'gracias', pure warmth.",
+      "spanish": "Un 'gracias', pura calidez.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-20T21:34:30.578520"
     }
   ],
-  "last_updated": "2026-08-20T19:23:32.385046",
+  "last_updated": "2026-08-20T21:34:30.578522",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20659,6 +20689,11 @@
     "wisdom: be kind to yourself.",
     "feel this! you are progressing.",
     "one 'hola' sparks a story.",
-    "that tiny 'e' means everything."
+    "that tiny 'e' means everything.",
+    "one tiny sound, big connection.",
+    "feel this, your fluency grows.",
+    "your rhythm, your unique voice.",
+    "embrace the pause, understand more.",
+    "one 'gracias', pure warmth."
   ]
 }
