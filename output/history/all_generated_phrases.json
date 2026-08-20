@@ -17675,9 +17675,39 @@
       "spanish": "¿Quieres sonar natural? Escucha.",
       "category": "Gratitude",
       "generated_at": "2026-08-20T17:20:33.904953"
+    },
+    {
+      "english": "This sound? Your confidence builder.",
+      "spanish": "Este sonido, tu constructor de confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-08-20T19:23:32.384917"
+    },
+    {
+      "english": "Wisdom: Be kind to yourself.",
+      "spanish": "Sabiduría: Sé amable contigo.",
+      "category": "Motivation",
+      "generated_at": "2026-08-20T19:23:32.384960"
+    },
+    {
+      "english": "Feel this! You are progressing.",
+      "spanish": "¡Siente esto! Estás progresando.",
+      "category": "Motivation",
+      "generated_at": "2026-08-20T19:23:32.384989"
+    },
+    {
+      "english": "One 'hola' sparks a story.",
+      "spanish": "Un 'hola' inicia una historia.",
+      "category": "Motivation",
+      "generated_at": "2026-08-20T19:23:32.385016"
+    },
+    {
+      "english": "That tiny 'e' means everything.",
+      "spanish": "Esa pequeña 'e' significa todo.",
+      "category": "Motivation",
+      "generated_at": "2026-08-20T19:23:32.385044"
     }
   ],
-  "last_updated": "2026-08-20T17:20:33.904955",
+  "last_updated": "2026-08-20T19:23:32.385046",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20624,6 +20654,11 @@
     "feel this joy, speak spanish.",
     "curious? spanish flows effortlessly.",
     "this sound opens every door.",
-    "want to sound natural? listen."
+    "want to sound natural? listen.",
+    "this sound? your confidence builder.",
+    "wisdom: be kind to yourself.",
+    "feel this! you are progressing.",
+    "one 'hola' sparks a story.",
+    "that tiny 'e' means everything."
   ]
 }
