@@ -17645,9 +17645,39 @@
       "spanish": "¿Errores? Son tus maestros.",
       "category": "Creativity",
       "generated_at": "2026-08-20T15:35:05.721535"
+    },
+    {
+      "english": "Your daily progress is astounding.",
+      "spanish": "Tu progreso diario es asombroso.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T17:20:33.904835"
+    },
+    {
+      "english": "Feel this joy, speak spanish.",
+      "spanish": "Siente esta alegría, habla español.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T17:20:33.904875"
+    },
+    {
+      "english": "Curious? Spanish flows effortlessly.",
+      "spanish": "¿Curioso? El español fluye sin esfuerzo.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T17:20:33.904899"
+    },
+    {
+      "english": "This sound opens every door.",
+      "spanish": "Este sonido abre todas las puertas.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T17:20:33.904926"
+    },
+    {
+      "english": "Want to sound natural? Listen.",
+      "spanish": "¿Quieres sonar natural? Escucha.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T17:20:33.904953"
     }
   ],
-  "last_updated": "2026-08-20T15:35:05.721538",
+  "last_updated": "2026-08-20T17:20:33.904955",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20589,6 +20619,11 @@
     "this word saves so much time.",
     "hear this sound, feel joy.",
     "why is 'ser' so tricky?",
-    "mistakes? they are your teachers."
+    "mistakes? they are your teachers.",
+    "your daily progress is astounding.",
+    "feel this joy, speak spanish.",
+    "curious? spanish flows effortlessly.",
+    "this sound opens every door.",
+    "want to sound natural? listen."
   ]
 }
