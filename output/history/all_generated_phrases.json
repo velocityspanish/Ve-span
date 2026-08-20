@@ -17585,9 +17585,39 @@
       "spanish": "Palabra pequeña, impacto enorme. ¡Wow!",
       "category": "Friendship",
       "generated_at": "2026-08-19T20:21:48.166956"
+    },
+    {
+      "english": "Hear this joy, speak Spanish!",
+      "spanish": "¡Escucha esta alegría, habla español!",
+      "category": "Joy",
+      "generated_at": "2026-08-20T13:49:11.252331"
+    },
+    {
+      "english": "One word, instant sunshine. Wow!",
+      "spanish": "Una palabra, sol instantáneo. ¡Wow!",
+      "category": "Joy",
+      "generated_at": "2026-08-20T13:49:11.252368"
+    },
+    {
+      "english": "Your Spanish journey? Pure magic.",
+      "spanish": "Tu viaje español: ¿pura magia?",
+      "category": "Joy",
+      "generated_at": "2026-08-20T13:49:11.252394"
+    },
+    {
+      "english": "Feel this flow, embrace Spanish.",
+      "spanish": "Siente este flujo, abraza el español.",
+      "category": "Joy",
+      "generated_at": "2026-08-20T13:49:11.252420"
+    },
+    {
+      "english": "That easy rhythm? It's yours.",
+      "spanish": "¿Ese ritmo fácil? Es tuyo.",
+      "category": "Joy",
+      "generated_at": "2026-08-20T13:49:11.252447"
     }
   ],
-  "last_updated": "2026-08-19T20:21:48.166958",
+  "last_updated": "2026-08-20T13:49:11.252450",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20519,6 +20549,11 @@
     "the secret to sounding native?",
     "this feeling? you're truly speaking.",
     "your spanish journey? beautiful progress.",
-    "tiny word, huge impact. wow!"
+    "tiny word, huge impact. wow!",
+    "hear this joy, speak spanish!",
+    "one word, instant sunshine. wow!",
+    "your spanish journey? pure magic.",
+    "feel this flow, embrace spanish.",
+    "that easy rhythm? it's yours."
   ]
 }
