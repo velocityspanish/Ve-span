@@ -17615,9 +17615,39 @@
       "spanish": "¿Ese ritmo fácil? Es tuyo.",
       "category": "Joy",
       "generated_at": "2026-08-20T13:49:11.252447"
+    },
+    {
+      "english": "Curious about 'gustar' conjugation?",
+      "spanish": "¿Curioso por 'gustar' conjugado?",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:35:05.721412"
+    },
+    {
+      "english": "This word saves so much time.",
+      "spanish": "Esta palabra ahorra tiempo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:35:05.721446"
+    },
+    {
+      "english": "Hear this sound, feel joy.",
+      "spanish": "Oye este sonido, siente alegría.",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:35:05.721472"
+    },
+    {
+      "english": "Why is 'ser' so tricky?",
+      "spanish": "¿Por qué 'ser' es difícil?",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:35:05.721497"
+    },
+    {
+      "english": "Mistakes? They are your teachers.",
+      "spanish": "¿Errores? Son tus maestros.",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:35:05.721535"
     }
   ],
-  "last_updated": "2026-08-20T13:49:11.252450",
+  "last_updated": "2026-08-20T15:35:05.721538",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20554,6 +20584,11 @@
     "one word, instant sunshine. wow!",
     "your spanish journey? pure magic.",
     "feel this flow, embrace spanish.",
-    "that easy rhythm? it's yours."
+    "that easy rhythm? it's yours.",
+    "curious about 'gustar' conjugation?",
+    "this word saves so much time.",
+    "hear this sound, feel joy.",
+    "why is 'ser' so tricky?",
+    "mistakes? they are your teachers."
   ]
 }
