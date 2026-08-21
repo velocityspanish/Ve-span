@@ -17795,9 +17795,39 @@
       "spanish": "Esa 'v' es puro encanto.",
       "category": "Success",
       "generated_at": "2026-08-21T15:34:56.293656"
+    },
+    {
+      "english": "Feel this 'por favor' magic.",
+      "spanish": "Siente esta magia 'por favor'.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-21T17:20:54.480842"
+    },
+    {
+      "english": "That 'qué tal' sparks chat.",
+      "spanish": "Ese 'qué tal' inicia charla.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-21T17:20:54.480869"
+    },
+    {
+      "english": "Your 'entiendo' sounds clearer.",
+      "spanish": "Tu 'entiendo' suena más claro.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-21T17:20:54.480885"
+    },
+    {
+      "english": "Hear this gentle 'll' sound.",
+      "spanish": "Oye este suave sonido 'll'.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-21T17:20:54.480902"
+    },
+    {
+      "english": "One 'sí', pure affirmation.",
+      "spanish": "Un 'sí', pura afirmación.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-21T17:20:54.480918"
     }
   ],
-  "last_updated": "2026-08-21T15:34:56.293658",
+  "last_updated": "2026-08-21T17:20:54.480919",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20764,6 +20794,11 @@
     "one question, new friendship.",
     "feel this fluency whisper.",
     "your progress, simply amazing.",
-    "that 'v' is pure charm."
+    "that 'v' is pure charm.",
+    "feel this 'por favor' magic.",
+    "that 'qué tal' sparks chat.",
+    "your 'entiendo' sounds clearer.",
+    "hear this gentle 'll' sound.",
+    "one 'sí', pure affirmation."
   ]
 }
