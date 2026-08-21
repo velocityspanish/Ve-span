@@ -17735,9 +17735,39 @@
       "spanish": "Un 'gracias', pura calidez.",
       "category": "Mindfulness",
       "generated_at": "2026-08-20T21:34:30.578520"
+    },
+    {
+      "english": "Your 'no pasa nada' is freedom.",
+      "spanish": "Tu 'no pasa nada' es libertad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-21T13:47:37.214349"
+    },
+    {
+      "english": "This quiet 'qué' unlocks meaning.",
+      "spanish": "Este 'qué' silencioso desbloquea significado.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-21T13:47:37.214384"
+    },
+    {
+      "english": "What if 'mañana' is opportunity?",
+      "spanish": "¿Qué si 'mañana' es oportunidad?",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-21T13:47:37.214411"
+    },
+    {
+      "english": "Feel this 'poco a poco' peace.",
+      "spanish": "Siente esta paz 'poco a poco'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-21T13:47:37.214438"
+    },
+    {
+      "english": "Your Spanish journey, embrace stillness.",
+      "spanish": "Tu viaje español, abraza la quietud.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-21T13:47:37.214462"
     }
   ],
-  "last_updated": "2026-08-20T21:34:30.578522",
+  "last_updated": "2026-08-21T13:47:37.214464",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20694,6 +20724,11 @@
     "feel this, your fluency grows.",
     "your rhythm, your unique voice.",
     "embrace the pause, understand more.",
-    "one 'gracias', pure warmth."
+    "one 'gracias', pure warmth.",
+    "your 'no pasa nada' is freedom.",
+    "this quiet 'qué' unlocks meaning.",
+    "what if 'mañana' is opportunity?",
+    "feel this 'poco a poco' peace.",
+    "your spanish journey, embrace stillness."
   ]
 }
