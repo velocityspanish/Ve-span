@@ -17765,9 +17765,39 @@
       "spanish": "Tu viaje español, abraza la quietud.",
       "category": "Inner Peace",
       "generated_at": "2026-08-21T13:47:37.214462"
+    },
+    {
+      "english": "That 'qué' unlocks worlds.",
+      "spanish": "Ese 'qué' abre mundos.",
+      "category": "Success",
+      "generated_at": "2026-08-21T15:34:56.293559"
+    },
+    {
+      "english": "One question, new friendship.",
+      "spanish": "Una pregunta, nueva amistad.",
+      "category": "Success",
+      "generated_at": "2026-08-21T15:34:56.293592"
+    },
+    {
+      "english": "Feel this fluency whisper.",
+      "spanish": "Siente este susurro fluido.",
+      "category": "Success",
+      "generated_at": "2026-08-21T15:34:56.293614"
+    },
+    {
+      "english": "Your progress, simply amazing.",
+      "spanish": "Tu progreso, simplemente asombroso.",
+      "category": "Success",
+      "generated_at": "2026-08-21T15:34:56.293636"
+    },
+    {
+      "english": "That 'v' is pure charm.",
+      "spanish": "Esa 'v' es puro encanto.",
+      "category": "Success",
+      "generated_at": "2026-08-21T15:34:56.293656"
     }
   ],
-  "last_updated": "2026-08-21T13:47:37.214464",
+  "last_updated": "2026-08-21T15:34:56.293658",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20729,6 +20759,11 @@
     "this quiet 'qué' unlocks meaning.",
     "what if 'mañana' is opportunity?",
     "feel this 'poco a poco' peace.",
-    "your spanish journey, embrace stillness."
+    "your spanish journey, embrace stillness.",
+    "that 'qué' unlocks worlds.",
+    "one question, new friendship.",
+    "feel this fluency whisper.",
+    "your progress, simply amazing.",
+    "that 'v' is pure charm."
   ]
 }
