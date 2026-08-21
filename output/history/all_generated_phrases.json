@@ -17855,9 +17855,39 @@
       "spanish": "¿Tu esfuerzo? Es todo.",
       "category": "Confidence",
       "generated_at": "2026-08-21T19:19:28.458319"
+    },
+    {
+      "english": "One 'ahora' unlocks your day.",
+      "spanish": "Un 'ahora' desbloquea tu día.",
+      "category": "Balance",
+      "generated_at": "2026-08-21T21:30:53.616639"
+    },
+    {
+      "english": "Curious? Spanish words sing.",
+      "spanish": "¿Curioso? Las palabras españolas cantan.",
+      "category": "Balance",
+      "generated_at": "2026-08-21T21:30:53.616674"
+    },
+    {
+      "english": "That 'qué' changes everything.",
+      "spanish": "Ese 'qué' lo cambia todo.",
+      "category": "Balance",
+      "generated_at": "2026-08-21T21:30:53.616703"
+    },
+    {
+      "english": "Your 'por qué' fuels progress.",
+      "spanish": "Tu 'por qué' impulsa el progreso.",
+      "category": "Balance",
+      "generated_at": "2026-08-21T21:30:53.616731"
+    },
+    {
+      "english": "Embrace the 'ñ' mystery.",
+      "spanish": "Abraza el misterio de la 'ñ'.",
+      "category": "Balance",
+      "generated_at": "2026-08-21T21:30:53.616756"
     }
   ],
-  "last_updated": "2026-08-21T19:19:28.458321",
+  "last_updated": "2026-08-21T21:30:53.616758",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20834,6 +20864,11 @@
     "what if 'tal vez' is freedom?",
     "hear this: you are learning.",
     "dare to try 'r'.",
-    "your effort? it's everything."
+    "your effort? it's everything.",
+    "one 'ahora' unlocks your day.",
+    "curious? spanish words sing.",
+    "that 'qué' changes everything.",
+    "your 'por qué' fuels progress.",
+    "embrace the 'ñ' mystery."
   ]
 }
