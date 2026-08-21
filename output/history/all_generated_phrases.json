@@ -17825,9 +17825,39 @@
       "spanish": "Un 'sí', pura afirmación.",
       "category": "Gratitude",
       "generated_at": "2026-08-21T17:20:54.480918"
+    },
+    {
+      "english": "Breathe this 'ñ' rhythm.",
+      "spanish": "Respira este ritmo 'ñ'.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T19:19:28.458208"
+    },
+    {
+      "english": "What if 'tal vez' is freedom?",
+      "spanish": "¿Qué tal si 'tal vez' es libertad?",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T19:19:28.458247"
+    },
+    {
+      "english": "Hear this: you are learning.",
+      "spanish": "Escucha esto: estás aprendiendo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T19:19:28.458273"
+    },
+    {
+      "english": "Dare to try 'r'.",
+      "spanish": "Atrévete a intentar la 'r'.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T19:19:28.458294"
+    },
+    {
+      "english": "Your effort? It's everything.",
+      "spanish": "¿Tu esfuerzo? Es todo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T19:19:28.458319"
     }
   ],
-  "last_updated": "2026-08-21T17:20:54.480919",
+  "last_updated": "2026-08-21T19:19:28.458321",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20799,6 +20829,11 @@
     "that 'qué tal' sparks chat.",
     "your 'entiendo' sounds clearer.",
     "hear this gentle 'll' sound.",
-    "one 'sí', pure affirmation."
+    "one 'sí', pure affirmation.",
+    "breathe this 'ñ' rhythm.",
+    "what if 'tal vez' is freedom?",
+    "hear this: you are learning.",
+    "dare to try 'r'.",
+    "your effort? it's everything."
   ]
 }
