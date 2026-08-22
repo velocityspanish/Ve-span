@@ -17945,9 +17945,39 @@
       "spanish": "Escucha esta 'z', es un susurro.",
       "category": "Wisdom",
       "generated_at": "2026-08-22T15:22:31.737862"
+    },
+    {
+      "english": "Feel this soft 'h' sound.",
+      "spanish": "Siente este suave sonido 'h'.",
+      "category": "Balance",
+      "generated_at": "2026-08-22T17:12:35.054629"
+    },
+    {
+      "english": "Why is 'usted' polite?",
+      "spanish": "¿Por qué 'usted' es cortés?",
+      "category": "Balance",
+      "generated_at": "2026-08-22T17:12:35.054662"
+    },
+    {
+      "english": "Embrace the Spanish 'll' magic.",
+      "spanish": "Abraza la magia española 'll'.",
+      "category": "Balance",
+      "generated_at": "2026-08-22T17:12:35.054690"
+    },
+    {
+      "english": "Never underestimate a 'bueno'!",
+      "spanish": "¡Nunca subestimes un 'bueno'!",
+      "category": "Balance",
+      "generated_at": "2026-08-22T17:12:35.054718"
+    },
+    {
+      "english": "Listen: Spanish rhythm is yours.",
+      "spanish": "Escucha: el ritmo español es tuyo.",
+      "category": "Balance",
+      "generated_at": "2026-08-22T17:12:35.054744"
     }
   ],
-  "last_updated": "2026-08-22T15:22:31.737864",
+  "last_updated": "2026-08-22T17:12:35.054746",
   "used_english": [
     "start again, learn from yesterday",
     "small choices daily, create big change",
@@ -20939,6 +20969,11 @@
     "curious? spanish verbs transform.",
     "this 'ch' sound? so satisfying.",
     "embrace 'pues', it connects ideas.",
-    "hear this 'z', it's a whisper."
+    "hear this 'z', it's a whisper.",
+    "feel this soft 'h' sound.",
+    "why is 'usted' polite?",
+    "embrace the spanish 'll' magic.",
+    "never underestimate a 'bueno'!",
+    "listen: spanish rhythm is yours."
   ]
 }
