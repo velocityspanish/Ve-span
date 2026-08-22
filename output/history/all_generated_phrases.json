@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Small choices daily, create big change",
-      "spanish": "Pequeñas decisiones, cada día, crean gran cambio",
-      "category": "Growth",
-      "generated_at": "2026-03-08T00:48:13.064287"
-    },
-    {
-      "english": "Be curious, try something new today",
-      "spanish": "Sé curioso, prueba algo nuevo hoy",
-      "category": "Growth",
-      "generated_at": "2026-03-08T00:48:13.064289"
-    },
-    {
-      "english": "Fail forward, gather lessons, move on",
-      "spanish": "Fracasa hacia adelante, recoge lecciones, sigue",
-      "category": "Growth",
-      "generated_at": "2026-03-08T00:48:13.064290"
-    },
-    {
-      "english": "Clear goals, steady effort, lasting results",
-      "spanish": "Metas claras, esfuerzo constante, resultados duraderos",
-      "category": "Growth",
-      "generated_at": "2026-03-08T00:48:13.064291"
-    },
-    {
-      "english": "Stand tall, even when it shakes",
-      "spanish": "Mantente firme, aunque tiemble",
-      "category": "Strength",
-      "generated_at": "2026-03-08T01:24:04.813506"
-    },
-    {
       "english": "Breathe deep, then move forward",
       "spanish": "Respira profundo, y avanza",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Este susurro es 'mi vida'.",
       "category": "Love",
       "generated_at": "2026-08-22T19:15:51.588324"
+    },
+    {
+      "english": "Embrace the stumble, you're learning.",
+      "spanish": "Abraza el tropiezo, estás aprendiendo.",
+      "category": "Courage",
+      "generated_at": "2026-08-22T21:28:29.388317"
+    },
+    {
+      "english": "Stop fearing the unknown 'j'.",
+      "spanish": "Deja de temer la 'j' desconocida.",
+      "category": "Courage",
+      "generated_at": "2026-08-22T21:28:29.388352"
+    },
+    {
+      "english": "Feel this rhythm, you belong.",
+      "spanish": "Siente este ritmo, perteneces.",
+      "category": "Courage",
+      "generated_at": "2026-08-22T21:28:29.388376"
+    },
+    {
+      "english": "One 'quizás' opens possibilities.",
+      "spanish": "Un 'quizás' abre posibilidades.",
+      "category": "Courage",
+      "generated_at": "2026-08-22T21:28:29.388398"
+    },
+    {
+      "english": "Encouragement: You're doing great!",
+      "spanish": "¡Ánimo: lo estás haciendo genial!",
+      "category": "Courage",
+      "generated_at": "2026-08-22T21:28:29.388420"
     }
   ],
-  "last_updated": "2026-08-22T19:15:51.588326",
+  "last_updated": "2026-08-22T21:28:29.388422",
   "used_english": [
-    "small choices daily, create big change",
-    "be curious, try something new today",
-    "fail forward, gather lessons, move on",
-    "clear goals, steady effort, lasting results",
-    "stand tall, even when it shakes",
     "breathe deep, then move forward",
     "small wins, build strong foundations",
     "hold your ground, quietly strong",
@@ -21002,6 +20997,11 @@
     "this word holds pure devotion.",
     "feel this heart flutter, 'cariño'.",
     "want romance? say 'mi amor'.",
-    "this whisper means 'my darling'."
+    "this whisper means 'my darling'.",
+    "embrace the stumble, you're learning.",
+    "stop fearing the unknown 'j'.",
+    "feel this rhythm, you belong.",
+    "one 'quizás' opens possibilities.",
+    "encouragement: you're doing great!"
   ]
 }
