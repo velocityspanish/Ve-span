@@ -1,12 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Start again, learn from yesterday",
-      "spanish": "Empieza otra vez, aprende de ayer",
-      "category": "Growth",
-      "generated_at": "2026-03-08T00:48:13.064276"
-    },
-    {
       "english": "Small choices daily, create big change",
       "spanish": "Pequeñas decisiones, cada día, crean gran cambio",
       "category": "Growth",
@@ -17975,11 +17969,40 @@
       "spanish": "Escucha: el ritmo español es tuyo.",
       "category": "Balance",
       "generated_at": "2026-08-22T17:12:35.054744"
+    },
+    {
+      "english": "Your first 'te amo' moment?",
+      "spanish": "¿Tu primer 'te amo'?",
+      "category": "Love",
+      "generated_at": "2026-08-22T19:15:51.588195"
+    },
+    {
+      "english": "This word holds pure devotion.",
+      "spanish": "Esta palabra, pura devoción.",
+      "category": "Love",
+      "generated_at": "2026-08-22T19:15:51.588237"
+    },
+    {
+      "english": "Feel this heart flutter, 'cariño'.",
+      "spanish": "Siente este latido, 'cariño'.",
+      "category": "Love",
+      "generated_at": "2026-08-22T19:15:51.588266"
+    },
+    {
+      "english": "Want romance? Say 'mi amor'.",
+      "spanish": "¿Quieres romance? Di 'mi amor'.",
+      "category": "Love",
+      "generated_at": "2026-08-22T19:15:51.588296"
+    },
+    {
+      "english": "This whisper means 'my darling'.",
+      "spanish": "Este susurro es 'mi vida'.",
+      "category": "Love",
+      "generated_at": "2026-08-22T19:15:51.588324"
     }
   ],
-  "last_updated": "2026-08-22T17:12:35.054746",
+  "last_updated": "2026-08-22T19:15:51.588326",
   "used_english": [
-    "start again, learn from yesterday",
     "small choices daily, create big change",
     "be curious, try something new today",
     "fail forward, gather lessons, move on",
@@ -20974,6 +20997,11 @@
     "why is 'usted' polite?",
     "embrace the spanish 'll' magic.",
     "never underestimate a 'bueno'!",
-    "listen: spanish rhythm is yours."
+    "listen: spanish rhythm is yours.",
+    "your first 'te amo' moment?",
+    "this word holds pure devotion.",
+    "feel this heart flutter, 'cariño'.",
+    "want romance? say 'mi amor'.",
+    "this whisper means 'my darling'."
   ]
 }
