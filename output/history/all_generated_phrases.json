@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel your feet, connect with earth",
-      "spanish": "Siente tus pies, conéctate con la tierra",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-08T01:48:58.849036"
-    },
-    {
-      "english": "Soft eyes, calm breath, open heart",
-      "spanish": "Ojos suaves, respiración calma, corazón abierto",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-08T01:48:58.849038"
-    },
-    {
-      "english": "Notice thoughts, let them pass",
-      "spanish": "Observa los pensamientos, déjalos pasar",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-08T01:48:58.849039"
-    },
-    {
-      "english": "One breath, one step, be present",
-      "spanish": "Una respiración, un paso, está presente",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-08T01:48:58.849040"
-    },
-    {
-      "english": "To connect with locals, learn the basics",
-      "spanish": "Para conectar con la gente, aprende lo básico",
-      "category": "Purpose",
-      "generated_at": "2026-03-08T05:01:48.193684"
-    },
-    {
       "english": "To travel easier, ask for directions",
       "spanish": "Para viajar más fácil, pide direcciones",
       "category": "Purpose",
@@ -17999,15 +17969,40 @@
       "spanish": "Un 'lo siento' sana.",
       "category": "Forgiveness",
       "generated_at": "2026-08-23T15:23:40.059502"
+    },
+    {
+      "english": "Dare to try this 'rr'!",
+      "spanish": "¡Atrévete con esta 'rr'!",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-23T17:13:25.405364"
+    },
+    {
+      "english": "Curious about 'gustar'?",
+      "spanish": "¿Curioso sobre 'gustar'?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-23T17:13:25.405402"
+    },
+    {
+      "english": "Your 'pues' connects ideas.",
+      "spanish": "Tu 'pues' conecta ideas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-23T17:13:25.405432"
+    },
+    {
+      "english": "Tiny pauses, huge understanding.",
+      "spanish": "Pausas pequeñas, gran entendimiento.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-23T17:13:25.405460"
+    },
+    {
+      "english": "Feel this 'g' rhythm.",
+      "spanish": "Siente este ritmo 'g'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-23T17:13:25.405486"
     }
   ],
-  "last_updated": "2026-08-23T15:23:40.059504",
+  "last_updated": "2026-08-23T17:13:25.405488",
   "used_english": [
-    "feel your feet, connect with earth",
-    "soft eyes, calm breath, open heart",
-    "notice thoughts, let them pass",
-    "one breath, one step, be present",
-    "to connect with locals, learn the basics",
     "to travel easier, ask for directions",
     "to make friends, share your curiosity",
     "to sound natural, mimic native intonation",
@@ -21002,6 +20997,11 @@
     "let go, feel lighter.",
     "can you forgive yourself?",
     "embrace the 'no regrets' feeling.",
-    "one 'lo siento' heals."
+    "one 'lo siento' heals.",
+    "dare to try this 'rr'!",
+    "curious about 'gustar'?",
+    "your 'pues' connects ideas.",
+    "tiny pauses, huge understanding.",
+    "feel this 'g' rhythm."
   ]
 }
