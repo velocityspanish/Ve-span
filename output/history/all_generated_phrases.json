@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "To travel easier, ask for directions",
-      "spanish": "Para viajar más fácil, pide direcciones",
-      "category": "Purpose",
-      "generated_at": "2026-03-08T05:01:48.193692"
-    },
-    {
-      "english": "To make friends, share your curiosity",
-      "spanish": "Para hacer amigos, comparte tu curiosidad",
-      "category": "Purpose",
-      "generated_at": "2026-03-08T05:01:48.193694"
-    },
-    {
-      "english": "To sound natural, mimic native intonation",
-      "spanish": "Para sonar natural, imita la entonación",
-      "category": "Purpose",
-      "generated_at": "2026-03-08T05:01:48.193695"
-    },
-    {
-      "english": "To study better, set small daily goals",
-      "spanish": "Para estudiar mejor, fija metas pequeñas diarias",
-      "category": "Purpose",
-      "generated_at": "2026-03-08T05:01:48.193696"
-    },
-    {
-      "english": "You, make my days brighter",
-      "spanish": "Tú, haces mis días más brillantes",
-      "category": "Friendship",
-      "generated_at": "2026-03-08T14:55:00.289470"
-    },
-    {
       "english": "Side by side, we laugh louder",
       "spanish": "Lado a lado, reímos más fuerte",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente este ritmo 'g'.",
       "category": "Self Improvement",
       "generated_at": "2026-08-23T17:13:25.405486"
+    },
+    {
+      "english": "Why hold onto hurt?",
+      "spanish": "¿Por qué aferrarse al dolor?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T19:16:01.241879"
+    },
+    {
+      "english": "New beginnings await.",
+      "spanish": "Nuevos comienzos esperan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T19:16:01.241914"
+    },
+    {
+      "english": "Breathe out negativity.",
+      "spanish": "Exhala negatividad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T19:16:01.241940"
+    },
+    {
+      "english": "Release the past, now.",
+      "spanish": "Libera el pasado, ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T19:16:01.241964"
+    },
+    {
+      "english": "Unburden your soul.",
+      "spanish": "Descarga tu alma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T19:16:01.241988"
     }
   ],
-  "last_updated": "2026-08-23T17:13:25.405488",
+  "last_updated": "2026-08-23T19:16:01.241991",
   "used_english": [
-    "to travel easier, ask for directions",
-    "to make friends, share your curiosity",
-    "to sound natural, mimic native intonation",
-    "to study better, set small daily goals",
-    "you, make my days brighter",
     "side by side, we laugh louder",
     "count on me, anytime, anywhere",
     "together, we share secrets and smiles",
@@ -21002,6 +20997,11 @@
     "curious about 'gustar'?",
     "your 'pues' connects ideas.",
     "tiny pauses, huge understanding.",
-    "feel this 'g' rhythm."
+    "feel this 'g' rhythm.",
+    "why hold onto hurt?",
+    "new beginnings await.",
+    "breathe out negativity.",
+    "release the past, now.",
+    "unburden your soul."
   ]
 }
