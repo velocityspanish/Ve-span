@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "I'm sorry, please forgive me",
-      "spanish": "Lo siento, por favor, perdóname",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-08T01:34:07.498832"
-    },
-    {
-      "english": "Let's move forward, without blame",
-      "spanish": "Sigamos adelante, sin culpas",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-08T01:34:07.498834"
-    },
-    {
-      "english": "I understand, I forgive you",
-      "spanish": "Entiendo, te perdono",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-08T01:34:07.498835"
-    },
-    {
-      "english": "Healing takes time, I choose peace",
-      "spanish": "La sanación toma tiempo, elijo paz",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-08T01:34:07.498836"
-    },
-    {
-      "english": "Breathe softly, notice the moment",
-      "spanish": "Respira suave, nota el momento",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-08T01:48:58.849027"
-    },
-    {
       "english": "Feel your feet, connect with earth",
       "spanish": "Siente tus pies, conéctate con la tierra",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "Este 'mi amor' se siente bien.",
       "category": "Love",
       "generated_at": "2026-08-23T13:33:31.368499"
+    },
+    {
+      "english": "Forgive, release the past.",
+      "spanish": "Perdona, libera el pasado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T15:23:40.059393"
+    },
+    {
+      "english": "Let go, feel lighter.",
+      "spanish": "Suelta, siéntete más ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T15:23:40.059425"
+    },
+    {
+      "english": "Can you forgive yourself?",
+      "spanish": "¿Puedes perdonarte a ti?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T15:23:40.059451"
+    },
+    {
+      "english": "Embrace the 'no regrets' feeling.",
+      "spanish": "Abraza el 'sin arrepentimientos'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T15:23:40.059478"
+    },
+    {
+      "english": "One 'lo siento' heals.",
+      "spanish": "Un 'lo siento' sana.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T15:23:40.059502"
     }
   ],
-  "last_updated": "2026-08-23T13:33:31.368501",
+  "last_updated": "2026-08-23T15:23:40.059504",
   "used_english": [
-    "i'm sorry, please forgive me",
-    "let's move forward, without blame",
-    "i understand, i forgive you",
-    "healing takes time, i choose peace",
-    "breathe softly, notice the moment",
     "feel your feet, connect with earth",
     "soft eyes, calm breath, open heart",
     "notice thoughts, let them pass",
@@ -21002,6 +20997,11 @@
     "true love? it sounds like this.",
     "feel this warmth, it's 'cariño'.",
     "stop fearing 'te amo' moments.",
-    "this 'mi amor' feels so right."
+    "this 'mi amor' feels so right.",
+    "forgive, release the past.",
+    "let go, feel lighter.",
+    "can you forgive yourself?",
+    "embrace the 'no regrets' feeling.",
+    "one 'lo siento' heals."
   ]
 }
