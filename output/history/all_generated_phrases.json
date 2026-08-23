@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Side by side, we laugh louder",
-      "spanish": "Lado a lado, reímos más fuerte",
-      "category": "Friendship",
-      "generated_at": "2026-03-08T14:55:00.289479"
-    },
-    {
-      "english": "Count on me, anytime, anywhere",
-      "spanish": "Cuenta conmigo, siempre, donde sea",
-      "category": "Friendship",
-      "generated_at": "2026-03-08T14:55:00.289480"
-    },
-    {
-      "english": "Together, we share secrets and smiles",
-      "spanish": "Juntos, compartimos secretos y sonrisas",
-      "category": "Friendship",
-      "generated_at": "2026-03-08T14:55:00.289481"
-    },
-    {
-      "english": "I got you, even in the dark",
-      "spanish": "Te cubro, incluso en la oscuridad",
-      "category": "Friendship",
-      "generated_at": "2026-03-08T14:55:00.289482"
-    },
-    {
-      "english": "Keep going, one step at a time",
-      "spanish": "Sigue adelante, paso a paso",
-      "category": "Perseverance",
-      "generated_at": "2026-03-08T20:54:04.635655"
-    },
-    {
       "english": "Small wins, lead to big change",
       "spanish": "Pequeñas victorias, llevan a grandes cambios",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Descarga tu alma.",
       "category": "Forgiveness",
       "generated_at": "2026-08-23T19:16:01.241988"
+    },
+    {
+      "english": "One 'ahora' means now.",
+      "spanish": "Un 'ahora' significa ahora.",
+      "category": "Growth",
+      "generated_at": "2026-08-23T21:27:40.856053"
+    },
+    {
+      "english": "Curious about 'qué'?",
+      "spanish": "¿Curioso por 'qué'?",
+      "category": "Growth",
+      "generated_at": "2026-08-23T21:27:40.856101"
+    },
+    {
+      "english": "Feel this rhythm, bloom.",
+      "spanish": "Siente este ritmo, florece.",
+      "category": "Growth",
+      "generated_at": "2026-08-23T21:27:40.856128"
+    },
+    {
+      "english": "This 'tal vez' opens doors.",
+      "spanish": "Este 'tal vez' abre puertas.",
+      "category": "Growth",
+      "generated_at": "2026-08-23T21:27:40.856155"
+    },
+    {
+      "english": "Never forget 'por favor'.",
+      "spanish": "Nunca olvides 'por favor'.",
+      "category": "Growth",
+      "generated_at": "2026-08-23T21:27:40.856181"
     }
   ],
-  "last_updated": "2026-08-23T19:16:01.241991",
+  "last_updated": "2026-08-23T21:27:40.856183",
   "used_english": [
-    "side by side, we laugh louder",
-    "count on me, anytime, anywhere",
-    "together, we share secrets and smiles",
-    "i got you, even in the dark",
-    "keep going, one step at a time",
     "small wins, lead to big change",
     "fall down, get up, try again",
     "slow progress, is still progress",
@@ -21002,6 +20997,11 @@
     "new beginnings await.",
     "breathe out negativity.",
     "release the past, now.",
-    "unburden your soul."
+    "unburden your soul.",
+    "one 'ahora' means now.",
+    "curious about 'qué'?",
+    "feel this rhythm, bloom.",
+    "this 'tal vez' opens doors.",
+    "never forget 'por favor'."
   ]
 }
