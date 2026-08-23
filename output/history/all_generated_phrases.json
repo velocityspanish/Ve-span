@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Breathe deep, then move forward",
-      "spanish": "Respira profundo, y avanza",
-      "category": "Strength",
-      "generated_at": "2026-03-08T01:24:04.813515"
-    },
-    {
-      "english": "Small wins, build strong foundations",
-      "spanish": "Pequeñas victorias, construyen fuerza",
-      "category": "Strength",
-      "generated_at": "2026-03-08T01:24:04.813516"
-    },
-    {
-      "english": "Hold your ground, quietly strong",
-      "spanish": "Mantén tu terreno, con fuerza tranquila",
-      "category": "Strength",
-      "generated_at": "2026-03-08T01:24:04.813518"
-    },
-    {
-      "english": "Rise again, stronger than before",
-      "spanish": "Levántate de nuevo, más fuerte",
-      "category": "Strength",
-      "generated_at": "2026-03-08T01:24:04.813535"
-    },
-    {
-      "english": "I forgive you, I let go",
-      "spanish": "Te perdono, lo dejo ir",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-08T01:34:07.498823"
-    },
-    {
       "english": "I'm sorry, please forgive me",
       "spanish": "Lo siento, por favor, perdóname",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "¡Ánimo: lo estás haciendo genial!",
       "category": "Courage",
       "generated_at": "2026-08-22T21:28:29.388420"
+    },
+    {
+      "english": "Whisper this, unlock hearts.",
+      "spanish": "Susurra esto, abre corazones.",
+      "category": "Love",
+      "generated_at": "2026-08-23T13:33:31.368379"
+    },
+    {
+      "english": "True love? It sounds like this.",
+      "spanish": "Amor real? Suena así.",
+      "category": "Love",
+      "generated_at": "2026-08-23T13:33:31.368416"
+    },
+    {
+      "english": "Feel this warmth, it's 'cariño'.",
+      "spanish": "Siente este 'cariño'.",
+      "category": "Love",
+      "generated_at": "2026-08-23T13:33:31.368444"
+    },
+    {
+      "english": "Stop fearing 'te amo' moments.",
+      "spanish": "Deja el miedo a 'te amo'.",
+      "category": "Love",
+      "generated_at": "2026-08-23T13:33:31.368472"
+    },
+    {
+      "english": "This 'mi amor' feels so right.",
+      "spanish": "Este 'mi amor' se siente bien.",
+      "category": "Love",
+      "generated_at": "2026-08-23T13:33:31.368499"
     }
   ],
-  "last_updated": "2026-08-22T21:28:29.388422",
+  "last_updated": "2026-08-23T13:33:31.368501",
   "used_english": [
-    "breathe deep, then move forward",
-    "small wins, build strong foundations",
-    "hold your ground, quietly strong",
-    "rise again, stronger than before",
-    "i forgive you, i let go",
     "i'm sorry, please forgive me",
     "let's move forward, without blame",
     "i understand, i forgive you",
@@ -21002,6 +20997,11 @@
     "stop fearing the unknown 'j'.",
     "feel this rhythm, you belong.",
     "one 'quizás' opens possibilities.",
-    "encouragement: you're doing great!"
+    "encouragement: you're doing great!",
+    "whisper this, unlock hearts.",
+    "true love? it sounds like this.",
+    "feel this warmth, it's 'cariño'.",
+    "stop fearing 'te amo' moments.",
+    "this 'mi amor' feels so right."
   ]
 }
