@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Small wins, lead to big change",
-      "spanish": "Pequeñas victorias, llevan a grandes cambios",
-      "category": "Perseverance",
-      "generated_at": "2026-03-08T20:54:04.635663"
-    },
-    {
-      "english": "Fall down, get up, try again",
-      "spanish": "Cae, levántate, intenta otra vez",
-      "category": "Perseverance",
-      "generated_at": "2026-03-08T20:54:04.635664"
-    },
-    {
-      "english": "Slow progress, is still progress",
-      "spanish": "Progreso lento, sigue siendo progreso",
-      "category": "Perseverance",
-      "generated_at": "2026-03-08T20:54:04.635666"
-    },
-    {
-      "english": "One more try, makes a difference",
-      "spanish": "Un intento más, marca la diferencia",
-      "category": "Perseverance",
-      "generated_at": "2026-03-08T20:54:04.635667"
-    },
-    {
-      "english": "A smile, can start a chain.",
-      "spanish": "Una sonrisa, puede empezar una cadena.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T05:13:34.269288"
-    },
-    {
       "english": "Kind words, heal hidden wounds.",
       "spanish": "Palabras amables, curan heridas ocultas.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca olvides 'por favor'.",
       "category": "Growth",
       "generated_at": "2026-08-23T21:27:40.856181"
+    },
+    {
+      "english": "That one verb shift?",
+      "spanish": "¿Ese cambio de verbo?",
+      "category": "Balance",
+      "generated_at": "2026-08-24T13:53:43.579909"
+    },
+    {
+      "english": "Curious about 'encontrar'?",
+      "spanish": "¿Curioso por 'encontrar'?",
+      "category": "Balance",
+      "generated_at": "2026-08-24T13:53:43.579950"
+    },
+    {
+      "english": "This 'si' can surprise.",
+      "spanish": "Este 'si' sorprende.",
+      "category": "Balance",
+      "generated_at": "2026-08-24T13:53:43.579977"
+    },
+    {
+      "english": "Your new Spanish phrase!",
+      "spanish": "¡Tu frase nueva en español!",
+      "category": "Balance",
+      "generated_at": "2026-08-24T13:53:43.580004"
+    },
+    {
+      "english": "This 'cada' opens worlds.",
+      "spanish": "Este 'cada' abre mundos.",
+      "category": "Balance",
+      "generated_at": "2026-08-24T13:53:43.580032"
     }
   ],
-  "last_updated": "2026-08-23T21:27:40.856183",
+  "last_updated": "2026-08-24T13:53:43.580034",
   "used_english": [
-    "small wins, lead to big change",
-    "fall down, get up, try again",
-    "slow progress, is still progress",
-    "one more try, makes a difference",
-    "a smile, can start a chain.",
     "kind words, heal hidden wounds.",
     "give time, give attention, give warmth.",
     "listen first, then offer help.",
@@ -21002,6 +20997,11 @@
     "curious about 'qué'?",
     "feel this rhythm, bloom.",
     "this 'tal vez' opens doors.",
-    "never forget 'por favor'."
+    "never forget 'por favor'.",
+    "that one verb shift?",
+    "curious about 'encontrar'?",
+    "this 'si' can surprise.",
+    "your new spanish phrase!",
+    "this 'cada' opens worlds."
   ]
 }
