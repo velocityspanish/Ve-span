@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Small steps, big hope ahead",
-      "spanish": "Pasos pequeños, gran esperanza por delante",
-      "category": "Hope",
-      "generated_at": "2026-03-10T17:10:13.228990"
-    },
-    {
-      "english": "Hold on a little, hope grows",
-      "spanish": "Aguanta un poco, la esperanza crece",
-      "category": "Hope",
-      "generated_at": "2026-03-10T17:10:13.228991"
-    },
-    {
-      "english": "After the storm, hope remains",
-      "spanish": "Después de la tormenta, queda esperanza",
-      "category": "Hope",
-      "generated_at": "2026-03-10T17:10:13.228992"
-    },
-    {
-      "english": "Hope whispers, even in the dark",
-      "spanish": "La esperanza susurra, incluso en la oscuridad",
-      "category": "Hope",
-      "generated_at": "2026-03-10T17:10:13.228994"
-    },
-    {
-      "english": "Keep your focus, ignore the noise",
-      "spanish": "Mantén tu foco, ignora el ruido",
-      "category": "Perseverance",
-      "generated_at": "2026-03-10T19:26:50.951176"
-    },
-    {
       "english": "Brave the hard days, they pass",
       "spanish": "Enfrenta los días difíciles, pasan",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Atrévete a preguntar '¿qué pasa?'",
       "category": "Gratitude",
       "generated_at": "2026-08-24T19:21:56.952645"
+    },
+    {
+      "english": "This frees your spirit.",
+      "spanish": "Esto libera tu espíritu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-24T21:35:43.088163"
+    },
+    {
+      "english": "Unburden your heart now.",
+      "spanish": "Descarga tu corazón ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-24T21:35:43.088198"
+    },
+    {
+      "english": "True peace starts here.",
+      "spanish": "La paz real empieza aquí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-24T21:35:43.088224"
+    },
+    {
+      "english": "This act brings relief.",
+      "spanish": "Este acto trae alivio.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-24T21:35:43.088248"
+    },
+    {
+      "english": "What if you let go?",
+      "spanish": "¿Y si lo dejas ir?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-24T21:35:43.088272"
     }
   ],
-  "last_updated": "2026-08-24T19:21:56.952646",
+  "last_updated": "2026-08-24T21:35:43.088274",
   "used_english": [
-    "small steps, big hope ahead",
-    "hold on a little, hope grows",
-    "after the storm, hope remains",
-    "hope whispers, even in the dark",
-    "keep your focus, ignore the noise",
     "brave the hard days, they pass",
     "keep going, even when it hurts, move forward",
     "turn failure, into a lesson, keep moving",
@@ -21002,6 +20997,11 @@
     "curious? spanish grammar is simpler.",
     "feel this moment, you're fluent.",
     "this rhythm is infectious.",
-    "dare to ask 'qué pasa?'"
+    "dare to ask 'qué pasa?'",
+    "this frees your spirit.",
+    "unburden your heart now.",
+    "true peace starts here.",
+    "this act brings relief.",
+    "what if you let go?"
   ]
 }
