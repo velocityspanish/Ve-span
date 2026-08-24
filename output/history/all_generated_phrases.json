@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Kind words, heal hidden wounds.",
-      "spanish": "Palabras amables, curan heridas ocultas.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T05:13:34.269296"
-    },
-    {
-      "english": "Give time, give attention, give warmth.",
-      "spanish": "Da tiempo, brinda atención, comparte calor.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T05:13:34.269297"
-    },
-    {
-      "english": "Listen first, then offer help.",
-      "spanish": "Primero escucha, luego ofrece ayuda.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T05:13:34.269298"
-    },
-    {
-      "english": "Small acts, create big smiles.",
-      "spanish": "Pequeños actos, crean grandes sonrisas.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T05:13:34.269300"
-    },
-    {
-      "english": "Share food, share a story, connect.",
-      "spanish": "Comparte comida, cuenta una historia, conecta.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T17:12:58.518920"
-    },
-    {
       "english": "Forgive quickly, lighten your heart.",
       "spanish": "Perdona pronto, aligera tu corazón.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "Este 'cada' abre mundos.",
       "category": "Balance",
       "generated_at": "2026-08-24T13:53:43.580032"
+    },
+    {
+      "english": "Dare to embrace the unknown.",
+      "spanish": "Atrévete a lo desconocido.",
+      "category": "Courage",
+      "generated_at": "2026-08-24T15:40:15.597743"
+    },
+    {
+      "english": "One attempt, pure progress.",
+      "spanish": "Un intento, puro progreso.",
+      "category": "Courage",
+      "generated_at": "2026-08-24T15:40:15.597779"
+    },
+    {
+      "english": "Your voice, incredibly strong.",
+      "spanish": "Tu voz, increíblemente fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-08-24T15:40:15.597808"
+    },
+    {
+      "english": "This courage unlocks doors.",
+      "spanish": "Este coraje abre puertas.",
+      "category": "Courage",
+      "generated_at": "2026-08-24T15:40:15.597836"
+    },
+    {
+      "english": "You are stronger than doubts.",
+      "spanish": "Eres más fuerte que las dudas.",
+      "category": "Courage",
+      "generated_at": "2026-08-24T15:40:15.597865"
     }
   ],
-  "last_updated": "2026-08-24T13:53:43.580034",
+  "last_updated": "2026-08-24T15:40:15.597867",
   "used_english": [
-    "kind words, heal hidden wounds.",
-    "give time, give attention, give warmth.",
-    "listen first, then offer help.",
-    "small acts, create big smiles.",
-    "share food, share a story, connect.",
     "forgive quickly, lighten your heart.",
     "offer a hand, not a lecture.",
     "say thank you, mean it.",
@@ -21002,6 +20997,11 @@
     "curious about 'encontrar'?",
     "this 'si' can surprise.",
     "your new spanish phrase!",
-    "this 'cada' opens worlds."
+    "this 'cada' opens worlds.",
+    "dare to embrace the unknown.",
+    "one attempt, pure progress.",
+    "your voice, incredibly strong.",
+    "this courage unlocks doors.",
+    "you are stronger than doubts."
   ]
 }
