@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Try again, small steps lead to progress",
-      "spanish": "Inténtalo otra vez, pequeños pasos llevan al progreso",
-      "category": "Confidence",
-      "generated_at": "2026-03-09T19:29:40.160803"
-    },
-    {
-      "english": "Mistakes teach us, keep moving forward",
-      "spanish": "Los errores enseñan, sigue avanzando sin miedo",
-      "category": "Confidence",
-      "generated_at": "2026-03-09T19:29:40.160804"
-    },
-    {
-      "english": "Small wins, build your lasting confidence",
-      "spanish": "Pequeñas victorias, construyen tu confianza duradera",
-      "category": "Confidence",
-      "generated_at": "2026-03-09T19:29:40.160805"
-    },
-    {
-      "english": "Breathe slowly, take one step at a time",
-      "spanish": "Respira despacio, da un paso a la vez",
-      "category": "Confidence",
-      "generated_at": "2026-03-09T19:29:40.160806"
-    },
-    {
-      "english": "Hold onto hope, light will come",
-      "spanish": "Aférrate a la esperanza, la luz vendrá",
-      "category": "Hope",
-      "generated_at": "2026-03-10T17:10:13.228981"
-    },
-    {
       "english": "Small steps, big hope ahead",
       "spanish": "Pasos pequeños, gran esperanza por delante",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Esa 'qu' es un secreto.",
       "category": "Strength",
       "generated_at": "2026-08-24T17:23:38.379107"
+    },
+    {
+      "english": "Hear the joy in speaking.",
+      "spanish": "Escucha la alegría al hablar.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-24T19:21:56.952549"
+    },
+    {
+      "english": "Curious? Spanish grammar is simpler.",
+      "spanish": "¿Curioso? La gramática es más simple.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-24T19:21:56.952580"
+    },
+    {
+      "english": "Feel this moment, you're fluent.",
+      "spanish": "Siente este momento, eres fluido.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-24T19:21:56.952602"
+    },
+    {
+      "english": "This rhythm is infectious.",
+      "spanish": "Este ritmo es contagioso.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-24T19:21:56.952623"
+    },
+    {
+      "english": "Dare to ask 'qué pasa?'",
+      "spanish": "Atrévete a preguntar '¿qué pasa?'",
+      "category": "Gratitude",
+      "generated_at": "2026-08-24T19:21:56.952645"
     }
   ],
-  "last_updated": "2026-08-24T17:23:38.379109",
+  "last_updated": "2026-08-24T19:21:56.952646",
   "used_english": [
-    "try again, small steps lead to progress",
-    "mistakes teach us, keep moving forward",
-    "small wins, build your lasting confidence",
-    "breathe slowly, take one step at a time",
-    "hold onto hope, light will come",
     "small steps, big hope ahead",
     "hold on a little, hope grows",
     "after the storm, hope remains",
@@ -21002,6 +20997,11 @@
     "stop hiding your voice.",
     "feel this 'ch' clarity.",
     "embrace the silent 'h'.",
-    "that 'qu' is a secret."
+    "that 'qu' is a secret.",
+    "hear the joy in speaking.",
+    "curious? spanish grammar is simpler.",
+    "feel this moment, you're fluent.",
+    "this rhythm is infectious.",
+    "dare to ask 'qué pasa?'"
   ]
 }
