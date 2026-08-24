@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Forgive quickly, lighten your heart.",
-      "spanish": "Perdona pronto, aligera tu corazón.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T17:12:58.518929"
-    },
-    {
-      "english": "Offer a hand, not a lecture.",
-      "spanish": "Ofrece una mano, no una lección.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T17:12:58.518931"
-    },
-    {
-      "english": "Say thank you, mean it.",
-      "spanish": "Di gracias, dilo con sinceridad.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T17:12:58.518932"
-    },
-    {
-      "english": "Notice someone, brighten their day.",
-      "spanish": "Nota a alguien, ilumina su día.",
-      "category": "Kindness",
-      "generated_at": "2026-03-09T17:12:58.518933"
-    },
-    {
-      "english": "Stand tall, your voice truly matters here",
-      "spanish": "Mantente firme, tu voz realmente importa aquí",
-      "category": "Confidence",
-      "generated_at": "2026-03-09T19:29:40.160796"
-    },
-    {
       "english": "Try again, small steps lead to progress",
       "spanish": "Inténtalo otra vez, pequeños pasos llevan al progreso",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Eres más fuerte que las dudas.",
       "category": "Courage",
       "generated_at": "2026-08-24T15:40:15.597865"
+    },
+    {
+      "english": "Dare to make a sound.",
+      "spanish": "Atrévete a hacer un sonido.",
+      "category": "Strength",
+      "generated_at": "2026-08-24T17:23:38.379035"
+    },
+    {
+      "english": "Stop hiding your voice.",
+      "spanish": "Deja de esconder tu voz.",
+      "category": "Strength",
+      "generated_at": "2026-08-24T17:23:38.379059"
+    },
+    {
+      "english": "Feel this 'ch' clarity.",
+      "spanish": "Siente esta claridad 'ch'.",
+      "category": "Strength",
+      "generated_at": "2026-08-24T17:23:38.379075"
+    },
+    {
+      "english": "Embrace the silent 'h'.",
+      "spanish": "Abraza la 'h' muda.",
+      "category": "Strength",
+      "generated_at": "2026-08-24T17:23:38.379091"
+    },
+    {
+      "english": "That 'qu' is a secret.",
+      "spanish": "Esa 'qu' es un secreto.",
+      "category": "Strength",
+      "generated_at": "2026-08-24T17:23:38.379107"
     }
   ],
-  "last_updated": "2026-08-24T15:40:15.597867",
+  "last_updated": "2026-08-24T17:23:38.379109",
   "used_english": [
-    "forgive quickly, lighten your heart.",
-    "offer a hand, not a lecture.",
-    "say thank you, mean it.",
-    "notice someone, brighten their day.",
-    "stand tall, your voice truly matters here",
     "try again, small steps lead to progress",
     "mistakes teach us, keep moving forward",
     "small wins, build your lasting confidence",
@@ -21002,6 +20997,11 @@
     "one attempt, pure progress.",
     "your voice, incredibly strong.",
     "this courage unlocks doors.",
-    "you are stronger than doubts."
+    "you are stronger than doubts.",
+    "dare to make a sound.",
+    "stop hiding your voice.",
+    "feel this 'ch' clarity.",
+    "embrace the silent 'h'.",
+    "that 'qu' is a secret."
   ]
 }
