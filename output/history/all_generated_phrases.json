@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Find stillness, let thoughts pass like clouds",
-      "spanish": "Encuentra quietud, deja pasar los pensamientos, como nubes",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-11T16:37:20.445244"
-    },
-    {
-      "english": "Sit gently, notice breath, return to now",
-      "spanish": "Siéntate suave, observa la respiración, vuelve al ahora",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-11T16:37:20.445246"
-    },
-    {
-      "english": "Carry gratitude, soften your heart, breathe peace",
-      "spanish": "Lleva gratitud, ablanda tu corazón, respira paz",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-11T16:37:20.445247"
-    },
-    {
-      "english": "Slow your steps, feel grounded, stay present",
-      "spanish": "Ralentiza tus pasos, siente arraigo, quédate presente",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-11T16:37:20.445248"
-    },
-    {
-      "english": "Use your scars, as battle maps",
-      "spanish": "Usa tus cicatrices, como mapas",
-      "category": "Strength",
-      "generated_at": "2026-03-11T19:32:39.195616"
-    },
-    {
       "english": "Quiet strength, speaks with actions",
       "spanish": "Fuerza silenciosa, habla con acciones",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Atrévete a decir esto.",
       "category": "Happiness",
       "generated_at": "2026-08-25T15:43:55.427581"
+    },
+    {
+      "english": "One 'gracias' echoes warmly.",
+      "spanish": "Un 'gracias' resuena cálido.",
+      "category": "Kindness",
+      "generated_at": "2026-08-25T19:23:38.710254"
+    },
+    {
+      "english": "Curious? This 'es' matters.",
+      "spanish": "¿Curioso? Este 'es' importa.",
+      "category": "Kindness",
+      "generated_at": "2026-08-25T19:23:38.710295"
+    },
+    {
+      "english": "Feel this kindness ripple.",
+      "spanish": "Siente esta onda de bondad.",
+      "category": "Kindness",
+      "generated_at": "2026-08-25T19:23:38.710324"
+    },
+    {
+      "english": "Stop holding back, speak!",
+      "spanish": "¡Deja de reprimir, habla!",
+      "category": "Kindness",
+      "generated_at": "2026-08-25T19:23:38.710352"
+    },
+    {
+      "english": "You are a language star.",
+      "spanish": "Eres una estrella del idioma.",
+      "category": "Kindness",
+      "generated_at": "2026-08-25T19:23:38.710379"
     }
   ],
-  "last_updated": "2026-08-25T15:43:55.427583",
+  "last_updated": "2026-08-25T19:23:38.710381",
   "used_english": [
-    "find stillness, let thoughts pass like clouds",
-    "sit gently, notice breath, return to now",
-    "carry gratitude, soften your heart, breathe peace",
-    "slow your steps, feel grounded, stay present",
-    "use your scars, as battle maps",
     "quiet strength, speaks with actions",
     "stand firm, bend but don't break",
     "strength comes, from steady choices",
@@ -21002,6 +20997,11 @@
     "feel this vowel magic now.",
     "curious? this phrase connects people.",
     "that 'ñ' feels like a hug.",
-    "dare to speak this sound."
+    "dare to speak this sound.",
+    "one 'gracias' echoes warmly.",
+    "curious? this 'es' matters.",
+    "feel this kindness ripple.",
+    "stop holding back, speak!",
+    "you are a language star."
   ]
 }
