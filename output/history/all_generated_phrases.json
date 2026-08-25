@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Brave the hard days, they pass",
-      "spanish": "Enfrenta los días difíciles, pasan",
-      "category": "Perseverance",
-      "generated_at": "2026-03-10T19:26:50.951184"
-    },
-    {
-      "english": "Keep going, even when it hurts, move forward",
-      "spanish": "Sigue adelante, aunque duela, sigue avanzando",
-      "category": "Perseverance",
-      "generated_at": "2026-03-10T19:26:50.951186"
-    },
-    {
-      "english": "Turn failure, into a lesson, keep moving",
-      "spanish": "Convierte el fracaso, en lección, sigue adelante",
-      "category": "Perseverance",
-      "generated_at": "2026-03-10T19:26:50.951191"
-    },
-    {
-      "english": "Stay patient, trust the slow process",
-      "spanish": "Mantén la paciencia, confía en el proceso",
-      "category": "Perseverance",
-      "generated_at": "2026-03-10T19:26:50.951192"
-    },
-    {
-      "english": "Soft shoulders, release, feel lighter",
-      "spanish": "Hombros sueltos, suelta, siéntete ligero",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-10T21:03:25.092251"
-    },
-    {
       "english": "Listen deeply, hear your inner voice",
       "spanish": "Escucha profundo, oye tu voz interior",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Y si lo dejas ir?",
       "category": "Forgiveness",
       "generated_at": "2026-08-24T21:35:43.088272"
+    },
+    {
+      "english": "Feel this 'te quiero' warmth.",
+      "spanish": "Siente este calor de 'te quiero'.",
+      "category": "Love",
+      "generated_at": "2026-08-25T13:54:08.370498"
+    },
+    {
+      "english": "This simple word means devotion.",
+      "spanish": "Esta palabra simple significa devoción.",
+      "category": "Love",
+      "generated_at": "2026-08-25T13:54:08.370552"
+    },
+    {
+      "english": "Your 'me encanta' sparks joy.",
+      "spanish": "Tu 'me encanta' enciende alegría.",
+      "category": "Love",
+      "generated_at": "2026-08-25T13:54:08.370580"
+    },
+    {
+      "english": "Whisper 'mi vida', unlock hearts.",
+      "spanish": "Susurra 'mi vida', abre corazones.",
+      "category": "Love",
+      "generated_at": "2026-08-25T13:54:08.370606"
+    },
+    {
+      "english": "Want true connection? Try 'cielo'.",
+      "spanish": "¿Quieres conexión real? Prueba 'cielo'.",
+      "category": "Love",
+      "generated_at": "2026-08-25T13:54:08.370636"
     }
   ],
-  "last_updated": "2026-08-24T21:35:43.088274",
+  "last_updated": "2026-08-25T13:54:08.370637",
   "used_english": [
-    "brave the hard days, they pass",
-    "keep going, even when it hurts, move forward",
-    "turn failure, into a lesson, keep moving",
-    "stay patient, trust the slow process",
-    "soft shoulders, release, feel lighter",
     "listen deeply, hear your inner voice",
     "soft hands, rest them, feel ease",
     "slow down, taste this moment",
@@ -21002,6 +20997,11 @@
     "unburden your heart now.",
     "true peace starts here.",
     "this act brings relief.",
-    "what if you let go?"
+    "what if you let go?",
+    "feel this 'te quiero' warmth.",
+    "this simple word means devotion.",
+    "your 'me encanta' sparks joy.",
+    "whisper 'mi vida', unlock hearts.",
+    "want true connection? try 'cielo'."
   ]
 }
