@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Quiet strength, speaks with actions",
-      "spanish": "Fuerza silenciosa, habla con acciones",
-      "category": "Strength",
-      "generated_at": "2026-03-11T19:32:39.195624"
-    },
-    {
-      "english": "Stand firm, bend but don't break",
-      "spanish": "Mantente firme, dobla pero no rompas",
-      "category": "Strength",
-      "generated_at": "2026-03-11T19:32:39.195625"
-    },
-    {
-      "english": "Strength comes, from steady choices",
-      "spanish": "La fuerza viene, de decisiones constantes",
-      "category": "Strength",
-      "generated_at": "2026-03-11T19:32:39.195626"
-    },
-    {
-      "english": "One step, keeps the fire alive",
-      "spanish": "Un paso, mantiene el fuego vivo",
-      "category": "Strength",
-      "generated_at": "2026-03-11T19:32:39.195627"
-    },
-    {
-      "english": "Begin today, grow a little",
-      "spanish": "Empieza hoy, crece un poco",
-      "category": "Inspiration",
-      "generated_at": "2026-03-11T21:04:02.948730"
-    },
-    {
       "english": "Small steps today, big heart always",
       "spanish": "Pasos pequeños hoy, corazón grande siempre",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "Eres una estrella del idioma.",
       "category": "Kindness",
       "generated_at": "2026-08-25T19:23:38.710379"
+    },
+    {
+      "english": "Unlock joy, say 'qué bien!'",
+      "spanish": "Desbloquea alegría, di '¡qué bien!'",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T21:36:08.991398"
+    },
+    {
+      "english": "Your effort? It echoes.",
+      "spanish": "¿Tu esfuerzo? Hace eco.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T21:36:08.991433"
+    },
+    {
+      "english": "Stop doubting your 'sí'.",
+      "spanish": "Deja de dudar tu 'sí'.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T21:36:08.991460"
+    },
+    {
+      "english": "Feel this 'bueno' feeling.",
+      "spanish": "Siente esta sensación 'bueno'.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T21:36:08.991486"
+    },
+    {
+      "english": "Your 'hola' starts journeys.",
+      "spanish": "Tu 'hola' inicia viajes.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T21:36:08.991514"
     }
   ],
-  "last_updated": "2026-08-25T19:23:38.710381",
+  "last_updated": "2026-08-25T21:36:08.991515",
   "used_english": [
-    "quiet strength, speaks with actions",
-    "stand firm, bend but don't break",
-    "strength comes, from steady choices",
-    "one step, keeps the fire alive",
-    "begin today, grow a little",
     "small steps today, big heart always",
     "practice daily, mistakes are lessons",
     "speak now, silence slows progress",
@@ -21002,6 +20997,11 @@
     "curious? this 'es' matters.",
     "feel this kindness ripple.",
     "stop holding back, speak!",
-    "you are a language star."
+    "you are a language star.",
+    "unlock joy, say 'qué bien!'",
+    "your effort? it echoes.",
+    "stop doubting your 'sí'.",
+    "feel this 'bueno' feeling.",
+    "your 'hola' starts journeys."
   ]
 }
