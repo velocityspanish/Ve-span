@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Listen deeply, hear your inner voice",
-      "spanish": "Escucha profundo, oye tu voz interior",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-10T21:03:25.092260"
-    },
-    {
-      "english": "Soft hands, rest them, feel ease",
-      "spanish": "Manos suaves, descánsalas, siente alivio",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-10T21:03:25.092261"
-    },
-    {
-      "english": "Slow down, taste this moment",
-      "spanish": "Baja el ritmo, saborea este momento",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-10T21:03:25.092263"
-    },
-    {
-      "english": "Thank your body, notice its wisdom",
-      "spanish": "Agradece a tu cuerpo, nota su sabiduría",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-10T21:03:25.092264"
-    },
-    {
-      "english": "Breathe slowly, release tension, feel calm",
-      "spanish": "Respira despacio, suelta la tensión, siente calma",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-11T16:37:20.445233"
-    },
-    {
       "english": "Find stillness, let thoughts pass like clouds",
       "spanish": "Encuentra quietud, deja pasar los pensamientos, como nubes",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Quieres conexión real? Prueba 'cielo'.",
       "category": "Love",
       "generated_at": "2026-08-25T13:54:08.370636"
+    },
+    {
+      "english": "Why are 'r' sounds so happy?",
+      "spanish": "¿Por qué 'r' suenan felices?",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T15:43:55.427467"
+    },
+    {
+      "english": "Feel this vowel magic now.",
+      "spanish": "Siente esta magia vocal ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T15:43:55.427502"
+    },
+    {
+      "english": "Curious? This phrase connects people.",
+      "spanish": "¿Curioso? Esta frase une.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T15:43:55.427527"
+    },
+    {
+      "english": "That 'ñ' feels like a hug.",
+      "spanish": "Esa 'ñ' se siente abrazo.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T15:43:55.427554"
+    },
+    {
+      "english": "Dare to speak this sound.",
+      "spanish": "Atrévete a decir esto.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T15:43:55.427581"
     }
   ],
-  "last_updated": "2026-08-25T13:54:08.370637",
+  "last_updated": "2026-08-25T15:43:55.427583",
   "used_english": [
-    "listen deeply, hear your inner voice",
-    "soft hands, rest them, feel ease",
-    "slow down, taste this moment",
-    "thank your body, notice its wisdom",
-    "breathe slowly, release tension, feel calm",
     "find stillness, let thoughts pass like clouds",
     "sit gently, notice breath, return to now",
     "carry gratitude, soften your heart, breathe peace",
@@ -21002,6 +20997,11 @@
     "this simple word means devotion.",
     "your 'me encanta' sparks joy.",
     "whisper 'mi vida', unlock hearts.",
-    "want true connection? try 'cielo'."
+    "want true connection? try 'cielo'.",
+    "why are 'r' sounds so happy?",
+    "feel this vowel magic now.",
+    "curious? this phrase connects people.",
+    "that 'ñ' feels like a hug.",
+    "dare to speak this sound."
   ]
 }
