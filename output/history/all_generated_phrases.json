@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Start now, one kind, steady step",
-      "spanish": "Empieza ahora, un paso, amable y constante",
-      "category": "Positive Life",
-      "generated_at": "2026-03-12T21:06:52.859825"
-    },
-    {
-      "english": "Breathe deep, let go, keep moving",
-      "spanish": "Respira profundo, suelta, sigue avanzando",
-      "category": "Positive Life",
-      "generated_at": "2026-03-12T21:06:52.859827"
-    },
-    {
-      "english": "Trust yourself, learn, fail, grow stronger",
-      "spanish": "Confía en ti, aprende, falla, crece fuerte",
-      "category": "Positive Life",
-      "generated_at": "2026-03-12T21:06:52.859828"
-    },
-    {
-      "english": "Eyes forward, heart open, walk tall",
-      "spanish": "Ojos al frente, corazón abierto, camina erguido",
-      "category": "Positive Life",
-      "generated_at": "2026-03-12T21:06:52.859829"
-    },
-    {
-      "english": "I love you, more each day",
-      "spanish": "Te amo, más cada día",
-      "category": "Love",
-      "generated_at": "2026-03-13T05:05:33.328441"
-    },
-    {
       "english": "You make me smile, without trying",
       "spanish": "Me haces sonreír, sin esfuerzo",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso por este 'xq'?",
       "category": "Success",
       "generated_at": "2026-08-26T16:18:40.865642"
+    },
+    {
+      "english": "Embrace stillness, find joy.",
+      "spanish": "Abraza la quietud, encuentra gozo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T18:50:30.310836"
+    },
+    {
+      "english": "One moment of quiet matters.",
+      "spanish": "Un momento de calma importa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T18:50:30.310873"
+    },
+    {
+      "english": "Release thoughts, feel free.",
+      "spanish": "Suelta pensamientos, siéntete libre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T18:50:30.310902"
+    },
+    {
+      "english": "Find your center, always.",
+      "spanish": "Encuentra tu centro, siempre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T18:50:30.310928"
+    },
+    {
+      "english": "This calm will empower you.",
+      "spanish": "Esta calma te empoderará.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T18:50:30.310956"
     }
   ],
-  "last_updated": "2026-08-26T16:18:40.865644",
+  "last_updated": "2026-08-26T18:50:30.310958",
   "used_english": [
-    "start now, one kind, steady step",
-    "breathe deep, let go, keep moving",
-    "trust yourself, learn, fail, grow stronger",
-    "eyes forward, heart open, walk tall",
-    "i love you, more each day",
     "you make me smile, without trying",
     "my heart, always belongs to you",
     "every moment, feels like home with you",
@@ -21002,6 +20997,11 @@
     "one compliment, big impact.",
     "the secret? small talk mastery.",
     "your voice, uniquely beautiful.",
-    "curious about this 'xq'?"
+    "curious about this 'xq'?",
+    "embrace stillness, find joy.",
+    "one moment of quiet matters.",
+    "release thoughts, feel free.",
+    "find your center, always.",
+    "this calm will empower you."
   ]
 }
