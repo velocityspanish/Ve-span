@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Mistakes, are lessons, try again with courage",
-      "spanish": "Los errores, son lecciones, intenta otra vez con valor",
-      "category": "Motivation",
-      "generated_at": "2026-03-12T17:14:29.274530"
-    },
-    {
-      "english": "Speak often, even imperfectly, your confidence grows",
-      "spanish": "Habla seguido, aunque imperfecto, tu confianza crece",
-      "category": "Motivation",
-      "generated_at": "2026-03-12T17:14:29.274531"
-    },
-    {
-      "english": "One phrase, today, becomes many, tomorrow",
-      "spanish": "Una frase, hoy, serán muchas, mañana",
-      "category": "Motivation",
-      "generated_at": "2026-03-12T17:14:29.274532"
-    },
-    {
-      "english": "Listen more, repeat slowly, understand better, gradually",
-      "spanish": "Escucha más, repite despacio, entiende mejor, poco a poco",
-      "category": "Motivation",
-      "generated_at": "2026-03-12T17:14:29.274533"
-    },
-    {
-      "english": "Choose joy, every small, bright moment",
-      "spanish": "Elige alegría, cada pequeño, momento brillante",
-      "category": "Positive Life",
-      "generated_at": "2026-03-12T21:06:52.859816"
-    },
-    {
       "english": "Start now, one kind, steady step",
       "spanish": "Empieza ahora, un paso, amable y constante",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Este 'tal vez' es libertad.",
       "category": "Purpose",
       "generated_at": "2026-08-26T13:56:32.933640"
+    },
+    {
+      "english": "What if you're already fluent?",
+      "spanish": "¿Y si ya eres fluido?",
+      "category": "Success",
+      "generated_at": "2026-08-26T16:18:40.865515"
+    },
+    {
+      "english": "One compliment, big impact.",
+      "spanish": "Un cumplido, gran impacto.",
+      "category": "Success",
+      "generated_at": "2026-08-26T16:18:40.865557"
+    },
+    {
+      "english": "The secret? Small talk mastery.",
+      "spanish": "El secreto? Dominar charla.",
+      "category": "Success",
+      "generated_at": "2026-08-26T16:18:40.865587"
+    },
+    {
+      "english": "Your voice, uniquely beautiful.",
+      "spanish": "Tu voz, única belleza.",
+      "category": "Success",
+      "generated_at": "2026-08-26T16:18:40.865615"
+    },
+    {
+      "english": "Curious about this 'xq'?",
+      "spanish": "¿Curioso por este 'xq'?",
+      "category": "Success",
+      "generated_at": "2026-08-26T16:18:40.865642"
     }
   ],
-  "last_updated": "2026-08-26T13:56:32.933642",
+  "last_updated": "2026-08-26T16:18:40.865644",
   "used_english": [
-    "mistakes, are lessons, try again with courage",
-    "speak often, even imperfectly, your confidence grows",
-    "one phrase, today, becomes many, tomorrow",
-    "listen more, repeat slowly, understand better, gradually",
-    "choose joy, every small, bright moment",
     "start now, one kind, steady step",
     "breathe deep, let go, keep moving",
     "trust yourself, learn, fail, grow stronger",
@@ -21002,6 +20997,11 @@
     "one 'que' opens new paths.",
     "stop fearing the 'j' sound.",
     "feel this 'rr' rhythm, flow!",
-    "this 'tal vez' is freedom."
+    "this 'tal vez' is freedom.",
+    "what if you're already fluent?",
+    "one compliment, big impact.",
+    "the secret? small talk mastery.",
+    "your voice, uniquely beautiful.",
+    "curious about this 'xq'?"
   ]
 }
