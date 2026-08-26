@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Small steps today, big heart always",
-      "spanish": "Pasos pequeños hoy, corazón grande siempre",
-      "category": "Inspiration",
-      "generated_at": "2026-03-11T21:04:02.948739"
-    },
-    {
-      "english": "Practice daily, mistakes are lessons",
-      "spanish": "Practica a diario, los errores son lecciones",
-      "category": "Inspiration",
-      "generated_at": "2026-03-11T21:04:02.948740"
-    },
-    {
-      "english": "Speak now, silence slows progress",
-      "spanish": "Habla ahora, el silencio frena el progreso",
-      "category": "Inspiration",
-      "generated_at": "2026-03-11T21:04:02.948742"
-    },
-    {
-      "english": "Listen first, then answer with courage",
-      "spanish": "Escucha primero, luego responde con valor",
-      "category": "Inspiration",
-      "generated_at": "2026-03-11T21:04:02.948743"
-    },
-    {
-      "english": "Every day, learn a little, celebrate progress",
-      "spanish": "Cada día, aprende un poco, celebra tu progreso",
-      "category": "Motivation",
-      "generated_at": "2026-03-12T17:14:29.274521"
-    },
-    {
       "english": "Mistakes, are lessons, try again with courage",
       "spanish": "Los errores, son lecciones, intenta otra vez con valor",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu 'hola' inicia viajes.",
       "category": "Happiness",
       "generated_at": "2026-08-25T21:36:08.991514"
+    },
+    {
+      "english": "The power of 'bueno' surprise.",
+      "spanish": "El poder de la sorpresa 'bueno'.",
+      "category": "Purpose",
+      "generated_at": "2026-08-26T13:56:32.933498"
+    },
+    {
+      "english": "One 'que' opens new paths.",
+      "spanish": "Un 'que' abre nuevos caminos.",
+      "category": "Purpose",
+      "generated_at": "2026-08-26T13:56:32.933553"
+    },
+    {
+      "english": "Stop fearing the 'j' sound.",
+      "spanish": "Deja de temer el sonido 'j'.",
+      "category": "Purpose",
+      "generated_at": "2026-08-26T13:56:32.933583"
+    },
+    {
+      "english": "Feel this 'rr' rhythm, flow!",
+      "spanish": "¡Siente este ritmo 'rr', fluye!",
+      "category": "Purpose",
+      "generated_at": "2026-08-26T13:56:32.933613"
+    },
+    {
+      "english": "This 'tal vez' is freedom.",
+      "spanish": "Este 'tal vez' es libertad.",
+      "category": "Purpose",
+      "generated_at": "2026-08-26T13:56:32.933640"
     }
   ],
-  "last_updated": "2026-08-25T21:36:08.991515",
+  "last_updated": "2026-08-26T13:56:32.933642",
   "used_english": [
-    "small steps today, big heart always",
-    "practice daily, mistakes are lessons",
-    "speak now, silence slows progress",
-    "listen first, then answer with courage",
-    "every day, learn a little, celebrate progress",
     "mistakes, are lessons, try again with courage",
     "speak often, even imperfectly, your confidence grows",
     "one phrase, today, becomes many, tomorrow",
@@ -21002,6 +20997,11 @@
     "your effort? it echoes.",
     "stop doubting your 'sí'.",
     "feel this 'bueno' feeling.",
-    "your 'hola' starts journeys."
+    "your 'hola' starts journeys.",
+    "the power of 'bueno' surprise.",
+    "one 'que' opens new paths.",
+    "stop fearing the 'j' sound.",
+    "feel this 'rr' rhythm, flow!",
+    "this 'tal vez' is freedom."
   ]
 }
