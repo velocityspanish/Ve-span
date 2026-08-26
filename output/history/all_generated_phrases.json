@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "You make me smile, without trying",
-      "spanish": "Me haces sonreír, sin esfuerzo",
-      "category": "Love",
-      "generated_at": "2026-03-13T05:05:33.328451"
-    },
-    {
-      "english": "My heart, always belongs to you",
-      "spanish": "Mi corazón, siempre es solo tuyo",
-      "category": "Love",
-      "generated_at": "2026-03-13T05:05:33.328453"
-    },
-    {
-      "english": "Every moment, feels like home with you",
-      "spanish": "Cada momento, es hogar contigo",
-      "category": "Love",
-      "generated_at": "2026-03-13T05:05:33.328455"
-    },
-    {
-      "english": "I choose you, today and always",
-      "spanish": "Te elijo, hoy y siempre",
-      "category": "Love",
-      "generated_at": "2026-03-13T05:05:33.328456"
-    },
-    {
-      "english": "Take the leap, trust yourself",
-      "spanish": "Da el salto, confía en ti",
-      "category": "Courage",
-      "generated_at": "2026-03-13T21:07:00.785857"
-    },
-    {
       "english": "Face your fear, move forward",
       "spanish": "Enfrenta tu miedo, sigue adelante",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta calma te empoderará.",
       "category": "Inner Peace",
       "generated_at": "2026-08-26T18:50:30.310956"
+    },
+    {
+      "english": "Why 'ahora' is powerful?",
+      "spanish": "¿Por qué 'ahora' es poderoso?",
+      "category": "Motivation",
+      "generated_at": "2026-08-26T21:28:23.632178"
+    },
+    {
+      "english": "Your 'perdón' changes everything.",
+      "spanish": "Tu 'perdón' cambia todo.",
+      "category": "Motivation",
+      "generated_at": "2026-08-26T21:28:23.632213"
+    },
+    {
+      "english": "Dare to say 'quizás'.",
+      "spanish": "Atrévete a decir 'quizás'.",
+      "category": "Motivation",
+      "generated_at": "2026-08-26T21:28:23.632238"
+    },
+    {
+      "english": "Embrace your new accent.",
+      "spanish": "Abraza tu nuevo acento.",
+      "category": "Motivation",
+      "generated_at": "2026-08-26T21:28:23.632264"
+    },
+    {
+      "english": "Want connection? Try 'usted'.",
+      "spanish": "¿Quieres conexión? Prueba 'usted'.",
+      "category": "Motivation",
+      "generated_at": "2026-08-26T21:28:23.632292"
     }
   ],
-  "last_updated": "2026-08-26T18:50:30.310958",
+  "last_updated": "2026-08-26T21:28:23.632294",
   "used_english": [
-    "you make me smile, without trying",
-    "my heart, always belongs to you",
-    "every moment, feels like home with you",
-    "i choose you, today and always",
-    "take the leap, trust yourself",
     "face your fear, move forward",
     "small steps, big courage",
     "try first, worry later",
@@ -21002,6 +20997,11 @@
     "one moment of quiet matters.",
     "release thoughts, feel free.",
     "find your center, always.",
-    "this calm will empower you."
+    "this calm will empower you.",
+    "why 'ahora' is powerful?",
+    "your 'perdón' changes everything.",
+    "dare to say 'quizás'.",
+    "embrace your new accent.",
+    "want connection? try 'usted'."
   ]
 }
