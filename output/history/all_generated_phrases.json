@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Take small steps, keep steady progress",
-      "spanish": "Da pasos pequeños, mantén un progreso constante",
-      "category": "Patience",
-      "generated_at": "2026-03-14T17:55:43.393486"
-    },
-    {
-      "english": "Wait a little, the answer comes",
-      "spanish": "Espera un poco, la respuesta llegará",
-      "category": "Patience",
-      "generated_at": "2026-03-14T17:55:43.393487"
-    },
-    {
-      "english": "One day at a time, be patient",
-      "spanish": "Un día a la vez, sé paciente",
-      "category": "Patience",
-      "generated_at": "2026-03-14T17:55:43.393489"
-    },
-    {
-      "english": "Slow down, your pace is enough",
-      "spanish": "Reduce la velocidad, tu ritmo es suficiente",
-      "category": "Patience",
-      "generated_at": "2026-03-14T17:55:43.393490"
-    },
-    {
-      "english": "Courage grows, with every try",
-      "spanish": "El coraje crece, con cada intento",
-      "category": "Courage",
-      "generated_at": "2026-03-15T15:00:46.193388"
-    },
-    {
       "english": "Let go of doubt, act",
       "spanish": "Suelta la duda, hazlo",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Sorpréndete con la fluidez.",
       "category": "Courage",
       "generated_at": "2026-08-27T00:37:35.073936"
+    },
+    {
+      "english": "Your 'te quiero' sounds sweet.",
+      "spanish": "Tu 'te quiero' suena dulce.",
+      "category": "Love",
+      "generated_at": "2026-08-27T22:52:23.755168"
+    },
+    {
+      "english": "Feel this gentle 'mi amor'.",
+      "spanish": "Siente este suave 'mi amor'.",
+      "category": "Love",
+      "generated_at": "2026-08-27T22:52:23.755205"
+    },
+    {
+      "english": "Why is 'corazón' so special?",
+      "spanish": "¿Por qué 'corazón' es especial?",
+      "category": "Love",
+      "generated_at": "2026-08-27T22:52:23.755234"
+    },
+    {
+      "english": "One 'beso' seals the deal.",
+      "spanish": "Un 'beso' sella el trato.",
+      "category": "Love",
+      "generated_at": "2026-08-27T22:52:23.755275"
+    },
+    {
+      "english": "Your smile, 'mi vida's' treasure.",
+      "spanish": "Tu sonrisa, tesoro 'mi vida'.",
+      "category": "Love",
+      "generated_at": "2026-08-27T22:52:23.755302"
     }
   ],
-  "last_updated": "2026-08-27T00:37:35.073938",
+  "last_updated": "2026-08-27T22:52:23.755304",
   "used_english": [
-    "take small steps, keep steady progress",
-    "wait a little, the answer comes",
-    "one day at a time, be patient",
-    "slow down, your pace is enough",
-    "courage grows, with every try",
     "let go of doubt, act",
     "one brave choice, changes everything",
     "keep going, even when it shakes",
@@ -21002,6 +20997,11 @@
     "dare to try new sounds.",
     "feel the 'rr' power grow.",
     "go for it, you got this!",
-    "surprise yourself with fluency."
+    "surprise yourself with fluency.",
+    "your 'te quiero' sounds sweet.",
+    "feel this gentle 'mi amor'.",
+    "why is 'corazón' so special?",
+    "one 'beso' seals the deal.",
+    "your smile, 'mi vida's' treasure."
   ]
 }
