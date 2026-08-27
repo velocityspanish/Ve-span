@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Face your fear, move forward",
-      "spanish": "Enfrenta tu miedo, sigue adelante",
-      "category": "Courage",
-      "generated_at": "2026-03-13T21:07:00.785867"
-    },
-    {
-      "english": "Small steps, big courage",
-      "spanish": "Pasos pequeños, gran coraje",
-      "category": "Courage",
-      "generated_at": "2026-03-13T21:07:00.785869"
-    },
-    {
-      "english": "Try first, worry later",
-      "spanish": "Intenta primero, preocúpate después",
-      "category": "Courage",
-      "generated_at": "2026-03-13T21:07:00.785871"
-    },
-    {
-      "english": "Stand tall, speak your truth",
-      "spanish": "Párate erguido, di tu verdad",
-      "category": "Courage",
-      "generated_at": "2026-03-13T21:07:00.785873"
-    },
-    {
-      "english": "Breathe slowly, trust the process",
-      "spanish": "Respira despacio, confía en el proceso",
-      "category": "Patience",
-      "generated_at": "2026-03-14T17:55:43.393477"
-    },
-    {
       "english": "Take small steps, keep steady progress",
       "spanish": "Da pasos pequeños, mantén un progreso constante",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Quieres conexión? Prueba 'usted'.",
       "category": "Motivation",
       "generated_at": "2026-08-26T21:28:23.632292"
+    },
+    {
+      "english": "This single word unlocks courage.",
+      "spanish": "Esta palabra sola da valor.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:37:35.073818"
+    },
+    {
+      "english": "Dare to try new sounds.",
+      "spanish": "Atrévete a probar sonidos.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:37:35.073855"
+    },
+    {
+      "english": "Feel the 'rr' power grow.",
+      "spanish": "Siente crecer el poder 'rr'.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:37:35.073882"
+    },
+    {
+      "english": "Go for it, you got this!",
+      "spanish": "¡Ve por ello, tú puedes!",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:37:35.073908"
+    },
+    {
+      "english": "Surprise yourself with fluency.",
+      "spanish": "Sorpréndete con la fluidez.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:37:35.073936"
     }
   ],
-  "last_updated": "2026-08-26T21:28:23.632294",
+  "last_updated": "2026-08-27T00:37:35.073938",
   "used_english": [
-    "face your fear, move forward",
-    "small steps, big courage",
-    "try first, worry later",
-    "stand tall, speak your truth",
-    "breathe slowly, trust the process",
     "take small steps, keep steady progress",
     "wait a little, the answer comes",
     "one day at a time, be patient",
@@ -21002,6 +20997,11 @@
     "your 'perdón' changes everything.",
     "dare to say 'quizás'.",
     "embrace your new accent.",
-    "want connection? try 'usted'."
+    "want connection? try 'usted'.",
+    "this single word unlocks courage.",
+    "dare to try new sounds.",
+    "feel the 'rr' power grow.",
+    "go for it, you got this!",
+    "surprise yourself with fluency."
   ]
 }
