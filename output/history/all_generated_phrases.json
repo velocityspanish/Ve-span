@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Choose progress, not perfect",
-      "spanish": "Elige progreso, no perfección",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-16T06:00:41.839913"
-    },
-    {
-      "english": "Breathe deeply, then act calmly",
-      "spanish": "Respira profundo, luego actúa con calma",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-16T06:00:41.839915"
-    },
-    {
-      "english": "One step daily, creates lasting change",
-      "spanish": "Un paso diario, crea cambio duradero",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-16T06:00:41.839916"
-    },
-    {
-      "english": "Learn, fail, adjust, keep going",
-      "spanish": "Aprende, falla, ajusta, sigue adelante",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-16T06:00:41.839917"
-    },
-    {
-      "english": "Stop, waiting for perfect moment",
-      "spanish": "Deja de esperar, el momento perfecto",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T09:30:24.885787"
-    },
-    {
       "english": "Never, fear your accent",
       "spanish": "Nunca, temas a tu acento",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha atentamente, comprende hondo.",
       "category": "Self Improvement",
       "generated_at": "2026-08-28T00:17:10.105597"
+    },
+    {
+      "english": "Why is 'poco a poco' so powerful?",
+      "spanish": "¿Por qué 'poco a poco' es tan poderoso?",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:15:16.013502"
+    },
+    {
+      "english": "Embrace the beautiful stumbles, always.",
+      "spanish": "Abraza los hermosos tropiezos, siempre.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:15:16.013532"
+    },
+    {
+      "english": "Stop comparing your chapter one.",
+      "spanish": "Deja de comparar tu capítulo uno.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:15:16.013555"
+    },
+    {
+      "english": "Curious? Fluency takes quiet work.",
+      "spanish": "¿Curioso? La fluidez requiere trabajo silencioso.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:15:16.013576"
+    },
+    {
+      "english": "Feel this phrase, unlock understanding.",
+      "spanish": "Siente esta frase, desbloquea entendimiento.",
+      "category": "Patience",
+      "generated_at": "2026-08-28T01:15:16.013596"
     }
   ],
-  "last_updated": "2026-08-28T00:17:10.105598",
+  "last_updated": "2026-08-28T01:15:16.013597",
   "used_english": [
-    "choose progress, not perfect",
-    "breathe deeply, then act calmly",
-    "one step daily, creates lasting change",
-    "learn, fail, adjust, keep going",
-    "stop, waiting for perfect moment",
     "never, fear your accent",
     "this is why, practice daily matters",
     "the secret, is two tiny habits",
@@ -21002,6 +20997,11 @@
     "embrace your progress, celebrate.",
     "dare to say it, now.",
     "find your spanish spark.",
-    "listen closely, understand deeply."
+    "listen closely, understand deeply.",
+    "why is 'poco a poco' so powerful?",
+    "embrace the beautiful stumbles, always.",
+    "stop comparing your chapter one.",
+    "curious? fluency takes quiet work.",
+    "feel this phrase, unlock understanding."
   ]
 }
