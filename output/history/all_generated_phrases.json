@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop sounding like a robot",
-      "spanish": "Deja de sonar como un robot",
-      "category": "Growth",
-      "generated_at": "2026-03-16T18:13:17.150815"
-    },
-    {
-      "english": "Never skip real conversations",
-      "spanish": "Nunca te saltes conversaciones reales",
-      "category": "Growth",
-      "generated_at": "2026-03-16T18:13:17.150818"
-    },
-    {
-      "english": "Never fear embarrassing mistakes",
-      "spanish": "Nunca temas errores embarazosos",
-      "category": "Growth",
-      "generated_at": "2026-03-16T18:13:17.150821"
-    },
-    {
-      "english": "This is why natives smile",
-      "spanish": "Por eso, los nativos sonríen",
-      "category": "Growth",
-      "generated_at": "2026-03-16T18:13:17.150823"
-    },
-    {
-      "english": "Stop pretending, two words change everything",
-      "spanish": "Deja de fingir, dos palabras lo cambian todo",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T19:56:50.599342"
-    },
-    {
       "english": "Never wait, say one word now",
       "spanish": "Nunca esperes, di una palabra ahora",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu 'tranquilo' te llama.",
       "category": "Inner Peace",
       "generated_at": "2026-08-28T22:56:18.088166"
+    },
+    {
+      "english": "Your peace is already here.",
+      "spanish": "Tu paz ya está aquí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T23:54:12.047717"
+    },
+    {
+      "english": "Whispers of inner quiet.",
+      "spanish": "Susurros de paz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T23:54:12.047752"
+    },
+    {
+      "english": "Your steady heart beats.",
+      "spanish": "Tu corazón constante late.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T23:54:12.047778"
+    },
+    {
+      "english": "Find stillness, feel it.",
+      "spanish": "Encuentra quietud, siéntela.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T23:54:12.047804"
+    },
+    {
+      "english": "This calm is yours.",
+      "spanish": "Esta calma es tuya.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T23:54:12.047828"
     }
   ],
-  "last_updated": "2026-08-28T22:56:18.088168",
+  "last_updated": "2026-08-28T23:54:12.047830",
   "used_english": [
-    "stop sounding like a robot",
-    "never skip real conversations",
-    "never fear embarrassing mistakes",
-    "this is why natives smile",
-    "stop pretending, two words change everything",
     "never wait, say one word now",
     "this is why, messy practice beats perfection",
     "the secret, record your voice tonight",
@@ -21002,6 +20997,11 @@
     "breathe deep, find your calm.",
     "your inner peace starts now.",
     "feel this moment, release.",
-    "your 'tranquilo' is calling."
+    "your 'tranquilo' is calling.",
+    "your peace is already here.",
+    "whispers of inner quiet.",
+    "your steady heart beats.",
+    "find stillness, feel it.",
+    "this calm is yours."
   ]
 }
