@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, fear your accent",
-      "spanish": "Nunca, temas a tu acento",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T09:30:24.885798"
-    },
-    {
-      "english": "This is why, practice daily matters",
-      "spanish": "Por eso, la práctica diaria importa",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T09:30:24.885801"
-    },
-    {
-      "english": "The secret, is two tiny habits",
-      "spanish": "El secreto, son dos hábitos pequeños",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T09:30:24.885803"
-    },
-    {
-      "english": "What nobody tells you, starts messy",
-      "spanish": "Lo que nadie te dice, empieza desordenado",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T09:30:24.885806"
-    },
-    {
-      "english": "Stop, saying 'I'll start tomorrow'",
-      "spanish": "Deja de decir 'empiezo mañana'",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T10:40:09.297865"
-    },
-    {
       "english": "Stop, hiding behind translation apps",
       "spanish": "Deja las apps, empieza a hablar",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente esta frase, desbloquea entendimiento.",
       "category": "Patience",
       "generated_at": "2026-08-28T01:15:16.013596"
+    },
+    {
+      "english": "One Spanish word, pure magic.",
+      "spanish": "Una palabra española, pura magia.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T02:23:34.961413"
+    },
+    {
+      "english": "Believe in your 'lo puedo'.",
+      "spanish": "Cree en tu 'lo puedo'.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T02:23:34.961452"
+    },
+    {
+      "english": "New doors open with practice.",
+      "spanish": "Puertas nuevas se abren practicando.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T02:23:34.961483"
+    },
+    {
+      "english": "Embrace the beautiful learning curve.",
+      "spanish": "Abraza la hermosa curva de aprendizaje.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T02:23:34.961509"
+    },
+    {
+      "english": "This 'sí' opens a world.",
+      "spanish": "Este 'sí' abre un mundo.",
+      "category": "Hope",
+      "generated_at": "2026-08-28T02:23:34.961537"
     }
   ],
-  "last_updated": "2026-08-28T01:15:16.013597",
+  "last_updated": "2026-08-28T02:23:34.961538",
   "used_english": [
-    "never, fear your accent",
-    "this is why, practice daily matters",
-    "the secret, is two tiny habits",
-    "what nobody tells you, starts messy",
-    "stop, saying 'i'll start tomorrow'",
     "stop, hiding behind translation apps",
     "stop, avoiding conversations, join one",
     "stop, telling yourself 'i'm bad'",
@@ -21002,6 +20997,11 @@
     "embrace the beautiful stumbles, always.",
     "stop comparing your chapter one.",
     "curious? fluency takes quiet work.",
-    "feel this phrase, unlock understanding."
+    "feel this phrase, unlock understanding.",
+    "one spanish word, pure magic.",
+    "believe in your 'lo puedo'.",
+    "new doors open with practice.",
+    "embrace the beautiful learning curve.",
+    "this 'sí' opens a world."
   ]
 }
