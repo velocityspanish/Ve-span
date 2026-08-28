@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop doubting. You were chosen.",
-      "spanish": "Deja de dudar. Fuiste elegido.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T13:08:37.263171"
-    },
-    {
-      "english": "The world needs your unique gift.",
-      "spanish": "El mundo necesita tu regalo único.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T13:08:37.263174"
-    },
-    {
-      "english": "What I learned from lowest point.",
-      "spanish": "Lo que aprendí desde punto más bajo.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T13:08:37.263176"
-    },
-    {
-      "english": "Your comeback will be legendary.",
-      "spanish": "Tu regreso será legendario.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T13:08:37.263179"
-    },
-    {
-      "english": "Stop memorizing useless words",
-      "spanish": "Deja de memorizar palabras inútiles",
-      "category": "Growth",
-      "generated_at": "2026-03-16T18:13:17.150804"
-    },
-    {
       "english": "Stop sounding like a robot",
       "spanish": "Deja de sonar como un robot",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente el impulso, ¡vamos!",
       "category": "Courage",
       "generated_at": "2026-08-28T05:11:30.471946"
+    },
+    {
+      "english": "This whisper calms your soul.",
+      "spanish": "Este susurro calma tu alma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T22:56:18.088032"
+    },
+    {
+      "english": "Breathe deep, find your calm.",
+      "spanish": "Respira hondo, encuentra tu paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T22:56:18.088070"
+    },
+    {
+      "english": "Your inner peace starts now.",
+      "spanish": "Tu paz interior empieza hoy.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T22:56:18.088098"
+    },
+    {
+      "english": "Feel this moment, release.",
+      "spanish": "Siente este momento, suelta.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T22:56:18.088138"
+    },
+    {
+      "english": "Your 'tranquilo' is calling.",
+      "spanish": "Tu 'tranquilo' te llama.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-28T22:56:18.088166"
     }
   ],
-  "last_updated": "2026-08-28T05:11:30.471947",
+  "last_updated": "2026-08-28T22:56:18.088168",
   "used_english": [
-    "stop doubting. you were chosen.",
-    "the world needs your unique gift.",
-    "what i learned from lowest point.",
-    "your comeback will be legendary.",
-    "stop memorizing useless words",
     "stop sounding like a robot",
     "never skip real conversations",
     "never fear embarrassing mistakes",
@@ -21002,6 +20997,11 @@
     "your 'lo intenté' counts.",
     "brave beginnings bloom.",
     "this 'quizás' is courage.",
-    "feel the momentum, go!"
+    "feel the momentum, go!",
+    "this whisper calms your soul.",
+    "breathe deep, find your calm.",
+    "your inner peace starts now.",
+    "feel this moment, release.",
+    "your 'tranquilo' is calling."
   ]
 }
