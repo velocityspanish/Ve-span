@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Let go of doubt, act",
-      "spanish": "Suelta la duda, hazlo",
-      "category": "Courage",
-      "generated_at": "2026-03-15T15:00:46.193398"
-    },
-    {
-      "english": "One brave choice, changes everything",
-      "spanish": "Una decisión valiente, cambia todo",
-      "category": "Courage",
-      "generated_at": "2026-03-15T15:00:46.193399"
-    },
-    {
-      "english": "Keep going, even when it shakes",
-      "spanish": "Sigue adelante, aunque tiemble",
-      "category": "Courage",
-      "generated_at": "2026-03-15T15:00:46.193400"
-    },
-    {
-      "english": "You are stronger, than you think",
-      "spanish": "Eres más fuerte, de lo que crees",
-      "category": "Courage",
-      "generated_at": "2026-03-15T15:00:46.193401"
-    },
-    {
-      "english": "Start small, build steady habits",
-      "spanish": "Empieza pequeño, crea hábitos constantes",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-16T06:00:41.839904"
-    },
-    {
       "english": "Choose progress, not perfect",
       "spanish": "Elige progreso, no perfección",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu sonrisa, tesoro 'mi vida'.",
       "category": "Love",
       "generated_at": "2026-08-27T22:52:23.755302"
+    },
+    {
+      "english": "Small victories, big dreams.",
+      "spanish": "Pequeñas victorias, grandes sueños.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-28T00:17:10.105466"
+    },
+    {
+      "english": "Embrace your progress, celebrate.",
+      "spanish": "Abraza tu progreso, celebra.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-28T00:17:10.105502"
+    },
+    {
+      "english": "Dare to say it, now.",
+      "spanish": "Atrévete a decirlo, ahora.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-28T00:17:10.105527"
+    },
+    {
+      "english": "Find your Spanish spark.",
+      "spanish": "Encuentra tu chispa española.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-28T00:17:10.105570"
+    },
+    {
+      "english": "Listen closely, understand deeply.",
+      "spanish": "Escucha atentamente, comprende hondo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-28T00:17:10.105597"
     }
   ],
-  "last_updated": "2026-08-27T22:52:23.755304",
+  "last_updated": "2026-08-28T00:17:10.105598",
   "used_english": [
-    "let go of doubt, act",
-    "one brave choice, changes everything",
-    "keep going, even when it shakes",
-    "you are stronger, than you think",
-    "start small, build steady habits",
     "choose progress, not perfect",
     "breathe deeply, then act calmly",
     "one step daily, creates lasting change",
@@ -21002,6 +20997,11 @@
     "feel this gentle 'mi amor'.",
     "why is 'corazón' so special?",
     "one 'beso' seals the deal.",
-    "your smile, 'mi vida's' treasure."
+    "your smile, 'mi vida's' treasure.",
+    "small victories, big dreams.",
+    "embrace your progress, celebrate.",
+    "dare to say it, now.",
+    "find your spanish spark.",
+    "listen closely, understand deeply."
   ]
 }
