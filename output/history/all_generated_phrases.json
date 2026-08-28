@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop, hiding behind translation apps",
-      "spanish": "Deja las apps, empieza a hablar",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T10:40:09.297876"
-    },
-    {
-      "english": "Stop, avoiding conversations, join one",
-      "spanish": "Deja de evitar conversaciones, únete",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T10:40:09.297879"
-    },
-    {
-      "english": "Stop, telling yourself 'I'm bad'",
-      "spanish": "Deja de decirte 'soy malo'",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T10:40:09.297882"
-    },
-    {
-      "english": "Stop, translating every word, listen",
-      "spanish": "Deja de traducir cada palabra, escucha",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T10:40:09.297884"
-    },
-    {
-      "english": "This message found you for reason.",
-      "spanish": "Este mensaje te encontró por razón.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T13:08:37.263160"
-    },
-    {
       "english": "Stop doubting. You were chosen.",
       "spanish": "Deja de dudar. Fuiste elegido.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "Este 'sí' abre un mundo.",
       "category": "Hope",
       "generated_at": "2026-08-28T02:23:34.961537"
+    },
+    {
+      "english": "What if fear whispers 'no'?",
+      "spanish": "¿Y si el miedo susurra 'no'?",
+      "category": "Courage",
+      "generated_at": "2026-08-28T05:11:30.471852"
+    },
+    {
+      "english": "Your 'lo intenté' counts.",
+      "spanish": "Tu 'lo intenté' cuenta.",
+      "category": "Courage",
+      "generated_at": "2026-08-28T05:11:30.471883"
+    },
+    {
+      "english": "Brave beginnings bloom.",
+      "spanish": "Valientes comienzos florecen.",
+      "category": "Courage",
+      "generated_at": "2026-08-28T05:11:30.471904"
+    },
+    {
+      "english": "This 'quizás' is courage.",
+      "spanish": "Este 'quizás' es valor.",
+      "category": "Courage",
+      "generated_at": "2026-08-28T05:11:30.471925"
+    },
+    {
+      "english": "Feel the momentum, go!",
+      "spanish": "Siente el impulso, ¡vamos!",
+      "category": "Courage",
+      "generated_at": "2026-08-28T05:11:30.471946"
     }
   ],
-  "last_updated": "2026-08-28T02:23:34.961538",
+  "last_updated": "2026-08-28T05:11:30.471947",
   "used_english": [
-    "stop, hiding behind translation apps",
-    "stop, avoiding conversations, join one",
-    "stop, telling yourself 'i'm bad'",
-    "stop, translating every word, listen",
-    "this message found you for reason.",
     "stop doubting. you were chosen.",
     "the world needs your unique gift.",
     "what i learned from lowest point.",
@@ -21002,6 +20997,11 @@
     "believe in your 'lo puedo'.",
     "new doors open with practice.",
     "embrace the beautiful learning curve.",
-    "this 'sí' opens a world."
+    "this 'sí' opens a world.",
+    "what if fear whispers 'no'?",
+    "your 'lo intenté' counts.",
+    "brave beginnings bloom.",
+    "this 'quizás' is courage.",
+    "feel the momentum, go!"
   ]
 }
