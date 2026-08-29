@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop, choose words you love",
-      "spanish": "Para, elige palabras que ames",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-17T16:46:16.778144"
-    },
-    {
-      "english": "Never, trade mistakes for silence",
-      "spanish": "Nunca, cambies errores por silencio",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-17T16:46:16.778147"
-    },
-    {
-      "english": "Never, delay one brave word",
-      "spanish": "Nunca, retrases una palabra valiente",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-17T16:46:16.778150"
-    },
-    {
-      "english": "This is why, tiny talks win",
-      "spanish": "Por eso, las mini charlas ganan",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-17T16:46:16.778153"
-    },
-    {
-      "english": "Stop chasing perfection, savor joy",
-      "spanish": "Deja la perfección, saborea la alegría",
-      "category": "Happiness",
-      "generated_at": "2026-03-17T18:10:50.427723"
-    },
-    {
       "english": "Never learn alone, invite smiles",
       "spanish": "Nunca estudies solo, invita sonrisas",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Por qué la 'e' se siente alegría?",
       "category": "Success",
       "generated_at": "2026-08-29T18:13:04.897037"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "spanish": "Lento, seguro gana.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T19:34:37.256529"
+    },
+    {
+      "english": "This moment, just breathe.",
+      "spanish": "Este momento, respira.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T19:34:37.256563"
+    },
+    {
+      "english": "Don't rush the beautiful process.",
+      "spanish": "No apures el proceso.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T19:34:37.256590"
+    },
+    {
+      "english": "One day, it clicks.",
+      "spanish": "Un día, hace clic.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T19:34:37.256614"
+    },
+    {
+      "english": "This quiet effort matters.",
+      "spanish": "Este esfuerzo callado importa.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T19:34:37.256640"
     }
   ],
-  "last_updated": "2026-08-29T18:13:04.897042",
+  "last_updated": "2026-08-29T19:34:37.256642",
   "used_english": [
-    "stop, choose words you love",
-    "never, trade mistakes for silence",
-    "never, delay one brave word",
-    "this is why, tiny talks win",
-    "stop chasing perfection, savor joy",
     "never learn alone, invite smiles",
     "this is why, mistakes make joy",
     "the secret, laugh while learning",
@@ -21002,6 +20997,11 @@
     "this vowel is pure sunshine.",
     "your progress? amazing, truly.",
     "speak this sound, feel alive.",
-    "why 'e' feels like joy?"
+    "why 'e' feels like joy?",
+    "slow and steady wins.",
+    "this moment, just breathe.",
+    "don't rush the beautiful process.",
+    "one day, it clicks.",
+    "this quiet effort matters."
   ]
 }
