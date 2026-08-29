@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never rush practice, tiny wins matter",
-      "spanish": "Nunca apresures la práctica, importan pequeños logros",
-      "category": "Patience",
-      "generated_at": "2026-03-17T05:40:48.912373"
-    },
-    {
-      "english": "This is why slow beats fast",
-      "spanish": "Por eso, lo lento vence a lo rápido",
-      "category": "Patience",
-      "generated_at": "2026-03-17T05:40:48.912376"
-    },
-    {
-      "english": "The secret, patience grows confidence",
-      "spanish": "El secreto, la paciencia crea confianza",
-      "category": "Patience",
-      "generated_at": "2026-03-17T05:40:48.912379"
-    },
-    {
-      "english": "What nobody tells you, small steps",
-      "spanish": "Lo que nadie te dice, pasos pequeños",
-      "category": "Patience",
-      "generated_at": "2026-03-17T05:40:48.912382"
-    },
-    {
-      "english": "Stop, say one imperfect sentence",
-      "spanish": "Para, di una frase imperfecta",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-17T16:46:16.778132"
-    },
-    {
       "english": "Stop, choose words you love",
       "spanish": "Para, elige palabras que ames",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "Este 'buen día' se siente cálido.",
       "category": "Joy",
       "generated_at": "2026-08-29T17:02:14.829635"
+    },
+    {
+      "english": "Feel this 'a' sound.",
+      "spanish": "Siente este sonido 'a'.",
+      "category": "Success",
+      "generated_at": "2026-08-29T18:13:04.896915"
+    },
+    {
+      "english": "This vowel is pure sunshine.",
+      "spanish": "Esta vocal es puro sol.",
+      "category": "Success",
+      "generated_at": "2026-08-29T18:13:04.896951"
+    },
+    {
+      "english": "Your progress? Amazing, truly.",
+      "spanish": "¿Tu progreso? Increíble, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-08-29T18:13:04.896979"
+    },
+    {
+      "english": "Speak this sound, feel alive.",
+      "spanish": "Di este sonido, siéntete vivo.",
+      "category": "Success",
+      "generated_at": "2026-08-29T18:13:04.897006"
+    },
+    {
+      "english": "Why 'e' feels like joy?",
+      "spanish": "¿Por qué la 'e' se siente alegría?",
+      "category": "Success",
+      "generated_at": "2026-08-29T18:13:04.897037"
     }
   ],
-  "last_updated": "2026-08-29T17:02:14.829638",
+  "last_updated": "2026-08-29T18:13:04.897042",
   "used_english": [
-    "never rush practice, tiny wins matter",
-    "this is why slow beats fast",
-    "the secret, patience grows confidence",
-    "what nobody tells you, small steps",
-    "stop, say one imperfect sentence",
     "stop, choose words you love",
     "never, trade mistakes for silence",
     "never, delay one brave word",
@@ -21002,6 +20997,11 @@
     "your joy is contagious.",
     "feel this 'qué onda' vibe.",
     "dare to say 'me alegra'.",
-    "this 'buen día' feels warm."
+    "this 'buen día' feels warm.",
+    "feel this 'a' sound.",
+    "this vowel is pure sunshine.",
+    "your progress? amazing, truly.",
+    "speak this sound, feel alive.",
+    "why 'e' feels like joy?"
   ]
 }
