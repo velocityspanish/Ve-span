@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, mute your Spanish voice",
-      "spanish": "Nunca, no calles tu voz en español",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T21:04:23.375684"
-    },
-    {
-      "english": "This is why, one sentence matters",
-      "spanish": "Por eso, una frase importa",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T21:04:23.375690"
-    },
-    {
-      "english": "The secret, is tiny daily risks",
-      "spanish": "El secreto, son pequeños riesgos diarios",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T21:04:23.375696"
-    },
-    {
-      "english": "What nobody tells you, your accent charms",
-      "spanish": "Lo que nadie te dice, tu acento enamora",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T21:04:23.375701"
-    },
-    {
-      "english": "Stop, whisper Spanish to yourself",
-      "spanish": "Deja, susurra español a ti mismo",
-      "category": "Creativity",
-      "generated_at": "2026-03-16T22:07:35.015043"
-    },
-    {
       "english": "Never, schedule practice, sin excuses",
       "spanish": "Nunca, programa práctica, sin excusas",
       "category": "Creativity",
@@ -17999,15 +17969,40 @@
       "spanish": "Susurra 'lo siento', halla calma.",
       "category": "Forgiveness",
       "generated_at": "2026-08-29T00:48:56.751659"
+    },
+    {
+      "english": "Your next word, unlock joy.",
+      "spanish": "Tu próxima palabra, libera alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-08-29T01:57:40.329398"
+    },
+    {
+      "english": "This 'y' feels like freedom.",
+      "spanish": "Este 'y' se siente libre.",
+      "category": "Happiness",
+      "generated_at": "2026-08-29T01:57:40.329439"
+    },
+    {
+      "english": "Why 'bien' feels so good?",
+      "spanish": "¿Por qué 'bien' se siente bien?",
+      "category": "Happiness",
+      "generated_at": "2026-08-29T01:57:40.329474"
+    },
+    {
+      "english": "A little 'sí', much happiness.",
+      "spanish": "Un poco 'sí', mucha felicidad.",
+      "category": "Happiness",
+      "generated_at": "2026-08-29T01:57:40.329504"
+    },
+    {
+      "english": "Your voice, a happy sound.",
+      "spanish": "Tu voz, un sonido feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-08-29T01:57:40.329531"
     }
   ],
-  "last_updated": "2026-08-29T00:48:56.751661",
+  "last_updated": "2026-08-29T01:57:40.329533",
   "used_english": [
-    "never, mute your spanish voice",
-    "this is why, one sentence matters",
-    "the secret, is tiny daily risks",
-    "what nobody tells you, your accent charms",
-    "stop, whisper spanish to yourself",
     "never, schedule practice, sin excuses",
     "this is why, mimic their rhythm, not words",
     "the secret, copy one native phrase",
@@ -21002,6 +20997,11 @@
     "release the old, embrace.",
     "letting go feels amazing.",
     "one act, pure freedom.",
-    "whisper 'lo siento', find calm."
+    "whisper 'lo siento', find calm.",
+    "your next word, unlock joy.",
+    "this 'y' feels like freedom.",
+    "why 'bien' feels so good?",
+    "a little 'sí', much happiness.",
+    "your voice, a happy sound."
   ]
 }
