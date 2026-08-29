@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop, use feelings as flashcards",
-      "spanish": "Para, usa sentimientos como fichas",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-17T19:58:25.111298"
-    },
-    {
-      "english": "Never, speak from translation mode",
-      "spanish": "Nunca, habla en modo traducción",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-17T19:58:25.111302"
-    },
-    {
-      "english": "Never, let rules steal joy",
-      "spanish": "Nunca, dejes que las reglas roben alegría",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-17T19:58:25.111306"
-    },
-    {
-      "english": "This is why, start with hello",
-      "spanish": "Por eso, empieza con 'hola'",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-17T19:58:25.111314"
-    },
-    {
-      "english": "Stop, say one new word today",
-      "spanish": "Para, di hoy una palabra nueva",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T21:03:57.984937"
-    },
-    {
       "english": "Stop waiting, Spanish opens doors",
       "spanish": "Deja de esperar, el español abre puertas",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu 'hasta luego' conecta.",
       "category": "Kindness",
       "generated_at": "2026-08-29T21:23:07.702523"
+    },
+    {
+      "english": "Your heart's secret language.",
+      "spanish": "El lenguaje secreto de tu corazón.",
+      "category": "Love",
+      "generated_at": "2026-08-29T23:11:45.536371"
+    },
+    {
+      "english": "Feel this tender 'cariño'.",
+      "spanish": "Siente este tierno 'cariño'.",
+      "category": "Love",
+      "generated_at": "2026-08-29T23:11:45.536407"
+    },
+    {
+      "english": "Your soulmate's waiting, maybe?",
+      "spanish": "¿Tu alma gemela espera, quizás?",
+      "category": "Love",
+      "generated_at": "2026-08-29T23:11:45.536435"
+    },
+    {
+      "english": "This 'te amo' feels real.",
+      "spanish": "Este 'te amo' se siente real.",
+      "category": "Love",
+      "generated_at": "2026-08-29T23:11:45.536461"
+    },
+    {
+      "english": "Embrace this sweet connection.",
+      "spanish": "Abraza esta dulce conexión.",
+      "category": "Love",
+      "generated_at": "2026-08-29T23:11:45.536489"
     }
   ],
-  "last_updated": "2026-08-29T21:23:07.702525",
+  "last_updated": "2026-08-29T23:11:45.536491",
   "used_english": [
-    "stop, use feelings as flashcards",
-    "never, speak from translation mode",
-    "never, let rules steal joy",
-    "this is why, start with hello",
-    "stop, say one new word today",
     "stop waiting, spanish opens doors",
     "stop scrolling, learn one sentence now",
     "stop saying you don't belong",
@@ -21002,6 +20997,11 @@
     "curious about 'qué tal'?",
     "your 'salud' wishes well.",
     "why 'vale' is essential.",
-    "your 'hasta luego' connects."
+    "your 'hasta luego' connects.",
+    "your heart's secret language.",
+    "feel this tender 'cariño'.",
+    "your soulmate's waiting, maybe?",
+    "this 'te amo' feels real.",
+    "embrace this sweet connection."
   ]
 }
