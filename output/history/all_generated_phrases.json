@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, say one word now",
-      "spanish": "Nunca esperes, di una palabra ahora",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T19:56:50.599352"
-    },
-    {
-      "english": "This is why, messy practice beats perfection",
-      "spanish": "Por eso, la práctica desordenada vence la perfección",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T19:56:50.599355"
-    },
-    {
-      "english": "The secret, record your voice tonight",
-      "spanish": "El secreto, graba tu voz esta noche",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T19:56:50.599358"
-    },
-    {
-      "english": "What nobody tells you, boredom births fluency",
-      "spanish": "Lo que nadie dice, el aburrimiento crea fluidez",
-      "category": "Motivation",
-      "generated_at": "2026-03-16T19:56:50.599360"
-    },
-    {
-      "english": "Stop, learn words that stick",
-      "spanish": "Para, aprende palabras que perduran",
-      "category": "Inspiration",
-      "generated_at": "2026-03-16T21:04:23.375671"
-    },
-    {
       "english": "Never, mute your Spanish voice",
       "spanish": "Nunca, no calles tu voz en español",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta calma es tuya.",
       "category": "Inner Peace",
       "generated_at": "2026-08-28T23:54:12.047828"
+    },
+    {
+      "english": "What if you forgave?",
+      "spanish": "¿Y si perdonaras?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-29T00:48:56.751547"
+    },
+    {
+      "english": "Release the old, embrace.",
+      "spanish": "Suelta lo viejo, abraza.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-29T00:48:56.751582"
+    },
+    {
+      "english": "Letting go feels amazing.",
+      "spanish": "Soltar se siente increíble.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-29T00:48:56.751609"
+    },
+    {
+      "english": "One act, pure freedom.",
+      "spanish": "Un acto, pura libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-29T00:48:56.751633"
+    },
+    {
+      "english": "Whisper 'lo siento', find calm.",
+      "spanish": "Susurra 'lo siento', halla calma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-29T00:48:56.751659"
     }
   ],
-  "last_updated": "2026-08-28T23:54:12.047830",
+  "last_updated": "2026-08-29T00:48:56.751661",
   "used_english": [
-    "never wait, say one word now",
-    "this is why, messy practice beats perfection",
-    "the secret, record your voice tonight",
-    "what nobody tells you, boredom births fluency",
-    "stop, learn words that stick",
     "never, mute your spanish voice",
     "this is why, one sentence matters",
     "the secret, is tiny daily risks",
@@ -21002,6 +20997,11 @@
     "whispers of inner quiet.",
     "your steady heart beats.",
     "find stillness, feel it.",
-    "this calm is yours."
+    "this calm is yours.",
+    "what if you forgave?",
+    "release the old, embrace.",
+    "letting go feels amazing.",
+    "one act, pure freedom.",
+    "whisper 'lo siento', find calm."
   ]
 }
