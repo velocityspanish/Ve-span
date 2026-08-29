@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never learn alone, invite smiles",
-      "spanish": "Nunca estudies solo, invita sonrisas",
-      "category": "Happiness",
-      "generated_at": "2026-03-17T18:10:50.427734"
-    },
-    {
-      "english": "This is why, mistakes make joy",
-      "spanish": "Por eso, los errores traen alegría",
-      "category": "Happiness",
-      "generated_at": "2026-03-17T18:10:50.427738"
-    },
-    {
-      "english": "The secret, laugh while learning",
-      "spanish": "El secreto, ríe mientras aprendes",
-      "category": "Happiness",
-      "generated_at": "2026-03-17T18:10:50.427741"
-    },
-    {
-      "english": "What nobody tells you, joy multiplies",
-      "spanish": "Lo que nadie te dice, la alegría crece",
-      "category": "Happiness",
-      "generated_at": "2026-03-17T18:10:50.427744"
-    },
-    {
-      "english": "Stop, make one silly mistake",
-      "spanish": "Para, comete un error tonto",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-17T19:58:25.111285"
-    },
-    {
       "english": "Stop, use feelings as flashcards",
       "spanish": "Para, usa sentimientos como fichas",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Este esfuerzo callado importa.",
       "category": "Patience",
       "generated_at": "2026-08-29T19:34:37.256640"
+    },
+    {
+      "english": "This 'por favor' matters.",
+      "spanish": "Este 'por favor' importa.",
+      "category": "Kindness",
+      "generated_at": "2026-08-29T21:23:07.702373"
+    },
+    {
+      "english": "Curious about 'qué tal'?",
+      "spanish": "¿Curioso sobre 'qué tal'?",
+      "category": "Kindness",
+      "generated_at": "2026-08-29T21:23:07.702412"
+    },
+    {
+      "english": "Your 'salud' wishes well.",
+      "spanish": "Tu 'salud' desea bien.",
+      "category": "Kindness",
+      "generated_at": "2026-08-29T21:23:07.702440"
+    },
+    {
+      "english": "Why 'vale' is essential.",
+      "spanish": "¿Por qué 'vale' es esencial?",
+      "category": "Kindness",
+      "generated_at": "2026-08-29T21:23:07.702493"
+    },
+    {
+      "english": "Your 'hasta luego' connects.",
+      "spanish": "Tu 'hasta luego' conecta.",
+      "category": "Kindness",
+      "generated_at": "2026-08-29T21:23:07.702523"
     }
   ],
-  "last_updated": "2026-08-29T19:34:37.256642",
+  "last_updated": "2026-08-29T21:23:07.702525",
   "used_english": [
-    "never learn alone, invite smiles",
-    "this is why, mistakes make joy",
-    "the secret, laugh while learning",
-    "what nobody tells you, joy multiplies",
-    "stop, make one silly mistake",
     "stop, use feelings as flashcards",
     "never, speak from translation mode",
     "never, let rules steal joy",
@@ -21002,6 +20997,11 @@
     "this moment, just breathe.",
     "don't rush the beautiful process.",
     "one day, it clicks.",
-    "this quiet effort matters."
+    "this quiet effort matters.",
+    "this 'por favor' matters.",
+    "curious about 'qué tal'?",
+    "your 'salud' wishes well.",
+    "why 'vale' is essential.",
+    "your 'hasta luego' connects."
   ]
 }
