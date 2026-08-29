@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, schedule practice, sin excuses",
-      "spanish": "Nunca, programa práctica, sin excusas",
-      "category": "Creativity",
-      "generated_at": "2026-03-16T22:07:35.015054"
-    },
-    {
-      "english": "This is why, mimic their rhythm, not words",
-      "spanish": "Por eso, imita su ritmo, no palabras",
-      "category": "Creativity",
-      "generated_at": "2026-03-16T22:07:35.015057"
-    },
-    {
-      "english": "The secret, copy one native phrase",
-      "spanish": "El secreto, copia una frase nativa",
-      "category": "Creativity",
-      "generated_at": "2026-03-16T22:07:35.015059"
-    },
-    {
-      "english": "What nobody tells you, accents can charm",
-      "spanish": "Lo que nadie te dice, tu acento enamora",
-      "category": "Creativity",
-      "generated_at": "2026-03-16T22:07:35.015062"
-    },
-    {
-      "english": "Stop, borrow native melodies daily",
-      "spanish": "Para, toma melodías nativas a diario",
-      "category": "Creativity",
-      "generated_at": "2026-03-16T23:58:08.042103"
-    },
-    {
       "english": "Never, translate feelings, mimic them",
       "spanish": "Nunca, traduzcas sentimientos, imítalos",
       "category": "Creativity",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu voz, un sonido feliz.",
       "category": "Happiness",
       "generated_at": "2026-08-29T01:57:40.329531"
+    },
+    {
+      "english": "This 'vale' is your permission.",
+      "spanish": "Este 'vale' es tu permiso.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T03:07:52.545922"
+    },
+    {
+      "english": "Feel this 'gracias' embrace.",
+      "spanish": "Siente este abrazo 'gracias'.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T03:07:52.545958"
+    },
+    {
+      "english": "Your 'olé' unleashes joy.",
+      "spanish": "Tu 'olé' desata alegría.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T03:07:52.545986"
+    },
+    {
+      "english": "Dare to say 'con permiso'.",
+      "spanish": "Atrévete a decir 'con permiso'.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T03:07:52.546013"
+    },
+    {
+      "english": "This 'bueno' feels so good.",
+      "spanish": "Este 'bueno' se siente bien.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T03:07:52.546040"
     }
   ],
-  "last_updated": "2026-08-29T01:57:40.329533",
+  "last_updated": "2026-08-29T03:07:52.546041",
   "used_english": [
-    "never, schedule practice, sin excuses",
-    "this is why, mimic their rhythm, not words",
-    "the secret, copy one native phrase",
-    "what nobody tells you, accents can charm",
-    "stop, borrow native melodies daily",
     "never, translate feelings, mimic them",
     "this is why, creativity beats grammar",
     "the secret, invent silly mini conversations",
@@ -21002,6 +20997,11 @@
     "this 'y' feels like freedom.",
     "why 'bien' feels so good?",
     "a little 'sí', much happiness.",
-    "your voice, a happy sound."
+    "your voice, a happy sound.",
+    "this 'vale' is your permission.",
+    "feel this 'gracias' embrace.",
+    "your 'olé' unleashes joy.",
+    "dare to say 'con permiso'.",
+    "this 'bueno' feels so good."
   ]
 }
