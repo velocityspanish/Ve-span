@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never let 'gracias' sound empty",
-      "spanish": "Nunca dejes que 'gracias' suene vacío",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T05:47:16.034032"
-    },
-    {
-      "english": "This is why, add feeling after 'gracias'",
-      "spanish": "Por eso, añade sentimiento tras 'gracias'",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T05:47:16.034035"
-    },
-    {
-      "english": "The secret, two tiny gratitude phrases",
-      "spanish": "El secreto, dos frases pequeñas de gratitud",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T05:47:16.034038"
-    },
-    {
-      "english": "What nobody tells you, grateful phrasing wins",
-      "spanish": "Lo que nadie dice, palabras agradecidas ganan",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T05:47:16.034041"
-    },
-    {
-      "english": "Stop, trade grammar for stories",
-      "spanish": "Para, cambia gramática por historias",
-      "category": "Hope",
-      "generated_at": "2026-03-18T16:43:09.823049"
-    },
-    {
       "english": "Stop, message a native tonight",
       "spanish": "Para, manda un mensaje a un nativo",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "La alegría de sonrisas entendidas.",
       "category": "Confidence",
       "generated_at": "2026-08-30T19:35:25.455379"
+    },
+    {
+      "english": "Quiet effort speaks volumes.",
+      "spanish": "Esfuerzo callado dice mucho.",
+      "category": "Patience",
+      "generated_at": "2026-08-30T21:44:04.347519"
+    },
+    {
+      "english": "This subtle sound is key.",
+      "spanish": "Este sonido sutil es clave.",
+      "category": "Patience",
+      "generated_at": "2026-08-30T21:44:04.347556"
+    },
+    {
+      "english": "Feel the 'gn' magic.",
+      "spanish": "Siente la magia 'gn'.",
+      "category": "Patience",
+      "generated_at": "2026-08-30T21:44:04.347582"
+    },
+    {
+      "english": "Why this 'j' is different.",
+      "spanish": "¿Por qué esta 'j' es diferente?",
+      "category": "Patience",
+      "generated_at": "2026-08-30T21:44:04.347609"
+    },
+    {
+      "english": "Don't let errors stop you.",
+      "spanish": "No dejes que errores te detengan.",
+      "category": "Patience",
+      "generated_at": "2026-08-30T21:44:04.347641"
     }
   ],
-  "last_updated": "2026-08-30T19:35:25.455380",
+  "last_updated": "2026-08-30T21:44:04.347644",
   "used_english": [
-    "never let 'gracias' sound empty",
-    "this is why, add feeling after 'gracias'",
-    "the secret, two tiny gratitude phrases",
-    "what nobody tells you, grateful phrasing wins",
-    "stop, trade grammar for stories",
     "stop, message a native tonight",
     "stop, record one awkward sentence",
     "stop, repeat their melody daily",
@@ -21002,6 +20997,11 @@
     "you're not alone in learning.",
     "this small word has power.",
     "your journey, embraced fully.",
-    "the joy of understanding smiles."
+    "the joy of understanding smiles.",
+    "quiet effort speaks volumes.",
+    "this subtle sound is key.",
+    "feel the 'gn' magic.",
+    "why this 'j' is different.",
+    "don't let errors stop you."
   ]
 }
