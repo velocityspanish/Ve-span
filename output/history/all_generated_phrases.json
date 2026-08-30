@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, say 'gracias' too fast",
-      "spanish": "Nunca digas 'gracias' tan rápido",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T00:02:43.891682"
-    },
-    {
-      "english": "This is why, gracias feels magical",
-      "spanish": "Por eso, 'gracias' suena mágico",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T00:02:43.891685"
-    },
-    {
-      "english": "The secret, add feeling to gracias",
-      "spanish": "El secreto, añade emoción a 'gracias'",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T00:02:43.891688"
-    },
-    {
-      "english": "What nobody tells you, gratitude opens doors",
-      "spanish": "Lo que nadie dice, la gratitud abre puertas",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T00:02:43.891691"
-    },
-    {
-      "english": "Stop saying only 'gracias', use this",
-      "spanish": "Deja de decir solo 'gracias', usa esto",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T05:47:16.034021"
-    },
-    {
       "english": "Never let 'gracias' sound empty",
       "spanish": "Nunca dejes que 'gracias' suene vacío",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu viaje español único comienza.",
       "category": "Self Improvement",
       "generated_at": "2026-08-30T18:28:17.935425"
+    },
+    {
+      "english": "Why this grammar rule? Magic!",
+      "spanish": "¿Por qué esta regla? ¡Magia!",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T19:35:25.455284"
+    },
+    {
+      "english": "You're not alone in learning.",
+      "spanish": "No estás solo aprendiendo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T19:35:25.455317"
+    },
+    {
+      "english": "This small word has power.",
+      "spanish": "Esta palabrita tiene poder.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T19:35:25.455337"
+    },
+    {
+      "english": "Your journey, embraced fully.",
+      "spanish": "Tu viaje, abrázalo completo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T19:35:25.455359"
+    },
+    {
+      "english": "The joy of understanding smiles.",
+      "spanish": "La alegría de sonrisas entendidas.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T19:35:25.455379"
     }
   ],
-  "last_updated": "2026-08-30T18:28:17.935427",
+  "last_updated": "2026-08-30T19:35:25.455380",
   "used_english": [
-    "never, say 'gracias' too fast",
-    "this is why, gracias feels magical",
-    "the secret, add feeling to gracias",
-    "what nobody tells you, gratitude opens doors",
-    "stop saying only 'gracias', use this",
     "never let 'gracias' sound empty",
     "this is why, add feeling after 'gracias'",
     "the secret, two tiny gratitude phrases",
@@ -21002,6 +20997,11 @@
     "curious about this language trick?",
     "your quiet practice is key.",
     "this 'hola' opens new doors.",
-    "your unique spanish journey starts."
+    "your unique spanish journey starts.",
+    "why this grammar rule? magic!",
+    "you're not alone in learning.",
+    "this small word has power.",
+    "your journey, embraced fully.",
+    "the joy of understanding smiles."
   ]
 }
