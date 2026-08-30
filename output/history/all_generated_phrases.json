@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, fear wrong words, speak",
-      "spanish": "Nunca temas las palabras equivocadas, habla",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T22:06:57.941959"
-    },
-    {
-      "english": "This is why, brave speakers get noticed",
-      "spanish": "Por eso, los valientes se notan",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T22:06:57.941963"
-    },
-    {
-      "english": "The secret, drop perfection, find fluency",
-      "spanish": "El secreto, suelta la perfección, logra fluidez",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T22:06:57.941966"
-    },
-    {
-      "english": "Stop, comparing yourself, speak anyway",
-      "spanish": "Deja de compararte, habla igual",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T22:06:57.941969"
-    },
-    {
-      "english": "Stop, thank like a native",
-      "spanish": "Para, agradece como un nativo",
-      "category": "Gratitude",
-      "generated_at": "2026-03-18T00:02:43.891671"
-    },
-    {
       "english": "Never, say 'gracias' too fast",
       "spanish": "Nunca digas 'gracias' tan rápido",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha más, habla menos. Aprende.",
       "category": "Kindness",
       "generated_at": "2026-08-30T17:14:59.099792"
+    },
+    {
+      "english": "Your next word matters, choose wisely.",
+      "spanish": "Tu próxima palabra importa, elige bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-30T18:28:17.935307"
+    },
+    {
+      "english": "Curious about this language trick?",
+      "spanish": "¿Curioso sobre este truco?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-30T18:28:17.935342"
+    },
+    {
+      "english": "Your quiet practice is key.",
+      "spanish": "Tu práctica silenciosa es clave.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-30T18:28:17.935371"
+    },
+    {
+      "english": "This 'hola' opens new doors.",
+      "spanish": "Este 'hola' abre nuevas puertas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-30T18:28:17.935399"
+    },
+    {
+      "english": "Your unique Spanish journey starts.",
+      "spanish": "Tu viaje español único comienza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-30T18:28:17.935425"
     }
   ],
-  "last_updated": "2026-08-30T17:14:59.099794",
+  "last_updated": "2026-08-30T18:28:17.935427",
   "used_english": [
-    "never, fear wrong words, speak",
-    "this is why, brave speakers get noticed",
-    "the secret, drop perfection, find fluency",
-    "stop, comparing yourself, speak anyway",
-    "stop, thank like a native",
     "never, say 'gracias' too fast",
     "this is why, gracias feels magical",
     "the secret, add feeling to gracias",
@@ -21002,6 +20997,11 @@
     "why saying 'gracias' matters.",
     "feel the warmth of 'por favor'.",
     "dare to be helpful, always.",
-    "listen more, speak less. learn."
+    "listen more, speak less. learn.",
+    "your next word matters, choose wisely.",
+    "curious about this language trick?",
+    "your quiet practice is key.",
+    "this 'hola' opens new doors.",
+    "your unique spanish journey starts."
   ]
 }
