@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop, message a native tonight",
-      "spanish": "Para, manda un mensaje a un nativo",
-      "category": "Hope",
-      "generated_at": "2026-03-18T16:43:09.823060"
-    },
-    {
-      "english": "Stop, record one awkward sentence",
-      "spanish": "Para, graba una frase incómoda",
-      "category": "Hope",
-      "generated_at": "2026-03-18T16:43:09.823063"
-    },
-    {
-      "english": "Stop, repeat their melody daily",
-      "spanish": "Para, repite su melodía cada día",
-      "category": "Hope",
-      "generated_at": "2026-03-18T16:43:09.823066"
-    },
-    {
-      "english": "Never, hide behind subtitles again",
-      "spanish": "Nunca, te escondas detrás de subtítulos otra vez",
-      "category": "Hope",
-      "generated_at": "2026-03-18T16:43:09.823069"
-    },
-    {
-      "english": "Stop, forgive yourself, say 'perdón'.",
-      "spanish": "Detente, perdónate, di 'perdón'.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T18:13:04.545328"
-    },
-    {
       "english": "Never hold grudges, try 'lo siento'.",
       "spanish": "Nunca guardes rencor, di 'lo siento'.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "No dejes que errores te detengan.",
       "category": "Patience",
       "generated_at": "2026-08-30T21:44:04.347641"
+    },
+    {
+      "english": "This word ends your struggles.",
+      "spanish": "Esta palabra acaba tus luchas.",
+      "category": "Patience",
+      "generated_at": "2026-08-30T23:20:49.385103"
+    },
+    {
+      "english": "Why is 'despacio' vital?",
+      "spanish": "¿Por qué 'despacio' es vital?",
+      "category": "Patience",
+      "generated_at": "2026-08-30T23:20:49.385137"
+    },
+    {
+      "english": "Small wins build your Spanish.",
+      "spanish": "Pequeñas victorias construyen tu español.",
+      "category": "Patience",
+      "generated_at": "2026-08-30T23:20:49.385165"
+    },
+    {
+      "english": "This sounds impossible, try.",
+      "spanish": "Esto suena imposible, intenta.",
+      "category": "Patience",
+      "generated_at": "2026-08-30T23:20:49.385193"
+    },
+    {
+      "english": "One month changes your perspective.",
+      "spanish": "Un mes cambia tu perspectiva.",
+      "category": "Patience",
+      "generated_at": "2026-08-30T23:20:49.385218"
     }
   ],
-  "last_updated": "2026-08-30T21:44:04.347644",
+  "last_updated": "2026-08-30T23:20:49.385220",
   "used_english": [
-    "stop, message a native tonight",
-    "stop, record one awkward sentence",
-    "stop, repeat their melody daily",
-    "never, hide behind subtitles again",
-    "stop, forgive yourself, say 'perdón'.",
     "never hold grudges, try 'lo siento'.",
     "this is why, 'perdón' frees you.",
     "the secret, forgive fast, say 'perdón'.",
@@ -21002,6 +20997,11 @@
     "this subtle sound is key.",
     "feel the 'gn' magic.",
     "why this 'j' is different.",
-    "don't let errors stop you."
+    "don't let errors stop you.",
+    "this word ends your struggles.",
+    "why is 'despacio' vital?",
+    "small wins build your spanish.",
+    "this sounds impossible, try.",
+    "one month changes your perspective."
   ]
 }
