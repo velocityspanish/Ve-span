@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop waiting, Spanish opens doors",
-      "spanish": "Deja de esperar, el español abre puertas",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T21:03:57.984948"
-    },
-    {
-      "english": "Stop scrolling, learn one sentence now",
-      "spanish": "Deja de mirar, aprende una frase ahora",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T21:03:57.984951"
-    },
-    {
-      "english": "Stop saying you don't belong",
-      "spanish": "Deja de decir que no encajas",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T21:03:57.984954"
-    },
-    {
-      "english": "Stop collecting words, speak them",
-      "spanish": "Deja de acumular palabras, úsalas",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T21:03:57.984957"
-    },
-    {
-      "english": "Stop, waiting, your voice matters",
-      "spanish": "Deja de esperar, tu voz importa",
-      "category": "Inspiration",
-      "generated_at": "2026-03-17T22:06:57.941947"
-    },
-    {
       "english": "Never, fear wrong words, speak",
       "spanish": "Nunca temas las palabras equivocadas, habla",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza esta dulce conexión.",
       "category": "Love",
       "generated_at": "2026-08-29T23:11:45.536489"
+    },
+    {
+      "english": "This little word unlocks kindness.",
+      "spanish": "Esta palabra abre bondad.",
+      "category": "Kindness",
+      "generated_at": "2026-08-30T17:14:59.099674"
+    },
+    {
+      "english": "Why saying 'gracias' matters.",
+      "spanish": "¿Por qué importa decir 'gracias'?",
+      "category": "Kindness",
+      "generated_at": "2026-08-30T17:14:59.099709"
+    },
+    {
+      "english": "Feel the warmth of 'por favor'.",
+      "spanish": "Siente la calidez de 'por favor'.",
+      "category": "Kindness",
+      "generated_at": "2026-08-30T17:14:59.099737"
+    },
+    {
+      "english": "Dare to be helpful, always.",
+      "spanish": "Atrévete a ser útil, siempre.",
+      "category": "Kindness",
+      "generated_at": "2026-08-30T17:14:59.099764"
+    },
+    {
+      "english": "Listen more, speak less. Learn.",
+      "spanish": "Escucha más, habla menos. Aprende.",
+      "category": "Kindness",
+      "generated_at": "2026-08-30T17:14:59.099792"
     }
   ],
-  "last_updated": "2026-08-29T23:11:45.536491",
+  "last_updated": "2026-08-30T17:14:59.099794",
   "used_english": [
-    "stop waiting, spanish opens doors",
-    "stop scrolling, learn one sentence now",
-    "stop saying you don't belong",
-    "stop collecting words, speak them",
-    "stop, waiting, your voice matters",
     "never, fear wrong words, speak",
     "this is why, brave speakers get noticed",
     "the secret, drop perfection, find fluency",
@@ -21002,6 +20997,11 @@
     "feel this tender 'cariño'.",
     "your soulmate's waiting, maybe?",
     "this 'te amo' feels real.",
-    "embrace this sweet connection."
+    "embrace this sweet connection.",
+    "this little word unlocks kindness.",
+    "why saying 'gracias' matters.",
+    "feel the warmth of 'por favor'.",
+    "dare to be helpful, always.",
+    "listen more, speak less. learn."
   ]
 }
