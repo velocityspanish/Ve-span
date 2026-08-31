@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, let guilt live inside",
-      "spanish": "Nunca, dejes que la culpa viva adentro",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T22:04:42.862088"
-    },
-    {
-      "english": "This is why, sorry isn't enough",
-      "spanish": "Por eso, 'lo siento' no basta",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T22:04:42.862092"
-    },
-    {
-      "english": "The secret, heal first, then apologize",
-      "spanish": "El secreto, sana primero, pide disculpas",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T22:04:42.862096"
-    },
-    {
-      "english": "What nobody tells you, mercy frees you",
-      "spanish": "Lo que nadie dice, la misericordia te libera",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T22:04:42.862099"
-    },
-    {
-      "english": "Never, measure yourself by mistakes",
-      "spanish": "Nunca te midas por errores",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-18T23:57:39.478619"
-    },
-    {
       "english": "The secret, speak before you're ready",
       "spanish": "El secreto, habla antes de estar listo",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Un intento más, lo cambia todo.",
       "category": "Patience",
       "generated_at": "2026-08-31T21:42:23.333738"
+    },
+    {
+      "english": "Why 'h' is silent?",
+      "spanish": "¿Por qué la 'h' es muda?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T23:04:35.825284"
+    },
+    {
+      "english": "One 'r' roll, feels powerful.",
+      "spanish": "Una 'r' vibrante, se siente poderosa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T23:04:35.825321"
+    },
+    {
+      "english": "Your 'no' is okay.",
+      "spanish": "Tu 'no' está bien.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T23:04:35.825345"
+    },
+    {
+      "english": "This feeling? Progress whispers.",
+      "spanish": "¿Este sentimiento? El progreso susurra.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T23:04:35.825372"
+    },
+    {
+      "english": "What if 'b' sounds like 'v'?",
+      "spanish": "¿Y si la 'b' suena a 'v'?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T23:04:35.825399"
     }
   ],
-  "last_updated": "2026-08-31T21:42:23.333740",
+  "last_updated": "2026-08-31T23:04:35.825401",
   "used_english": [
-    "never, let guilt live inside",
-    "this is why, sorry isn't enough",
-    "the secret, heal first, then apologize",
-    "what nobody tells you, mercy frees you",
-    "never, measure yourself by mistakes",
     "the secret, speak before you're ready",
     "what nobody tells you, start ugly",
     "stop, rehearsing perfection, speak now",
@@ -21002,6 +20997,11 @@
     "don't fear the pause, it's learning.",
     "your 'not perfect' is beautiful.",
     "this feeling? progress is coming.",
-    "one more try, changes everything."
+    "one more try, changes everything.",
+    "why 'h' is silent?",
+    "one 'r' roll, feels powerful.",
+    "your 'no' is okay.",
+    "this feeling? progress whispers.",
+    "what if 'b' sounds like 'v'?"
   ]
 }
