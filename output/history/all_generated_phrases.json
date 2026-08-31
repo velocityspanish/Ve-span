@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never hold grudges, try 'lo siento'.",
-      "spanish": "Nunca guardes rencor, di 'lo siento'.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T18:13:04.545339"
-    },
-    {
-      "english": "This is why, 'perdón' frees you.",
-      "spanish": "Por eso, 'perdón' te libera.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T18:13:04.545343"
-    },
-    {
-      "english": "The secret, forgive fast, say 'perdón'.",
-      "spanish": "El secreto, perdona rápido, di 'perdón'.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T18:13:04.545346"
-    },
-    {
-      "english": "What nobody tells you, forgiving helps fluency.",
-      "spanish": "Lo que nadie dice, perdonar ayuda la fluidez.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T18:13:04.545349"
-    },
-    {
-      "english": "Stop hiding, your lovely mistakes",
-      "spanish": "Deja de esconder, tus hermosos errores",
-      "category": "Positive Life",
-      "generated_at": "2026-03-18T19:53:31.990056"
-    },
-    {
       "english": "Never, let fear keep you tiny",
       "spanish": "Nunca, dejes que el miedo te achique",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Un mes cambia tu perspectiva.",
       "category": "Patience",
       "generated_at": "2026-08-30T23:20:49.385218"
+    },
+    {
+      "english": "This 'vale' means permission.",
+      "spanish": "Este 'vale' significa permiso.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T19:26:10.883595"
+    },
+    {
+      "english": "Your 'lo logré' feels amazing.",
+      "spanish": "Tu 'lo logré' se siente increíble.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T19:26:10.883639"
+    },
+    {
+      "english": "This 'y' connects you more.",
+      "spanish": "Esta 'y' te conecta más.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T19:26:10.883669"
+    },
+    {
+      "english": "Your heart hears this 'gracias'.",
+      "spanish": "Tu corazón escucha este 'gracias'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T19:26:10.883697"
+    },
+    {
+      "english": "You belong here, speak now.",
+      "spanish": "Perteneces aquí, habla ahora.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-31T19:26:10.883726"
     }
   ],
-  "last_updated": "2026-08-30T23:20:49.385220",
+  "last_updated": "2026-08-31T19:26:10.883728",
   "used_english": [
-    "never hold grudges, try 'lo siento'.",
-    "this is why, 'perdón' frees you.",
-    "the secret, forgive fast, say 'perdón'.",
-    "what nobody tells you, forgiving helps fluency.",
-    "stop hiding, your lovely mistakes",
     "never, let fear keep you tiny",
     "this is why, one word changes everything",
     "the secret, speak like a friend",
@@ -21002,6 +20997,11 @@
     "why is 'despacio' vital?",
     "small wins build your spanish.",
     "this sounds impossible, try.",
-    "one month changes your perspective."
+    "one month changes your perspective.",
+    "this 'vale' means permission.",
+    "your 'lo logré' feels amazing.",
+    "this 'y' connects you more.",
+    "your heart hears this 'gracias'.",
+    "you belong here, speak now."
   ]
 }
