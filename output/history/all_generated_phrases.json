@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, let fear keep you tiny",
-      "spanish": "Nunca, dejes que el miedo te achique",
-      "category": "Positive Life",
-      "generated_at": "2026-03-18T19:53:31.990068"
-    },
-    {
-      "english": "This is why, one word changes everything",
-      "spanish": "Por eso, una palabra lo cambia todo",
-      "category": "Positive Life",
-      "generated_at": "2026-03-18T19:53:31.990071"
-    },
-    {
-      "english": "The secret, speak like a friend",
-      "spanish": "El secreto, habla como un amigo",
-      "category": "Positive Life",
-      "generated_at": "2026-03-18T19:53:31.990078"
-    },
-    {
-      "english": "Stop, waiting for others' permission",
-      "spanish": "Deja de, esperar permiso de otros",
-      "category": "Positive Life",
-      "generated_at": "2026-03-18T19:53:31.990082"
-    },
-    {
-      "english": "Stop labeling your accent, own it",
-      "spanish": "Deja tu acento, hazlo tuyo",
-      "category": "Balance",
-      "generated_at": "2026-03-18T21:01:26.144695"
-    },
-    {
       "english": "Never, let doubts steal your words",
       "spanish": "Nunca dejes que roben tus palabras",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "Perteneces aquí, habla ahora.",
       "category": "Self Improvement",
       "generated_at": "2026-08-31T19:26:10.883726"
+    },
+    {
+      "english": "Why the silence is golden?",
+      "spanish": "¿Por qué el silencio es oro?",
+      "category": "Perseverance",
+      "generated_at": "2026-08-31T20:42:58.681359"
+    },
+    {
+      "english": "Your 'I tried' is enough.",
+      "spanish": "Tu 'lo intenté' es suficiente.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-31T20:42:58.681394"
+    },
+    {
+      "english": "One month, a different you.",
+      "spanish": "Un mes, un yo diferente.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-31T20:42:58.681421"
+    },
+    {
+      "english": "Your 'lo haré' begins now.",
+      "spanish": "Tu 'lo haré' comienza ahora.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-31T20:42:58.681449"
+    },
+    {
+      "english": "Quiet practice, loud results.",
+      "spanish": "Práctica silenciosa, resultados altos.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-31T20:42:58.681477"
     }
   ],
-  "last_updated": "2026-08-31T19:26:10.883728",
+  "last_updated": "2026-08-31T20:42:58.681479",
   "used_english": [
-    "never, let fear keep you tiny",
-    "this is why, one word changes everything",
-    "the secret, speak like a friend",
-    "stop, waiting for others' permission",
-    "stop labeling your accent, own it",
     "never, let doubts steal your words",
     "the secret, imperfect words spark progress",
     "what nobody tells you... natives love mistakes",
@@ -21002,6 +20997,11 @@
     "your 'lo logré' feels amazing.",
     "this 'y' connects you more.",
     "your heart hears this 'gracias'.",
-    "you belong here, speak now."
+    "you belong here, speak now.",
+    "why the silence is golden?",
+    "your 'i tried' is enough.",
+    "one month, a different you.",
+    "your 'lo haré' begins now.",
+    "quiet practice, loud results."
   ]
 }
