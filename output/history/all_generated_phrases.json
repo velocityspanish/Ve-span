@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, let doubts steal your words",
-      "spanish": "Nunca dejes que roben tus palabras",
-      "category": "Balance",
-      "generated_at": "2026-03-18T21:01:26.144708"
-    },
-    {
-      "english": "The secret, imperfect words spark progress",
-      "spanish": "El secreto, palabras imperfectas generan progreso",
-      "category": "Balance",
-      "generated_at": "2026-03-18T21:01:26.144711"
-    },
-    {
-      "english": "What nobody tells you... natives love mistakes",
-      "spanish": "Lo que nadie dice, nativos aman errores",
-      "category": "Balance",
-      "generated_at": "2026-03-18T21:01:26.144714"
-    },
-    {
-      "english": "Stop, hiding behind 'I don't know'",
-      "spanish": "Deja de esconderte tras 'no sé'",
-      "category": "Balance",
-      "generated_at": "2026-03-18T21:01:26.144718"
-    },
-    {
-      "english": "Stop, carrying yesterday's weight, drop it",
-      "spanish": "Basta, con el peso de ayer, suéltalo",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-18T22:04:42.862074"
-    },
-    {
       "english": "Never, let guilt live inside",
       "spanish": "Nunca, dejes que la culpa viva adentro",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "Práctica silenciosa, resultados altos.",
       "category": "Perseverance",
       "generated_at": "2026-08-31T20:42:58.681477"
+    },
+    {
+      "english": "This quiet practice, unlocks fluency.",
+      "spanish": "Esta práctica silenciosa, desbloquea fluidez.",
+      "category": "Patience",
+      "generated_at": "2026-08-31T21:42:23.333624"
+    },
+    {
+      "english": "Don't fear the pause, it's learning.",
+      "spanish": "No temas la pausa, es aprendizaje.",
+      "category": "Patience",
+      "generated_at": "2026-08-31T21:42:23.333659"
+    },
+    {
+      "english": "Your 'not perfect' is beautiful.",
+      "spanish": "Tu 'no perfecto' es hermoso.",
+      "category": "Patience",
+      "generated_at": "2026-08-31T21:42:23.333686"
+    },
+    {
+      "english": "This feeling? Progress is coming.",
+      "spanish": "¿Esta sensación? El progreso viene.",
+      "category": "Patience",
+      "generated_at": "2026-08-31T21:42:23.333712"
+    },
+    {
+      "english": "One more try, changes everything.",
+      "spanish": "Un intento más, lo cambia todo.",
+      "category": "Patience",
+      "generated_at": "2026-08-31T21:42:23.333738"
     }
   ],
-  "last_updated": "2026-08-31T20:42:58.681479",
+  "last_updated": "2026-08-31T21:42:23.333740",
   "used_english": [
-    "never, let doubts steal your words",
-    "the secret, imperfect words spark progress",
-    "what nobody tells you... natives love mistakes",
-    "stop, hiding behind 'i don't know'",
-    "stop, carrying yesterday's weight, drop it",
     "never, let guilt live inside",
     "this is why, sorry isn't enough",
     "the secret, heal first, then apologize",
@@ -21002,6 +20997,11 @@
     "your 'i tried' is enough.",
     "one month, a different you.",
     "your 'lo haré' begins now.",
-    "quiet practice, loud results."
+    "quiet practice, loud results.",
+    "this quiet practice, unlocks fluency.",
+    "don't fear the pause, it's learning.",
+    "your 'not perfect' is beautiful.",
+    "this feeling? progress is coming.",
+    "one more try, changes everything."
   ]
 }
