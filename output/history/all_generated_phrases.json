@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The pain you feel is growth.",
-      "spanish": "El dolor que sientes es crecimiento.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-19T05:44:06.327558"
-    },
-    {
-      "english": "Why most people give up soon.",
-      "spanish": "Por qué la mayoría se rinde pronto.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-19T05:44:06.327561"
-    },
-    {
-      "english": "This separates winners from losers.",
-      "spanish": "Esto separa ganadores de perdedores.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-19T05:44:06.327565"
-    },
-    {
-      "english": "Keep going. Your moment is coming.",
-      "spanish": "Sigue yendo. Tu momento está llegando.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-19T05:44:06.327568"
-    },
-    {
-      "english": "Stop holding grudges, say 'lo siento'.",
-      "spanish": "Deja el rencor, di 'lo siento'.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-19T11:19:15.357965"
-    },
-    {
       "english": "Never, blame yourself too long.",
       "spanish": "Nunca, te culpes demasiado.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "Este cambio de vocal es clave.",
       "category": "Creativity",
       "generated_at": "2026-09-01T00:31:22.888681"
+    },
+    {
+      "english": "Your pronunciation? Improving, fast.",
+      "spanish": "Tu pronunciación? Mejorando, rápido.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-01T17:12:51.062960"
+    },
+    {
+      "english": "The secret? Listen actively, always.",
+      "spanish": "El secreto? Escuchar activamente, siempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-01T17:12:51.063024"
+    },
+    {
+      "english": "Your 'sí' unlocks understanding.",
+      "spanish": "Tu 'sí' desbloquea la comprensión.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-01T17:12:51.063080"
+    },
+    {
+      "english": "Speak this phrase, feel brave.",
+      "spanish": "Di esta frase, siéntete valiente.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-01T17:12:51.063133"
+    },
+    {
+      "english": "This 'vale' means 'it's okay'.",
+      "spanish": "Este 'vale' significa 'está bien'.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-01T17:12:51.063184"
     }
   ],
-  "last_updated": "2026-09-01T00:31:22.888683",
+  "last_updated": "2026-09-01T17:12:51.063186",
   "used_english": [
-    "the pain you feel is growth.",
-    "why most people give up soon.",
-    "this separates winners from losers.",
-    "keep going. your moment is coming.",
-    "stop holding grudges, say 'lo siento'.",
     "never, blame yourself too long.",
     "this is why, forgiveness sparks progress.",
     "the secret? absolve them instantly.",
@@ -21002,6 +20997,11 @@
     "this rhythm? totally addictive.",
     "the secret? listen actively.",
     "why 'j' sounds like 'h'?",
-    "this vowel shift is key."
+    "this vowel shift is key.",
+    "your pronunciation? improving, fast.",
+    "the secret? listen actively, always.",
+    "your 'sí' unlocks understanding.",
+    "speak this phrase, feel brave.",
+    "this 'vale' means 'it's okay'."
   ]
 }
