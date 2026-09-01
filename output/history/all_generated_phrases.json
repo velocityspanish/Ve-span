@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never, blame yourself too long.",
-      "spanish": "Nunca, te culpes demasiado.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-19T11:19:15.357978"
-    },
-    {
-      "english": "This is why, forgiveness sparks progress.",
-      "spanish": "Perdonar impulsa el progreso.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-19T11:19:15.357982"
-    },
-    {
-      "english": "The secret? Absolve them instantly.",
-      "spanish": "La clave: absolver al instante.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-19T11:19:15.357986"
-    },
-    {
-      "english": "What nobody tells you, pardon frees.",
-      "spanish": "Nadie te dice: el perdón libera.",
-      "category": "Forgiveness",
-      "generated_at": "2026-03-19T11:19:15.357989"
-    },
-    {
-      "english": "Your brain remembers, practice today.",
-      "spanish": "Tu cerebro recuerda, practica hoy.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T11:29:42.099862"
-    },
-    {
       "english": "Unlock fluency: repeat this phrase.",
       "spanish": "Desbloquea fluidez: repite frase.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Este 'vale' significa 'está bien'.",
       "category": "Wisdom",
       "generated_at": "2026-09-01T17:12:51.063184"
+    },
+    {
+      "english": "Your happy sound: 'Ay!'",
+      "spanish": "Tu sonido feliz: '¡Ay!'",
+      "category": "Joy",
+      "generated_at": "2026-09-01T18:14:28.551549"
+    },
+    {
+      "english": "This 'z' feels so warm.",
+      "spanish": "Esta 'z' se siente cálida.",
+      "category": "Joy",
+      "generated_at": "2026-09-01T18:14:28.551582"
+    },
+    {
+      "english": "Dare to say '¡Qué guay!'",
+      "spanish": "Atrévete a decir '¡Qué guay!'",
+      "category": "Joy",
+      "generated_at": "2026-09-01T18:14:28.551610"
+    },
+    {
+      "english": "Your vibe: 'Todo bien', always.",
+      "spanish": "Tu vibra: 'Todo bien', siempre.",
+      "category": "Joy",
+      "generated_at": "2026-09-01T18:14:28.551637"
+    },
+    {
+      "english": "Unlock joy with 'claro'.",
+      "spanish": "Desbloquea alegría con 'claro'.",
+      "category": "Joy",
+      "generated_at": "2026-09-01T18:14:28.551663"
     }
   ],
-  "last_updated": "2026-09-01T17:12:51.063186",
+  "last_updated": "2026-09-01T18:14:28.551665",
   "used_english": [
-    "never, blame yourself too long.",
-    "this is why, forgiveness sparks progress.",
-    "the secret? absolve them instantly.",
-    "what nobody tells you, pardon frees.",
-    "your brain remembers, practice today.",
     "unlock fluency: repeat this phrase.",
     "one word unlocks many doors.",
     "feel it, say it, know it.",
@@ -21002,6 +20997,11 @@
     "the secret? listen actively, always.",
     "your 'sí' unlocks understanding.",
     "speak this phrase, feel brave.",
-    "this 'vale' means 'it's okay'."
+    "this 'vale' means 'it's okay'.",
+    "your happy sound: 'ay!'",
+    "this 'z' feels so warm.",
+    "dare to say '¡qué guay!'",
+    "your vibe: 'todo bien', always.",
+    "unlock joy with 'claro'."
   ]
 }
