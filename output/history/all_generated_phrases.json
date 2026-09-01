@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, speak before you're ready",
-      "spanish": "El secreto, habla antes de estar listo",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-18T23:57:39.478632"
-    },
-    {
-      "english": "What nobody tells you, start ugly",
-      "spanish": "Lo que nadie te dice, empieza feo",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-18T23:57:39.478636"
-    },
-    {
-      "english": "Stop, rehearsing perfection, speak now",
-      "spanish": "Deja de ensayar perfección, habla ahora",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-18T23:57:39.478639"
-    },
-    {
-      "english": "Never, let your accent silence you",
-      "spanish": "Nunca dejes que el acento te calle",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-18T23:57:39.478642"
-    },
-    {
-      "english": "When you want to quit, read.",
-      "spanish": "Cuando quieras rendirte, lee.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-19T05:44:06.327546"
-    },
-    {
       "english": "The pain you feel is growth.",
       "spanish": "El dolor que sientes es crecimiento.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Y si la 'b' suena a 'v'?",
       "category": "Self Improvement",
       "generated_at": "2026-08-31T23:04:35.825399"
+    },
+    {
+      "english": "Mistakes are beautiful detours.",
+      "spanish": "Los errores son desvíos bellos.",
+      "category": "Creativity",
+      "generated_at": "2026-09-01T00:31:22.888583"
+    },
+    {
+      "english": "This rhythm? Totally addictive.",
+      "spanish": "¿Este ritmo? Totalmente adictivo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-01T00:31:22.888617"
+    },
+    {
+      "english": "The secret? Listen actively.",
+      "spanish": "El secreto: escucha activamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-01T00:31:22.888640"
+    },
+    {
+      "english": "Why 'j' sounds like 'h'?",
+      "spanish": "¿Por qué la 'j' suena como 'h'?",
+      "category": "Creativity",
+      "generated_at": "2026-09-01T00:31:22.888661"
+    },
+    {
+      "english": "This vowel shift is key.",
+      "spanish": "Este cambio de vocal es clave.",
+      "category": "Creativity",
+      "generated_at": "2026-09-01T00:31:22.888681"
     }
   ],
-  "last_updated": "2026-08-31T23:04:35.825401",
+  "last_updated": "2026-09-01T00:31:22.888683",
   "used_english": [
-    "the secret, speak before you're ready",
-    "what nobody tells you, start ugly",
-    "stop, rehearsing perfection, speak now",
-    "never, let your accent silence you",
-    "when you want to quit, read.",
     "the pain you feel is growth.",
     "why most people give up soon.",
     "this separates winners from losers.",
@@ -21002,6 +20997,11 @@
     "one 'r' roll, feels powerful.",
     "your 'no' is okay.",
     "this feeling? progress whispers.",
-    "what if 'b' sounds like 'v'?"
+    "what if 'b' sounds like 'v'?",
+    "mistakes are beautiful detours.",
+    "this rhythm? totally addictive.",
+    "the secret? listen actively.",
+    "why 'j' sounds like 'h'?",
+    "this vowel shift is key."
   ]
 }
