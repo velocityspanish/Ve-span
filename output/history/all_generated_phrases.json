@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why are you hiding your words?",
-      "spanish": "¿Por qué escondes tus palabras?",
-      "category": "Patience",
-      "generated_at": "2026-03-19T16:12:16.532942"
-    },
-    {
-      "english": "The magic is saying it imperfectly.",
-      "spanish": "La magia es decirlo imperfecto.",
-      "category": "Patience",
-      "generated_at": "2026-03-19T16:12:16.532961"
-    },
-    {
-      "english": "Tiny wins, huge confidence.",
-      "spanish": "Pequeñas victorias, gran confianza.",
-      "category": "Patience",
-      "generated_at": "2026-03-19T16:12:16.532965"
-    },
-    {
-      "english": "Speak it, don't just know it.",
-      "spanish": "Dilo, no solo lo sepas.",
-      "category": "Patience",
-      "generated_at": "2026-03-19T16:12:16.532969"
-    },
-    {
-      "english": "This feeling? Your fluency unlocked.",
-      "spanish": "Este sentimiento? Tu fluidez desbloqueada.",
-      "category": "Hope",
-      "generated_at": "2026-03-19T18:01:51.835480"
-    },
-    {
       "english": "Why natives smile: this trick.",
       "spanish": "¿Por qué sonríen los nativos? Este truco.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Por qué 'paso a paso'?",
       "category": "Patience",
       "generated_at": "2026-09-01T19:42:29.601906"
+    },
+    {
+      "english": "Your 'not yet' is progress.",
+      "spanish": "Tu 'todavía no' es progreso.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T21:30:15.281410"
+    },
+    {
+      "english": "This sound unlock confidence.",
+      "spanish": "Este sonido desbloquea confianza.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T21:30:15.281443"
+    },
+    {
+      "english": "Why 'despacio' wins?",
+      "spanish": "¿Por qué 'despacio' gana?",
+      "category": "Patience",
+      "generated_at": "2026-09-01T21:30:15.281463"
+    },
+    {
+      "english": "Your tiny wins add up.",
+      "spanish": "Tus pequeñas victorias suman.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T21:30:15.281483"
+    },
+    {
+      "english": "Don't rush this beautiful journey.",
+      "spanish": "No apresures este viaje hermoso.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T21:30:15.281507"
     }
   ],
-  "last_updated": "2026-09-01T19:42:29.601907",
+  "last_updated": "2026-09-01T21:30:15.281508",
   "used_english": [
-    "why are you hiding your words?",
-    "the magic is saying it imperfectly.",
-    "tiny wins, huge confidence.",
-    "speak it, don't just know it.",
-    "this feeling? your fluency unlocked.",
     "why natives smile: this trick.",
     "you've got this, keep speaking.",
     "one phrase, massive confidence boost.",
@@ -21002,6 +20997,11 @@
     "small steps, huge fluency.",
     "don't rush the melody.",
     "this pause is progress.",
-    "why 'paso a paso'?"
+    "why 'paso a paso'?",
+    "your 'not yet' is progress.",
+    "this sound unlock confidence.",
+    "why 'despacio' wins?",
+    "your tiny wins add up.",
+    "don't rush this beautiful journey."
   ]
 }
