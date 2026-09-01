@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why natives smile: this trick.",
-      "spanish": "¿Por qué sonríen los nativos? Este truco.",
-      "category": "Hope",
-      "generated_at": "2026-03-19T18:01:51.835491"
-    },
-    {
-      "english": "You've got this, keep speaking.",
-      "spanish": "Puedes con esto, sigue hablando.",
-      "category": "Hope",
-      "generated_at": "2026-03-19T18:01:51.835495"
-    },
-    {
-      "english": "One phrase, massive confidence boost.",
-      "spanish": "Una frase, subidón de confianza.",
-      "category": "Hope",
-      "generated_at": "2026-03-19T18:01:51.835499"
-    },
-    {
-      "english": "Don't delay this small joy.",
-      "spanish": "No demores esta pequeña alegría.",
-      "category": "Hope",
-      "generated_at": "2026-03-19T18:01:51.835502"
-    },
-    {
-      "english": "Inner peace starts today.",
-      "spanish": "La paz interior empieza hoy.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T19:39:14.923621"
-    },
-    {
       "english": "Breathe, your spanish is growing.",
       "spanish": "Respira, tu español crece.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "No apresures este viaje hermoso.",
       "category": "Patience",
       "generated_at": "2026-09-01T21:30:15.281507"
+    },
+    {
+      "english": "This accent? Totally optional.",
+      "spanish": "Este acento, opcional.",
+      "category": "Purpose",
+      "generated_at": "2026-09-01T23:13:25.260427"
+    },
+    {
+      "english": "This one word shifts meaning.",
+      "spanish": "Esta palabra cambia significado.",
+      "category": "Purpose",
+      "generated_at": "2026-09-01T23:13:25.260469"
+    },
+    {
+      "english": "Your feelings in Spanish, named.",
+      "spanish": "Tus sentimientos, en español.",
+      "category": "Purpose",
+      "generated_at": "2026-09-01T23:13:25.260497"
+    },
+    {
+      "english": "Can you say 'seis' correctly?",
+      "spanish": "¿Puedes decir 'seis' bien?",
+      "category": "Purpose",
+      "generated_at": "2026-09-01T23:13:25.260526"
+    },
+    {
+      "english": "This sounds impossible, but it's not.",
+      "spanish": "Suena imposible, pero no.",
+      "category": "Purpose",
+      "generated_at": "2026-09-01T23:13:25.260552"
     }
   ],
-  "last_updated": "2026-09-01T21:30:15.281508",
+  "last_updated": "2026-09-01T23:13:25.260553",
   "used_english": [
-    "why natives smile: this trick.",
-    "you've got this, keep speaking.",
-    "one phrase, massive confidence boost.",
-    "don't delay this small joy.",
-    "inner peace starts today.",
     "breathe, your spanish is growing.",
     "quiet your mind, speak.",
     "what if mistakes are gifts?",
@@ -21002,6 +20997,11 @@
     "this sound unlock confidence.",
     "why 'despacio' wins?",
     "your tiny wins add up.",
-    "don't rush this beautiful journey."
+    "don't rush this beautiful journey.",
+    "this accent? totally optional.",
+    "this one word shifts meaning.",
+    "your feelings in spanish, named.",
+    "can you say 'seis' correctly?",
+    "this sounds impossible, but it's not."
   ]
 }
