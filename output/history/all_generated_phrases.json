@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock fluency: repeat this phrase.",
-      "spanish": "Desbloquea fluidez: repite frase.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T11:29:42.099874"
-    },
-    {
-      "english": "One word unlocks many doors.",
-      "spanish": "Una palabra abre puertas.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T11:29:42.099878"
-    },
-    {
-      "english": "Feel it, say it, know it.",
-      "spanish": "Siente, di, conoce.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T11:29:42.099882"
-    },
-    {
-      "english": "This rhythm calms the mind.",
-      "spanish": "Este ritmo calma la mente.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T11:29:42.099885"
-    },
-    {
-      "english": "Your Spanish voice is blooming.",
-      "spanish": "Tu voz en español florece.",
-      "category": "Patience",
-      "generated_at": "2026-03-19T16:12:16.532930"
-    },
-    {
       "english": "Why are you hiding your words?",
       "spanish": "¿Por qué escondes tus palabras?",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Desbloquea alegría con 'claro'.",
       "category": "Joy",
       "generated_at": "2026-09-01T18:14:28.551663"
+    },
+    {
+      "english": "Slow wins this race.",
+      "spanish": "Despacio gana la carrera.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T19:42:29.601804"
+    },
+    {
+      "english": "Small steps, huge fluency.",
+      "spanish": "Pasos pequeños, gran fluidez.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T19:42:29.601845"
+    },
+    {
+      "english": "Don't rush the melody.",
+      "spanish": "No apresures la melodía.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T19:42:29.601866"
+    },
+    {
+      "english": "This pause is progress.",
+      "spanish": "Esta pausa es progreso.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T19:42:29.601886"
+    },
+    {
+      "english": "Why 'paso a paso'?",
+      "spanish": "¿Por qué 'paso a paso'?",
+      "category": "Patience",
+      "generated_at": "2026-09-01T19:42:29.601906"
     }
   ],
-  "last_updated": "2026-09-01T18:14:28.551665",
+  "last_updated": "2026-09-01T19:42:29.601907",
   "used_english": [
-    "unlock fluency: repeat this phrase.",
-    "one word unlocks many doors.",
-    "feel it, say it, know it.",
-    "this rhythm calms the mind.",
-    "your spanish voice is blooming.",
     "why are you hiding your words?",
     "the magic is saying it imperfectly.",
     "tiny wins, huge confidence.",
@@ -21002,6 +20997,11 @@
     "this 'z' feels so warm.",
     "dare to say '¡qué guay!'",
     "your vibe: 'todo bien', always.",
-    "unlock joy with 'claro'."
+    "unlock joy with 'claro'.",
+    "slow wins this race.",
+    "small steps, huge fluency.",
+    "don't rush the melody.",
+    "this pause is progress.",
+    "why 'paso a paso'?"
   ]
 }
