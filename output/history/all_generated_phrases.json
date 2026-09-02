@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This simple phrase builds bridges.",
-      "spanish": "Esta frase une gente.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-19T21:02:10.602982"
-    },
-    {
-      "english": "Why do natives say this?",
-      "spanish": "¿Por qué lo dicen ellos?",
-      "category": "Positive Life",
-      "generated_at": "2026-03-19T21:02:10.602986"
-    },
-    {
-      "english": "Joy hides in your mistakes.",
-      "spanish": "La alegría en tus fallos.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-19T21:02:10.602990"
-    },
-    {
-      "english": "Stop guessing, just speak.",
-      "spanish": "Deja de adivinar, habla.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-19T21:02:10.602993"
-    },
-    {
-      "english": "This simple phrase, opens doors.",
-      "spanish": "Esta frase simple, abre puertas.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-19T21:59:36.542284"
-    },
-    {
       "english": "Your voice, more powerful than you think.",
       "spanish": "Tu voz, más poderosa de lo que crees.",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu oído español se abre.",
       "category": "Self Improvement",
       "generated_at": "2026-09-02T17:03:44.555714"
+    },
+    {
+      "english": "The real trick? Immersion.",
+      "spanish": "El truco real, ¿inmersión?",
+      "category": "Creativity",
+      "generated_at": "2026-09-02T18:28:11.129525"
+    },
+    {
+      "english": "Say this, feel the confidence.",
+      "spanish": "Di esto, siente la confianza.",
+      "category": "Creativity",
+      "generated_at": "2026-09-02T18:28:11.129563"
+    },
+    {
+      "english": "Why this rhythm feels natural?",
+      "spanish": "¿Por qué este ritmo es natural?",
+      "category": "Creativity",
+      "generated_at": "2026-09-02T18:28:11.129587"
+    },
+    {
+      "english": "Don't fear the unknown sounds.",
+      "spanish": "No temas los sonidos extraños.",
+      "category": "Creativity",
+      "generated_at": "2026-09-02T18:28:11.129610"
+    },
+    {
+      "english": "Your next phrase, connect.",
+      "spanish": "Tu próxima frase, conecta.",
+      "category": "Creativity",
+      "generated_at": "2026-09-02T18:28:11.129632"
     }
   ],
-  "last_updated": "2026-09-02T17:03:44.555716",
+  "last_updated": "2026-09-02T18:28:11.129634",
   "used_english": [
-    "this simple phrase builds bridges.",
-    "why do natives say this?",
-    "joy hides in your mistakes.",
-    "stop guessing, just speak.",
-    "this simple phrase, opens doors.",
     "your voice, more powerful than you think.",
     "one real word, defeats perfect silence.",
     "stop translating, just feel the rhythm.",
@@ -21002,6 +20997,11 @@
     "this little word means everything.",
     "your confidence grows here.",
     "listen: spanish made simple.",
-    "your spanish ear is opening."
+    "your spanish ear is opening.",
+    "the real trick? immersion.",
+    "say this, feel the confidence.",
+    "why this rhythm feels natural?",
+    "don't fear the unknown sounds.",
+    "your next phrase, connect."
   ]
 }
