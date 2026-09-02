@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Embrace imperfection.",
-      "spanish": "¿El secreto? Abraza la imperfección.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-20T15:31:11.745579"
-    },
-    {
-      "english": "Small sounds, big meaning.",
-      "spanish": "Sonidos pequeños, gran significado.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-20T15:31:11.745583"
-    },
-    {
-      "english": "One genuine word, pure gold.",
-      "spanish": "Una palabra genuina, oro puro.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-20T15:31:11.745587"
-    },
-    {
-      "english": "Your voice matters, speak it.",
-      "spanish": "Tu voz importa, dila.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-20T15:31:11.745592"
-    },
-    {
-      "english": "This makes Spanish click.",
-      "spanish": "Esto hace que el español encaje.",
-      "category": "Strength",
-      "generated_at": "2026-03-20T17:24:41.787638"
-    },
-    {
       "english": "Feel the rhythm, speak.",
       "spanish": "Siente el ritmo, habla.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Un 'lo siento' más importa.",
       "category": "Perseverance",
       "generated_at": "2026-09-02T19:34:04.985753"
+    },
+    {
+      "english": "Your accent? Own it proudly.",
+      "spanish": "Tu acento, ¡llévalo con orgullo!",
+      "category": "Inspiration",
+      "generated_at": "2026-09-02T21:26:33.923230"
+    },
+    {
+      "english": "The real magic? Listening.",
+      "spanish": "¿La magia real? Escuchar.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-02T21:26:33.923267"
+    },
+    {
+      "english": "Dare to mispronounce, learn.",
+      "spanish": "Atrévete a pronunciar mal, aprende.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-02T21:26:33.923296"
+    },
+    {
+      "english": "Why 'ch' sounds different.",
+      "spanish": "¿Por qué la 'ch' suena distinta?",
+      "category": "Inspiration",
+      "generated_at": "2026-09-02T21:26:33.923322"
+    },
+    {
+      "english": "Your 'nope' is important too.",
+      "spanish": "Tu 'no' también es importante.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-02T21:26:33.923350"
     }
   ],
-  "last_updated": "2026-09-02T19:34:04.985756",
+  "last_updated": "2026-09-02T21:26:33.923352",
   "used_english": [
-    "the secret? embrace imperfection.",
-    "small sounds, big meaning.",
-    "one genuine word, pure gold.",
-    "your voice matters, speak it.",
-    "this makes spanish click.",
     "feel the rhythm, speak.",
     "one real word matters.",
     "your voice has power.",
@@ -21002,6 +20997,11 @@
     "your quiet practice speaks.",
     "dare to try that word.",
     "you're not stuck, just practicing.",
-    "one more 'lo siento' matters."
+    "one more 'lo siento' matters.",
+    "your accent? own it proudly.",
+    "the real magic? listening.",
+    "dare to mispronounce, learn.",
+    "why 'ch' sounds different.",
+    "your 'nope' is important too."
   ]
 }
