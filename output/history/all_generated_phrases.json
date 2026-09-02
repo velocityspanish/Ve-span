@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your voice, more powerful than you think.",
-      "spanish": "Tu voz, más poderosa de lo que crees.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-19T21:59:36.542296"
-    },
-    {
-      "english": "One real word, defeats perfect silence.",
-      "spanish": "Una palabra real, vence silencio perfecto.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-19T21:59:36.542299"
-    },
-    {
-      "english": "Stop translating, just feel the rhythm.",
-      "spanish": "Deja de traducir, solo siente el ritmo.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-19T21:59:36.542303"
-    },
-    {
-      "english": "What if mistakes are your best teachers?",
-      "spanish": "¿Y si los errores son tus mejores maestros?",
-      "category": "Wisdom",
-      "generated_at": "2026-03-19T21:59:36.542307"
-    },
-    {
-      "english": "Your future self is watching.",
-      "spanish": "Tu yo futuro te observa.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-20T15:31:11.745552"
-    },
-    {
       "english": "The secret? Embrace imperfection.",
       "spanish": "¿El secreto? Abraza la imperfección.",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu próxima frase, conecta.",
       "category": "Creativity",
       "generated_at": "2026-09-02T18:28:11.129632"
+    },
+    {
+      "english": "This mistake means you're learning.",
+      "spanish": "Este error significa que aprendes.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-02T19:34:04.985636"
+    },
+    {
+      "english": "Your quiet practice speaks.",
+      "spanish": "Tu práctica silenciosa habla.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-02T19:34:04.985673"
+    },
+    {
+      "english": "Dare to try that word.",
+      "spanish": "Atrévete a decir esa palabra.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-02T19:34:04.985699"
+    },
+    {
+      "english": "You're not stuck, just practicing.",
+      "spanish": "No estás atascado, solo practicas.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-02T19:34:04.985726"
+    },
+    {
+      "english": "One more 'lo siento' matters.",
+      "spanish": "Un 'lo siento' más importa.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-02T19:34:04.985753"
     }
   ],
-  "last_updated": "2026-09-02T18:28:11.129634",
+  "last_updated": "2026-09-02T19:34:04.985756",
   "used_english": [
-    "your voice, more powerful than you think.",
-    "one real word, defeats perfect silence.",
-    "stop translating, just feel the rhythm.",
-    "what if mistakes are your best teachers?",
-    "your future self is watching.",
     "the secret? embrace imperfection.",
     "small sounds, big meaning.",
     "one genuine word, pure gold.",
@@ -21002,6 +20997,11 @@
     "say this, feel the confidence.",
     "why this rhythm feels natural?",
     "don't fear the unknown sounds.",
-    "your next phrase, connect."
+    "your next phrase, connect.",
+    "this mistake means you're learning.",
+    "your quiet practice speaks.",
+    "dare to try that word.",
+    "you're not stuck, just practicing.",
+    "one more 'lo siento' matters."
   ]
 }
