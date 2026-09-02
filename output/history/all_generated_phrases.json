@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel the rhythm, speak.",
-      "spanish": "Siente el ritmo, habla.",
-      "category": "Strength",
-      "generated_at": "2026-03-20T17:24:41.787650"
-    },
-    {
-      "english": "One real word matters.",
-      "spanish": "Una palabra real importa.",
-      "category": "Strength",
-      "generated_at": "2026-03-20T17:24:41.787653"
-    },
-    {
-      "english": "Your voice has power.",
-      "spanish": "Tu voz tiene poder.",
-      "category": "Strength",
-      "generated_at": "2026-03-20T17:24:41.787657"
-    },
-    {
-      "english": "Stop translating, just feel.",
-      "spanish": "Deja de traducir, solo siente.",
-      "category": "Strength",
-      "generated_at": "2026-03-20T17:24:41.787660"
-    },
-    {
-      "english": "That one word changes everything.",
-      "spanish": "Esa palabra lo cambia todo.",
-      "category": "Hope",
-      "generated_at": "2026-03-20T19:27:28.680981"
-    },
-    {
       "english": "Your accent is your signature.",
       "spanish": "Tu acento es tu firma.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu 'no' también es importante.",
       "category": "Inspiration",
       "generated_at": "2026-09-02T21:26:33.923350"
+    },
+    {
+      "english": "Why 'usted' feels so respectful?",
+      "spanish": "¿Por qué 'usted' se siente respetuoso?",
+      "category": "Strength",
+      "generated_at": "2026-09-02T23:14:10.907650"
+    },
+    {
+      "english": "Your intuition knows this sound.",
+      "spanish": "Tu intuición conoce este sonido.",
+      "category": "Strength",
+      "generated_at": "2026-09-02T23:14:10.907679"
+    },
+    {
+      "english": "Feel the flow: 'lo siento'.",
+      "spanish": "Siente el fluir: 'lo siento'.",
+      "category": "Strength",
+      "generated_at": "2026-09-02T23:14:10.907697"
+    },
+    {
+      "english": "This 'qué' changes the question.",
+      "spanish": "Este 'qué' cambia la pregunta.",
+      "category": "Strength",
+      "generated_at": "2026-09-02T23:14:10.907716"
+    },
+    {
+      "english": "Your subtle pronunciation shifts.",
+      "spanish": "Tus sutiles cambios de pronunciación.",
+      "category": "Strength",
+      "generated_at": "2026-09-02T23:14:10.907734"
     }
   ],
-  "last_updated": "2026-09-02T21:26:33.923352",
+  "last_updated": "2026-09-02T23:14:10.907735",
   "used_english": [
-    "feel the rhythm, speak.",
-    "one real word matters.",
-    "your voice has power.",
-    "stop translating, just feel.",
-    "that one word changes everything.",
     "your accent is your signature.",
     "mistakes are just practice runs.",
     "why fear silence? speak.",
@@ -21002,6 +20997,11 @@
     "the real magic? listening.",
     "dare to mispronounce, learn.",
     "why 'ch' sounds different.",
-    "your 'nope' is important too."
+    "your 'nope' is important too.",
+    "why 'usted' feels so respectful?",
+    "your intuition knows this sound.",
+    "feel the flow: 'lo siento'.",
+    "this 'qué' changes the question.",
+    "your subtle pronunciation shifts."
   ]
 }
