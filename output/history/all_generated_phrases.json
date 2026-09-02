@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Breathe, your spanish is growing.",
-      "spanish": "Respira, tu español crece.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T19:39:14.923633"
-    },
-    {
-      "english": "Quiet your mind, speak.",
-      "spanish": "Silencia tu mente, habla.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T19:39:14.923637"
-    },
-    {
-      "english": "What if mistakes are gifts?",
-      "spanish": "¿Y si los errores son regalos?",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T19:39:14.923641"
-    },
-    {
-      "english": "This calm unlocks your voice.",
-      "spanish": "Esta calma desbloquea tu voz.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-19T19:39:14.923644"
-    },
-    {
-      "english": "Your voice unlocks worlds.",
-      "spanish": "Tu voz abre mundos.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-19T21:02:10.602970"
-    },
-    {
       "english": "This simple phrase builds bridges.",
       "spanish": "Esta frase une gente.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Suena imposible, pero no.",
       "category": "Purpose",
       "generated_at": "2026-09-01T23:13:25.260552"
+    },
+    {
+      "english": "Why this accent sounds better?",
+      "spanish": "¿Por qué suena mejor?",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-02T17:03:44.555589"
+    },
+    {
+      "english": "This little word means everything.",
+      "spanish": "Esta palabrita lo significa todo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-02T17:03:44.555626"
+    },
+    {
+      "english": "Your confidence grows here.",
+      "spanish": "Tu confianza crece aquí.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-02T17:03:44.555655"
+    },
+    {
+      "english": "Listen: Spanish made simple.",
+      "spanish": "Escucha: español simple.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-02T17:03:44.555685"
+    },
+    {
+      "english": "Your Spanish ear is opening.",
+      "spanish": "Tu oído español se abre.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-02T17:03:44.555714"
     }
   ],
-  "last_updated": "2026-09-01T23:13:25.260553",
+  "last_updated": "2026-09-02T17:03:44.555716",
   "used_english": [
-    "breathe, your spanish is growing.",
-    "quiet your mind, speak.",
-    "what if mistakes are gifts?",
-    "this calm unlocks your voice.",
-    "your voice unlocks worlds.",
     "this simple phrase builds bridges.",
     "why do natives say this?",
     "joy hides in your mistakes.",
@@ -21002,6 +20997,11 @@
     "this one word shifts meaning.",
     "your feelings in spanish, named.",
     "can you say 'seis' correctly?",
-    "this sounds impossible, but it's not."
+    "this sounds impossible, but it's not.",
+    "why this accent sounds better?",
+    "this little word means everything.",
+    "your confidence grows here.",
+    "listen: spanish made simple.",
+    "your spanish ear is opening."
   ]
 }
