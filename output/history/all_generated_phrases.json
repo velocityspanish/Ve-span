@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock joy with one phrase.",
-      "spanish": "Desbloquea alegría con frase.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-20T20:01:30.668336"
-    },
-    {
-      "english": "Feel the rhythm, speak freely.",
-      "spanish": "Siente el ritmo, habla libre.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-20T20:01:30.668341"
-    },
-    {
-      "english": "Your voice, a beautiful gift.",
-      "spanish": "Tu voz, hermoso regalo.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-20T20:01:30.668344"
-    },
-    {
-      "english": "One real word matters most.",
-      "spanish": "Una palabra real importa.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-20T20:01:30.668348"
-    },
-    {
-      "english": "Breathe, your peace is coming.",
-      "spanish": "Respira, tu paz viene.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-20T21:56:58.806453"
-    },
-    {
       "english": "What if silence is fluent?",
       "spanish": "¿Y si el silencio es fluido?",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Por qué este acento? El tuyo.",
       "category": "Positive Life",
       "generated_at": "2026-09-03T16:58:24.657761"
+    },
+    {
+      "english": "Your intuition guides you.",
+      "spanish": "Tu intuición te guía.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-03T18:23:30.003300"
+    },
+    {
+      "english": "Why this accent? It's yours.",
+      "spanish": "¿Por qué este acento? Es tuyo.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-03T18:23:30.003335"
+    },
+    {
+      "english": "Small 'lo siento's' heal.",
+      "spanish": "Pequeños 'lo siento' sanan.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-03T18:23:30.003362"
+    },
+    {
+      "english": "Your 'por favor' opens doors.",
+      "spanish": "Tu 'por favor' abre puertas.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-03T18:23:30.003390"
+    },
+    {
+      "english": "Your journey, embrace it.",
+      "spanish": "Tu viaje, abrázalo.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-03T18:23:30.003415"
     }
   ],
-  "last_updated": "2026-09-03T16:58:24.657763",
+  "last_updated": "2026-09-03T18:23:30.003417",
   "used_english": [
-    "unlock joy with one phrase.",
-    "feel the rhythm, speak freely.",
-    "your voice, a beautiful gift.",
-    "one real word matters most.",
-    "breathe, your peace is coming.",
     "what if silence is fluent?",
     "find calm in one word.",
     "this moment holds true peace.",
@@ -21002,6 +20997,11 @@
     "this sound? totally learnable.",
     "dare to connect, speak.",
     "tiny efforts, massive gains.",
-    "why this accent? your own."
+    "why this accent? your own.",
+    "your intuition guides you.",
+    "why this accent? it's yours.",
+    "small 'lo siento's' heal.",
+    "your 'por favor' opens doors.",
+    "your journey, embrace it."
   ]
 }
