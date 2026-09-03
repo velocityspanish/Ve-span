@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: Joy hides in learning.",
-      "spanish": "Sabiduría: La alegría está en aprender.",
-      "category": "Balance",
-      "generated_at": "2026-03-21T15:52:25.159875"
-    },
-    {
-      "english": "Encouragement: You are stronger now.",
-      "spanish": "Ánimo: Eres más fuerte ahora.",
-      "category": "Balance",
-      "generated_at": "2026-03-21T15:52:25.159880"
-    },
-    {
-      "english": "Surprise: Your accent is charming!",
-      "spanish": "¡Sorpresa: Tu acento es encantador!",
-      "category": "Balance",
-      "generated_at": "2026-03-21T15:52:25.159884"
-    },
-    {
-      "english": "Urgency: Speak your truth, now.",
-      "spanish": "Urgencia: Di tu verdad, ahora.",
-      "category": "Balance",
-      "generated_at": "2026-03-21T15:52:25.159888"
-    },
-    {
-      "english": "Mistakes are your shortcuts, embrace them.",
-      "spanish": "Los errores son tus atajos, abrázalos.",
-      "category": "Confidence",
-      "generated_at": "2026-03-21T17:54:40.189385"
-    },
-    {
       "english": "That first 'hola' unlocks worlds.",
       "spanish": "Ese primer 'hola' abre mundos.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Por qué la 'ñ' suena tan única?",
       "category": "Motivation",
       "generated_at": "2026-09-03T21:31:03.189709"
+    },
+    {
+      "english": "Speak one phrase, feel connected.",
+      "spanish": "Di una frase, siéntete conectado.",
+      "category": "Growth",
+      "generated_at": "2026-09-03T23:11:06.808527"
+    },
+    {
+      "english": "Don't fear that rolling 'r'.",
+      "spanish": "No temas esa 'r' vibrante.",
+      "category": "Growth",
+      "generated_at": "2026-09-03T23:11:06.808564"
+    },
+    {
+      "english": "What if 'y' sounds like 'j'?",
+      "spanish": "¿Y si la 'y' suena como 'j'?",
+      "category": "Growth",
+      "generated_at": "2026-09-03T23:11:06.808592"
+    },
+    {
+      "english": "Your 'hola' can open doors.",
+      "spanish": "Tu 'hola' puede abrir puertas.",
+      "category": "Growth",
+      "generated_at": "2026-09-03T23:11:06.808619"
+    },
+    {
+      "english": "Learn Spanish, your way, now.",
+      "spanish": "Aprende español, a tu manera, ahora.",
+      "category": "Growth",
+      "generated_at": "2026-09-03T23:11:06.808646"
     }
   ],
-  "last_updated": "2026-09-03T21:31:03.189711",
+  "last_updated": "2026-09-03T23:11:06.808648",
   "used_english": [
-    "wisdom: joy hides in learning.",
-    "encouragement: you are stronger now.",
-    "surprise: your accent is charming!",
-    "urgency: speak your truth, now.",
-    "mistakes are your shortcuts, embrace them.",
     "that first 'hola' unlocks worlds.",
     "your accent is your unique song.",
     "feel the rhythm, don't just translate.",
@@ -21002,6 +20997,11 @@
     "this rhythm feels natural.",
     "dare to sound like yourself.",
     "listen for the real meaning.",
-    "why 'ñ' sounds so unique?"
+    "why 'ñ' sounds so unique?",
+    "speak one phrase, feel connected.",
+    "don't fear that rolling 'r'.",
+    "what if 'y' sounds like 'j'?",
+    "your 'hola' can open doors.",
+    "learn spanish, your way, now."
   ]
 }
