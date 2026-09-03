@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your inner voice, listen.",
-      "spanish": "Tu voz interior, escucha.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-21T14:03:12.972609"
-    },
-    {
-      "english": "Joy blossoms, speak softly.",
-      "spanish": "Alegría florece, habla suave.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-21T14:03:12.972613"
-    },
-    {
-      "english": "Let stillness speak volumes.",
-      "spanish": "Deja que la calma hable.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-21T14:03:12.972617"
-    },
-    {
-      "english": "Quiet moments, loud truth.",
-      "spanish": "Momentos callados, verdad fuerte.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-21T14:03:12.972621"
-    },
-    {
-      "english": "Curiosity: What's the secret?",
-      "spanish": "¿Curiosidad? ¿Cuál es el secreto?",
-      "category": "Balance",
-      "generated_at": "2026-03-21T15:52:25.159864"
-    },
-    {
       "english": "Wisdom: Joy hides in learning.",
       "spanish": "Sabiduría: La alegría está en aprender.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "Ánimo: Entendido, ¡habla!",
       "category": "Gratitude",
       "generated_at": "2026-09-03T19:30:53.701992"
+    },
+    {
+      "english": "Your effort isn't wasted.",
+      "spanish": "Tu esfuerzo no es en vano.",
+      "category": "Motivation",
+      "generated_at": "2026-09-03T21:31:03.189592"
+    },
+    {
+      "english": "This rhythm feels natural.",
+      "spanish": "Este ritmo se siente natural.",
+      "category": "Motivation",
+      "generated_at": "2026-09-03T21:31:03.189626"
+    },
+    {
+      "english": "Dare to sound like yourself.",
+      "spanish": "Atrévete a sonar como tú.",
+      "category": "Motivation",
+      "generated_at": "2026-09-03T21:31:03.189655"
+    },
+    {
+      "english": "Listen for the real meaning.",
+      "spanish": "Escucha el verdadero significado.",
+      "category": "Motivation",
+      "generated_at": "2026-09-03T21:31:03.189682"
+    },
+    {
+      "english": "Why 'ñ' sounds so unique?",
+      "spanish": "¿Por qué la 'ñ' suena tan única?",
+      "category": "Motivation",
+      "generated_at": "2026-09-03T21:31:03.189709"
     }
   ],
-  "last_updated": "2026-09-03T19:30:53.701994",
+  "last_updated": "2026-09-03T21:31:03.189711",
   "used_english": [
-    "your inner voice, listen.",
-    "joy blossoms, speak softly.",
-    "let stillness speak volumes.",
-    "quiet moments, loud truth.",
-    "curiosity: what's the secret?",
     "wisdom: joy hides in learning.",
     "encouragement: you are stronger now.",
     "surprise: your accent is charming!",
@@ -21002,6 +20997,11 @@
     "this small word, immense gratitude.",
     "feel this warmth, 'gracias'.",
     "surprise: 'de nada' means more.",
-    "encouragement: you're understood, speak!"
+    "encouragement: you're understood, speak!",
+    "your effort isn't wasted.",
+    "this rhythm feels natural.",
+    "dare to sound like yourself.",
+    "listen for the real meaning.",
+    "why 'ñ' sounds so unique?"
   ]
 }
