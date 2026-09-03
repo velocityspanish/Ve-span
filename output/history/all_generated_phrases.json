@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if silence is fluent?",
-      "spanish": "¿Y si el silencio es fluido?",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-20T21:56:58.806466"
-    },
-    {
-      "english": "Find calm in one word.",
-      "spanish": "Encuentra calma en una palabra.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-20T21:56:58.806469"
-    },
-    {
-      "english": "This moment holds true peace.",
-      "spanish": "Este momento tiene paz real.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-20T21:56:58.806473"
-    },
-    {
-      "english": "Never doubt your inner voice.",
-      "spanish": "Nunca dudes tu voz interior.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-20T21:56:58.806477"
-    },
-    {
-      "english": "Peace found in one breath.",
-      "spanish": "Paz hallada en un respiro.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-21T14:03:12.972597"
-    },
-    {
       "english": "Your inner voice, listen.",
       "spanish": "Tu voz interior, escucha.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu viaje, abrázalo.",
       "category": "Positive Life",
       "generated_at": "2026-09-03T18:23:30.003415"
+    },
+    {
+      "english": "Your spanish ear, awakening now.",
+      "spanish": "Tu oído en español, despertando.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T19:30:53.701880"
+    },
+    {
+      "english": "This small word, immense gratitude.",
+      "spanish": "Esta palabra, gratitud inmensa.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T19:30:53.701912"
+    },
+    {
+      "english": "Feel this warmth, 'gracias'.",
+      "spanish": "Siente este calor, 'gracias'.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T19:30:53.701941"
+    },
+    {
+      "english": "Surprise: 'De nada' means more.",
+      "spanish": "Sorpresa: 'De nada' significa más.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T19:30:53.701968"
+    },
+    {
+      "english": "Encouragement: You're understood, speak!",
+      "spanish": "Ánimo: Entendido, ¡habla!",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T19:30:53.701992"
     }
   ],
-  "last_updated": "2026-09-03T18:23:30.003417",
+  "last_updated": "2026-09-03T19:30:53.701994",
   "used_english": [
-    "what if silence is fluent?",
-    "find calm in one word.",
-    "this moment holds true peace.",
-    "never doubt your inner voice.",
-    "peace found in one breath.",
     "your inner voice, listen.",
     "joy blossoms, speak softly.",
     "let stillness speak volumes.",
@@ -21002,6 +20997,11 @@
     "why this accent? it's yours.",
     "small 'lo siento's' heal.",
     "your 'por favor' opens doors.",
-    "your journey, embrace it."
+    "your journey, embrace it.",
+    "your spanish ear, awakening now.",
+    "this small word, immense gratitude.",
+    "feel this warmth, 'gracias'.",
+    "surprise: 'de nada' means more.",
+    "encouragement: you're understood, speak!"
   ]
 }
