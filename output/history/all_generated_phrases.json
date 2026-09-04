@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if fluency is closer?",
-      "spanish": "¿Y si la fluidez está más cerca?",
-      "category": "Courage",
-      "generated_at": "2026-03-21T21:49:51.527559"
-    },
-    {
-      "english": "Embrace mistakes, unlock power.",
-      "spanish": "Abraza errores, libera poder.",
-      "category": "Courage",
-      "generated_at": "2026-03-21T21:49:51.527564"
-    },
-    {
-      "english": "Breathe deeply, speak boldly.",
-      "spanish": "Respira hondo, habla audaz.",
-      "category": "Courage",
-      "generated_at": "2026-03-21T21:49:51.527568"
-    },
-    {
-      "english": "Your progress is undeniable.",
-      "spanish": "Tu progreso es innegable.",
-      "category": "Courage",
-      "generated_at": "2026-03-21T21:49:51.527572"
-    },
-    {
-      "english": "Your accent? It's your superpower.",
-      "spanish": "Tu acento? Es tu superpoder.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-22T14:05:00.318847"
-    },
-    {
       "english": "Speak before you're perfect.",
       "spanish": "Habla antes de ser perfecto.",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Atrévete a ser comprendido.",
       "category": "Courage",
       "generated_at": "2026-09-04T18:10:56.559632"
+    },
+    {
+      "english": "The secret? Simple Spanish.",
+      "spanish": "El secreto? Español simple.",
+      "category": "Joy",
+      "generated_at": "2026-09-04T19:15:08.816007"
+    },
+    {
+      "english": "Feel this warmth: 'calor'.",
+      "spanish": "Siente este calor: 'calor'.",
+      "category": "Joy",
+      "generated_at": "2026-09-04T19:15:08.816044"
+    },
+    {
+      "english": "Embrace your unique sound.",
+      "spanish": "Abraza tu sonido único.",
+      "category": "Joy",
+      "generated_at": "2026-09-04T19:15:08.816070"
+    },
+    {
+      "english": "Learn one phrase, feel joy.",
+      "spanish": "Aprende una frase, siente alegría.",
+      "category": "Joy",
+      "generated_at": "2026-09-04T19:15:08.816098"
+    },
+    {
+      "english": "Speak your joy, loud!",
+      "spanish": "¡Habla tu alegría, fuerte!",
+      "category": "Joy",
+      "generated_at": "2026-09-04T19:15:08.816122"
     }
   ],
-  "last_updated": "2026-09-04T18:10:56.559633",
+  "last_updated": "2026-09-04T19:15:08.816124",
   "used_english": [
-    "what if fluency is closer?",
-    "embrace mistakes, unlock power.",
-    "breathe deeply, speak boldly.",
-    "your progress is undeniable.",
-    "your accent? it's your superpower.",
     "speak before you're perfect.",
     "one word unlocks new worlds.",
     "your progress is beautiful, truly.",
@@ -21002,6 +20997,11 @@
     "why fear the first word?",
     "embrace the imperfect attempt.",
     "this feeling? boldness.",
-    "dare to be understood."
+    "dare to be understood.",
+    "the secret? simple spanish.",
+    "feel this warmth: 'calor'.",
+    "embrace your unique sound.",
+    "learn one phrase, feel joy.",
+    "speak your joy, loud!"
   ]
 }
