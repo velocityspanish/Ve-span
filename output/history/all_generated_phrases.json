@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Embrace the stumble, progress.",
-      "spanish": "Acepta el tropiezo, avanza.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-21T19:47:13.851142"
-    },
-    {
-      "english": "This feeling? Fluency is near.",
-      "spanish": "¿Este sentimiento? La fluidez cerca.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-21T19:47:13.851146"
-    },
-    {
-      "english": "Why your small wins count.",
-      "spanish": "Por qué tus pequeñas victorias cuentan.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-21T19:47:13.851150"
-    },
-    {
-      "english": "Just speak, don't overthink.",
-      "spanish": "Solo habla, no pienses.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-21T19:47:13.851154"
-    },
-    {
-      "english": "Fear whispers, courage roars.",
-      "spanish": "El miedo susurra, coraje ruge.",
-      "category": "Courage",
-      "generated_at": "2026-03-21T21:49:51.527548"
-    },
-    {
       "english": "What if fluency is closer?",
       "spanish": "¿Y si la fluidez está más cerca?",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu paciencia construye fluidez.",
       "category": "Perseverance",
       "generated_at": "2026-09-04T16:48:32.762100"
+    },
+    {
+      "english": "Your 'I can' starts now.",
+      "spanish": "Tu 'puedo' empieza ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T18:10:56.559510"
+    },
+    {
+      "english": "Why fear the first word?",
+      "spanish": "¿Por qué temer la primera palabra?",
+      "category": "Courage",
+      "generated_at": "2026-09-04T18:10:56.559549"
+    },
+    {
+      "english": "Embrace the imperfect attempt.",
+      "spanish": "Abraza el intento imperfecto.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T18:10:56.559579"
+    },
+    {
+      "english": "This feeling? Boldness.",
+      "spanish": "¿Este sentimiento? Audacia.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T18:10:56.559606"
+    },
+    {
+      "english": "Dare to be understood.",
+      "spanish": "Atrévete a ser comprendido.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T18:10:56.559632"
     }
   ],
-  "last_updated": "2026-09-04T16:48:32.762102",
+  "last_updated": "2026-09-04T18:10:56.559633",
   "used_english": [
-    "embrace the stumble, progress.",
-    "this feeling? fluency is near.",
-    "why your small wins count.",
-    "just speak, don't overthink.",
-    "fear whispers, courage roars.",
     "what if fluency is closer?",
     "embrace mistakes, unlock power.",
     "breathe deeply, speak boldly.",
@@ -21002,6 +20997,11 @@
     "why 'nada' isn't always 'nothing'.",
     "your fear is a learning sign.",
     "the secret? small, consistent efforts.",
-    "your patience is building fluency."
+    "your patience is building fluency.",
+    "your 'i can' starts now.",
+    "why fear the first word?",
+    "embrace the imperfect attempt.",
+    "this feeling? boldness.",
+    "dare to be understood."
   ]
 }
