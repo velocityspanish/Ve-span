@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your accent is a superpower.",
-      "spanish": "Tu acento es un superpoder.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-22T15:53:10.293827"
-    },
-    {
-      "english": "Tiny Spanish wins, big smile.",
-      "spanish": "Pequeñas victorias españolas, gran sonrisa.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-22T15:53:10.293832"
-    },
-    {
-      "english": "This feeling? Learning is fun!",
-      "spanish": "¿Esta sensación? ¡Aprender es divertido!",
-      "category": "Positive Life",
-      "generated_at": "2026-03-22T15:53:10.293836"
-    },
-    {
-      "english": "Surprise! You understand more.",
-      "spanish": "¡Sorpresa! Entiendes más.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-22T15:53:10.293840"
-    },
-    {
-      "english": "Unlock your voice, speak now.",
-      "spanish": "Desbloquea tu voz, habla ya.",
-      "category": "Confidence",
-      "generated_at": "2026-03-22T19:48:29.711063"
-    },
-    {
       "english": "Why do you hesitate?",
       "spanish": "¿Por qué dudas?",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Compartiendo risas, sin traducción.",
       "category": "Friendship",
       "generated_at": "2026-09-04T21:10:01.101191"
+    },
+    {
+      "english": "This fear? It's your starting line.",
+      "spanish": "Este miedo, tu línea de salida.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:57:12.557387"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "spanish": "Tu voz importa, dilo.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:57:12.557423"
+    },
+    {
+      "english": "Embrace the 'almost' perfectly.",
+      "spanish": "Abraza el 'casi' perfecto.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:57:12.557456"
+    },
+    {
+      "english": "Your journey starts, here, now.",
+      "spanish": "Tu viaje empieza, aquí, ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:57:12.557503"
+    },
+    {
+      "english": "This 'lo siento' changes everything.",
+      "spanish": "Este 'lo siento' lo cambia todo.",
+      "category": "Courage",
+      "generated_at": "2026-09-04T22:57:12.557547"
     }
   ],
-  "last_updated": "2026-09-04T21:10:01.101193",
+  "last_updated": "2026-09-04T22:57:12.557550",
   "used_english": [
-    "your accent is a superpower.",
-    "tiny spanish wins, big smile.",
-    "this feeling? learning is fun!",
-    "surprise! you understand more.",
-    "unlock your voice, speak now.",
     "why do you hesitate?",
     "your spanish is unique, embrace it.",
     "one word, then another.",
@@ -21002,6 +20997,11 @@
     "your vibe, unspoken understanding.",
     "want to sound like a native?",
     "one word builds bridges, always.",
-    "sharing laughter, no translation needed."
+    "sharing laughter, no translation needed.",
+    "this fear? it's your starting line.",
+    "your voice matters, speak it.",
+    "embrace the 'almost' perfectly.",
+    "your journey starts, here, now.",
+    "this 'lo siento' changes everything."
   ]
 }
