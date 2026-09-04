@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Speak before you're perfect.",
-      "spanish": "Habla antes de ser perfecto.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-22T14:05:00.318861"
-    },
-    {
-      "english": "One word unlocks new worlds.",
-      "spanish": "Una palabra abre mundos nuevos.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-22T14:05:00.318865"
-    },
-    {
-      "english": "Your progress is beautiful, truly.",
-      "spanish": "Tu progreso es hermoso, de verdad.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-22T14:05:00.318870"
-    },
-    {
-      "english": "Feel the rhythm, not the fear.",
-      "spanish": "Siente el ritmo, no el miedo.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-22T14:05:00.318874"
-    },
-    {
-      "english": "Want fluency? Listen closely.",
-      "spanish": "¿Quieres fluidez? Escucha atento.",
-      "category": "Positive Life",
-      "generated_at": "2026-03-22T15:53:10.293815"
-    },
-    {
       "english": "Your accent is a superpower.",
       "spanish": "Tu acento es un superpoder.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "¡Habla tu alegría, fuerte!",
       "category": "Joy",
       "generated_at": "2026-09-04T19:15:08.816122"
+    },
+    {
+      "english": "Whispering secrets with friends?",
+      "spanish": "¿Susurrando secretos con amigos?",
+      "category": "Friendship",
+      "generated_at": "2026-09-04T21:10:01.101067"
+    },
+    {
+      "english": "Your vibe, unspoken understanding.",
+      "spanish": "Tu vibra, entendimiento tácito.",
+      "category": "Friendship",
+      "generated_at": "2026-09-04T21:10:01.101106"
+    },
+    {
+      "english": "Want to sound like a native?",
+      "spanish": "¿Quieres sonar como un nativo?",
+      "category": "Friendship",
+      "generated_at": "2026-09-04T21:10:01.101136"
+    },
+    {
+      "english": "One word builds bridges, always.",
+      "spanish": "Una palabra construye puentes, siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-09-04T21:10:01.101165"
+    },
+    {
+      "english": "Sharing laughter, no translation needed.",
+      "spanish": "Compartiendo risas, sin traducción.",
+      "category": "Friendship",
+      "generated_at": "2026-09-04T21:10:01.101191"
     }
   ],
-  "last_updated": "2026-09-04T19:15:08.816124",
+  "last_updated": "2026-09-04T21:10:01.101193",
   "used_english": [
-    "speak before you're perfect.",
-    "one word unlocks new worlds.",
-    "your progress is beautiful, truly.",
-    "feel the rhythm, not the fear.",
-    "want fluency? listen closely.",
     "your accent is a superpower.",
     "tiny spanish wins, big smile.",
     "this feeling? learning is fun!",
@@ -21002,6 +20997,11 @@
     "feel this warmth: 'calor'.",
     "embrace your unique sound.",
     "learn one phrase, feel joy.",
-    "speak your joy, loud!"
+    "speak your joy, loud!",
+    "whispering secrets with friends?",
+    "your vibe, unspoken understanding.",
+    "want to sound like a native?",
+    "one word builds bridges, always.",
+    "sharing laughter, no translation needed."
   ]
 }
