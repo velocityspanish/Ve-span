@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "That first 'hola' unlocks worlds.",
-      "spanish": "Ese primer 'hola' abre mundos.",
-      "category": "Confidence",
-      "generated_at": "2026-03-21T17:54:40.189399"
-    },
-    {
-      "english": "Your accent is your unique song.",
-      "spanish": "Tu acento es tu canción única.",
-      "category": "Confidence",
-      "generated_at": "2026-03-21T17:54:40.189403"
-    },
-    {
-      "english": "Feel the rhythm, don't just translate.",
-      "spanish": "Siente el ritmo, no solo traduzcas.",
-      "category": "Confidence",
-      "generated_at": "2026-03-21T17:54:40.189407"
-    },
-    {
-      "english": "One brave word creates connection.",
-      "spanish": "Una palabra valiente crea conexión.",
-      "category": "Confidence",
-      "generated_at": "2026-03-21T17:54:40.189411"
-    },
-    {
-      "english": "Your next word matters.",
-      "spanish": "Tu próxima palabra importa.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-21T19:47:13.851129"
-    },
-    {
       "english": "Embrace the stumble, progress.",
       "spanish": "Acepta el tropiezo, avanza.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Aprende español, a tu manera, ahora.",
       "category": "Growth",
       "generated_at": "2026-09-03T23:11:06.808646"
+    },
+    {
+      "english": "One word, massive confidence boost.",
+      "spanish": "Una palabra, gran confianza.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T16:48:32.761987"
+    },
+    {
+      "english": "Why 'nada' isn't always 'nothing'.",
+      "spanish": "¿Por qué 'nada' no es 'nada'?",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T16:48:32.762021"
+    },
+    {
+      "english": "Your fear is a learning sign.",
+      "spanish": "Tu miedo es señal de aprendizaje.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T16:48:32.762050"
+    },
+    {
+      "english": "The secret? Small, consistent efforts.",
+      "spanish": "El secreto: esfuerzos pequeños, constantes.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T16:48:32.762074"
+    },
+    {
+      "english": "Your patience is building fluency.",
+      "spanish": "Tu paciencia construye fluidez.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T16:48:32.762100"
     }
   ],
-  "last_updated": "2026-09-03T23:11:06.808648",
+  "last_updated": "2026-09-04T16:48:32.762102",
   "used_english": [
-    "that first 'hola' unlocks worlds.",
-    "your accent is your unique song.",
-    "feel the rhythm, don't just translate.",
-    "one brave word creates connection.",
-    "your next word matters.",
     "embrace the stumble, progress.",
     "this feeling? fluency is near.",
     "why your small wins count.",
@@ -21002,6 +20997,11 @@
     "don't fear that rolling 'r'.",
     "what if 'y' sounds like 'j'?",
     "your 'hola' can open doors.",
-    "learn spanish, your way, now."
+    "learn spanish, your way, now.",
+    "one word, massive confidence boost.",
+    "why 'nada' isn't always 'nothing'.",
+    "your fear is a learning sign.",
+    "the secret? small, consistent efforts.",
+    "your patience is building fluency."
   ]
 }
