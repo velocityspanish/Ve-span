@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why do you hesitate?",
-      "spanish": "¿Por qué dudas?",
-      "category": "Confidence",
-      "generated_at": "2026-03-22T19:48:29.711075"
-    },
-    {
-      "english": "Your spanish is unique, embrace it.",
-      "spanish": "Tu español es único, abrázalo.",
-      "category": "Confidence",
-      "generated_at": "2026-03-22T19:48:29.711079"
-    },
-    {
-      "english": "One word, then another.",
-      "spanish": "Una palabra, luego otra.",
-      "category": "Confidence",
-      "generated_at": "2026-03-22T19:48:29.711083"
-    },
-    {
-      "english": "Feel the flow, don't force.",
-      "spanish": "Siente el fluir, no fuerces.",
-      "category": "Confidence",
-      "generated_at": "2026-03-22T19:48:29.711087"
-    },
-    {
-      "english": "Your brain craves new words.",
-      "spanish": "Tu cerebro anhela palabras nuevas.",
-      "category": "Motivation",
-      "generated_at": "2026-03-22T21:52:42.334718"
-    },
-    {
       "english": "Curiosity unlocks your spanish.",
       "spanish": "La curiosidad desbloquea tu español.",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Este 'lo siento' lo cambia todo.",
       "category": "Courage",
       "generated_at": "2026-09-04T22:57:12.557547"
+    },
+    {
+      "english": "Your joy unlocked, with this word.",
+      "spanish": "Tu alegría desbloqueada, con esta palabra.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T15:51:05.842543"
+    },
+    {
+      "english": "Feel this vibe: 'Qué bien'.",
+      "spanish": "Siente esta vibra: 'Qué bien'.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T15:51:05.842581"
+    },
+    {
+      "english": "One Spanish phrase, big smile.",
+      "spanish": "Una frase en español, gran sonrisa.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T15:51:05.842609"
+    },
+    {
+      "english": "Your 'sí' sounds so confident.",
+      "spanish": "Tu 'sí' suena tan seguro.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T15:51:05.842638"
+    },
+    {
+      "english": "This tiny word, pure happiness.",
+      "spanish": "Esta palabra pequeña, pura felicidad.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T15:51:05.842664"
     }
   ],
-  "last_updated": "2026-09-04T22:57:12.557550",
+  "last_updated": "2026-09-05T15:51:05.842666",
   "used_english": [
-    "why do you hesitate?",
-    "your spanish is unique, embrace it.",
-    "one word, then another.",
-    "feel the flow, don't force.",
-    "your brain craves new words.",
     "curiosity unlocks your spanish.",
     "wisdom: connection, not perfection.",
     "one word, many possibilities await.",
@@ -21002,6 +20997,11 @@
     "your voice matters, speak it.",
     "embrace the 'almost' perfectly.",
     "your journey starts, here, now.",
-    "this 'lo siento' changes everything."
+    "this 'lo siento' changes everything.",
+    "your joy unlocked, with this word.",
+    "feel this vibe: 'qué bien'.",
+    "one spanish phrase, big smile.",
+    "your 'sí' sounds so confident.",
+    "this tiny word, pure happiness."
   ]
 }
