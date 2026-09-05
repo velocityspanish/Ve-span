@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why hesitate? Just listen.",
-      "spanish": "¿Por qué dudar? Solo escucha.",
-      "category": "Balance",
-      "generated_at": "2026-03-23T18:04:46.251951"
-    },
-    {
-      "english": "Your inner voice, louder now.",
-      "spanish": "Tu voz interior, más alta ahora.",
-      "category": "Balance",
-      "generated_at": "2026-03-23T18:04:46.251956"
-    },
-    {
-      "english": "Brave word, huge connection.",
-      "spanish": "Palabra valiente, gran conexión.",
-      "category": "Balance",
-      "generated_at": "2026-03-23T18:04:46.251960"
-    },
-    {
-      "english": "This rhythm? Your spanish blooms.",
-      "spanish": "¿Este ritmo? Tu español florece.",
-      "category": "Balance",
-      "generated_at": "2026-03-23T18:04:46.251965"
-    },
-    {
-      "english": "Your heart speaks Spanish?",
-      "spanish": "¿Tu corazón habla español?",
-      "category": "Love",
-      "generated_at": "2026-03-23T19:38:49.077580"
-    },
-    {
       "english": "True love knows this phrase.",
       "spanish": "Amor verdadero sabe esto.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente esta calidez, 'me gusta'.",
       "category": "Hope",
       "generated_at": "2026-09-05T18:40:40.569178"
+    },
+    {
+      "english": "Your vibe, now in Spanish.",
+      "spanish": "Tu vibra, ahora en español.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T20:49:46.806473"
+    },
+    {
+      "english": "Feel this: 'Qué bien se está'.",
+      "spanish": "Siente esto: 'Qué bien se está'.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T20:49:46.806512"
+    },
+    {
+      "english": "Why speak this word often?",
+      "spanish": "¿Por qué decir esta palabra a menudo?",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T20:49:46.806540"
+    },
+    {
+      "english": "You're amazing, say it!",
+      "spanish": "Eres increíble, ¡dígalo!",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T20:49:46.806565"
+    },
+    {
+      "english": "Your patience? Worth it.",
+      "spanish": "¿Tu paciencia? Vale la pena.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T20:49:46.806591"
     }
   ],
-  "last_updated": "2026-09-05T18:40:40.569179",
+  "last_updated": "2026-09-05T20:49:46.806593",
   "used_english": [
-    "why hesitate? just listen.",
-    "your inner voice, louder now.",
-    "brave word, huge connection.",
-    "this rhythm? your spanish blooms.",
-    "your heart speaks spanish?",
     "true love knows this phrase.",
     "whisper this, win their heart.",
     "why they blush: one word.",
@@ -21002,6 +20997,11 @@
     "speak that word, feel brave.",
     "your listening skills are leveling up.",
     "the secret? trying again, always.",
-    "feel this warmth, 'me gusta'."
+    "feel this warmth, 'me gusta'.",
+    "your vibe, now in spanish.",
+    "feel this: 'qué bien se está'.",
+    "why speak this word often?",
+    "you're amazing, say it!",
+    "your patience? worth it."
   ]
 }
