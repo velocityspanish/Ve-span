@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "True love knows this phrase.",
-      "spanish": "Amor verdadero sabe esto.",
-      "category": "Love",
-      "generated_at": "2026-03-23T19:38:49.077591"
-    },
-    {
-      "english": "Whisper this, win their heart.",
-      "spanish": "Susurra esto, gana su corazón.",
-      "category": "Love",
-      "generated_at": "2026-03-23T19:38:49.077596"
-    },
-    {
-      "english": "Why they blush: one word.",
-      "spanish": "¿Por qué se sonrojan: una palabra?",
-      "category": "Love",
-      "generated_at": "2026-03-23T19:38:49.077600"
-    },
-    {
-      "english": "Unlock romance, try this.",
-      "spanish": "Desbloquea romance, intenta esto.",
-      "category": "Love",
-      "generated_at": "2026-03-23T19:38:49.077604"
-    },
-    {
-      "english": "Mistakes are your new superpower.",
-      "spanish": "Los errores, tu superpoder.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T20:58:31.569709"
-    },
-    {
       "english": "Your accent is beautiful, embrace it.",
       "spanish": "Tu acento es bello, abrázalo.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Tu paciencia? Vale la pena.",
       "category": "Happiness",
       "generated_at": "2026-09-05T20:49:46.806591"
+    },
+    {
+      "english": "This pronunciation? Easier than it looks.",
+      "spanish": "Esta pronunciación, más fácil de lo que parece.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-05T22:45:03.907811"
+    },
+    {
+      "english": "Dare to say 'lo siento' early.",
+      "spanish": "Atrévete a decir 'lo siento' pronto.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-05T22:45:03.907852"
+    },
+    {
+      "english": "You're building fluency, believe it.",
+      "spanish": "Estás construyendo fluidez, créelo.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-05T22:45:03.907879"
+    },
+    {
+      "english": "This sound? Not so scary.",
+      "spanish": "¿Este sonido? No tan aterrador.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-05T22:45:03.907907"
+    },
+    {
+      "english": "Your goal: understanding, not perfection.",
+      "spanish": "Tu meta: entender, no perfección.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-05T22:45:03.907932"
     }
   ],
-  "last_updated": "2026-09-05T20:49:46.806593",
+  "last_updated": "2026-09-05T22:45:03.907934",
   "used_english": [
-    "true love knows this phrase.",
-    "whisper this, win their heart.",
-    "why they blush: one word.",
-    "unlock romance, try this.",
-    "mistakes are your new superpower.",
     "your accent is beautiful, embrace it.",
     "one word, immense connection.",
     "keep going, progress is coming.",
@@ -21002,6 +20997,11 @@
     "feel this: 'qué bien se está'.",
     "why speak this word often?",
     "you're amazing, say it!",
-    "your patience? worth it."
+    "your patience? worth it.",
+    "this pronunciation? easier than it looks.",
+    "dare to say 'lo siento' early.",
+    "you're building fluency, believe it.",
+    "this sound? not so scary.",
+    "your goal: understanding, not perfection."
   ]
 }
