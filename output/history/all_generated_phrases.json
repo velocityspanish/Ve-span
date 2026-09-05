@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curiosity unlocks your spanish.",
-      "spanish": "La curiosidad desbloquea tu español.",
-      "category": "Motivation",
-      "generated_at": "2026-03-22T21:52:42.334732"
-    },
-    {
-      "english": "Wisdom: connection, not perfection.",
-      "spanish": "Sabiduría: conexión, no perfección.",
-      "category": "Motivation",
-      "generated_at": "2026-03-22T21:52:42.334736"
-    },
-    {
-      "english": "One word, many possibilities await.",
-      "spanish": "Una palabra, muchas posibilidades esperan.",
-      "category": "Motivation",
-      "generated_at": "2026-03-22T21:52:42.334741"
-    },
-    {
-      "english": "Tiny wins build huge confidence.",
-      "spanish": "Pequeñas victorias crean gran confianza.",
-      "category": "Motivation",
-      "generated_at": "2026-03-22T21:52:42.334745"
-    },
-    {
-      "english": "Your first Spanish words, count them.",
-      "spanish": "Tus primeras palabras en español, cuéntalas.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T16:14:55.861759"
-    },
-    {
       "english": "What if progress is simple?",
       "spanish": "¿Y si el progreso es simple?",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta palabra pequeña, pura felicidad.",
       "category": "Happiness",
       "generated_at": "2026-09-05T15:51:05.842664"
+    },
+    {
+      "english": "Your accent? It's your superpower.",
+      "spanish": "¿Tu acento? Es tu superpoder.",
+      "category": "Success",
+      "generated_at": "2026-09-05T17:12:09.861668"
+    },
+    {
+      "english": "Want fluency fast? Listen more.",
+      "spanish": "¿Quieres fluidez rápido? Escucha más.",
+      "category": "Success",
+      "generated_at": "2026-09-05T17:12:09.861700"
+    },
+    {
+      "english": "The secret? Speaking, not just studying.",
+      "spanish": "El secreto? Hablar, no solo estudiar.",
+      "category": "Success",
+      "generated_at": "2026-09-05T17:12:09.861720"
+    },
+    {
+      "english": "Feel the connection, start speaking.",
+      "spanish": "Siente la conexión, empieza a hablar.",
+      "category": "Success",
+      "generated_at": "2026-09-05T17:12:09.861740"
+    },
+    {
+      "english": "Surprise: 'Mucho gusto' is a gift.",
+      "spanish": "Sorpresa: 'Mucho gusto' es un regalo.",
+      "category": "Success",
+      "generated_at": "2026-09-05T17:12:09.861761"
     }
   ],
-  "last_updated": "2026-09-05T15:51:05.842666",
+  "last_updated": "2026-09-05T17:12:09.861762",
   "used_english": [
-    "curiosity unlocks your spanish.",
-    "wisdom: connection, not perfection.",
-    "one word, many possibilities await.",
-    "tiny wins build huge confidence.",
-    "your first spanish words, count them.",
     "what if progress is simple?",
     "this small voice, a new you.",
     "never fear the awkward pause.",
@@ -21002,6 +20997,11 @@
     "feel this vibe: 'qué bien'.",
     "one spanish phrase, big smile.",
     "your 'sí' sounds so confident.",
-    "this tiny word, pure happiness."
+    "this tiny word, pure happiness.",
+    "your accent? it's your superpower.",
+    "want fluency fast? listen more.",
+    "the secret? speaking, not just studying.",
+    "feel the connection, start speaking.",
+    "surprise: 'mucho gusto' is a gift."
   ]
 }
