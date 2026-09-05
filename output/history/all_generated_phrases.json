@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if progress is simple?",
-      "spanish": "¿Y si el progreso es simple?",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T16:14:55.861771"
-    },
-    {
-      "english": "This small voice, a new you.",
-      "spanish": "Esta pequeña voz, un nuevo tú.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T16:14:55.861776"
-    },
-    {
-      "english": "Never fear the awkward pause.",
-      "spanish": "Nunca temas la pausa incómoda.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T16:14:55.861780"
-    },
-    {
-      "english": "Your daily Spanish habit wins.",
-      "spanish": "Tu hábito diario de español gana.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T16:14:55.861784"
-    },
-    {
-      "english": "Feel this calm, speak.",
-      "spanish": "Siente esta calma, habla.",
-      "category": "Balance",
-      "generated_at": "2026-03-23T18:04:46.251939"
-    },
-    {
       "english": "Why hesitate? Just listen.",
       "spanish": "¿Por qué dudar? Solo escucha.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "Sorpresa: 'Mucho gusto' es un regalo.",
       "category": "Success",
       "generated_at": "2026-09-05T17:12:09.861761"
+    },
+    {
+      "english": "Your 'no entiendo' is progress.",
+      "spanish": "Tu 'no entiendo' es progreso.",
+      "category": "Hope",
+      "generated_at": "2026-09-05T18:40:40.569080"
+    },
+    {
+      "english": "Speak that word, feel brave.",
+      "spanish": "Di esa palabra, siéntete valiente.",
+      "category": "Hope",
+      "generated_at": "2026-09-05T18:40:40.569114"
+    },
+    {
+      "english": "Your listening skills are leveling up.",
+      "spanish": "Tus habilidades de escucha suben.",
+      "category": "Hope",
+      "generated_at": "2026-09-05T18:40:40.569134"
+    },
+    {
+      "english": "The secret? Trying again, always.",
+      "spanish": "El secreto: intentarlo siempre.",
+      "category": "Hope",
+      "generated_at": "2026-09-05T18:40:40.569155"
+    },
+    {
+      "english": "Feel this warmth, 'me gusta'.",
+      "spanish": "Siente esta calidez, 'me gusta'.",
+      "category": "Hope",
+      "generated_at": "2026-09-05T18:40:40.569178"
     }
   ],
-  "last_updated": "2026-09-05T17:12:09.861762",
+  "last_updated": "2026-09-05T18:40:40.569179",
   "used_english": [
-    "what if progress is simple?",
-    "this small voice, a new you.",
-    "never fear the awkward pause.",
-    "your daily spanish habit wins.",
-    "feel this calm, speak.",
     "why hesitate? just listen.",
     "your inner voice, louder now.",
     "brave word, huge connection.",
@@ -21002,6 +20997,11 @@
     "want fluency fast? listen more.",
     "the secret? speaking, not just studying.",
     "feel the connection, start speaking.",
-    "surprise: 'mucho gusto' is a gift."
+    "surprise: 'mucho gusto' is a gift.",
+    "your 'no entiendo' is progress.",
+    "speak that word, feel brave.",
+    "your listening skills are leveling up.",
+    "the secret? trying again, always.",
+    "feel this warmth, 'me gusta'."
   ]
 }
