@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your voice? Truly amazing.",
-      "spanish": "Tu voz? Realmente asombrosa.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-24T16:41:56.766667"
-    },
-    {
-      "english": "Why learn? Connection happens.",
-      "spanish": "¿Por qué aprender? La conexión sucede.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-24T16:41:56.766672"
-    },
-    {
-      "english": "Feel the vibe, speak Spanish.",
-      "spanish": "Siente la vibra, habla español.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-24T16:41:56.766677"
-    },
-    {
-      "english": "Mistakes? They're your friends.",
-      "spanish": "¿Errores? Son tus amigos.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-24T16:41:56.766681"
-    },
-    {
-      "english": "Your spanish awakening is here.",
-      "spanish": "Tu despertar español está aquí.",
-      "category": "Growth",
-      "generated_at": "2026-03-24T18:10:13.843771"
-    },
-    {
       "english": "This phrase unlocks connection.",
       "spanish": "Esta frase desbloquea conexión.",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Solo empieza a hablar.",
       "category": "Courage",
       "generated_at": "2026-09-06T17:31:53.170071"
+    },
+    {
+      "english": "This word? Pure confidence boost.",
+      "spanish": "Esta palabra? Confianza pura.",
+      "category": "Balance",
+      "generated_at": "2026-09-06T18:45:28.548522"
+    },
+    {
+      "english": "Why 'sobremesa' is the best.",
+      "spanish": "¿Por qué la sobremesa es genial?",
+      "category": "Balance",
+      "generated_at": "2026-09-06T18:45:28.548561"
+    },
+    {
+      "english": "Feel the warmth: 'qué bueno'.",
+      "spanish": "Siente el calor: 'qué bueno'.",
+      "category": "Balance",
+      "generated_at": "2026-09-06T18:45:28.548588"
+    },
+    {
+      "english": "Your accent? It's a story.",
+      "spanish": "¿Tu acento? Es una historia.",
+      "category": "Balance",
+      "generated_at": "2026-09-06T18:45:28.548612"
+    },
+    {
+      "english": "Listen for the unspoken message.",
+      "spanish": "Escucha el mensaje no dicho.",
+      "category": "Balance",
+      "generated_at": "2026-09-06T18:45:28.548637"
     }
   ],
-  "last_updated": "2026-09-06T17:31:53.170073",
+  "last_updated": "2026-09-06T18:45:28.548639",
   "used_english": [
-    "your voice? truly amazing.",
-    "why learn? connection happens.",
-    "feel the vibe, speak spanish.",
-    "mistakes? they're your friends.",
-    "your spanish awakening is here.",
     "this phrase unlocks connection.",
     "why does this word matter?",
     "tiny sounds, huge power.",
@@ -21002,6 +20997,11 @@
     "your fear is your fuel.",
     "dare to ask that question.",
     "embrace the slight stumble.",
-    "wisdom: just start speaking."
+    "wisdom: just start speaking.",
+    "this word? pure confidence boost.",
+    "why 'sobremesa' is the best.",
+    "feel the warmth: 'qué bueno'.",
+    "your accent? it's a story.",
+    "listen for the unspoken message."
   ]
 }
