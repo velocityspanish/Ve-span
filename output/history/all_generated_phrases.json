@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This phrase unlocks connection.",
-      "spanish": "Esta frase desbloquea conexión.",
-      "category": "Growth",
-      "generated_at": "2026-03-24T18:10:13.843784"
-    },
-    {
-      "english": "Why does this word matter?",
-      "spanish": "¿Por qué importa esta palabra?",
-      "category": "Growth",
-      "generated_at": "2026-03-24T18:10:13.843789"
-    },
-    {
-      "english": "Tiny sounds, huge power.",
-      "spanish": "Sonidos pequeños, gran poder.",
-      "category": "Growth",
-      "generated_at": "2026-03-24T18:10:13.843793"
-    },
-    {
-      "english": "One real word, new friend.",
-      "spanish": "Una palabra real, amigo nuevo.",
-      "category": "Growth",
-      "generated_at": "2026-03-24T18:10:13.843798"
-    },
-    {
-      "english": "Unlock worlds, one word.",
-      "spanish": "Desbloquea mundos, una palabra.",
-      "category": "Creativity",
-      "generated_at": "2026-03-24T19:56:47.616132"
-    },
-    {
       "english": "This feeling? Spanish clicks.",
       "spanish": "¿Esta sensación? Español encaja.",
       "category": "Creativity",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha el mensaje no dicho.",
       "category": "Balance",
       "generated_at": "2026-09-06T18:45:28.548637"
+    },
+    {
+      "english": "Your Spanish, unlocked now.",
+      "spanish": "Tu español, desbloqueado ahora.",
+      "category": "Growth",
+      "generated_at": "2026-09-06T20:57:40.133079"
+    },
+    {
+      "english": "Wisdom: Listen before speaking.",
+      "spanish": "Sabiduría: Escucha antes de hablar.",
+      "category": "Growth",
+      "generated_at": "2026-09-06T20:57:40.133118"
+    },
+    {
+      "english": "What if 'j' sounds different?",
+      "spanish": "¿Por qué 'j' suena diferente?",
+      "category": "Growth",
+      "generated_at": "2026-09-06T20:57:40.133147"
+    },
+    {
+      "english": "Your journey, starting now.",
+      "spanish": "Tu viaje, empezando ahora.",
+      "category": "Growth",
+      "generated_at": "2026-09-06T20:57:40.133174"
+    },
+    {
+      "english": "Surprise: Accents are beautiful.",
+      "spanish": "Sorpresa: Los acentos son bellos.",
+      "category": "Growth",
+      "generated_at": "2026-09-06T20:57:40.133201"
     }
   ],
-  "last_updated": "2026-09-06T18:45:28.548639",
+  "last_updated": "2026-09-06T20:57:40.133203",
   "used_english": [
-    "this phrase unlocks connection.",
-    "why does this word matter?",
-    "tiny sounds, huge power.",
-    "one real word, new friend.",
-    "unlock worlds, one word.",
     "this feeling? spanish clicks.",
     "breathe. then speak. simple.",
     "this small step, a giant leap.",
@@ -21002,6 +20997,11 @@
     "why 'sobremesa' is the best.",
     "feel the warmth: 'qué bueno'.",
     "your accent? it's a story.",
-    "listen for the unspoken message."
+    "listen for the unspoken message.",
+    "your spanish, unlocked now.",
+    "wisdom: listen before speaking.",
+    "what if 'j' sounds different?",
+    "your journey, starting now.",
+    "surprise: accents are beautiful."
   ]
 }
