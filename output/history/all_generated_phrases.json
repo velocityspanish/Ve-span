@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your accent is beautiful, embrace it.",
-      "spanish": "Tu acento es bello, abrázalo.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T20:58:31.569721"
-    },
-    {
-      "english": "One word, immense connection.",
-      "spanish": "Una palabra, conexión inmensa.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T20:58:31.569726"
-    },
-    {
-      "english": "Keep going, progress is coming.",
-      "spanish": "Sigue, el progreso llega.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T20:58:31.569731"
-    },
-    {
-      "english": "This sound unlocks understanding.",
-      "spanish": "Este sonido, entiende más.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T20:58:31.569735"
-    },
-    {
-      "english": "Mistakes are your growth fuel.",
-      "spanish": "Los errores son combustible de tu crecimiento.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T22:01:20.290809"
-    },
-    {
       "english": "This one word opens doors.",
       "spanish": "Esta palabra abre puertas.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu meta: entender, no perfección.",
       "category": "Wisdom",
       "generated_at": "2026-09-05T22:45:03.907932"
+    },
+    {
+      "english": "Forgive yourself first, always.",
+      "spanish": "Perdónate primero, siempre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-06T16:01:38.018514"
+    },
+    {
+      "english": "This tiny word frees you.",
+      "spanish": "Esta palabra te libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-06T16:01:38.018549"
+    },
+    {
+      "english": "Why forgive? Your peace matters.",
+      "spanish": "¿Por qué perdonar? Tu paz importa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-06T16:01:38.018576"
+    },
+    {
+      "english": "Let go. Your strength grows.",
+      "spanish": "Suelta. Tu fuerza crece.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-06T16:01:38.018604"
+    },
+    {
+      "english": "Embrace your 'lo siento' now.",
+      "spanish": "Abraza tu 'lo siento' ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-06T16:01:38.018632"
     }
   ],
-  "last_updated": "2026-09-05T22:45:03.907934",
+  "last_updated": "2026-09-06T16:01:38.018634",
   "used_english": [
-    "your accent is beautiful, embrace it.",
-    "one word, immense connection.",
-    "keep going, progress is coming.",
-    "this sound unlocks understanding.",
-    "mistakes are your growth fuel.",
     "this one word opens doors.",
     "your effort, today's win.",
     "feel the spanish rhythm, now.",
@@ -21002,6 +20997,11 @@
     "dare to say 'lo siento' early.",
     "you're building fluency, believe it.",
     "this sound? not so scary.",
-    "your goal: understanding, not perfection."
+    "your goal: understanding, not perfection.",
+    "forgive yourself first, always.",
+    "this tiny word frees you.",
+    "why forgive? your peace matters.",
+    "let go. your strength grows.",
+    "embrace your 'lo siento' now."
   ]
 }
