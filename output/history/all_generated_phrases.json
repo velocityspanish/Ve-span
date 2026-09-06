@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This feeling? Spanish clicks.",
-      "spanish": "¿Esta sensación? Español encaja.",
-      "category": "Creativity",
-      "generated_at": "2026-03-24T19:56:47.616153"
-    },
-    {
-      "english": "Breathe. Then speak. Simple.",
-      "spanish": "Respira. Luego habla. Simple.",
-      "category": "Creativity",
-      "generated_at": "2026-03-24T19:56:47.616163"
-    },
-    {
-      "english": "This small step, a giant leap.",
-      "spanish": "Este pequeño paso, un gran salto.",
-      "category": "Creativity",
-      "generated_at": "2026-03-24T19:56:47.616172"
-    },
-    {
-      "english": "Why fear mistakes? They teach.",
-      "spanish": "¿Por qué temer errores? Enseñan.",
-      "category": "Creativity",
-      "generated_at": "2026-03-24T19:56:47.616181"
-    },
-    {
-      "english": "This one word unlocks joy.",
-      "spanish": "Esta palabra desbloquea alegría.",
-      "category": "Confidence",
-      "generated_at": "2026-03-24T21:01:57.099426"
-    },
-    {
       "english": "Your voice? It matters.",
       "spanish": "¿Tu voz? Importa.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Sorpresa: Los acentos son bellos.",
       "category": "Growth",
       "generated_at": "2026-09-06T20:57:40.133201"
+    },
+    {
+      "english": "What if fluency is simple?",
+      "spanish": "¿Y si la fluidez es simple?",
+      "category": "Courage",
+      "generated_at": "2026-09-06T22:50:29.197136"
+    },
+    {
+      "english": "This tiny phrase unlocks joy.",
+      "spanish": "Esta frase pequeña desata alegría.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T22:50:29.197178"
+    },
+    {
+      "english": "Dare to understand them.",
+      "spanish": "Atrévete a entenderlos.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T22:50:29.197209"
+    },
+    {
+      "english": "One attempt, massive growth.",
+      "spanish": "Un intento, crecimiento masivo.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T22:50:29.197237"
+    },
+    {
+      "english": "This word opens all doors.",
+      "spanish": "Esta palabra abre todas las puertas.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T22:50:29.197263"
     }
   ],
-  "last_updated": "2026-09-06T20:57:40.133203",
+  "last_updated": "2026-09-06T22:50:29.197265",
   "used_english": [
-    "this feeling? spanish clicks.",
-    "breathe. then speak. simple.",
-    "this small step, a giant leap.",
-    "why fear mistakes? they teach.",
-    "this one word unlocks joy.",
     "your voice? it matters.",
     "never miss this opportunity.",
     "curiosity reveals true spanish.",
@@ -21002,6 +20997,11 @@
     "wisdom: listen before speaking.",
     "what if 'j' sounds different?",
     "your journey, starting now.",
-    "surprise: accents are beautiful."
+    "surprise: accents are beautiful.",
+    "what if fluency is simple?",
+    "this tiny phrase unlocks joy.",
+    "dare to understand them.",
+    "one attempt, massive growth.",
+    "this word opens all doors."
   ]
 }
