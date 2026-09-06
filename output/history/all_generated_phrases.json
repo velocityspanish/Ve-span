@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one word opens doors.",
-      "spanish": "Esta palabra abre puertas.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T22:01:20.290821"
-    },
-    {
-      "english": "Your effort, today's win.",
-      "spanish": "Tu esfuerzo, victoria de hoy.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T22:01:20.290826"
-    },
-    {
-      "english": "Feel the Spanish rhythm, now.",
-      "spanish": "Siente el ritmo español, ahora.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T22:01:20.290830"
-    },
-    {
-      "english": "This sound makes them smile.",
-      "spanish": "Este sonido les sonríe.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-23T22:01:20.290835"
-    },
-    {
-      "english": "This one word, warms hearts.",
-      "spanish": "Esta palabra, calienta corazones.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-24T16:41:56.766653"
-    },
-    {
       "english": "Your voice? Truly amazing.",
       "spanish": "Tu voz? Realmente asombrosa.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza tu 'lo siento' ahora.",
       "category": "Forgiveness",
       "generated_at": "2026-09-06T16:01:38.018632"
+    },
+    {
+      "english": "Try this phrase, feel powerful.",
+      "spanish": "Prueba esta frase, siéntete fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T17:31:53.169974"
+    },
+    {
+      "english": "Your fear is your fuel.",
+      "spanish": "Tu miedo es tu combustible.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T17:31:53.170004"
+    },
+    {
+      "english": "Dare to ask that question.",
+      "spanish": "Atrévete a hacer esa pregunta.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T17:31:53.170026"
+    },
+    {
+      "english": "Embrace the slight stumble.",
+      "spanish": "Abraza el pequeño tropiezo.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T17:31:53.170049"
+    },
+    {
+      "english": "Wisdom: Just start speaking.",
+      "spanish": "Sabiduría: Solo empieza a hablar.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T17:31:53.170071"
     }
   ],
-  "last_updated": "2026-09-06T16:01:38.018634",
+  "last_updated": "2026-09-06T17:31:53.170073",
   "used_english": [
-    "this one word opens doors.",
-    "your effort, today's win.",
-    "feel the spanish rhythm, now.",
-    "this sound makes them smile.",
-    "this one word, warms hearts.",
     "your voice? truly amazing.",
     "why learn? connection happens.",
     "feel the vibe, speak spanish.",
@@ -21002,6 +20997,11 @@
     "this tiny word frees you.",
     "why forgive? your peace matters.",
     "let go. your strength grows.",
-    "embrace your 'lo siento' now."
+    "embrace your 'lo siento' now.",
+    "try this phrase, feel powerful.",
+    "your fear is your fuel.",
+    "dare to ask that question.",
+    "embrace the slight stumble.",
+    "wisdom: just start speaking."
   ]
 }
